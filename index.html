@@ -782,6 +782,91 @@ const I18N = {
     reSearch:"ابحث مرة أخرى", removeHistory:"حذف", removeFav:"حذف",
     matchLabel:"تطابق", secBefore:"يبدأ قبل الجملة بـ ٢-٣ ثوانٍ ليعطيك السياق",
   }
+  ,de: {
+    "logoAria":"SentenceGlish Startseite",
+    "heroTitle":"Lerne Englisch mit echten Sätzen",
+    "heroTagline":"Suche einen kompletten Satz und höre, wie echte Menschen ihn benutzen.",
+    "searchPlaceholder":"I wanted to let you know that we have a problem with the system.",
+    "searchBtn":"Suchen",
+    "tryExamples":"Probiere diese Beispiele:",
+    "yourSentence":"Dein Satz",
+    "level":"Niveau",
+    "variety":"Variante",
+    "noResultsHeadline":"Wir konnten diesen genauen Satz nicht finden.",
+    "noResultsSub":"Hier sind die ähnlichsten Sätze, die wir gefunden haben.",
+    "realExamples":"Übungssätze",
+    "realVideoExamples":"Echte Videobeispiele",
+    "poweredByYouglish":"Bereitgestellt von YouGlish.com",
+    "youglishLegal":"Dieses Panel bindet YouGlish ein, das echte YouTube-Videos verwendet. Das Abspielen eines Videos kann Cookies von YouGlish und YouTube/Google setzen.",
+    "youglishNoResults":"YouGlish konnte kein echtes Video für diesen genauen Satz finden — probiere eine kürzere Phrase daraus.",
+    "similarSentences":"Ähnliche Sätze",
+    "sotdTitle":"Satz des Tages",
+    "sotdEyebrow":"Heutiger Satz",
+    "listen":"Anhören",
+    "practice":"Üben",
+    "save":"Speichern",
+    "repeat":"Wiederholen",
+    "situationsTitle":"Nach Situation üben",
+    "situationsSub":"Wähle einen realen Kontext",
+    "mySentences":"Meine Sätze",
+    "recentSearches":"Letzte Suchanfragen",
+    "footerTag":"lerne Englisch einen echten Satz nach dem anderen",
+    "footerDemo":"Demo-Version · Beispieldaten",
+    "sentenceDetails":"Satzdetails",
+    "tabWatch":"Ansehen",
+    "tabPractice":"Üben",
+    "tabListening":"Hörverständnis",
+    "transcript":"Transkript",
+    "meaning":"Bedeutung",
+    "naturalPronunciation":"Natürliche Aussprache",
+    "importantWords":"Wichtige Wörter",
+    "grammar":"Grammatik",
+    "alternatives":"Alternative Formulierungen",
+    "openYoutube":"Auf YouTube öffnen",
+    "hideSentence":"Satz ausblenden",
+    "showSentence":"Satz anzeigen",
+    "speakNow":"Jetzt sprechen...",
+    "matchCaveat":"Dies ist eine grobe Übungsprüfung, keine offizielle Aussprachebewertung.",
+    "whatDidYouHear":"Was hast du gehört?",
+    "typeWhatYouHeard":"Tippe den Satz, den du gehört hast...",
+    "play":"Abspielen",
+    "checkAnswer":"Antwort prüfen",
+    "emptyFavorites":"Noch keine gespeicherten Sätze. Tippe bei einem Satz auf ⭐ Speichern, um ihn hier abzulegen.",
+    "emptyHistory":"Deine letzten Suchanfragen erscheinen hier.",
+    "goodMatch":"Gute Übereinstimmung",
+    "tryAgain":"Nochmal versuchen",
+    "correct":"Richtig",
+    "notQuite":"Nicht ganz — vergleiche die beiden Sätze unten.",
+    "allLevels":"Alle Niveaus",
+    "allVarieties":"Alle",
+    "quizTitle":"Interaktives Quiz",
+    "quizSub":"Teste dein Verständnis nach Niveau",
+    "quizLevelLabel":"Wähle ein Niveau",
+    "startQuiz":"Quiz starten",
+    "quizIntro":"Wähle ein Niveau und starte ein Quiz mit fünf Fragen.",
+    "quizAllLevels":"Alle Niveaus",
+    "quizQuestion":"Was bedeutet dieser Satz?",
+    "quizQuestionCount":"Frage",
+    "quizNext":"Nächste Frage",
+    "quizRestart":"Nochmal versuchen",
+    "quizScore":"Deine Punktzahl",
+    "quizCorrect":"Richtig!",
+    "quizWrong":"Nicht ganz.",
+    "quizResult":"Du hast das Quiz beendet.",
+    "quizNoData":"Für dieses Niveau gibt es noch nicht genug Sätze.",
+    "us":"Amerikanisch",
+    "gb":"Britisch",
+    "au":"Australisch",
+    "ca":"Kanadisch",
+    "demoNoVideo":"Demo-Modus — noch kein lizenziertes Video für diesen Satz.",
+    "demoNoVideoSub":"Verbinde die YouTube Data API in searchYouTubeSentences(), um hier echte Clips abzuspielen.",
+    "speechNotSupported":"Spracherkennung wird in diesem Browser nicht unterstützt.",
+    "reSearch":"Erneut suchen",
+    "removeHistory":"Entfernen",
+    "removeFav":"Entfernen",
+    "matchLabel":"Übereinstimmung",
+    "secBefore":"beginnt 2–3s vor dem Satz für Kontext"
+  }
 };
 
 /* ---------------------------------------------------------------------- */
@@ -1221,6 +1306,55 @@ const SITUATIONS = {
   }
 };
 
+/* German (de) labels for SITUATIONS, merged in so the English/Arabic literal above stays untouched. */
+const DE_SITUATIONS = {
+  "meetings": { cat: "Meetings", items: ["Ein Meeting beginnen", "Eine Meinung äußern", "Zustimmen", "Widersprechen", "Um Klärung bitten", "Eine Idee vorstellen", "Ein Meeting beenden"] },
+  "cooking": { cat: "Kochen", items: ["Nach einer Zutat fragen", "Schritte beschreiben", "Kochanweisungen geben", "Über Ersatzzutaten sprechen", "Einen Rat geben", "Eine Technik erklären", "Über Kochgeschirr sprechen"] },
+  "sports": { cat: "Sport & Fitness", items: ["Über eine Routine sprechen", "Nach einem Spiel fragen", "Über Training sprechen", "Fitness-Ratschläge geben", "Über Leistung sprechen", "Über die Einstellung sprechen", "Ein Team analysieren"] },
+  "environment": { cat: "Umwelt", items: ["Energie sparen", "Recycling", "Über Plastiknutzung sprechen", "Über öffentliche Verkehrsmittel sprechen", "Umweltauswirkungen abwägen", "Über Nachhaltigkeitstrends sprechen", "Politik diskutieren"] },
+  "social-media": { cat: "Soziale Medien", items: ["Einen Beitrag teilen", "Um Markierung bitten", "Über Bildschirmzeit sprechen", "Über einen viralen Beitrag sprechen", "Über Interaktion sprechen", "Über Privatsphäre sprechen", "Algorithmen diskutieren"] },
+  "job-interview": { cat: "Vorstellungsgespräche", items: ["Sich vorstellen", "Über Erfahrung sprechen", "Die eigene Motivation erklären", "Über Stärken sprechen", "Über Schwächen sprechen", "Über Ziele sprechen", "Fragen stellen", "Über das Gehalt verhandeln", "Das Gespräch beenden"] },
+  "support": { cat: "Vertrieb", items: ["Sich vorstellen", "Kundenbedürfnisse verstehen", "Ein Produkt erklären", "Mit Einwänden umgehen", "Verhandlung", "Einen Verkauf abschließen"] },
+  "technical-support": { cat: "Technischer Support", items: ["Das Problem verstehen", "Nach Informationen fragen", "Fehlersuche", "Eine Lösung erklären", "Nachfassen", "Einen Support-Anruf beenden"] },
+  "customer-service": { cat: "Kundenservice", items: ["Begrüßung", "Sich entschuldigen", "Mit Beschwerden umgehen", "Nach Details fragen", "Eine Lösung anbieten"] },
+  "emergency": { cat: "Notfälle", items: ["Um Hilfe rufen", "Ein Krankenhaus finden", "Einen verlorenen Pass melden", "Formelle Notfallanweisung"] },
+  "customer-help": { cat: "Kundenhilfe", items: ["Um Hilfe bitten", "Einen Artikel zurückgeben", "Mit Empathie antworten", "Eine Lösung bewerten"] },
+  "career": { cat: "Karriere & Beruf", items: ["Den Arbeitsplatz beschreiben", "Nach einem Job suchen", "Erfahrung beschreiben", "Die eigene Eignung erklären"] },
+  "returns": { cat: "Rückgaben", items: ["Kleidung kaufen", "Eine andere Größe finden", "Einen Ersatz anfordern", "Eine formelle Rückerstattung anfordern"] },
+  "directions": { cat: "Nach dem Weg fragen", items: ["Eine Bushaltestelle finden", "Einfache Wegbeschreibung geben", "Entfernung beschreiben", "Eine Route erklären"] },
+  "celebrations": { cat: "Feiern", items: ["Geburtstagsgruß", "Jemanden einladen", "Erfolg verkünden", "Einen Meilenstein beschreiben"] },
+  "appointments": { cat: "Termine", items: ["Nach der Uhrzeit fragen", "Einen Termin buchen", "Umbuchen", "Formelle Empfehlung"] },
+  "weather": { cat: "Wetter", items: ["Das Wetter beschreiben", "Eine Vorhersage prüfen", "Die Prognose weitergeben", "Veranstaltung bei schwierigem Wetter"] },
+  "phone-calls": { cat: "Telefonate", items: ["Die Verbindung prüfen", "Zurückrufen", "Nachfassen", "Um Klärung bitten"] },
+  "family": { cat: "Familienleben", items: ["Über die Familie sprechen", "Familienroutine", "Familiennachrichten teilen", "Beziehungen pflegen"] },
+  "community": { cat: "Gemeinschaft", items: ["Einen Bibliotheksausweis besorgen", "Einen Supermarkt finden", "Veränderung der Nachbarschaft beschreiben", "Gemeinschaftsinitiative"] },
+  "leisure": { cat: "Hobbys & Freizeit", items: ["Über ein Hobby sprechen", "Jemanden einladen", "Eine Absicht beschreiben", "Eine Dokumentation bewerten"] },
+  "shopping": { cat: "Einkaufen", items: ["Nach dem Preis fragen", "Ein Produkt finden", "Über einen Rabatt verhandeln", "Ein Produkt beschreiben"] },
+  "banking": { cat: "Bank & Geld", items: ["Geld überweisen", "Bargeld abheben", "Eine Transaktion hinterfragen", "Eine Unstimmigkeit erklären"] },
+  "workplace": { cat: "Arbeitsplatz", items: ["Über ein Meeting sprechen", "Eine Datei anfordern", "Nach Updates fragen", "Belastbarkeit loben"] },
+  "technology": { cat: "Technologie", items: ["Ein Telefonproblem melden", "Sich mit WLAN verbinden", "Ein Update beschreiben", "Die Systemarchitektur beschreiben"] },
+  "transport": { cat: "Öffentlicher Verkehr", items: ["Einen verspäteten Bus melden", "Einen Bahnsteig finden", "Betriebsunterbrechung", "Verspätungen ankündigen"] },
+  "events": { cat: "Veranstaltungen & Tickets", items: ["Die Startzeit nennen", "Nach einem Ticket fragen", "Barrierefreiheit beschreiben", "Eine Ausstellung bewerten"] },
+  "travel": { cat: "Reisen", items: ["Den Bahnhof finden", "Einchecken", "Eine Reservierung ändern", "Flugausfall"] },
+  "restaurant": { cat: "Restaurant", items: ["Nach der Speisekarte fragen", "Einen Tisch bekommen", "Fragen zu Zutaten", "Eine Bewertung schreiben"] },
+  "health": { cat: "Gesundheit", items: ["Ein Symptom beschreiben", "Einen Termin buchen", "Besserung melden", "Ärztlichen Rat einholen"] },
+  "education": { cat: "Bildung", items: ["Über den Unterricht sprechen", "Um eine Erklärung bitten", "Über Lernschwierigkeiten sprechen", "Einen Kurs beschreiben"] },
+  "home": { cat: "Zuhause & Wohnen", items: ["Einen Raum beschreiben", "Das Haus vorbereiten", "Eine Reparatur melden", "Eine Renovierung beschreiben"] },
+  "social": { cat: "Gespräche im Alltag", items: ["Sich vorstellen", "Ein Gespräch beenden", "Höflich widersprechen", "Ein tiefgehendes Gespräch"] },
+  "daily": { cat: "Alltagsenglisch", items: ["Einkaufen", "Reisen", "Restaurant", "Telefonate", "Small Talk"] },
+  "hotel": { cat: "Hotel", items: ["Eine Reservierung prüfen", "Einen Service anfordern", "Nach dem Frühstück fragen", "Einen Zimmertyp anfordern", "Ein Problem melden", "Den Aufenthalt verlängern", "Eine Bewertung schreiben"] },
+  "airport": { cat: "Flughafen", items: ["Den Schalter finden", "Eine Verspätung melden", "Nach dem Gepäck fragen", "Das Gate finden", "Mit einem verpassten Flug umgehen", "Eine Durchsage machen"] },
+  "finance": { cat: "Finanzen", items: ["Über Budgetierung sprechen", "Nach Sparen und Investieren fragen", "Einen Kredit beantragen", "Über Zinssätze sprechen", "Anlageberatung geben", "Gewinne analysieren"] },
+  "real-estate": { cat: "Immobilien", items: ["Nach einer Mietwohnung suchen", "Nach der Miete fragen", "Nach der Möblierung fragen", "Einen Kauf erwägen", "Reparaturen besprechen", "Den Markt analysieren"] }
+};
+Object.keys(DE_SITUATIONS).forEach(key=>{
+  if(SITUATIONS[key]){
+    SITUATIONS[key].de = DE_SITUATIONS[key].cat;
+    SITUATIONS[key].items.forEach((item,i)=>{ if(DE_SITUATIONS[key].items[i]) item.de = DE_SITUATIONS[key].items[i]; });
+  }
+});
+
+
 /* ---------------------------------------------------------------------- */
 /* SIMILARITY — findSimilarSentences()                                    */
 /* Lightweight lexical overlap score (Jaccard on normalized word sets)     */
@@ -1350,9 +1484,14 @@ async function searchYouTubeSentences(query){
 /* ---------------------------------------------------------------------- */
 async function translateSentence(sentenceObj, targetLang){
   if(targetLang==='ar') return sentenceObj.translation_ar;
+  if(targetLang==='de') return sentenceObj.translation_de || sentenceObj.translation_ar;
   return sentenceObj.text;
-  // TODO(AI API): call a translation endpoint for languages beyond the
-  // demo dataset's built-in Arabic translations.
+}
+/* Returns this sentence's translation for the current UI language (falls
+   back to Arabic, which every demo sentence has, then to the English text). */
+function localTranslation(s){
+  if(State.lang==='de') return s.translation_de || s.translation_ar || s.text;
+  return s.translation_ar || s.text;
 }
 
 /* AI seams referenced in the spec (kept for future wiring) */
@@ -1374,8 +1513,8 @@ function renderQuizLevelOptions(){
   select.value=State.quiz.level;
 }
 function buildQuizQuestion(sentence, pool){
-  const distractors=shuffleItems(pool.filter(item=>item.id!==sentence.id)).slice(0,3).map(item=>item.translation_ar);
-  return { sentence, options:shuffleItems([sentence.translation_ar,...distractors]) };
+  const distractors=shuffleItems(pool.filter(item=>item.id!==sentence.id)).slice(0,3).map(item=>localTranslation(item));
+  return { sentence, options:shuffleItems([localTranslation(sentence),...distractors]) };
 }
 function startQuiz(){
   const level=document.getElementById('quizLevel').value;
@@ -1404,12 +1543,12 @@ function answerQuiz(choice){
   if(State.quiz.answered) return;
   State.quiz.answered=true;
   const q=State.quiz.questions[State.quiz.index];
-  const correct=q.options.indexOf(q.sentence.translation_ar);
+  const correct=q.options.indexOf(localTranslation(q.sentence));
   const buttons=[...document.querySelectorAll('[data-quiz-option]')];
   buttons.forEach((btn,i)=>{ btn.disabled=true; if(i===correct) btn.classList.add('correct'); if(i===choice&&i!==correct) btn.classList.add('wrong'); });
   const feedback=document.getElementById('quizFeedback');
   if(choice===correct){ State.quiz.score++; feedback.className='quiz-feedback good'; feedback.textContent='✓ '+t('quizCorrect'); }
-  else { feedback.className='quiz-feedback bad'; feedback.textContent='→ '+t('quizWrong')+' '+q.sentence.translation_ar; }
+  else { feedback.className='quiz-feedback bad'; feedback.textContent='→ '+t('quizWrong')+' '+localTranslation(q.sentence); }
   document.getElementById('quizNextBtn').disabled=false;
 }
 function renderQuizResult(){
@@ -1511,7 +1650,7 @@ function renderSituations(){
     card.className = 'situation-card';
     card.innerHTML = `
       <h3>${sit.icon} ${sit[State.lang]||sit.en}</h3>
-      <div class="count">${sit.items.length} ${State.lang==='ar'?'مواقف':'prompts'}</div>
+      <div class="count">${sit.items.length} ${State.lang==='ar'?'مواقف':State.lang==='de'?'Beispiele':'prompts'}</div>
       <ul class="situation-list"></ul>`;
     const list = card.querySelector('.situation-list');
     const visibleItems = [...sit.items, ...(ADVANCED_SITUATION_ITEMS[key] || [])];
@@ -1542,7 +1681,7 @@ function pickSentenceOfDay(){
 function renderSotd(){
   const s = pickSentenceOfDay();
   document.getElementById('sotdSentence').textContent = s.text;
-  document.getElementById('sotdMeaning').textContent = State.lang==='ar' ? s.translation_ar : s.grammar_en;
+  document.getElementById('sotdMeaning').textContent = State.lang==='ar' ? s.translation_ar : State.lang==='de' ? (s.translation_de||s.translation_ar) : s.grammar_en;
   document.getElementById('sotdListen').onclick = ()=>speak(s.text);
   document.getElementById('sotdPractice').onclick = ()=>openDetail(s, 'practice');
   document.getElementById('sotdSave').onclick = ()=>saveFavorite(s);
@@ -1609,7 +1748,7 @@ function renderResults(){
   const countEl = document.getElementById('resultsCount');
   const results = State.currentResults;
 
-  countEl.textContent = results.length ? `${results.length} ${State.lang==='ar'?'نتيجة':'results'}` : '';
+  countEl.textContent = results.length ? `${results.length} ${State.lang==='ar'?'نتيجة':State.lang==='de'?'Ergebnisse':'results'}` : '';
   noResBox.style.display = results.length ? 'none' : 'block';
   grid.innerHTML = '';
 
@@ -1823,14 +1962,14 @@ function openDetail(s, startTab){
   document.getElementById('videoTime').textContent = formatTime(Math.max(0,s.timestamp-2));
   document.getElementById('videoContextLine').textContent = t('secBefore');
   document.getElementById('transcriptBox').innerHTML = highlightMatch(s.transcriptContext, s.text);
-  document.getElementById('meaningText').textContent = State.lang==='ar' ? s.translation_ar : s.translation_ar;
+  document.getElementById('meaningText').textContent = State.lang==='de' ? (s.translation_de||s.translation_ar) : s.translation_ar;
   document.getElementById('pronText').textContent = s.pronunciation;
   document.getElementById('wordsList').innerHTML = s.words.map(w=>`
-    <div class="word-item"><span class="w">${escapeHtml(w.w)}</span><span class="m">— ${escapeHtml(State.lang==='ar'?w.m_ar:w.m_en)}</span></div>
+    <div class="word-item"><span class="w">${escapeHtml(w.w)}</span><span class="m">— ${escapeHtml(State.lang==='ar'?w.m_ar:State.lang==='de'?(w.m_de||w.m_en):w.m_en)}</span></div>
   `).join('');
-  document.getElementById('grammarText').textContent = State.lang==='ar' ? s.grammar_ar : s.grammar_en;
+  document.getElementById('grammarText').textContent = State.lang==='ar' ? s.grammar_ar : State.lang==='de' ? (s.grammar_de||s.grammar_en) : s.grammar_en;
   document.getElementById('alternativesList').innerHTML = s.alternatives.map(a=>`
-    <div class="alt-item"><div class="note">${escapeHtml(State.lang==='ar'?a.note_ar:a.note_en)}</div><div>${escapeHtml(a.text)}</div></div>
+    <div class="alt-item"><div class="note">${escapeHtml(State.lang==='ar'?a.note_ar:State.lang==='de'?(a.note_de||a.note_en):a.note_en)}</div><div>${escapeHtml(a.text)}</div></div>
   `).join('');
 
   document.getElementById('detailSaveBtn').onclick = ()=>saveFavorite(s);
@@ -1980,8 +2119,8 @@ document.getElementById('listeningCheckBtn').addEventListener('click', ()=>{
   } else {
     box.innerHTML = `
       <div class="listen-row">${t('notQuite')}</div>
-      <div class="listen-row"><strong>${State.lang==='ar'?'أنت سمعت':'You heard'}:</strong> ${escapeHtml(userText||'—')}</div>
-      <div class="listen-row"><strong>${State.lang==='ar'?'الأصل':'Original'}:</strong> ${escapeHtml(s.text)}</div>
+      <div class="listen-row"><strong>${State.lang==='ar'?'أنت سمعت':State.lang==='de'?'Du hast gehört':'You heard'}:</strong> ${escapeHtml(userText||'—')}</div>
+      <div class="listen-row"><strong>${State.lang==='ar'?'الأصل':State.lang==='de'?'Original':'Original'}:</strong> ${escapeHtml(s.text)}</div>
     `;
   }
 });
@@ -2027,11 +2166,14 @@ document.getElementById('themeToggle').addEventListener('click', ()=>{
 });
 
 /* Language toggle */
+const LANG_CYCLE = ['en','ar','de'];
+const LANG_LABELS = {en:'English', ar:'العربية', de:'Deutsch'};
+function nextLang(l){ return LANG_CYCLE[(LANG_CYCLE.indexOf(l)+1)%LANG_CYCLE.length]; }
 function applyLanguage(){
   const isAr = State.lang==='ar';
-  document.documentElement.lang = isAr ? 'ar' : 'en';
+  document.documentElement.lang = State.lang;
   document.documentElement.dir = isAr ? 'rtl' : 'ltr';
-  document.getElementById('langToggle').textContent = isAr ? 'English' : 'العربية';
+  document.getElementById('langToggle').textContent = LANG_LABELS[nextLang(State.lang)];
   document.querySelectorAll('[data-i18n]').forEach(el=>{
     el.textContent = t(el.dataset.i18n);
   });
@@ -2049,7 +2191,7 @@ function applyLanguage(){
   if(State.currentQuery){ renderResults(); renderSimilar(); }
 }
 document.getElementById('langToggle').addEventListener('click', ()=>{
-  State.lang = State.lang==='ar' ? 'en' : 'ar';
+  State.lang = nextLang(State.lang);
   localStorage.setItem('sg_lang', State.lang);
   applyLanguage();
 });
