@@ -16,7 +16,8 @@
       {
         "w": "get back to (someone)",
         "m_en": "to reply or respond to someone later",
-        "m_ar": "الرد أو التواصل مرة أخرى مع شخص لاحقًا"
+        "m_ar": "الرد أو التواصل مرة أخرى مع شخص لاحقًا",
+        "m_de": "sich bei jemandem melden: später auf jemanden reagieren oder antworten"
       }
     ],
     "grammar_en": "Will + verb — a promise about the near future. 'As soon as possible' softens the timing without giving an exact deadline.",
@@ -25,24 +26,29 @@
       {
         "text": "I'll follow up with you shortly.",
         "note_en": "Slightly more formal",
-        "note_ar": "أكثر رسمية قليلًا"
+        "note_ar": "أكثر رسمية قليلًا",
+        "note_de": "Ich melde mich in Kürze bei dir. (Etwas formeller)"
       },
       {
         "text": "I'll be in touch soon.",
         "note_en": "Casual, friendly",
-        "note_ar": "غير رسمية وودية"
+        "note_ar": "غير رسمية وودية",
+        "note_de": "Ich melde mich bald. (Locker, freundlich)"
       },
       {
         "text": "Let me get back to you on that.",
         "note_en": "Common in meetings",
-        "note_ar": "شائعة في الاجتماعات"
+        "note_ar": "شائعة في الاجتماعات",
+        "note_de": "Ich komme darauf zurück. (Häufig in Meetings)"
       }
     ],
     "similar": [
       "Let me check this and get back to you.",
       "I'll look into it and get back to you.",
       "I'll follow up with you as soon as I can."
-    ]
+    ],
+    "translation_de": "Ich melde mich so schnell wie möglich bei dir.",
+    "grammar_de": "Will + Verb — ein Versprechen für die nahe Zukunft. 'As soon as possible' macht den Zeitpunkt flexibel, ohne eine genaue Frist zu nennen."
   },
   {
     "id": 2,
@@ -61,7 +67,8 @@
       {
         "w": "could you please",
         "m_en": "a polite way to ask someone to do something",
-        "m_ar": "طريقة مهذبة لطلب شيء من شخص"
+        "m_ar": "طريقة مهذبة لطلب شيء من شخص",
+        "m_de": "could you please: eine höfliche Art, jemanden um etwas zu bitten"
       }
     ],
     "grammar_en": "Could you + verb — a polite request. Adding 'please' makes it softer and more formal.",
@@ -70,19 +77,23 @@
       {
         "text": "Can you send me the report?",
         "note_en": "Less formal",
-        "note_ar": "أقل رسمية"
+        "note_ar": "أقل رسمية",
+        "note_de": "Kannst du mir den Bericht schicken? (Weniger formell)"
       },
       {
         "text": "Would you mind sending me the report?",
         "note_en": "More formal / very polite",
-        "note_ar": "أكثر رسمية ولطفًا"
+        "note_ar": "أكثر رسمية ولطفًا",
+        "note_de": "Würde es dir etwas ausmachen, mir den Bericht zu schicken? (Formeller / sehr höflich)"
       }
     ],
     "similar": [
       "Could you send that over when you get a chance?",
       "Would you be able to email me the report?",
       "Can you forward me the report, please?"
-    ]
+    ],
+    "translation_de": "Könntest du mir bitte den Bericht schicken?",
+    "grammar_de": "Could you + Verb — eine höfliche Bitte. 'Please' macht sie weicher und formeller."
   },
   {
     "id": 3,
@@ -101,7 +112,8 @@
       {
         "w": "let me",
         "m_en": "used to offer to do something",
-        "m_ar": "تُستخدم لعرض القيام بشيء ما"
+        "m_ar": "تُستخدم لعرض القيام بشيء ما",
+        "m_de": "let me: um anzubieten, etwas zu tun"
       }
     ],
     "grammar_en": "Let me + verb — offering to help or take an action right now.",
@@ -110,19 +122,23 @@
       {
         "text": "Give me one second to check.",
         "note_en": "Casual",
-        "note_ar": "غير رسمية"
+        "note_ar": "غير رسمية",
+        "note_de": "Gib mir eine Sekunde zum Prüfen. (Locker)"
       },
       {
         "text": "I'll look into that right away.",
         "note_en": "Slightly more formal",
-        "note_ar": "أكثر رسمية قليلًا"
+        "note_ar": "أكثر رسمية قليلًا",
+        "note_de": "Ich kümmere mich sofort darum. (Etwas formeller)"
       }
     ],
     "similar": [
       "I'll take a look and let you know.",
       "One moment, let me look into that.",
       "Let me look that up for you."
-    ]
+    ],
+    "translation_de": "Lass mich das für dich überprüfen.",
+    "grammar_de": "Let me + Verb — man bietet an, sofort zu helfen oder zu handeln."
   },
   {
     "id": 4,
@@ -141,7 +157,8 @@
       {
         "w": "concern",
         "m_en": "a worry or something that troubles someone",
-        "m_ar": "قلق أو أمر يزعج الشخص"
+        "m_ar": "قلق أو أمر يزعج الشخص",
+        "m_de": "concern: eine Sorge oder etwas, das jemanden beunruhigt"
       }
     ],
     "grammar_en": "Completely + verb — the adverb intensifies the verb to show full agreement or empathy.",
@@ -150,19 +167,23 @@
       {
         "text": "I totally get why that's frustrating.",
         "note_en": "Casual, empathetic",
-        "note_ar": "غير رسمية ومتعاطفة"
+        "note_ar": "غير رسمية ومتعاطفة",
+        "note_de": "Ich verstehe total, warum das frustrierend ist. (Locker, einfühlsam)"
       },
       {
         "text": "I hear you, and that's a valid concern.",
         "note_en": "Warm, conversational",
-        "note_ar": "ودية ومحادثية"
+        "note_ar": "ودية ومحادثية",
+        "note_de": "Ich höre dich, und das ist eine berechtigte Sorge. (Warm, umgangssprachlich)"
       }
     ],
     "similar": [
       "I really understand where you're coming from.",
       "That's a completely valid concern.",
       "I hear your concern, and I want to help."
-    ]
+    ],
+    "translation_de": "Ich verstehe deine Sorge vollkommen.",
+    "grammar_de": "Completely + Verb — das Adverb verstärkt das Verb, um volle Zustimmung oder Mitgefühl auszudrücken."
   },
   {
     "id": 5,
@@ -181,7 +202,8 @@
       {
         "w": "I wanted to let you know",
         "m_en": "a soft way to introduce important or difficult news",
-        "m_ar": "طريقة لطيفة لتقديم خبر مهم أو صعب"
+        "m_ar": "طريقة لطيفة لتقديم خبر مهم أو صعب",
+        "m_de": "I wanted to let you know: eine sanfte Art, wichtige oder schwierige Neuigkeiten einzuleiten"
       }
     ],
     "grammar_en": "Past tense 'wanted' (instead of 'want') sounds softer and more polite when delivering news, even though the intent is present.",
@@ -190,19 +212,23 @@
       {
         "text": "I just wanted to flag a problem with the system.",
         "note_en": "Slightly more casual",
-        "note_ar": "أكثر بساطة قليلًا"
+        "note_ar": "أكثر بساطة قليلًا",
+        "note_de": "Ich wollte nur ein Problem mit dem System melden. (Etwas lockerer)"
       },
       {
         "text": "I'm reaching out because we're having a system issue.",
         "note_en": "More formal, email-style",
-        "note_ar": "أكثر رسمية، بأسلوب البريد الإلكتروني"
+        "note_ar": "أكثر رسمية، بأسلوب البريد الإلكتروني",
+        "note_de": "Ich melde mich, weil wir ein Systemproblem haben. (Formeller, E-Mail-Stil)"
       }
     ],
     "similar": [
       "I just wanted to let you know we have a problem with the system.",
       "I wanted to let you know there's a problem with the system.",
       "I just wanted to tell you that we're having a problem with the system."
-    ]
+    ],
+    "translation_de": "Ich wollte dir Bescheid geben, dass wir ein Problem mit dem System haben.",
+    "grammar_de": "Die Vergangenheitsform 'wanted' (statt 'want') klingt sanfter und höflicher bei schwierigen Nachrichten, obwohl die Absicht gegenwärtig ist."
   },
   {
     "id": 6,
@@ -221,7 +247,8 @@
       {
         "w": "schedule",
         "m_en": "to arrange a time for something to happen",
-        "m_ar": "ترتيب وقت لحدوث شيء ما"
+        "m_ar": "ترتيب وقت لحدوث شيء ما",
+        "m_de": "schedule: eine Zeit für etwas festlegen"
       }
     ],
     "grammar_en": "Can we + verb — a simple, direct request involving both speakers.",
@@ -230,19 +257,23 @@
       {
         "text": "Are you free for a meeting tomorrow?",
         "note_en": "More casual",
-        "note_ar": "أكثر بساطة"
+        "note_ar": "أكثر بساطة",
+        "note_de": "Hast du morgen Zeit für ein Meeting? (Lockerer)"
       },
       {
         "text": "Could we set up a call for tomorrow?",
         "note_en": "Common for remote teams",
-        "note_ar": "شائعة في الفرق عن بعد"
+        "note_ar": "شائعة في الفرق عن بعد",
+        "note_de": "Könnten wir für morgen einen Anruf ansetzen? (Üblich bei Remote-Teams)"
       }
     ],
     "similar": [
       "Could we set up a meeting for tomorrow?",
       "Are you available to meet tomorrow?",
       "Let's schedule something for tomorrow, if that works."
-    ]
+    ],
+    "translation_de": "Können wir für morgen ein Meeting ansetzen?",
+    "grammar_de": "Can we + Verb — eine einfache, direkte Bitte, die beide Sprecher einbezieht."
   },
   {
     "id": 7,
@@ -261,7 +292,8 @@
       {
         "w": "look into (something)",
         "m_en": "to investigate or examine something",
-        "m_ar": "التحقيق في أمر ما أو فحصه"
+        "m_ar": "التحقيق في أمر ما أو فحصه",
+        "m_de": "look into (something): etwas untersuchen oder prüfen"
       }
     ],
     "grammar_en": "Two actions joined with 'and' — investigating first, then responding. Common structure for support conversations.",
@@ -270,19 +302,23 @@
       {
         "text": "Let me dig into this and follow up.",
         "note_en": "Slightly more casual",
-        "note_ar": "أكثر بساطة قليلًا"
+        "note_ar": "أكثر بساطة قليلًا",
+        "note_de": "Ich schaue mir das an und melde mich. (Etwas lockerer)"
       },
       {
         "text": "I'll investigate and update you shortly.",
         "note_en": "More formal",
-        "note_ar": "أكثر رسمية"
+        "note_ar": "أكثر رسمية",
+        "note_de": "Ich untersuche das und gebe dir in Kürze Bescheid. (Formeller)"
       }
     ],
     "similar": [
       "Let me check this and I'll get back to you.",
       "I'll dig into this and follow up soon.",
       "Let me look into this and get back to you."
-    ]
+    ],
+    "translation_de": "Ich kümmere mich darum und melde mich bei dir.",
+    "grammar_de": "Zwei Handlungen, verbunden mit 'and' — erst untersuchen, dann antworten. Übliche Struktur im Support-Gespräch."
   },
   {
     "id": 8,
@@ -301,7 +337,8 @@
       {
         "w": "clarify",
         "m_en": "to make something clearer or easier to understand",
-        "m_ar": "جعل شيء ما أكثر وضوحًا"
+        "m_ar": "جعل شيء ما أكثر وضوحًا",
+        "m_de": "clarify: etwas klarer oder verständlicher machen"
       }
     ],
     "grammar_en": "Could you + verb — a polite way to ask someone to explain something more clearly.",
@@ -310,19 +347,23 @@
       {
         "text": "What do you mean by that, exactly?",
         "note_en": "Direct, conversational",
-        "note_ar": "مباشرة ومحادثية"
+        "note_ar": "مباشرة ومحادثية",
+        "note_de": "Was genau meinst du damit? (Direkt, umgangssprachlich)"
       },
       {
         "text": "Would you mind explaining that a bit more?",
         "note_en": "More formal",
-        "note_ar": "أكثر رسمية"
+        "note_ar": "أكثر رسمية",
+        "note_de": "Würdest du das etwas genauer erklären? (Formeller)"
       }
     ],
     "similar": [
       "Sorry, could you explain that a bit more?",
       "What exactly do you mean by that?",
       "Can you break that down for me?"
-    ]
+    ],
+    "translation_de": "Könntest du klarstellen, was du meinst?",
+    "grammar_de": "Could you + Verb — eine höfliche Art zu bitten, etwas deutlicher zu erklären."
   },
   {
     "id": 9,
@@ -341,7 +382,8 @@
       {
         "w": "point",
         "m_en": "an idea or opinion someone expresses",
-        "m_ar": "فكرة أو رأي يعبّر عنه شخص ما"
+        "m_ar": "فكرة أو رأي يعبّر عنه شخص ما",
+        "m_de": "point: eine Idee oder Meinung, die jemand äußert"
       }
     ],
     "grammar_en": "A short fixed phrase used to agree with or acknowledge someone's idea before responding.",
@@ -350,19 +392,23 @@
       {
         "text": "Good call.",
         "note_en": "Very casual",
-        "note_ar": "غير رسمية جدًا"
+        "note_ar": "غير رسمية جدًا",
+        "note_de": "Guter Einwand. (Sehr locker)"
       },
       {
         "text": "That's a fair point.",
         "note_en": "Slightly more formal, common when partly agreeing",
-        "note_ar": "أكثر رسمية قليلًا، شائعة عند الموافقة الجزئية"
+        "note_ar": "أكثر رسمية قليلًا، شائعة عند الموافقة الجزئية",
+        "note_de": "Das ist ein fairer Punkt. (Etwas formeller, wenn man teilweise zustimmt)"
       }
     ],
     "similar": [
       "That's a fair point.",
       "Good point, I hadn't considered that.",
       "That's an interesting way to look at it."
-    ]
+    ],
+    "translation_de": "Das ist ein guter Punkt.",
+    "grammar_de": "Ein kurzer feststehender Ausdruck, um jemandes Idee zuzustimmen oder anzuerkennen, bevor man antwortet."
   },
   {
     "id": 10,
@@ -381,7 +427,8 @@
       {
         "w": "move on",
         "m_en": "to stop discussing one thing and start another",
-        "m_ar": "التوقف عن مناقشة أمر والانتقال لآخر"
+        "m_ar": "التوقف عن مناقشة أمر والانتقال لآخر",
+        "m_de": "move on: aufhören, über eine Sache zu sprechen, und mit einer anderen beginnen"
       }
     ],
     "grammar_en": "Let's + verb — a suggestion that includes the speaker and the listener(s).",
@@ -390,19 +437,23 @@
       {
         "text": "Shall we move on?",
         "note_en": "More formal, question form",
-        "note_ar": "أكثر رسمية، بصيغة سؤال"
+        "note_ar": "أكثر رسمية، بصيغة سؤال",
+        "note_de": "Sollen wir weitermachen? (Formeller, Fragestruktur)"
       },
       {
         "text": "Let's move to the next item on the agenda.",
         "note_en": "Formal, meeting-specific",
-        "note_ar": "رسمية وخاصة بالاجتماعات"
+        "note_ar": "رسمية وخاصة بالاجتماعات",
+        "note_de": "Kommen wir zum nächsten Punkt der Agenda. (Formell, meeting-spezifisch)"
       }
     ],
     "similar": [
       "Shall we move on to the next item?",
       "Let's move on, if there's nothing else here.",
       "OK, let's jump to the next topic."
-    ]
+    ],
+    "translation_de": "Kommen wir zum nächsten Thema.",
+    "grammar_de": "Let's + Verb — ein Vorschlag, der den Sprecher und die Zuhörer einschließt."
   },
   {
     "id": 11,
@@ -421,7 +472,8 @@
       {
         "w": "open",
         "m_en": "to move something so it is no longer closed",
-        "m_ar": "to move something so it is no longer closed"
+        "m_ar": "to move something so it is no longer closed",
+        "m_de": "open: etwas bewegen, damit es nicht mehr geschlossen ist"
       }
     ],
     "grammar_en": "Could you + verb is a polite request.",
@@ -430,18 +482,22 @@
       {
         "text": "Please open the window.",
         "note_en": "Direct",
-        "note_ar": "مباشرة"
+        "note_ar": "مباشرة",
+        "note_de": "Bitte öffne das Fenster. (Direkt)"
       },
       {
         "text": "Would you mind opening the window?",
         "note_en": "More polite",
-        "note_ar": "أكثر لطفًا"
+        "note_ar": "أكثر لطفًا",
+        "note_de": "Würde es dir etwas ausmachen, das Fenster zu öffnen? (Höflicher)"
       }
     ],
     "similar": [
       "Can you open the window, please?",
       "Please close the window, if you can."
-    ]
+    ],
+    "translation_de": "Könntest du bitte das Fenster öffnen?",
+    "grammar_de": "Could you + Verb ist eine höfliche Bitte."
   },
   {
     "id": 12,
@@ -460,7 +516,8 @@
       {
         "w": "usually",
         "m_en": "most of the time",
-        "m_ar": "most of the time"
+        "m_ar": "most of the time",
+        "m_de": "usually: die meiste Zeit"
       }
     ],
     "grammar_en": "The adverb usually comes before the main verb in the present simple.",
@@ -469,18 +526,22 @@
       {
         "text": "I normally drink coffee after breakfast.",
         "note_en": "Natural alternative",
-        "note_ar": "بديل طبيعي"
+        "note_ar": "بديل طبيعي",
+        "note_de": "Normalerweise trinke ich nach dem Frühstück Kaffee. (Natürliche Alternative)"
       },
       {
         "text": "Coffee is part of my morning routine.",
         "note_en": "Slightly richer",
-        "note_ar": "أكثر تفصيلًا"
+        "note_ar": "أكثر تفصيلًا",
+        "note_de": "Kaffee gehört zu meiner Morgenroutine. (Etwas reichhaltiger)"
       }
     ],
     "similar": [
       "I usually have tea in the morning.",
       "I always eat breakfast at home."
-    ]
+    ],
+    "translation_de": "Ich trinke normalerweise nach dem Frühstück Kaffee.",
+    "grammar_de": "Das Adverb 'usually' steht im Präsens vor dem Hauptverb."
   },
   {
     "id": 13,
@@ -499,7 +560,8 @@
       {
         "w": "ticket",
         "m_en": "a paper or digital pass for travel",
-        "m_ar": "a paper or digital pass for travel"
+        "m_ar": "a paper or digital pass for travel",
+        "m_de": "ticket: ein Papier- oder digitaler Nachweis fürs Reisen"
       }
     ],
     "grammar_en": "Where can I + verb asks for a place or service.",
@@ -508,18 +570,22 @@
       {
         "text": "Where do I get a bus ticket?",
         "note_en": "Casual",
-        "note_ar": "غير رسمية"
+        "note_ar": "غير رسمية",
+        "note_de": "Wo bekomme ich ein Busticket? (Locker)"
       },
       {
         "text": "Could you tell me where to buy a ticket?",
         "note_en": "More polite",
-        "note_ar": "أكثر تهذيبًا"
+        "note_ar": "أكثر تهذيبًا",
+        "note_de": "Könnten Sie mir sagen, wo ich ein Ticket kaufen kann? (Höflicher)"
       }
     ],
     "similar": [
       "Where can I catch the bus?",
       "I need a ticket to the city center."
-    ]
+    ],
+    "translation_de": "Wo kann ich ein Busticket kaufen?",
+    "grammar_de": "Where can I + Verb fragt nach einem Ort oder einer Dienstleistung."
   },
   {
     "id": 14,
@@ -538,7 +604,8 @@
       {
         "w": "understand",
         "m_en": "to know the meaning of something",
-        "m_ar": "to know the meaning of something"
+        "m_ar": "to know the meaning of something",
+        "m_de": "understand: die Bedeutung von etwas kennen"
       }
     ],
     "grammar_en": "I'm sorry softens a direct statement of difficulty.",
@@ -547,18 +614,22 @@
       {
         "text": "Sorry, I didn't catch that.",
         "note_en": "Common spoken alternative",
-        "note_ar": "بديل شائع في الكلام"
+        "note_ar": "بديل شائع في الكلام",
+        "note_de": "Entschuldigung, das habe ich nicht mitbekommen. (Übliche gesprochene Alternative)"
       },
       {
         "text": "Could you say that again?",
         "note_en": "Useful follow-up",
-        "note_ar": "طلب متابعة مفيد"
+        "note_ar": "طلب متابعة مفيد",
+        "note_de": "Könntest du das noch einmal sagen? (Nützliche Nachfrage)"
       }
     ],
     "similar": [
       "Sorry, I don't understand the question.",
       "Could you speak more slowly?"
-    ]
+    ],
+    "translation_de": "Es tut mir leid, ich verstehe das nicht.",
+    "grammar_de": "'I'm sorry' mildert eine direkte Aussage über eine Schwierigkeit ab."
   },
   {
     "id": 15,
@@ -577,7 +648,8 @@
       {
         "w": "working from home",
         "m_en": "doing your job at home instead of at an office",
-        "m_ar": "doing your job at home instead of at an office"
+        "m_ar": "doing your job at home instead of at an office",
+        "m_de": "working from home: seine Arbeit zu Hause statt im Büro erledigen"
       }
     ],
     "grammar_en": "Present perfect continuous connects a past start with a current temporary situation.",
@@ -586,18 +658,22 @@
       {
         "text": "I've been working remotely this week.",
         "note_en": "Common business phrasing",
-        "note_ar": "صياغة شائعة في العمل"
+        "note_ar": "صياغة شائعة في العمل",
+        "note_de": "Ich arbeite diese Woche remote. (Übliche Business-Formulierung)"
       },
       {
         "text": "I'm working from home this week.",
         "note_en": "Simpler",
-        "note_ar": "أبسط"
+        "note_ar": "أبسط",
+        "note_de": "Ich bin diese Woche im Homeoffice. (Einfacher)"
       }
     ],
     "similar": [
       "I've been studying from home this month.",
       "She has been working remotely."
-    ]
+    ],
+    "translation_de": "Ich arbeite diese Woche von zu Hause aus.",
+    "grammar_de": "Present Perfect Continuous verbindet einen Beginn in der Vergangenheit mit einer aktuellen, vorübergehenden Situation."
   },
   {
     "id": 16,
@@ -616,7 +692,8 @@
       {
         "w": "anything else",
         "m_en": "an additional thing",
-        "m_ar": "an additional thing"
+        "m_ar": "an additional thing",
+        "m_de": "anything else: etwas Zusätzliches"
       }
     ],
     "grammar_en": "Would you like + noun is a polite offer.",
@@ -625,18 +702,22 @@
       {
         "text": "Do you need anything else?",
         "note_en": "Less formal",
-        "note_ar": "أقل رسمية"
+        "note_ar": "أقل رسمية",
+        "note_de": "Brauchen Sie noch etwas? (Weniger formell)"
       },
       {
         "text": "Can I get you anything more?",
         "note_en": "Service style",
-        "note_ar": "أسلوب خدمة"
+        "note_ar": "أسلوب خدمة",
+        "note_de": "Kann ich Ihnen noch etwas bringen? (Service-Stil)"
       }
     ],
     "similar": [
       "Would you like a drink with your meal?",
       "Is there anything else you need?"
-    ]
+    ],
+    "translation_de": "Möchten Sie noch etwas zu Ihrer Bestellung?",
+    "grammar_de": "Would you like + Substantiv ist ein höfliches Angebot."
   },
   {
     "id": 17,
@@ -655,7 +736,8 @@
       {
         "w": "missed",
         "m_en": "failed to catch or arrive in time for something",
-        "m_ar": "failed to catch or arrive in time for something"
+        "m_ar": "failed to catch or arrive in time for something",
+        "m_de": "missed: etwas nicht rechtzeitig erreicht oder eingeholt"
       }
     ],
     "grammar_en": "Because introduces the reason for a past event.",
@@ -664,18 +746,22 @@
       {
         "text": "I didn't catch the train because I was late.",
         "note_en": "Conversational",
-        "note_ar": "محادثية"
+        "note_ar": "محادثية",
+        "note_de": "Ich habe den Zug nicht erreicht, weil ich zu spät war. (Umgangssprachlich)"
       },
       {
         "text": "I was late, so I missed the train.",
         "note_en": "Cause and effect",
-        "note_ar": "سبب ونتيجة"
+        "note_ar": "سبب ونتيجة",
+        "note_de": "Ich war spät dran, deshalb habe ich den Zug verpasst. (Ursache und Wirkung)"
       }
     ],
     "similar": [
       "I missed my flight because of traffic.",
       "We left late and missed the bus."
-    ]
+    ],
+    "translation_de": "Ich habe den Zug verpasst, weil ich zu spät losgegangen bin.",
+    "grammar_de": "'Because' leitet den Grund für ein Ereignis in der Vergangenheit ein."
   },
   {
     "id": 18,
@@ -694,7 +780,8 @@
       {
         "w": "continue",
         "m_en": "to keep doing something",
-        "m_ar": "to keep doing something"
+        "m_ar": "to keep doing something",
+        "m_de": "continue: mit etwas weitermachen"
       }
     ],
     "grammar_en": "Could we + verb makes a polite suggestion involving the group.",
@@ -703,18 +790,22 @@
       {
         "text": "Can we pause for a few minutes?",
         "note_en": "Casual",
-        "note_ar": "غير رسمية"
+        "note_ar": "غير رسمية",
+        "note_de": "Können wir kurz pausieren? (Locker)"
       },
       {
         "text": "Would it be possible to take a brief break?",
         "note_en": "Formal",
-        "note_ar": "رسمية"
+        "note_ar": "رسمية",
+        "note_de": "Wäre es möglich, eine kurze Pause einzulegen? (Formell)"
       }
     ],
     "similar": [
       "Could we take five before the next topic?",
       "Let's take a short break."
-    ]
+    ],
+    "translation_de": "Könnten wir eine kurze Pause machen, bevor wir weitermachen?",
+    "grammar_de": "Could we + Verb macht einen höflichen Vorschlag, der die Gruppe einbezieht."
   },
   {
     "id": 19,
@@ -733,7 +824,8 @@
       {
         "w": "updated figures",
         "m_en": "the latest numbers or statistics",
-        "m_ar": "the latest numbers or statistics"
+        "m_ar": "the latest numbers or statistics",
+        "m_de": "updated figures: die neuesten Zahlen oder Statistiken"
       }
     ],
     "grammar_en": "I was wondering if makes a request less direct and more tactful.",
@@ -742,18 +834,22 @@
       {
         "text": "Could you send over the latest figures?",
         "note_en": "More direct",
-        "note_ar": "أكثر مباشرة"
+        "note_ar": "أكثر مباشرة",
+        "note_de": "Könntest du mir die aktuellen Zahlen schicken? (Direkter)"
       },
       {
         "text": "I'd appreciate it if you could share the updated numbers.",
         "note_en": "More formal",
-        "note_ar": "أكثر رسمية"
+        "note_ar": "أكثر رسمية",
+        "note_de": "Ich wäre dankbar, wenn du mir die aktualisierten Zahlen schicken könntest. (Formeller)"
       }
     ],
     "similar": [
       "I was wondering if you could review this document.",
       "Could you send me the latest numbers?"
-    ]
+    ],
+    "translation_de": "Ich habe mich gefragt, ob du mir die aktualisierten Zahlen schicken könntest.",
+    "grammar_de": "'I was wondering if' macht eine Bitte weniger direkt und taktvoller."
   },
   {
     "id": 20,
@@ -772,7 +868,8 @@
       {
         "w": "configuration",
         "m_en": "the way a system is set up",
-        "m_ar": "the way a system is set up"
+        "m_ar": "the way a system is set up",
+        "m_de": "configuration: die Art, wie ein System eingerichtet ist"
       }
     ],
     "grammar_en": "It turns out introduces information discovered after checking.",
@@ -781,18 +878,22 @@
       {
         "text": "Apparently, a configuration error caused the issue.",
         "note_en": "More concise",
-        "note_ar": "أكثر اختصارًا"
+        "note_ar": "أكثر اختصارًا",
+        "note_de": "Offenbar hat ein Konfigurationsfehler das Problem verursacht. (Prägnanter)"
       },
       {
         "text": "We found that the settings caused the problem.",
         "note_en": "Plain English",
-        "note_ar": "إنجليزية بسيطة"
+        "note_ar": "إنجليزية بسيطة",
+        "note_de": "Wir haben festgestellt, dass die Einstellungen das Problem verursacht haben. (Einfaches Englisch)"
       }
     ],
     "similar": [
       "It turns out the problem was temporary.",
       "The error was caused by an incorrect setting."
-    ]
+    ],
+    "translation_de": "Es stellte sich heraus, dass das Problem durch einen Konfigurationsfehler verursacht wurde.",
+    "grammar_de": "'It turns out' leitet Informationen ein, die nach einer Überprüfung entdeckt wurden."
   },
   {
     "id": 21,
@@ -811,7 +912,8 @@
       {
         "w": "pros and cons",
         "m_en": "advantages and disadvantages",
-        "m_ar": "advantages and disadvantages"
+        "m_ar": "advantages and disadvantages",
+        "m_de": "pros and cons: Vor- und Nachteile"
       }
     ],
     "grammar_en": "Need to + verb expresses necessity; before + -ing sets the timing.",
@@ -820,18 +922,22 @@
       {
         "text": "Let's consider the benefits and drawbacks first.",
         "note_en": "More formal",
-        "note_ar": "أكثر رسمية"
+        "note_ar": "أكثر رسمية",
+        "note_de": "Lassen wir uns zuerst die Vorteile und Nachteile ansehen. (Formeller)"
       },
       {
         "text": "We should look at both sides before we decide.",
         "note_en": "Conversational",
-        "note_ar": "محادثية"
+        "note_ar": "محادثية",
+        "note_de": "Wir sollten beide Seiten betrachten, bevor wir entscheiden. (Umgangssprachlich)"
       }
     ],
     "similar": [
       "Let's weigh the pros and cons.",
       "We need to consider the drawbacks too."
-    ]
+    ],
+    "translation_de": "Wir müssen die Vor- und Nachteile abwägen, bevor wir entscheiden.",
+    "grammar_de": "Need to + Verb drückt Notwendigkeit aus; before + -ing gibt den Zeitpunkt an."
   },
   {
     "id": 22,
@@ -850,7 +956,8 @@
       {
         "w": "bring to my attention",
         "m_en": "to make someone aware of something",
-        "m_ar": "to make someone aware of something"
+        "m_ar": "to make someone aware of something",
+        "m_de": "bring to my attention: jemanden auf etwas aufmerksam machen"
       }
     ],
     "grammar_en": "Appreciate + gerund names the action being valued.",
@@ -859,18 +966,22 @@
       {
         "text": "Thanks for flagging this.",
         "note_en": "Less formal",
-        "note_ar": "أقل رسمية"
+        "note_ar": "أقل رسمية",
+        "note_de": "Danke für den Hinweis. (Weniger formell)"
       },
       {
         "text": "Thank you for raising this matter.",
         "note_en": "More formal",
-        "note_ar": "أكثر رسمية"
+        "note_ar": "أكثر رسمية",
+        "note_de": "Vielen Dank, dass Sie das ansprechen. (Formeller)"
       }
     ],
     "similar": [
       "I appreciate you letting me know.",
       "Thanks for bringing this up."
-    ]
+    ],
+    "translation_de": "Ich schätze es, dass du mich darauf aufmerksam gemacht hast.",
+    "grammar_de": "Appreciate + Gerundium benennt die geschätzte Handlung."
   },
   {
     "id": 23,
@@ -889,7 +1000,8 @@
       {
         "w": "arrangements",
         "m_en": "plans made for a particular purpose",
-        "m_ar": "plans made for a particular purpose"
+        "m_ar": "plans made for a particular purpose",
+        "m_de": "arrangements: Pläne für einen bestimmten Zweck"
       }
     ],
     "grammar_en": "Inverted third conditional: Had I known = If I had known.",
@@ -898,18 +1010,22 @@
       {
         "text": "If I had known about the delay, I would have planned differently.",
         "note_en": "Clearer",
-        "note_ar": "أوضح"
+        "note_ar": "أوضح",
+        "note_de": "Wenn ich von der Verzögerung gewusst hätte, hätte ich anders geplant. (Klarer)"
       },
       {
         "text": "I would have made other plans if I'd known.",
         "note_en": "Conversational",
-        "note_ar": "محادثية"
+        "note_ar": "محادثية",
+        "note_de": "Ich hätte andere Pläne gemacht, wenn ich es gewusst hätte. (Umgangssprachlich)"
       }
     ],
     "similar": [
       "Had we known, we would have prepared earlier.",
       "If I had known, I would have acted differently."
-    ]
+    ],
+    "translation_de": "Hätte ich von der Verzögerung gewusst, hätte ich andere Vorkehrungen getroffen.",
+    "grammar_de": "Invertierter dritter Konditionalsatz: 'Had I known' = 'If I had known'."
   },
   {
     "id": 24,
@@ -928,7 +1044,8 @@
       {
         "w": "underlying",
         "m_en": "existing beneath the obvious surface problem",
-        "m_ar": "existing beneath the obvious surface problem"
+        "m_ar": "existing beneath the obvious surface problem",
+        "m_de": "underlying: unter der offensichtlichen Oberfläche liegend"
       }
     ],
     "grammar_en": "Fall short of + gerund means fail to do enough of something.",
@@ -937,18 +1054,22 @@
       {
         "text": "The proposal doesn't fully address the root problem.",
         "note_en": "Plain English",
-        "note_ar": "إنجليزية مباشرة"
+        "note_ar": "إنجليزية مباشرة",
+        "note_de": "Der Vorschlag löst das eigentliche Problem nicht vollständig. (Einfaches Englisch)"
       },
       {
         "text": "The proposal is insufficient to resolve the core issue.",
         "note_en": "Formal",
-        "note_ar": "رسمية"
+        "note_ar": "رسمية",
+        "note_de": "Der Vorschlag reicht nicht aus, um das Kernproblem zu lösen. (Formell)"
       }
     ],
     "similar": [
       "This solution falls short of what we need.",
       "It fails to address the underlying concern."
-    ]
+    ],
+    "translation_de": "Der Vorschlag geht nicht ausreichend auf das zugrunde liegende Problem ein.",
+    "grammar_de": "'Fall short of' + Gerundium bedeutet, nicht genug von etwas zu tun."
   },
   {
     "id": 25,
@@ -967,7 +1088,8 @@
       {
         "w": "factor in",
         "m_en": "to include something when making a decision",
-        "m_ar": "to include something when making a decision"
+        "m_ar": "to include something when making a decision",
+        "m_de": "factor in: bei einer Entscheidung mit einbeziehen"
       }
     ],
     "grammar_en": "Factor in is a phrasal verb meaning include in a calculation.",
@@ -976,18 +1098,22 @@
       {
         "text": "We should account for the extra costs.",
         "note_en": "Formal",
-        "note_ar": "رسمية"
+        "note_ar": "رسمية",
+        "note_de": "Wir sollten die zusätzlichen Kosten berücksichtigen. (Formell)"
       },
       {
         "text": "Let's include the additional expenses in our calculations.",
         "note_en": "Clear",
-        "note_ar": "واضحة"
+        "note_ar": "واضحة",
+        "note_de": "Lassen wir die zusätzlichen Ausgaben in unsere Berechnungen einfließen. (Klar)"
       }
     ],
     "similar": [
       "Don't forget to factor in delivery fees.",
       "We need to account for all expenses."
-    ]
+    ],
+    "translation_de": "Wir sollten die zusätzlichen Kosten vor der Zusage berücksichtigen.",
+    "grammar_de": "'Factor in' ist ein Verb mit Partikel und bedeutet, etwas in eine Berechnung einzubeziehen."
   },
   {
     "id": 26,
@@ -1006,7 +1132,8 @@
       {
         "w": "put my finger on",
         "m_en": "to identify something precisely",
-        "m_ar": "to identify something precisely"
+        "m_ar": "to identify something precisely",
+        "m_de": "put my finger on: etwas genau identifizieren"
       }
     ],
     "grammar_en": "Put my finger on is an idiom meaning identify or explain exactly.",
@@ -1015,18 +1142,22 @@
       {
         "text": "I can't identify the exact reason for the change.",
         "note_en": "Direct",
-        "note_ar": "مباشرة"
+        "note_ar": "مباشرة",
+        "note_de": "Ich kann den genauen Grund für die Veränderung nicht benennen. (Direkt)"
       },
       {
         "text": "I have a sense of what's wrong, but I can't say exactly what.",
         "note_en": "Conversational",
-        "note_ar": "محادثية"
+        "note_ar": "محادثية",
+        "note_de": "Ich habe ein Gefühl, was falsch ist, kann es aber nicht genau sagen. (Umgangssprachlich)"
       }
     ],
     "similar": [
       "I can't quite put my finger on the problem.",
       "Something feels different, but I can't explain why."
-    ]
+    ],
+    "translation_de": "Ich kann nicht genau benennen, warum sich die Ergebnisse verändert haben.",
+    "grammar_de": "'Put my finger on' ist eine Redewendung, die bedeutet, etwas genau zu identifizieren oder zu erklären."
   },
   {
     "id": 27,
@@ -1045,7 +1176,8 @@
       {
         "w": "call into question",
         "m_en": "to make the validity of something doubtful",
-        "m_ar": "to make the validity of something doubtful"
+        "m_ar": "to make the validity of something doubtful",
+        "m_de": "call into question: die Gültigkeit von etwas anzweifeln"
       }
     ],
     "grammar_en": "Call into question is a formal collocation meaning challenge the validity of something.",
@@ -1054,18 +1186,22 @@
       {
         "text": "The findings challenge the assumptions behind the model.",
         "note_en": "Less formal",
-        "note_ar": "أقل رسمية"
+        "note_ar": "أقل رسمية",
+        "note_de": "Die Ergebnisse stellen die Annahmen hinter dem Modell infrage. (Weniger formell)"
       },
       {
         "text": "The evidence casts doubt on the model's assumptions.",
         "note_en": "Academic",
-        "note_ar": "أكاديمية"
+        "note_ar": "أكاديمية",
+        "note_de": "Die Beweise wecken Zweifel an den Annahmen des Modells. (Akademisch)"
       }
     ],
     "similar": [
       "The results call the original theory into question.",
       "The evidence challenges our assumptions."
-    ]
+    ],
+    "translation_de": "Die Ergebnisse stellen die Annahmen infrage, auf denen das ursprüngliche Modell beruht.",
+    "grammar_de": "'Call into question' ist eine formelle Wortkombination, die bedeutet, die Gültigkeit von etwas anzuzweifeln."
   },
   {
     "id": 28,
@@ -1084,7 +1220,8 @@
       {
         "w": "viable",
         "m_en": "able to work successfully in practice",
-        "m_ar": "able to work successfully in practice"
+        "m_ar": "able to work successfully in practice",
+        "m_de": "viable: in der Praxis erfolgreich funktionsfähig"
       }
     ],
     "grammar_en": "Both ... and links two equally important qualities.",
@@ -1093,18 +1230,22 @@
       {
         "text": "We need a solution that can grow and make financial sense.",
         "note_en": "Plain English",
-        "note_ar": "إنجليزية مباشرة"
+        "note_ar": "إنجليزية مباشرة",
+        "note_de": "Wir brauchen eine Lösung, die wachsen kann und finanziell sinnvoll ist. (Einfaches Englisch)"
       },
       {
         "text": "The solution must be scalable as well as cost-effective.",
         "note_en": "Formal",
-        "note_ar": "رسمية"
+        "note_ar": "رسمية",
+        "note_de": "Die Lösung muss skalierbar und kosteneffizient zugleich sein. (Formell)"
       }
     ],
     "similar": [
       "The plan is technically sound but not financially viable.",
       "We need a scalable, sustainable approach."
-    ]
+    ],
+    "translation_de": "Wir brauchen eine Lösung, die sowohl skalierbar als auch finanziell tragfähig ist.",
+    "grammar_de": "'Both ... and' verknüpft zwei gleich wichtige Eigenschaften."
   },
   {
     "id": 29,
@@ -1123,7 +1264,8 @@
       {
         "w": "draw conclusions",
         "m_en": "to reach a judgment based on evidence",
-        "m_ar": "to reach a judgment based on evidence"
+        "m_ar": "to reach a judgment based on evidence",
+        "m_de": "draw conclusions: aufgrund von Beweisen zu einem Urteil kommen"
       }
     ],
     "grammar_en": "Would be reluctant to softens disagreement or hesitation in formal discussion.",
@@ -1132,18 +1274,22 @@
       {
         "text": "I don't think we have enough evidence to conclude yet.",
         "note_en": "Clearer",
-        "note_ar": "أوضح"
+        "note_ar": "أوضح",
+        "note_de": "Ich glaube, wir haben noch nicht genug Belege für eine Schlussfolgerung. (Klarer)"
       },
       {
         "text": "It may be premature to reach a definitive conclusion.",
         "note_en": "Very formal",
-        "note_ar": "رسمية جدًا"
+        "note_ar": "رسمية جدًا",
+        "note_de": "Es könnte verfrüht sein, jetzt schon eine endgültige Schlussfolgerung zu ziehen. (Sehr formell)"
       }
     ],
     "similar": [
       "I would hesitate to draw conclusions so soon.",
       "We need more evidence before reaching a conclusion."
-    ]
+    ],
+    "translation_de": "Ich wäre zurückhaltend, an dieser Stelle schon feste Schlüsse zu ziehen.",
+    "grammar_de": "'Would be reluctant to' mildert Widerspruch oder Zögern in formellen Diskussionen ab."
   },
   {
     "id": 30,
@@ -1162,7 +1308,8 @@
       {
         "w": "nuanced",
         "m_en": "involving subtle differences and details",
-        "m_ar": "involving subtle differences and details"
+        "m_ar": "involving subtle differences and details",
+        "m_de": "nuanced: mit feinen Unterschieden und Details"
       }
     ],
     "grammar_en": "More ... than compares two qualities; had suggested is past perfect for an earlier impression.",
@@ -1171,18 +1318,22 @@
       {
         "text": "The implementation was more complex than we first expected.",
         "note_en": "Simpler",
-        "note_ar": "أبسط"
+        "note_ar": "أبسط",
+        "note_de": "Die Umsetzung war komplexer, als wir zunächst erwartet hatten. (Einfacher)"
       },
       {
         "text": "The initial briefing did not capture the full complexity.",
         "note_en": "Formal",
-        "note_ar": "رسمية"
+        "note_ar": "رسمية",
+        "note_de": "Das erste Briefing erfasste die volle Komplexität nicht. (Formell)"
       }
     ],
     "similar": [
       "The situation is more nuanced than it appears.",
       "The briefing oversimplified the implementation."
-    ]
+    ],
+    "translation_de": "Die Umsetzung war differenzierter, als das erste Briefing vermuten ließ.",
+    "grammar_de": "'More ... than' vergleicht zwei Eigenschaften; 'had suggested' ist Past Perfect für einen früheren Eindruck."
   },
   {
     "id": 31,
@@ -1201,7 +1352,8 @@
       {
         "w": "revisited",
         "m_en": "examined again, usually with fresh evidence",
-        "m_ar": "examined again, usually with fresh evidence"
+        "m_ar": "examined again, usually with fresh evidence",
+        "m_de": "revisited: erneut geprüft, meist mit neuen Erkenntnissen"
       }
     ],
     "grammar_en": "Were ... to is a formal inverted conditional equivalent to If ... were to.",
@@ -1210,18 +1362,22 @@
       {
         "text": "If the assumptions changed, we would need to review the whole forecast.",
         "note_en": "Plain English",
-        "note_ar": "إنجليزية مباشرة"
+        "note_ar": "إنجليزية مباشرة",
+        "note_de": "Wenn sich die Annahmen ändern würden, müssten wir die gesamte Prognose überprüfen. (Einfaches Englisch)"
       },
       {
         "text": "Any change in the assumptions would require a full review of the forecast.",
         "note_en": "Formal",
-        "note_ar": "رسمية"
+        "note_ar": "رسمية",
+        "note_de": "Jede Änderung der Annahmen würde eine vollständige Überprüfung der Prognose erfordern. (Formell)"
       }
     ],
     "similar": [
       "Were circumstances to change, we would adapt the plan.",
       "The forecast would need to be reassessed."
-    ]
+    ],
+    "translation_de": "Sollten sich die Annahmen ändern, müsste die gesamte Prognose überarbeitet werden.",
+    "grammar_de": "'Were ... to' ist ein formeller invertierter Konditionalsatz, gleichbedeutend mit 'If ... were to'."
   },
   {
     "id": 32,
@@ -1240,7 +1396,8 @@
       {
         "w": "notwithstanding",
         "m_en": "despite something",
-        "m_ar": "despite something"
+        "m_ar": "despite something",
+        "m_de": "notwithstanding: trotz etwas"
       }
     ],
     "grammar_en": "Notwithstanding is a formal preposition meaning despite or although.",
@@ -1249,18 +1406,22 @@
       {
         "text": "Although it looks simple, the issue is hard to solve.",
         "note_en": "Natural",
-        "note_ar": "طبيعية"
+        "note_ar": "طبيعية",
+        "note_de": "Obwohl es einfach aussieht, ist das Problem schwer zu lösen. (Natürlich)"
       },
       {
         "text": "Despite its apparent simplicity, the issue remains difficult to resolve.",
         "note_en": "Formal",
-        "note_ar": "رسمية"
+        "note_ar": "رسمية",
+        "note_de": "Trotz seiner scheinbaren Einfachheit bleibt das Problem schwer lösbar. (Formell)"
       }
     ],
     "similar": [
       "Notwithstanding the risks, we proceeded.",
       "Despite its simplicity, the problem is complex."
-    ]
+    ],
+    "translation_de": "Trotz der scheinbaren Einfachheit ist das Problem schwer zu lösen.",
+    "grammar_de": "'Notwithstanding' ist eine formelle Präposition und bedeutet 'trotz' oder 'obwohl'."
   },
   {
     "id": 33,
@@ -1279,7 +1440,8 @@
       {
         "w": "open to debate",
         "m_en": "not settled or agreed upon",
-        "m_ar": "not settled or agreed upon"
+        "m_ar": "not settled or agreed upon",
+        "m_de": "open to debate: nicht geklärt oder vereinbart"
       }
     ],
     "grammar_en": "The extent to which introduces a formal measurement of degree or effect.",
@@ -1288,18 +1450,22 @@
       {
         "text": "It is still unclear how successful this policy will be.",
         "note_en": "Simpler",
-        "note_ar": "أبسط"
+        "note_ar": "أبسط",
+        "note_de": "Es ist noch unklar, wie erfolgreich diese Politik sein wird. (Einfacher)"
       },
       {
         "text": "The policy's eventual effectiveness remains contested.",
         "note_en": "Academic",
-        "note_ar": "أكاديمية"
+        "note_ar": "أكاديمية",
+        "note_de": "Wie wirksam die Politik letztlich sein wird, bleibt umstritten. (Akademisch)"
       }
     ],
     "similar": [
       "The extent to which it helps is still unclear.",
       "Its long-term success remains open to debate."
-    ]
+    ],
+    "translation_de": "Inwieweit diese Politik erfolgreich sein wird, ist noch offen für Debatten.",
+    "grammar_de": "'The extent to which' leitet ein formelles Maß für Grad oder Wirkung ein."
   },
   {
     "id": 34,
@@ -1318,7 +1484,8 @@
       {
         "w": "exacerbated",
         "m_en": "made a problem or conflict worse",
-        "m_ar": "made a problem or conflict worse"
+        "m_ar": "made a problem or conflict worse",
+        "m_de": "exacerbated: ein Problem oder einen Konflikt verschlimmert"
       }
     ],
     "grammar_en": "Far from + gerund contrasts reality with an expected result; exacerbated means made worse.",
@@ -1327,18 +1494,22 @@
       {
         "text": "The statement made the dispute worse instead of solving it.",
         "note_en": "Plain English",
-        "note_ar": "إنجليزية مباشرة"
+        "note_ar": "إنجليزية مباشرة",
+        "note_de": "Die Erklärung hat den Streit verschlimmert, statt ihn zu lösen. (Einfaches Englisch)"
       },
       {
         "text": "Rather than settling the dispute, the statement intensified it.",
         "note_en": "Formal",
-        "note_ar": "رسمية"
+        "note_ar": "رسمية",
+        "note_de": "Statt den Streit beizulegen, hat die Erklärung ihn verschärft. (Formell)"
       }
     ],
     "similar": [
       "Far from helping, the comment made matters worse.",
       "The response exacerbated the conflict."
-    ]
+    ],
+    "translation_de": "Statt den Streit zu lösen, scheint die Erklärung ihn verschärft zu haben.",
+    "grammar_de": "'Far from' + Gerundium stellt die Realität einem erwarteten Ergebnis gegenüber; 'exacerbated' bedeutet 'verschlimmert'."
   },
   {
     "id": 35,
@@ -1357,7 +1528,8 @@
       {
         "w": "nearest",
         "m_en": "closest in distance",
-        "m_ar": "closest in distance"
+        "m_ar": "closest in distance",
+        "m_de": "nearest: am nächsten gelegen"
       }
     ],
     "grammar_en": "Where is + place asks for a location.",
@@ -1366,12 +1538,15 @@
       {
         "text": "How do I get to the train station?",
         "note_en": "Useful alternative",
-        "note_ar": "بديل مفيد"
+        "note_ar": "بديل مفيد",
+        "note_de": "Wie komme ich zum Bahnhof? (Nützliche Alternative)"
       }
     ],
     "similar": [
       "Is the train station far from here?"
-    ]
+    ],
+    "translation_de": "Wo ist der nächste Bahnhof?",
+    "grammar_de": "'Where is' + Ort fragt nach einem Standort."
   },
   {
     "id": 36,
@@ -1390,7 +1565,8 @@
       {
         "w": "check in",
         "m_en": "to register on arrival",
-        "m_ar": "to register on arrival"
+        "m_ar": "to register on arrival",
+        "m_de": "check in: sich bei der Ankunft anmelden"
       }
     ],
     "grammar_en": "I'd like to + verb is a polite way to state what you want.",
@@ -1399,12 +1575,15 @@
       {
         "text": "I need to check in, please.",
         "note_en": "Direct",
-        "note_ar": "مباشرة"
+        "note_ar": "مباشرة",
+        "note_de": "Ich muss bitte einchecken. (Direkt)"
       }
     ],
     "similar": [
       "Could I check in now?"
-    ]
+    ],
+    "translation_de": "Ich möchte bitte einchecken.",
+    "grammar_de": "'I'd like to' + Verb ist eine höfliche Art, zu sagen, was man möchte."
   },
   {
     "id": 37,
@@ -1423,7 +1602,8 @@
       {
         "w": "reservation",
         "m_en": "a booking made in advance",
-        "m_ar": "a booking made in advance"
+        "m_ar": "a booking made in advance",
+        "m_de": "reservation: eine im Voraus getätigte Buchung"
       }
     ],
     "grammar_en": "Would it be possible to is a formal polite request.",
@@ -1432,12 +1612,15 @@
       {
         "text": "Can I change my booking?",
         "note_en": "Less formal",
-        "note_ar": "أقل رسمية"
+        "note_ar": "أقل رسمية",
+        "note_de": "Kann ich meine Buchung ändern? (Weniger formell)"
       }
     ],
     "similar": [
       "I need to modify my reservation."
-    ]
+    ],
+    "translation_de": "Wäre es möglich, meine Reservierung zu ändern?",
+    "grammar_de": "'Would it be possible to' ist eine formelle, höfliche Bitte."
   },
   {
     "id": 38,
@@ -1456,7 +1639,8 @@
       {
         "w": "alternative route",
         "m_en": "a different way to reach a destination",
-        "m_ar": "a different way to reach a destination"
+        "m_ar": "a different way to reach a destination",
+        "m_de": "alternative route: ein anderer Weg zu einem Ziel"
       }
     ],
     "grammar_en": "Were ... to be is a formal inverted conditional.",
@@ -1465,12 +1649,15 @@
       {
         "text": "If our flight were cancelled, we'd need another route.",
         "note_en": "Plain English",
-        "note_ar": "إنجليزية مباشرة"
+        "note_ar": "إنجليزية مباشرة",
+        "note_de": "Wenn unser Flug gestrichen würde, bräuchten wir einen anderen Weg. (Einfaches Englisch)"
       }
     ],
     "similar": [
       "We need a backup plan in case the flight is cancelled."
-    ]
+    ],
+    "translation_de": "Sollte unser Flug gestrichen werden, bräuchten wir eine alternative Route.",
+    "grammar_de": "'Were ... to be' ist ein formeller invertierter Konditionalsatz."
   },
   {
     "id": 39,
@@ -1489,7 +1676,8 @@
       {
         "w": "menu",
         "m_en": "a list of food and drinks",
-        "m_ar": "a list of food and drinks"
+        "m_ar": "a list of food and drinks",
+        "m_de": "menu: eine Liste mit Speisen und Getränken"
       }
     ],
     "grammar_en": "Can I have + noun is a simple request.",
@@ -1498,12 +1686,15 @@
       {
         "text": "Could I see the menu, please?",
         "note_en": "Polite alternative",
-        "note_ar": "بديل مهذب"
+        "note_ar": "بديل مهذب",
+        "note_de": "Könnte ich bitte die Speisekarte sehen? (Höfliche Alternative)"
       }
     ],
     "similar": [
       "Can I have some water, please?"
-    ]
+    ],
+    "translation_de": "Kann ich bitte die Speisekarte haben?",
+    "grammar_de": "'Can I have' + Substantiv ist eine einfache Bitte."
   },
   {
     "id": 40,
@@ -1522,7 +1713,8 @@
       {
         "w": "table for two",
         "m_en": "a table for two people",
-        "m_ar": "a table for two people"
+        "m_ar": "a table for two people",
+        "m_de": "table for two: ein Tisch für zwei Personen"
       }
     ],
     "grammar_en": "I'd like + noun is a polite ordering pattern.",
@@ -1531,12 +1723,15 @@
       {
         "text": "A table for two, please.",
         "note_en": "Short form",
-        "note_ar": "صيغة مختصرة"
+        "note_ar": "صيغة مختصرة",
+        "note_de": "Einen Tisch für zwei, bitte. (Kurzform)"
       }
     ],
     "similar": [
       "Do you have a table available?"
-    ]
+    ],
+    "translation_de": "Ich hätte gerne einen Tisch für zwei.",
+    "grammar_de": "'I'd like' + Substantiv ist ein höfliches Bestellmuster."
   },
   {
     "id": 41,
@@ -1555,7 +1750,8 @@
       {
         "w": "vegetarian",
         "m_en": "made without meat or fish",
-        "m_ar": "made without meat or fish"
+        "m_ar": "made without meat or fish",
+        "m_de": "vegetarian: ohne Fleisch oder Fisch zubereitet"
       }
     ],
     "grammar_en": "Which + noun introduces a choice from a group.",
@@ -1564,12 +1760,15 @@
       {
         "text": "Which dishes don't contain meat?",
         "note_en": "Clearer",
-        "note_ar": "أوضح"
+        "note_ar": "أوضح",
+        "note_de": "Welche Gerichte enthalten kein Fleisch? (Klarer)"
       }
     ],
     "similar": [
       "Do you have any vegetarian options?"
-    ]
+    ],
+    "translation_de": "Könnten Sie mir sagen, welche Gerichte vegetarisch sind?",
+    "grammar_de": "'Which' + Substantiv fragt nach einer Auswahl aus einer Gruppe."
   },
   {
     "id": 42,
@@ -1588,7 +1787,8 @@
       {
         "w": "impeccably",
         "m_en": "perfectly, without mistakes",
-        "m_ar": "perfectly, without mistakes"
+        "m_ar": "perfectly, without mistakes",
+        "m_de": "impeccably: perfekt, ohne Fehler"
       }
     ],
     "grammar_en": "Although introduces a contrast between two observations.",
@@ -1597,12 +1797,15 @@
       {
         "text": "The food looked excellent, but the service varied.",
         "note_en": "Simpler",
-        "note_ar": "أبسط"
+        "note_ar": "أبسط",
+        "note_de": "Das Essen sah hervorragend aus, aber der Service war wechselhaft. (Einfacher)"
       }
     ],
     "similar": [
       "The presentation was flawless despite uneven service."
-    ]
+    ],
+    "translation_de": "Das Essen war tadellos angerichtet, allerdings war der Service unbeständig.",
+    "grammar_de": "'Although' leitet einen Gegensatz zwischen zwei Beobachtungen ein."
   },
   {
     "id": 43,
@@ -1621,7 +1824,8 @@
       {
         "w": "headache",
         "m_en": "pain in your head",
-        "m_ar": "pain in your head"
+        "m_ar": "pain in your head",
+        "m_de": "headache: Schmerzen im Kopf"
       }
     ],
     "grammar_en": "Have + noun describes a symptom or condition.",
@@ -1630,12 +1834,15 @@
       {
         "text": "My head hurts.",
         "note_en": "Common alternative",
-        "note_ar": "بديل شائع"
+        "note_ar": "بديل شائع",
+        "note_de": "Mein Kopf tut weh. (Übliche Alternative)"
       }
     ],
     "similar": [
       "I have a sore throat."
-    ]
+    ],
+    "translation_de": "Ich habe Kopfschmerzen.",
+    "grammar_de": "'Have' + Substantiv beschreibt ein Symptom oder einen Zustand."
   },
   {
     "id": 44,
@@ -1654,7 +1861,8 @@
       {
         "w": "appointment",
         "m_en": "an arranged time to see someone",
-        "m_ar": "an arranged time to see someone"
+        "m_ar": "an arranged time to see someone",
+        "m_de": "appointment: eine vereinbarte Zeit, um jemanden zu treffen"
       }
     ],
     "grammar_en": "Need to + verb expresses necessity.",
@@ -1663,12 +1871,15 @@
       {
         "text": "I'd like to book a doctor's appointment.",
         "note_en": "Polite alternative",
-        "note_ar": "بديل مهذب"
+        "note_ar": "بديل مهذب",
+        "note_de": "Ich möchte gerne einen Arzttermin buchen. (Höfliche Alternative)"
       }
     ],
     "similar": [
       "Can I make an appointment for tomorrow?"
-    ]
+    ],
+    "translation_de": "Ich muss einen Termin beim Arzt vereinbaren.",
+    "grammar_de": "'Need to' + Verb drückt Notwendigkeit aus."
   },
   {
     "id": 45,
@@ -1687,7 +1898,8 @@
       {
         "w": "symptoms",
         "m_en": "signs of an illness",
-        "m_ar": "signs of an illness"
+        "m_ar": "signs of an illness",
+        "m_de": "symptoms: Anzeichen einer Krankheit"
       }
     ],
     "grammar_en": "Seem to have + past participle describes an apparent completed change.",
@@ -1696,12 +1908,15 @@
       {
         "text": "The symptoms appear better than yesterday.",
         "note_en": "Simpler",
-        "note_ar": "أبسط"
+        "note_ar": "أبسط",
+        "note_de": "Die Symptome wirken besser als gestern. (Einfacher)"
       }
     ],
     "similar": [
       "My symptoms have gradually improved."
-    ]
+    ],
+    "translation_de": "Die Symptome scheinen sich seit gestern gebessert zu haben.",
+    "grammar_de": "'Seem to have' + Partizip Perfekt beschreibt eine offenbar abgeschlossene Veränderung."
   },
   {
     "id": 46,
@@ -1720,7 +1935,8 @@
       {
         "w": "persistent",
         "m_en": "continuing for a long time",
-        "m_ar": "continuing for a long time"
+        "m_ar": "continuing for a long time",
+        "m_de": "persistent: lange anhaltend"
       }
     ],
     "grammar_en": "Warrant is a formal verb meaning deserve or require.",
@@ -1729,12 +1945,15 @@
       {
         "text": "If symptoms continue, speak to a doctor.",
         "note_en": "Plain English",
-        "note_ar": "إنجليزية مباشرة"
+        "note_ar": "إنجليزية مباشرة",
+        "note_de": "Wenn die Symptome anhalten, sprechen Sie mit einem Arzt. (Einfaches Englisch)"
       }
     ],
     "similar": [
       "Persistent pain should be assessed by a professional."
-    ]
+    ],
+    "translation_de": "Anhaltende Symptome rechtfertigen fachärztlichen Rat.",
+    "grammar_de": "'Warrant' ist ein formelles Verb und bedeutet 'verdienen' oder 'erfordern'."
   },
   {
     "id": 47,
@@ -1753,7 +1972,8 @@
       {
         "w": "class",
         "m_en": "a lesson or course",
-        "m_ar": "a lesson or course"
+        "m_ar": "a lesson or course",
+        "m_de": "class: eine Unterrichtsstunde oder ein Kurs"
       }
     ],
     "grammar_en": "Have + class names a scheduled lesson.",
@@ -1762,12 +1982,15 @@
       {
         "text": "My English lesson is on Monday.",
         "note_en": "Alternative",
-        "note_ar": "بديل"
+        "note_ar": "بديل",
+        "note_de": "Meine Englischstunde ist am Montag. (Alternative)"
       }
     ],
     "similar": [
       "I have math class tomorrow."
-    ]
+    ],
+    "translation_de": "Ich habe montags Englischunterricht.",
+    "grammar_de": "'Have' + Unterricht bezeichnet eine geplante Stunde."
   },
   {
     "id": 48,
@@ -1786,7 +2009,8 @@
       {
         "w": "explain",
         "m_en": "to make something clear",
-        "m_ar": "to make something clear"
+        "m_ar": "to make something clear",
+        "m_de": "explain: etwas verständlich machen"
       }
     ],
     "grammar_en": "Could you + verb makes a polite request.",
@@ -1795,12 +2019,15 @@
       {
         "text": "What does this word mean?",
         "note_en": "Common alternative",
-        "note_ar": "بديل شائع"
+        "note_ar": "بديل شائع",
+        "note_de": "Was bedeutet dieses Wort? (Übliche Alternative)"
       }
     ],
     "similar": [
       "Could you explain this grammar rule?"
-    ]
+    ],
+    "translation_de": "Könnten Sie dieses Wort bitte erklären?",
+    "grammar_de": "'Could you' + Verb ist eine höfliche Bitte."
   },
   {
     "id": 49,
@@ -1819,7 +2046,8 @@
       {
         "w": "keep up with",
         "m_en": "to stay at the same pace as something",
-        "m_ar": "to stay at the same pace as something"
+        "m_ar": "to stay at the same pace as something",
+        "m_de": "keep up with: mit etwas im gleichen Tempo bleiben"
       }
     ],
     "grammar_en": "Struggle to + verb describes difficulty doing something.",
@@ -1828,12 +2056,15 @@
       {
         "text": "I found it hard to finish all the reading.",
         "note_en": "Simpler",
-        "note_ar": "أبسط"
+        "note_ar": "أبسط",
+        "note_de": "Ich fand es schwer, alles zu lesen. (Einfacher)"
       }
     ],
     "similar": [
       "She struggled to keep up with the course."
-    ]
+    ],
+    "translation_de": "Ich hatte Mühe, mit den Leseaufgaben Schritt zu halten.",
+    "grammar_de": "'Struggle to' + Verb beschreibt Schwierigkeiten, etwas zu tun."
   },
   {
     "id": 50,
@@ -1852,7 +2083,8 @@
       {
         "w": "foster",
         "m_en": "to encourage development",
-        "m_ar": "to encourage development"
+        "m_ar": "to encourage development",
+        "m_de": "foster: die Entwicklung fördern"
       }
     ],
     "grammar_en": "Be designed to + verb explains purpose; foster means encourage growth.",
@@ -1861,12 +2093,15 @@
       {
         "text": "The course helps students think critically on their own.",
         "note_en": "Plain English",
-        "note_ar": "إنجليزية مباشرة"
+        "note_ar": "إنجليزية مباشرة",
+        "note_de": "Der Kurs hilft Studierenden, selbstständig kritisch zu denken. (Einfaches Englisch)"
       }
     ],
     "similar": [
       "The program fosters independent learning."
-    ]
+    ],
+    "translation_de": "Der Kurs soll unabhängiges kritisches Denken fördern.",
+    "grammar_de": "'Be designed to' + Verb erklärt den Zweck; 'foster' bedeutet 'fördern'."
   },
   {
     "id": 51,
@@ -1885,7 +2120,8 @@
       {
         "w": "upstairs",
         "m_en": "on a higher floor",
-        "m_ar": "on a higher floor"
+        "m_ar": "on a higher floor",
+        "m_de": "upstairs: auf einem höheren Stockwerk"
       }
     ],
     "grammar_en": "Be + place phrase gives a simple location.",
@@ -1894,12 +2130,15 @@
       {
         "text": "My bedroom is on the second floor.",
         "note_en": "Alternative",
-        "note_ar": "بديل"
+        "note_ar": "بديل",
+        "note_de": "Mein Schlafzimmer ist im zweiten Stock. (Alternative)"
       }
     ],
     "similar": [
       "The bathroom is downstairs."
-    ]
+    ],
+    "translation_de": "Mein Zimmer ist oben.",
+    "grammar_de": "'Be' + Ortsangabe gibt eine einfache Lage an."
   },
   {
     "id": 52,
@@ -1918,7 +2157,8 @@
       {
         "w": "tidy up",
         "m_en": "to make a place neat",
-        "m_ar": "to make a place neat"
+        "m_ar": "to make a place neat",
+        "m_de": "tidy up: einen Ort aufräumen"
       }
     ],
     "grammar_en": "Before + present simple refers to a future event after a time word.",
@@ -1927,12 +2167,15 @@
       {
         "text": "I need to clean up before they come.",
         "note_en": "Common alternative",
-        "note_ar": "بديل شائع"
+        "note_ar": "بديل شائع",
+        "note_de": "Ich muss aufräumen, bevor sie kommen. (Übliche Alternative)"
       }
     ],
     "similar": [
       "Let's tidy up the living room."
-    ]
+    ],
+    "translation_de": "Ich muss aufräumen, bevor die Gäste kommen.",
+    "grammar_de": "'Before' + Präsens bezieht sich auf ein zukünftiges Ereignis nach einer Zeitangabe."
   },
   {
     "id": 53,
@@ -1951,7 +2194,8 @@
       {
         "w": "malfunctioning",
         "m_en": "not working correctly",
-        "m_ar": "not working correctly"
+        "m_ar": "not working correctly",
+        "m_de": "malfunctioning: nicht richtig funktionierend"
       }
     ],
     "grammar_en": "Appears to be + -ing describes an apparent ongoing situation.",
@@ -1960,12 +2204,15 @@
       {
         "text": "It looks like the heating isn't working properly.",
         "note_en": "Plain English",
-        "note_ar": "إنجليزية مباشرة"
+        "note_ar": "إنجليزية مباشرة",
+        "note_de": "Es sieht so aus, als würde die Heizung nicht richtig funktionieren. (Einfaches Englisch)"
       }
     ],
     "similar": [
       "The heating system seems to have stopped working."
-    ]
+    ],
+    "translation_de": "Die Heizung scheint nicht richtig zu funktionieren.",
+    "grammar_de": "'Appears to be' + -ing beschreibt einen offenbar andauernden Zustand."
   },
   {
     "id": 54,
@@ -1984,7 +2231,8 @@
       {
         "w": "cramped",
         "m_en": "too small and lacking space",
-        "m_ar": "too small and lacking space"
+        "m_ar": "too small and lacking space",
+        "m_de": "cramped: zu klein und beengt"
       }
     ],
     "grammar_en": "What was once refers to a past state that is no longer true.",
@@ -1993,12 +2241,15 @@
       {
         "text": "The renovation made the small living room feel completely different.",
         "note_en": "Simpler",
-        "note_ar": "أبسط"
+        "note_ar": "أبسط",
+        "note_de": "Die Renovierung hat das kleine Wohnzimmer völlig verändert. (Einfacher)"
       }
     ],
     "similar": [
       "The project transformed the old apartment."
-    ]
+    ],
+    "translation_de": "Die Renovierung hat aus dem einst engen Wohnraum etwas völlig Neues gemacht.",
+    "grammar_de": "'What was once' bezieht sich auf einen früheren Zustand, der nicht mehr zutrifft."
   },
   {
     "id": 55,
@@ -2017,7 +2268,8 @@
       {
         "w": "name",
         "m_en": "the word people use to identify you",
-        "m_ar": "the word people use to identify you"
+        "m_ar": "the word people use to identify you",
+        "m_de": "name: das Wort, mit dem man dich identifiziert"
       }
     ],
     "grammar_en": "What's + possessive noun is a common question pattern.",
@@ -2026,12 +2278,15 @@
       {
         "text": "May I ask your name?",
         "note_en": "More polite",
-        "note_ar": "أكثر تهذيبًا"
+        "note_ar": "أكثر تهذيبًا",
+        "note_de": "Darf ich nach Ihrem Namen fragen? (Höflicher)"
       }
     ],
     "similar": [
       "My name is Ahmed."
-    ]
+    ],
+    "translation_de": "Wie heißt du?",
+    "grammar_de": "'What's' + besitzanzeigendes Substantiv ist ein übliches Fragemuster."
   },
   {
     "id": 56,
@@ -2050,7 +2305,8 @@
       {
         "w": "talking",
         "m_en": "speaking with someone",
-        "m_ar": "speaking with someone"
+        "m_ar": "speaking with someone",
+        "m_de": "talking: mit jemandem sprechen"
       }
     ],
     "grammar_en": "It was nice + gerund describes a pleasant past experience.",
@@ -2059,12 +2315,15 @@
       {
         "text": "It was great to meet you.",
         "note_en": "Common alternative",
-        "note_ar": "بديل شائع"
+        "note_ar": "بديل شائع",
+        "note_de": "Es war schön, dich kennenzulernen. (Übliche Alternative)"
       }
     ],
     "similar": [
       "Nice talking to you. Have a good day."
-    ]
+    ],
+    "translation_de": "Es war nett, mit dir zu reden.",
+    "grammar_de": "'It was nice' + Gerundium beschreibt eine angenehme vergangene Erfahrung."
   },
   {
     "id": 57,
@@ -2083,7 +2342,8 @@
       {
         "w": "where you're coming from",
         "m_en": "someone's perspective or motivation",
-        "m_ar": "someone's perspective or motivation"
+        "m_ar": "someone's perspective or motivation",
+        "m_de": "where you're coming from: jemandes Perspektive oder Beweggrund"
       }
     ],
     "grammar_en": "I see where you're coming from acknowledges someone's perspective.",
@@ -2092,12 +2352,15 @@
       {
         "text": "I understand your point, although I see it differently.",
         "note_en": "Formal",
-        "note_ar": "رسمية"
+        "note_ar": "رسمية",
+        "note_de": "Ich verstehe deinen Punkt, sehe ihn aber anders. (Formell)"
       }
     ],
     "similar": [
       "I see your point, but I disagree."
-    ]
+    ],
+    "translation_de": "Ich verstehe deinen Standpunkt, aber ich sehe das etwas anders.",
+    "grammar_de": "'I see where you're coming from' erkennt jemandes Perspektive an."
   },
   {
     "id": 58,
@@ -2116,7 +2379,8 @@
       {
         "w": "candid",
         "m_en": "honest and direct",
-        "m_ar": "honest and direct"
+        "m_ar": "honest and direct",
+        "m_de": "candid: ehrlich und direkt"
       }
     ],
     "grammar_en": "Shifted from ... to ... describes a gradual change between topics or states.",
@@ -2125,12 +2389,15 @@
       {
         "text": "The casual conversation slowly became surprisingly honest.",
         "note_en": "Simpler",
-        "note_ar": "أبسط"
+        "note_ar": "أبسط",
+        "note_de": "Das lockere Gespräch wurde langsam überraschend ehrlich. (Einfacher)"
       }
     ],
     "similar": [
       "The discussion developed into a candid exchange."
-    ]
+    ],
+    "translation_de": "Das Gespräch wandelte sich allmählich von Small Talk zu einem überraschend offenen Austausch.",
+    "grammar_de": "'Shifted from ... to ...' beschreibt einen allmählichen Wechsel zwischen Themen oder Zuständen."
   },
   {
     "id": 59,
@@ -2149,7 +2416,8 @@
       {
         "w": "price",
         "m_en": "the amount of money something costs",
-        "m_ar": "the amount of money something costs"
+        "m_ar": "the amount of money something costs",
+        "m_de": "price: der Betrag, den etwas kostet"
       }
     ],
     "grammar_en": "How much is + noun asks about price.",
@@ -2158,12 +2426,15 @@
       {
         "text": "How much does this shirt cost?",
         "note_en": "Alternative",
-        "note_ar": "بديل"
+        "note_ar": "بديل",
+        "note_de": "Wie viel kostet dieses Hemd? (Alternative)"
       }
     ],
     "similar": [
       "Is this shirt on sale?"
-    ]
+    ],
+    "translation_de": "Wie viel kostet dieses Hemd?",
+    "grammar_de": "'How much is' + Substantiv fragt nach dem Preis."
   },
   {
     "id": 60,
@@ -2182,7 +2453,8 @@
       {
         "w": "comfortable",
         "m_en": "pleasant to wear or use",
-        "m_ar": "pleasant to wear or use"
+        "m_ar": "pleasant to wear or use",
+        "m_de": "comfortable: angenehm zu tragen oder zu benutzen"
       }
     ],
     "grammar_en": "I'm looking for + noun explains what you want to find.",
@@ -2191,12 +2463,15 @@
       {
         "text": "Do you have any comfortable shoes?",
         "note_en": "Direct",
-        "note_ar": "مباشرة"
+        "note_ar": "مباشرة",
+        "note_de": "Haben Sie bequeme Schuhe? (Direkt)"
       }
     ],
     "similar": [
       "I'm looking for a gift for my sister."
-    ]
+    ],
+    "translation_de": "Ich suche ein Paar bequeme Schuhe.",
+    "grammar_de": "'I'm looking for' + Substantiv erklärt, was man finden möchte."
   },
   {
     "id": 61,
