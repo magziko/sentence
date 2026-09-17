@@ -13968,5 +13968,1565 @@
       "I need it a little quieter for this call.",
       "Would you mind keeping the noise down?"
     ]
+  },
+  {
+    "id": 506,
+    "text": "I twisted my ankle during practice yesterday.",
+    "translation_ar": "لويت كاحلي أثناء التدريب أمس.",
+    "level": "A2",
+    "situation": "sports",
+    "variety": "CA",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (Canada)",
+    "timestamp": 202,
+    "videoId": null,
+    "transcriptContext": "I twisted my ankle during practice yesterday, so I'm resting it today.",
+    "pronunciation": "I twisted my ankle during practice yesterday.",
+    "words": [
+      {
+        "w": "twist (an ankle)",
+        "m_en": "to injure a joint by turning it awkwardly",
+        "m_ar": "إصابة مفصل نتيجة التوائه بشكل خاطئ"
+      }
+    ],
+    "grammar_en": "Simple past (twisted) — describing a completed past event.",
+    "grammar_ar": "الماضي البسيط (twisted) — لوصف حدث مكتمل في الماضي.",
+    "alternatives": [
+      {
+        "text": "I hurt my ankle at practice yesterday.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "My ankle got twisted during yesterday's practice.",
+        "note_en": "Passive, reworded",
+        "note_ar": "مبني للمجهول، معاد صياغته"
+      }
+    ],
+    "similar": [
+      "I pulled a muscle during the game.",
+      "She sprained her wrist last week.",
+      "He injured his knee in training."
+    ]
+  },
+  {
+    "id": 507,
+    "text": "Let's set a goal to run five kilometers by next month.",
+    "translation_ar": "لنضع هدفًا للجري خمسة كيلومترات بحلول الشهر القادم.",
+    "level": "B1",
+    "situation": "sports",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 219,
+    "videoId": null,
+    "transcriptContext": "Let's set a goal to run five kilometers by next month and track our progress.",
+    "pronunciation": "Let's set a goal to run five kilometers by next month.",
+    "words": [
+      {
+        "w": "set a goal",
+        "m_en": "to decide on something you want to achieve",
+        "m_ar": "تحديد أمر تريد تحقيقه"
+      }
+    ],
+    "grammar_en": "Let's + verb — a suggestion that includes both speaker and listener.",
+    "grammar_ar": "Let's + فعل — اقتراح يشمل المتحدث والمستمع معًا.",
+    "alternatives": [
+      {
+        "text": "Let's aim to run five kilometers within a month.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "How about setting a five-kilometer goal for next month?",
+        "note_en": "Reworded as a question",
+        "note_ar": "معاد صياغته كسؤال"
+      }
+    ],
+    "similar": [
+      "Let's aim for a personal best this season.",
+      "Let's try to improve our time each week.",
+      "Let's set a target for the next race."
+    ]
+  },
+  {
+    "id": 508,
+    "text": "The referee's decision sparked a lot of controversy.",
+    "translation_ar": "أثار قرار الحكم الكثير من الجدل.",
+    "level": "B2",
+    "situation": "sports",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 236,
+    "videoId": null,
+    "transcriptContext": "The referee's decision sparked a lot of controversy among fans and pundits alike.",
+    "pronunciation": "The referee's decision sparked a lot of controversy.",
+    "words": [
+      {
+        "w": "spark controversy",
+        "m_en": "to cause disagreement or public debate",
+        "m_ar": "التسبب في خلاف أو جدل عام"
+      }
+    ],
+    "grammar_en": "Spark + noun — a verb used to describe something triggering a strong reaction.",
+    "grammar_ar": "Spark + اسم — فعل يُستخدم لوصف شيء يثير ردة فعل قوية.",
+    "alternatives": [
+      {
+        "text": "The referee's call caused a lot of debate.",
+        "note_en": "Simpler phrasing",
+        "note_ar": "صياغة أبسط"
+      },
+      {
+        "text": "Fans were divided over the referee's decision.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "The decision triggered widespread criticism.",
+      "The call caused an uproar among supporters.",
+      "The ruling stirred up a heated debate."
+    ]
+  },
+  {
+    "id": 509,
+    "text": "Recovery is just as crucial to progress as the training itself.",
+    "translation_ar": "التعافي لا يقل أهمية عن التدريب نفسه بالنسبة للتقدم.",
+    "level": "C1",
+    "situation": "sports",
+    "variety": "AU",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (Australia)",
+    "timestamp": 13,
+    "videoId": null,
+    "transcriptContext": "Recovery is just as crucial to progress as the training itself, yet it's often overlooked.",
+    "pronunciation": "Recovery is just as crucial to progress as the training itself.",
+    "words": [
+      {
+        "w": "crucial",
+        "m_en": "extremely important, essential",
+        "m_ar": "مهم للغاية وضروري"
+      }
+    ],
+    "grammar_en": "As ... as — a comparative structure showing that two things are equally important.",
+    "grammar_ar": "As ... as — تركيب مقارنة يوضح أن أمرين لهما نفس الأهمية.",
+    "alternatives": [
+      {
+        "text": "Recovery matters just as much as the training itself.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Without proper recovery, training alone isn't enough.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "Sleep is just as important as diet for performance.",
+      "Rest days are as essential as workout days.",
+      "Nutrition matters just as much as the exercise routine."
+    ]
+  },
+  {
+    "id": 510,
+    "text": "I don't check my phone as soon as I wake up anymore.",
+    "translation_ar": "لم أعد أتفقد هاتفي فور استيقاظي بعد الآن.",
+    "level": "B1",
+    "situation": "social-media",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 30,
+    "videoId": null,
+    "transcriptContext": "I don't check my phone as soon as I wake up anymore — it helps me start the day calmer.",
+    "pronunciation": "I don't check my phone as soon as I wake up anymore.",
+    "words": [
+      {
+        "w": "anymore",
+        "m_en": "any longer; used to describe something that has stopped happening",
+        "m_ar": "لم يعد يحدث بعد الآن"
+      }
+    ],
+    "grammar_en": "Not ... anymore — indicating a change from a past habit.",
+    "grammar_ar": "Not ... anymore — للإشارة إلى تغيّر عن عادة سابقة.",
+    "alternatives": [
+      {
+        "text": "I've stopped checking my phone right after waking up.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      },
+      {
+        "text": "I no longer look at my phone first thing in the morning.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      }
+    ],
+    "similar": [
+      "I don't scroll before bed anymore.",
+      "She doesn't post as often as she used to.",
+      "We don't use that app anymore."
+    ]
+  },
+  {
+    "id": 511,
+    "text": "The comments section got pretty heated after that post.",
+    "translation_ar": "أصبح قسم التعليقات ساخنًا جدًا بعد ذلك المنشور.",
+    "level": "B2",
+    "situation": "social-media",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 47,
+    "videoId": null,
+    "transcriptContext": "The comments section got pretty heated after that post about the new policy.",
+    "pronunciation": "The comments section got pretty heated after that post.",
+    "words": [
+      {
+        "w": "heated",
+        "m_en": "involving strong emotions or disagreement",
+        "m_ar": "يتضمن مشاعر قوية أو خلافًا"
+      }
+    ],
+    "grammar_en": "Get + adjective — describing a change in state or condition.",
+    "grammar_ar": "Get + صفة — لوصف تغيّر في الحالة.",
+    "alternatives": [
+      {
+        "text": "The comments turned pretty intense after that post.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "That post led to a heated discussion in the comments.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "The discussion online got quite tense.",
+      "Things got a bit heated in the group chat.",
+      "The debate escalated quickly in the replies."
+    ]
+  },
+  {
+    "id": 512,
+    "text": "Influencer marketing has become a significant part of our budget.",
+    "translation_ar": "أصبح التسويق عبر المؤثرين جزءًا كبيرًا من ميزانيتنا.",
+    "level": "C1",
+    "situation": "social-media",
+    "variety": "US",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (US)",
+    "timestamp": 64,
+    "videoId": null,
+    "transcriptContext": "Influencer marketing has become a significant part of our budget over the last two years.",
+    "pronunciation": "Influencer marketing has become a significant part of our budget.",
+    "words": [
+      {
+        "w": "significant",
+        "m_en": "large enough to be important or noticeable",
+        "m_ar": "كبير بما يكفي ليكون مهمًا أو ملحوظًا"
+      }
+    ],
+    "grammar_en": "Present perfect (has become) — describing a gradual change with present relevance.",
+    "grammar_ar": "المضارع التام (has become) — لوصف تغيّر تدريجي له صلة بالحاضر.",
+    "alternatives": [
+      {
+        "text": "We now spend a large part of our budget on influencer marketing.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      },
+      {
+        "text": "Influencer marketing now makes up a large share of our spending.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      }
+    ],
+    "similar": [
+      "Digital ads now account for most of our marketing spend.",
+      "Content creation has become a key part of our strategy.",
+      "Social media now drives most of our new customers."
+    ]
+  },
+  {
+    "id": 513,
+    "text": "She's studying for her final exams this week.",
+    "translation_ar": "تدرس لامتحاناتها النهائية هذا الأسبوع.",
+    "level": "A2",
+    "situation": "education",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 81,
+    "videoId": null,
+    "transcriptContext": "She's studying for her final exams this week, so she's not going out much.",
+    "pronunciation": "She's studying for her final exams this week.",
+    "words": [
+      {
+        "w": "study for",
+        "m_en": "to prepare for a test or exam by learning material",
+        "m_ar": "الاستعداد لاختبار عن طريق مذاكرة المادة"
+      }
+    ],
+    "grammar_en": "Present continuous — describing a temporary action happening around now.",
+    "grammar_ar": "المضارع المستمر — لوصف فعل مؤقت يحدث في الوقت الحالي.",
+    "alternatives": [
+      {
+        "text": "She's preparing for her finals this week.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "This week she's focused on studying for her exams.",
+        "note_en": "Reordered",
+        "note_ar": "إعادة ترتيب"
+      }
+    ],
+    "similar": [
+      "He's reviewing his notes before the test.",
+      "They're preparing for their midterms.",
+      "I'm studying hard for the entrance exam."
+    ]
+  },
+  {
+    "id": 514,
+    "text": "The curriculum was revised to include more practical training.",
+    "translation_ar": "تمت مراجعة المنهج ليشمل تدريبًا عمليًا أكثر.",
+    "level": "C1",
+    "situation": "education",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 98,
+    "videoId": null,
+    "transcriptContext": "The curriculum was revised to include more practical training based on student feedback.",
+    "pronunciation": "The curriculum was revised to include more practical training.",
+    "words": [
+      {
+        "w": "revise",
+        "m_en": "to change something in order to improve or update it",
+        "m_ar": "تغيير شيء ما بهدف تحسينه أو تحديثه"
+      }
+    ],
+    "grammar_en": "Passive voice (was revised) — focusing on the change rather than who made it.",
+    "grammar_ar": "المبني للمجهول (was revised) — للتركيز على التغيير وليس من قام به.",
+    "alternatives": [
+      {
+        "text": "They updated the curriculum to include more hands-on training.",
+        "note_en": "Active voice",
+        "note_ar": "المبني للمعلوم"
+      },
+      {
+        "text": "More practical training was added to the curriculum.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "The syllabus was updated for the new term.",
+      "The course was redesigned to be more interactive.",
+      "The program now includes more real-world projects."
+    ]
+  },
+  {
+    "id": 515,
+    "text": "We're repainting the living room this weekend.",
+    "translation_ar": "سنعيد طلاء غرفة المعيشة هذا الأسبوع.",
+    "level": "A2",
+    "situation": "home",
+    "variety": "CA",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (Canada)",
+    "timestamp": 115,
+    "videoId": null,
+    "transcriptContext": "We're repainting the living room this weekend — do you have any color suggestions?",
+    "pronunciation": "We're repainting the living room this weekend.",
+    "words": [
+      {
+        "w": "repaint",
+        "m_en": "to paint something again, usually a different color",
+        "m_ar": "إعادة طلاء شيء ما، عادة بلون مختلف"
+      }
+    ],
+    "grammar_en": "Present continuous for planned future events.",
+    "grammar_ar": "المضارع المستمر للتعبير عن أحداث مستقبلية مُخطّط لها.",
+    "alternatives": [
+      {
+        "text": "We're planning to repaint the living room this weekend.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "The living room is getting a new coat of paint this weekend.",
+        "note_en": "Passive, reworded",
+        "note_ar": "مبني للمجهول، معاد صياغته"
+      }
+    ],
+    "similar": [
+      "We're rearranging the furniture this weekend.",
+      "They're redecorating the guest room.",
+      "We're planning to change the curtains next week."
+    ]
+  },
+  {
+    "id": 516,
+    "text": "The landlord agreed to fix the heating by Friday.",
+    "translation_ar": "وافق المالك على إصلاح التدفئة بحلول يوم الجمعة.",
+    "level": "B1",
+    "situation": "home",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 132,
+    "videoId": null,
+    "transcriptContext": "The landlord agreed to fix the heating by Friday after we called twice.",
+    "pronunciation": "The landlord agreed to fix the heating by Friday.",
+    "words": [
+      {
+        "w": "agree to",
+        "m_en": "to say yes to doing something",
+        "m_ar": "الموافقة على القيام بشيء ما"
+      }
+    ],
+    "grammar_en": "Agree to + verb — reporting that someone consented to an action.",
+    "grammar_ar": "Agree to + فعل — للإخبار بموافقة شخص على فعل ما.",
+    "alternatives": [
+      {
+        "text": "The landlord promised to fix the heating by Friday.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "The heating will be fixed by Friday, the landlord said.",
+        "note_en": "Passive, reworded",
+        "note_ar": "مبني للمجهول، معاد صياغته"
+      }
+    ],
+    "similar": [
+      "The contractor agreed to finish by next week.",
+      "He agreed to replace the broken window.",
+      "They agreed to send someone tomorrow."
+    ]
+  },
+  {
+    "id": 517,
+    "text": "Do you have this in a smaller size?",
+    "translation_ar": "هل لديكم هذا بمقاس أصغر؟",
+    "level": "A1",
+    "situation": "shopping",
+    "variety": "US",
+    "channel": "Customer Care Practice",
+    "speaker": "Native speaker (US)",
+    "timestamp": 149,
+    "videoId": null,
+    "transcriptContext": "This looks great — do you have this in a smaller size?",
+    "pronunciation": "Do you have this in a smaller size?",
+    "words": [
+      {
+        "w": "size",
+        "m_en": "the measurement of clothing or an item",
+        "m_ar": "قياس الملابس أو الأغراض"
+      }
+    ],
+    "grammar_en": "Do you have + noun — a simple, common way of asking about availability.",
+    "grammar_ar": "Do you have + اسم — طريقة بسيطة وشائعة للسؤال عن التوفر.",
+    "alternatives": [
+      {
+        "text": "Is this available in a smaller size?",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Could I get this in a smaller size?",
+        "note_en": "Slightly more polite",
+        "note_ar": "أكثر تهذيبًا قليلًا"
+      }
+    ],
+    "similar": [
+      "Do you have this in blue?",
+      "Is there a larger size available?",
+      "Do you carry this in a different color?"
+    ]
+  },
+  {
+    "id": 518,
+    "text": "I ended up returning it because it didn't fit.",
+    "translation_ar": "انتهى بي الأمر بإرجاعه لأنه لم يكن مناسبًا للمقاس.",
+    "level": "B1",
+    "situation": "shopping",
+    "variety": "AU",
+    "channel": "Customer Care Practice",
+    "speaker": "Native speaker (Australia)",
+    "timestamp": 166,
+    "videoId": null,
+    "transcriptContext": "I ended up returning it because it didn't fit properly.",
+    "pronunciation": "I ended up returning it because it didn't fit.",
+    "words": [
+      {
+        "w": "end up",
+        "m_en": "to eventually do something, often unplanned",
+        "m_ar": "القيام بشيء ما في النهاية، غالبًا دون تخطيط مسبق"
+      }
+    ],
+    "grammar_en": "End up + gerund — describing an eventual, sometimes unexpected, outcome.",
+    "grammar_ar": "End up + مصدر مؤول (gerund) — لوصف نتيجة نهائية، وأحيانًا غير متوقعة.",
+    "alternatives": [
+      {
+        "text": "I had to return it in the end because it didn't fit.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      },
+      {
+        "text": "It didn't fit, so I returned it.",
+        "note_en": "Simpler phrasing",
+        "note_ar": "صياغة أبسط"
+      }
+    ],
+    "similar": [
+      "I ended up exchanging it for a different size.",
+      "She ended up buying a different brand instead.",
+      "We ended up canceling the order."
+    ]
+  },
+  {
+    "id": 519,
+    "text": "My laptop keeps freezing when I open too many tabs.",
+    "translation_ar": "يتجمّد حاسوبي المحمول عندما أفتح عددًا كبيرًا من التبويبات.",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "US",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (US)",
+    "timestamp": 183,
+    "videoId": null,
+    "transcriptContext": "My laptop keeps freezing when I open too many tabs at once.",
+    "pronunciation": "My laptop keeps freezing when I open too many tabs.",
+    "words": [
+      {
+        "w": "freeze",
+        "m_en": "to stop responding or working temporarily, used for devices",
+        "m_ar": "التوقف عن الاستجابة أو العمل مؤقتًا، تُستخدم للأجهزة"
+      }
+    ],
+    "grammar_en": "Keep + gerund — describing a repeated or continuous problem.",
+    "grammar_ar": "Keep + مصدر مؤول (gerund) — لوصف مشكلة متكررة أو مستمرة.",
+    "alternatives": [
+      {
+        "text": "My laptop keeps crashing with too many tabs open.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Whenever I open too many tabs, my laptop freezes.",
+        "note_en": "Reordered",
+        "note_ar": "إعادة ترتيب"
+      }
+    ],
+    "similar": [
+      "My phone keeps restarting on its own.",
+      "The app keeps crashing when I upload photos.",
+      "My computer keeps lagging during video calls."
+    ]
+  },
+  {
+    "id": 520,
+    "text": "The new feature is still in beta, so expect a few bugs.",
+    "translation_ar": "الميزة الجديدة لا تزال في مرحلة الاختبار، لذا توقع بعض الأخطاء.",
+    "level": "B2",
+    "situation": "technology",
+    "variety": "US",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (US)",
+    "timestamp": 200,
+    "videoId": null,
+    "transcriptContext": "The new feature is still in beta, so expect a few bugs before the full release.",
+    "pronunciation": "The new feature is still in beta, so expect a few bugs.",
+    "words": [
+      {
+        "w": "beta",
+        "m_en": "an early testing version of software before its full release",
+        "m_ar": "نسخة اختبارية مبكرة من برنامج قبل إصداره الكامل"
+      }
+    ],
+    "grammar_en": "So + clause — introducing a consequence or expectation based on a stated fact.",
+    "grammar_ar": "So + جملة — لتقديم نتيجة أو توقّع بناءً على حقيقة مذكورة.",
+    "alternatives": [
+      {
+        "text": "Since it's still in beta, there might be a few bugs.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      },
+      {
+        "text": "It's an early version, so a few issues are expected.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      }
+    ],
+    "similar": [
+      "The app is still under development, so some features are missing.",
+      "It's a preview version, so performance may vary.",
+      "This is an early build, so expect some rough edges."
+    ]
+  },
+  {
+    "id": 521,
+    "text": "I usually take the metro to avoid traffic.",
+    "translation_ar": "عادةً آخذ المترو لتجنب الازدحام.",
+    "level": "A2",
+    "situation": "transport",
+    "variety": "CA",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (Canada)",
+    "timestamp": 217,
+    "videoId": null,
+    "transcriptContext": "I usually take the metro to avoid traffic during rush hour.",
+    "pronunciation": "I usually take the metro to avoid traffic.",
+    "words": [
+      {
+        "w": "take (transport)",
+        "m_en": "to travel using a particular method of transport",
+        "m_ar": "التنقل باستخدام وسيلة نقل معينة"
+      }
+    ],
+    "grammar_en": "Usually + present simple — describing a habitual choice.",
+    "grammar_ar": "Usually + المضارع البسيط — لوصف اختيار معتاد.",
+    "alternatives": [
+      {
+        "text": "I generally use the metro to skip traffic.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "To avoid traffic, I usually go by metro.",
+        "note_en": "Reordered",
+        "note_ar": "إعادة ترتيب"
+      }
+    ],
+    "similar": [
+      "I usually cycle to work in summer.",
+      "She usually drives unless it's raining.",
+      "We normally take the bus downtown."
+    ]
+  },
+  {
+    "id": 522,
+    "text": "Fuel prices have gone up significantly this quarter.",
+    "translation_ar": "ارتفعت أسعار الوقود بشكل كبير هذا الربع.",
+    "level": "B2",
+    "situation": "transport",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 234,
+    "videoId": null,
+    "transcriptContext": "Fuel prices have gone up significantly this quarter, affecting delivery costs.",
+    "pronunciation": "Fuel prices have gone up significantly this quarter.",
+    "words": [
+      {
+        "w": "significantly",
+        "m_en": "by a large or important amount",
+        "m_ar": "بمقدار كبير أو مهم"
+      }
+    ],
+    "grammar_en": "Present perfect (have gone up) — describing a recent change with ongoing impact.",
+    "grammar_ar": "المضارع التام (have gone up) — لوصف تغيّر حديث له أثر مستمر.",
+    "alternatives": [
+      {
+        "text": "Fuel costs have risen a lot this quarter.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "There's been a significant rise in fuel prices this quarter.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "Ticket prices have increased noticeably this year.",
+      "Shipping costs have gone up due to fuel surcharges.",
+      "Airfares have jumped significantly this summer."
+    ]
+  },
+  {
+    "id": 523,
+    "text": "The keynote speaker had to cancel at the last minute.",
+    "translation_ar": "اضطر المتحدث الرئيسي للإلغاء في اللحظة الأخيرة.",
+    "level": "B1",
+    "situation": "events",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 11,
+    "videoId": null,
+    "transcriptContext": "The keynote speaker had to cancel at the last minute, so we rearranged the schedule.",
+    "pronunciation": "The keynote speaker had to cancel at the last minute.",
+    "words": [
+      {
+        "w": "at the last minute",
+        "m_en": "very close to the deadline or event, with little warning",
+        "m_ar": "قبيل الموعد النهائي أو الحدث بوقت قصير جدًا"
+      }
+    ],
+    "grammar_en": "Had to + verb — expressing a necessity that occurred in the past.",
+    "grammar_ar": "Had to + فعل — للتعبير عن ضرورة حدثت في الماضي.",
+    "alternatives": [
+      {
+        "text": "The main speaker canceled right before the event.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      },
+      {
+        "text": "We lost our keynote speaker at the last moment.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      }
+    ],
+    "similar": [
+      "The performer dropped out just before the show.",
+      "Our guest had to cancel due to an emergency.",
+      "The venue changed at the last minute."
+    ]
+  },
+  {
+    "id": 524,
+    "text": "Ticket sales have been stronger than expected for this year's festival.",
+    "translation_ar": "كانت مبيعات التذاكر أقوى من المتوقع لمهرجان هذا العام.",
+    "level": "C1",
+    "situation": "events",
+    "variety": "AU",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (Australia)",
+    "timestamp": 28,
+    "videoId": null,
+    "transcriptContext": "Ticket sales have been stronger than expected for this year's festival, prompting talk of a second venue.",
+    "pronunciation": "Ticket sales have been stronger than expected for this year's festival.",
+    "words": [
+      {
+        "w": "stronger than expected",
+        "m_en": "better or higher than what was predicted",
+        "m_ar": "أفضل أو أعلى مما كان متوقعًا"
+      }
+    ],
+    "grammar_en": "Present perfect (have been) — describing an ongoing trend up to now.",
+    "grammar_ar": "المضارع التام (have been) — لوصف اتجاه مستمر حتى الآن.",
+    "alternatives": [
+      {
+        "text": "Ticket sales have exceeded expectations this year.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "This year's festival has sold more tickets than anticipated.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "Demand has outpaced our initial projections.",
+      "Attendance numbers have surprised the organizers.",
+      "Registrations have surged ahead of last year's figures."
+    ]
+  },
+  {
+    "id": 525,
+    "text": "Can I book a slot for tomorrow afternoon?",
+    "translation_ar": "هل يمكنني حجز موعد لبعد ظهر الغد؟",
+    "level": "A2",
+    "situation": "appointments",
+    "variety": "GB",
+    "channel": "Customer Care Practice",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 45,
+    "videoId": null,
+    "transcriptContext": "Can I book a slot for tomorrow afternoon, if you have one available?",
+    "pronunciation": "Can I book a slot for tomorrow afternoon?",
+    "words": [
+      {
+        "w": "book a slot",
+        "m_en": "to reserve a specific time for an appointment",
+        "m_ar": "حجز وقت محدد لموعد"
+      }
+    ],
+    "grammar_en": "Can I + verb — a simple, direct way of making a request.",
+    "grammar_ar": "Can I + فعل — طريقة بسيطة ومباشرة لتقديم طلب.",
+    "alternatives": [
+      {
+        "text": "Could I schedule something for tomorrow afternoon?",
+        "note_en": "Slightly more polite",
+        "note_ar": "أكثر تهذيبًا قليلًا"
+      },
+      {
+        "text": "Is there a slot available tomorrow afternoon?",
+        "note_en": "Reworded as a question",
+        "note_ar": "معاد صياغته كسؤال"
+      }
+    ],
+    "similar": [
+      "Can I book an appointment for next Tuesday?",
+      "Is there an opening this afternoon?",
+      "Could I get a slot sometime this week?"
+    ]
+  },
+  {
+    "id": 526,
+    "text": "I'll need to check the doctor's availability and get back to you.",
+    "translation_ar": "سأحتاج إلى التحقق من مواعيد الطبيب المتاحة والرد عليك.",
+    "level": "B1",
+    "situation": "appointments",
+    "variety": "US",
+    "channel": "Customer Care Practice",
+    "speaker": "Native speaker (US)",
+    "timestamp": 62,
+    "videoId": null,
+    "transcriptContext": "I'll need to check the doctor's availability and get back to you shortly.",
+    "pronunciation": "I'll need to check the doctor's availability and get back to you.",
+    "words": [
+      {
+        "w": "availability",
+        "m_en": "whether someone or something is free or accessible at a certain time",
+        "m_ar": "مدى توفر شخص أو شيء ما في وقت معين"
+      }
+    ],
+    "grammar_en": "Will + verb — expressing a near-future intention or promise.",
+    "grammar_ar": "Will + فعل — للتعبير عن نية أو وعد في المستقبل القريب.",
+    "alternatives": [
+      {
+        "text": "Let me check the schedule and follow up with you.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      },
+      {
+        "text": "I'll confirm the doctor's availability and let you know.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      }
+    ],
+    "similar": [
+      "I'll check with the team and get back to you.",
+      "Let me look into that and follow up.",
+      "I'll confirm the time and send you an update."
+    ]
+  },
+  {
+    "id": 527,
+    "text": "It's freezing outside, so wear a warm coat.",
+    "translation_ar": "الجو متجمد بالخارج، لذا ارتدِ معطفًا دافئًا.",
+    "level": "A1",
+    "situation": "weather",
+    "variety": "CA",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (Canada)",
+    "timestamp": 79,
+    "videoId": null,
+    "transcriptContext": "It's freezing outside, so wear a warm coat before you head out.",
+    "pronunciation": "It's freezing outside, so wear a warm coat.",
+    "words": [
+      {
+        "w": "freezing",
+        "m_en": "extremely cold",
+        "m_ar": "شديد البرودة"
+      }
+    ],
+    "grammar_en": "So + imperative — giving advice as a result of a stated condition.",
+    "grammar_ar": "So + صيغة الأمر — لتقديم نصيحة كنتيجة لحالة مذكورة.",
+    "alternatives": [
+      {
+        "text": "It's really cold out, so bundle up.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عفوية"
+      },
+      {
+        "text": "Make sure to wear something warm — it's freezing.",
+        "note_en": "Reordered",
+        "note_ar": "إعادة ترتيب"
+      }
+    ],
+    "similar": [
+      "It's boiling outside, so drink plenty of water.",
+      "It's windy today, so hold onto your hat.",
+      "It's icy out there, so be careful walking."
+    ]
+  },
+  {
+    "id": 528,
+    "text": "Forecasters are predicting a heatwave later this week.",
+    "translation_ar": "يتوقع خبراء الأرصاد موجة حر لاحقًا هذا الأسبوع.",
+    "level": "B2",
+    "situation": "weather",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 96,
+    "videoId": null,
+    "transcriptContext": "Forecasters are predicting a heatwave later this week, with temperatures near record highs.",
+    "pronunciation": "Forecasters are predicting a heatwave later this week.",
+    "words": [
+      {
+        "w": "heatwave",
+        "m_en": "a period of unusually hot weather",
+        "m_ar": "فترة من الطقس شديد الحرارة بشكل غير معتاد"
+      }
+    ],
+    "grammar_en": "Present continuous (are predicting) — describing a current forecast about the future.",
+    "grammar_ar": "المضارع المستمر (are predicting) — لوصف توقّع حالي عن المستقبل.",
+    "alternatives": [
+      {
+        "text": "A heatwave is expected later this week, according to forecasters.",
+        "note_en": "Passive, reworded",
+        "note_ar": "مبني للمجهول، معاد صياغته"
+      },
+      {
+        "text": "Weather forecasts show a heatwave coming later this week.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      }
+    ],
+    "similar": [
+      "Meteorologists are warning of heavy rain this weekend.",
+      "A cold front is expected to move in by Friday.",
+      "Forecasts show clear skies for the rest of the week."
+    ]
+  },
+  {
+    "id": 529,
+    "text": "The library is hosting a free workshop this Saturday.",
+    "translation_ar": "ستستضيف المكتبة ورشة عمل مجانية هذا السبت.",
+    "level": "A2",
+    "situation": "community",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 113,
+    "videoId": null,
+    "transcriptContext": "The library is hosting a free workshop this Saturday on résumé writing.",
+    "pronunciation": "The library is hosting a free workshop this Saturday.",
+    "words": [
+      {
+        "w": "host",
+        "m_en": "to organize and hold an event",
+        "m_ar": "تنظيم واستضافة حدث ما"
+      }
+    ],
+    "grammar_en": "Present continuous for planned future events.",
+    "grammar_ar": "المضارع المستمر للتعبير عن أحداث مستقبلية مُخطّط لها.",
+    "alternatives": [
+      {
+        "text": "The library is running a free workshop this Saturday.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "There's a free workshop at the library this Saturday.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "The community center is holding a food drive next week.",
+      "Our neighborhood is organizing a garage sale.",
+      "The park is hosting a family fun day this month."
+    ]
+  },
+  {
+    "id": 530,
+    "text": "A number of local businesses have pledged support for the initiative.",
+    "translation_ar": "تعهّد عدد من الشركات المحلية بدعم المبادرة.",
+    "level": "C1",
+    "situation": "community",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 130,
+    "videoId": null,
+    "transcriptContext": "A number of local businesses have pledged support for the initiative, including several major employers.",
+    "pronunciation": "A number of local businesses have pledged support for the initiative.",
+    "words": [
+      {
+        "w": "pledge support",
+        "m_en": "to formally promise to help or back something",
+        "m_ar": "التعهد رسميًا بدعم أو مساندة أمر ما"
+      }
+    ],
+    "grammar_en": "A number of + plural noun — a formal way of referring to several, unspecified items or people.",
+    "grammar_ar": "A number of + اسم جمع — طريقة رسمية للإشارة إلى عدد من العناصر أو الأشخاص غير محددين.",
+    "alternatives": [
+      {
+        "text": "Several local businesses have promised to support the initiative.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "The initiative has gained backing from several local businesses.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "Several residents have volunteered to help organize the event.",
+      "A handful of sponsors have already signed on.",
+      "Many local shops have offered to contribute."
+    ]
+  },
+  {
+    "id": 531,
+    "text": "We spent the whole afternoon just relaxing by the pool.",
+    "translation_ar": "قضينا فترة بعد الظهر بأكملها في الاسترخاء بجانب المسبح.",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "AU",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (Australia)",
+    "timestamp": 147,
+    "videoId": null,
+    "transcriptContext": "We spent the whole afternoon just relaxing by the pool, which was exactly what we needed.",
+    "pronunciation": "We spent the whole afternoon just relaxing by the pool.",
+    "words": [
+      {
+        "w": "spend time",
+        "m_en": "to use a period of time doing a particular activity",
+        "m_ar": "قضاء فترة زمنية في فعل نشاط معين"
+      }
+    ],
+    "grammar_en": "Spend + time expression + gerund — describing how time was used.",
+    "grammar_ar": "Spend + تعبير زمني + مصدر مؤول (gerund) — لوصف كيفية قضاء الوقت.",
+    "alternatives": [
+      {
+        "text": "We just relaxed by the pool all afternoon.",
+        "note_en": "Simpler phrasing",
+        "note_ar": "صياغة أبسط"
+      },
+      {
+        "text": "The whole afternoon was spent lounging by the pool.",
+        "note_en": "Passive, reworded",
+        "note_ar": "مبني للمجهول، معاد صياغته"
+      }
+    ],
+    "similar": [
+      "We spent the day exploring the old town.",
+      "We spent the evening watching movies.",
+      "They spent the weekend hiking in the mountains."
+    ]
+  },
+  {
+    "id": 532,
+    "text": "I've picked up painting again after years of not touching a brush.",
+    "translation_ar": "عدت لممارسة الرسم مجددًا بعد سنوات من عدم لمس الفرشاة.",
+    "level": "B1",
+    "situation": "leisure",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 164,
+    "videoId": null,
+    "transcriptContext": "I've picked up painting again after years of not touching a brush — it's really relaxing.",
+    "pronunciation": "I've picked up painting again after years of not touching a brush.",
+    "words": [
+      {
+        "w": "pick up (a hobby)",
+        "m_en": "to start doing an activity again after a break",
+        "m_ar": "العودة لممارسة نشاط بعد انقطاع"
+      }
+    ],
+    "grammar_en": "Present perfect (have picked up) — connecting a recent restart to the present.",
+    "grammar_ar": "المضارع التام (have picked up) — لربط بداية جديدة حديثة بالحاضر.",
+    "alternatives": [
+      {
+        "text": "I've gotten back into painting after a long break.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "After years away from it, I've started painting again.",
+        "note_en": "Reordered",
+        "note_ar": "إعادة ترتيب"
+      }
+    ],
+    "similar": [
+      "I've taken up running again this year.",
+      "She's gotten back into playing the piano.",
+      "He's picked up photography as a new hobby."
+    ]
+  },
+  {
+    "id": 533,
+    "text": "Keep a first aid kit somewhere easy to reach.",
+    "translation_ar": "احتفظ بحقيبة إسعافات أولية في مكان يسهل الوصول إليه.",
+    "level": "A2",
+    "situation": "emergency",
+    "variety": "US",
+    "channel": "Customer Care Practice",
+    "speaker": "Native speaker (US)",
+    "timestamp": 181,
+    "videoId": null,
+    "transcriptContext": "Keep a first aid kit somewhere easy to reach in case of small accidents.",
+    "pronunciation": "Keep a first aid kit somewhere easy to reach.",
+    "words": [
+      {
+        "w": "first aid kit",
+        "m_en": "a small collection of supplies used to treat minor injuries",
+        "m_ar": "مجموعة صغيرة من المستلزمات لعلاج الإصابات البسيطة"
+      }
+    ],
+    "grammar_en": "Imperative (Keep + noun) — a general safety recommendation.",
+    "grammar_ar": "صيغة الأمر (Keep + اسم) — توصية عامة تتعلق بالسلامة.",
+    "alternatives": [
+      {
+        "text": "Make sure your first aid kit is easy to access.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      },
+      {
+        "text": "Have a first aid kit within easy reach.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      }
+    ],
+    "similar": [
+      "Keep a flashlight near your bed.",
+      "Make sure smoke detectors are working.",
+      "Have an emergency contact list on the fridge."
+    ]
+  },
+  {
+    "id": 534,
+    "text": "In the event of a fire, use the stairs, not the elevator.",
+    "translation_ar": "في حال نشوب حريق، استخدم السلالم وليس المصعد.",
+    "level": "B1",
+    "situation": "emergency",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 198,
+    "videoId": null,
+    "transcriptContext": "In the event of a fire, use the stairs, not the elevator, and follow the exit signs.",
+    "pronunciation": "In the event of a fire, use the stairs, not the elevator.",
+    "words": [
+      {
+        "w": "in the event of",
+        "m_en": "if a particular situation happens; a formal way to say 'if'",
+        "m_ar": "في حال حدوث موقف معين؛ طريقة رسمية لقول 'إذا'"
+      }
+    ],
+    "grammar_en": "In the event of + noun — a formal conditional phrase common in safety instructions.",
+    "grammar_ar": "In the event of + اسم — عبارة شرطية رسمية شائعة في تعليمات السلامة.",
+    "alternatives": [
+      {
+        "text": "If there's a fire, take the stairs instead of the elevator.",
+        "note_en": "Less formal",
+        "note_ar": "أقل رسمية"
+      },
+      {
+        "text": "Should a fire occur, use the stairs rather than the lift.",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسمية"
+      }
+    ],
+    "similar": [
+      "In the event of an emergency, remain calm.",
+      "If the alarm sounds, exit through the nearest door.",
+      "In case of evacuation, gather at the main entrance."
+    ]
+  },
+  {
+    "id": 535,
+    "text": "I'll transfer you to someone who can help with that.",
+    "translation_ar": "سأحوّلك إلى شخص يمكنه مساعدتك في ذلك.",
+    "level": "A2",
+    "situation": "customer-help",
+    "variety": "US",
+    "channel": "Customer Care Practice",
+    "speaker": "Native speaker (US)",
+    "timestamp": 215,
+    "videoId": null,
+    "transcriptContext": "I'll transfer you to someone who can help with that specific issue.",
+    "pronunciation": "I'll transfer you to someone who can help with that.",
+    "words": [
+      {
+        "w": "transfer (a call)",
+        "m_en": "to redirect a phone call to another person or department",
+        "m_ar": "تحويل مكالمة إلى شخص أو قسم آخر"
+      }
+    ],
+    "grammar_en": "Will + verb — expressing a near-future action or intention.",
+    "grammar_ar": "Will + فعل — للتعبير عن فعل أو نية في المستقبل القريب.",
+    "alternatives": [
+      {
+        "text": "Let me connect you with someone who can assist.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "I'm going to put you through to the right department.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "Let me put you through to billing.",
+      "I'll connect you with a specialist.",
+      "I'll transfer this to the technical team."
+    ]
+  },
+  {
+    "id": 536,
+    "text": "We take all feedback seriously and use it to improve.",
+    "translation_ar": "نأخذ جميع الملاحظات بجدية ونستخدمها للتحسين.",
+    "level": "B2",
+    "situation": "customer-help",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 232,
+    "videoId": null,
+    "transcriptContext": "We take all feedback seriously and use it to improve our service going forward.",
+    "pronunciation": "We take all feedback seriously and use it to improve.",
+    "words": [
+      {
+        "w": "take (something) seriously",
+        "m_en": "to treat something as important and worth attention",
+        "m_ar": "التعامل مع شيء ما بجدية واعتباره جديرًا بالاهتمام"
+      }
+    ],
+    "grammar_en": "Present simple — stating a general policy or ongoing practice.",
+    "grammar_ar": "المضارع البسيط — لذكر سياسة عامة أو ممارسة مستمرة.",
+    "alternatives": [
+      {
+        "text": "All feedback is taken seriously and used to improve our service.",
+        "note_en": "Passive, reworded",
+        "note_ar": "مبني للمجهول، معاد صياغته"
+      },
+      {
+        "text": "We value all feedback and use it to make improvements.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      }
+    ],
+    "similar": [
+      "We review every complaint carefully.",
+      "Your feedback helps shape our future updates.",
+      "We appreciate you letting us know."
+    ]
+  },
+  {
+    "id": 537,
+    "text": "Can I get a store credit instead of a refund?",
+    "translation_ar": "هل يمكنني الحصول على رصيد للمتجر بدلاً من استرداد المبلغ؟",
+    "level": "A2",
+    "situation": "returns",
+    "variety": "CA",
+    "channel": "Customer Care Practice",
+    "speaker": "Native speaker (Canada)",
+    "timestamp": 9,
+    "videoId": null,
+    "transcriptContext": "Can I get a store credit instead of a refund? I'd like to buy something else.",
+    "pronunciation": "Can I get a store credit instead of a refund?",
+    "words": [
+      {
+        "w": "store credit",
+        "m_en": "credit given by a store to spend on future purchases instead of cash",
+        "m_ar": "رصيد يمنحه المتجر لإنفاقه على مشتريات مستقبلية بدلاً من نقد"
+      }
+    ],
+    "grammar_en": "Can I get + noun — a common, direct way of making a request.",
+    "grammar_ar": "Can I get + اسم — طريقة مباشرة وشائعة لتقديم طلب.",
+    "alternatives": [
+      {
+        "text": "Could I have store credit rather than a refund?",
+        "note_en": "Slightly more polite",
+        "note_ar": "أكثر تهذيبًا قليلًا"
+      },
+      {
+        "text": "Is it possible to get store credit instead?",
+        "note_en": "Reworded as a question",
+        "note_ar": "معاد صياغته كسؤال"
+      }
+    ],
+    "similar": [
+      "Can I exchange this for something else instead?",
+      "Could I get a gift card instead of cash back?",
+      "Is store credit an option here?"
+    ]
+  },
+  {
+    "id": 538,
+    "text": "The item must be unused and in its original packaging.",
+    "translation_ar": "يجب أن يكون المنتج غير مستخدم وفي عبوته الأصلية.",
+    "level": "B1",
+    "situation": "returns",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 26,
+    "videoId": null,
+    "transcriptContext": "To qualify for a return, the item must be unused and in its original packaging.",
+    "pronunciation": "The item must be unused and in its original packaging.",
+    "words": [
+      {
+        "w": "original packaging",
+        "m_en": "the box or wrapping a product came in when purchased",
+        "m_ar": "العبوة أو التغليف الذي جاء به المنتج عند الشراء"
+      }
+    ],
+    "grammar_en": "Must be + adjective — stating a required condition.",
+    "grammar_ar": "Must be + صفة — لذكر شرط مطلوب.",
+    "alternatives": [
+      {
+        "text": "The product needs to be unused and in its original box.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Returns are only accepted if the item is unused and in its original packaging.",
+        "note_en": "Reworded, more formal",
+        "note_ar": "معاد صياغته، أكثر رسمية"
+      }
+    ],
+    "similar": [
+      "The tags must still be attached.",
+      "Items should be returned in their original condition.",
+      "The receipt must be included with the return."
+    ]
+  },
+  {
+    "id": 539,
+    "text": "I noticed the role involves managing a small team.",
+    "translation_ar": "لاحظت أن الوظيفة تتضمن إدارة فريق صغير.",
+    "level": "B1",
+    "situation": "job-interview",
+    "variety": "US",
+    "channel": "Career Coaching Basics",
+    "speaker": "Native speaker (US)",
+    "timestamp": 43,
+    "videoId": null,
+    "transcriptContext": "I noticed the role involves managing a small team — could you tell me more about that?",
+    "pronunciation": "I noticed the role involves managing a small team.",
+    "words": [
+      {
+        "w": "involve",
+        "m_en": "to include something as a necessary part",
+        "m_ar": "تضمين شيء كجزء ضروري"
+      }
+    ],
+    "grammar_en": "Notice + clause — a natural way of introducing an observation before asking for detail.",
+    "grammar_ar": "Notice + جملة — طريقة طبيعية لتقديم ملاحظة قبل طلب مزيد من التفاصيل.",
+    "alternatives": [
+      {
+        "text": "I saw that this position includes managing a small team.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "It looks like this role involves leading a small team.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "I noticed the job requires some travel.",
+      "I see the position includes weekend shifts.",
+      "I noticed the role reports directly to the director."
+    ]
+  },
+  {
+    "id": 540,
+    "text": "I'd be happy to share references upon request.",
+    "translation_ar": "سيسعدني تقديم مراجع عند الطلب.",
+    "level": "B2",
+    "situation": "job-interview",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 60,
+    "videoId": null,
+    "transcriptContext": "I'd be happy to share references upon request, from both my current and previous roles.",
+    "pronunciation": "I'd be happy to share references upon request.",
+    "words": [
+      {
+        "w": "upon request",
+        "m_en": "when someone asks for it; a formal phrase for on-demand availability",
+        "m_ar": "عند الطلب؛ عبارة رسمية تعني التوفر عند الحاجة"
+      }
+    ],
+    "grammar_en": "I'd be happy to + verb — a polite, formal way of offering to do something.",
+    "grammar_ar": "I'd be happy to + فعل — طريقة مهذبة ورسمية لعرض القيام بشيء ما.",
+    "alternatives": [
+      {
+        "text": "I'm glad to provide references if needed.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "References are available on request.",
+        "note_en": "More concise, passive",
+        "note_ar": "أكثر اختصارًا، مبني للمجهول"
+      }
+    ],
+    "similar": [
+      "I'd be glad to send over my portfolio.",
+      "I'm happy to provide additional documentation.",
+      "References are available whenever you need them."
+    ]
+  },
+  {
+    "id": 541,
+    "text": "We switched to reusable water bottles at the office.",
+    "translation_ar": "تحوّلنا إلى زجاجات مياه قابلة لإعادة الاستخدام في المكتب.",
+    "level": "A2",
+    "situation": "environment",
+    "variety": "CA",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (Canada)",
+    "timestamp": 77,
+    "videoId": null,
+    "transcriptContext": "We switched to reusable water bottles at the office to cut down on plastic waste.",
+    "pronunciation": "We switched to reusable water bottles at the office.",
+    "words": [
+      {
+        "w": "switch to",
+        "m_en": "to change from one thing to another",
+        "m_ar": "التحوّل من شيء إلى آخر"
+      }
+    ],
+    "grammar_en": "Simple past (switched) — describing a completed change.",
+    "grammar_ar": "الماضي البسيط (switched) — لوصف تغيير مكتمل.",
+    "alternatives": [
+      {
+        "text": "We started using reusable water bottles at work.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "At the office, we've moved to reusable bottles.",
+        "note_en": "Present perfect, reworded",
+        "note_ar": "المضارع التام، معاد صياغته"
+      }
+    ],
+    "similar": [
+      "We switched to LED lighting last year.",
+      "We moved to a paperless system recently.",
+      "We've started composting at the office."
+    ]
+  },
+  {
+    "id": 542,
+    "text": "Carbon offsetting alone won't solve the underlying problem.",
+    "translation_ar": "التعويض الكربوني وحده لن يحل المشكلة الأساسية.",
+    "level": "C1",
+    "situation": "environment",
+    "variety": "AU",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (Australia)",
+    "timestamp": 94,
+    "videoId": null,
+    "transcriptContext": "Carbon offsetting alone won't solve the underlying problem — real reduction is needed too.",
+    "pronunciation": "Carbon offsetting alone won't solve the underlying problem.",
+    "words": [
+      {
+        "w": "underlying problem",
+        "m_en": "the root cause of an issue, not just its symptoms",
+        "m_ar": "السبب الجذري لمشكلة ما وليس أعراضها فقط"
+      }
+    ],
+    "grammar_en": "Won't + verb — a firm, confident prediction about a future outcome.",
+    "grammar_ar": "Won't + فعل — تنبؤ واثق وحاسم بشأن نتيجة مستقبلية.",
+    "alternatives": [
+      {
+        "text": "Offsetting carbon isn't enough on its own to fix the issue.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      },
+      {
+        "text": "Relying only on offsets won't address the root cause.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      }
+    ],
+    "similar": [
+      "Fines alone won't change corporate behavior.",
+      "Awareness campaigns alone won't reverse the trend.",
+      "Technology alone can't solve a problem this complex."
+    ]
+  },
+  {
+    "id": 543,
+    "text": "Don't forget to preheat the oven before you start.",
+    "translation_ar": "لا تنسَ تسخين الفرن قبل أن تبدأ.",
+    "level": "A1",
+    "situation": "cooking",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 111,
+    "videoId": null,
+    "transcriptContext": "Don't forget to preheat the oven before you start mixing the batter.",
+    "pronunciation": "Don't forget to preheat the oven before you start.",
+    "words": [
+      {
+        "w": "preheat",
+        "m_en": "to heat an oven to the correct temperature before cooking",
+        "m_ar": "تسخين الفرن إلى الدرجة المناسبة قبل الطهي"
+      }
+    ],
+    "grammar_en": "Don't forget to + verb — a friendly reminder in imperative form.",
+    "grammar_ar": "Don't forget to + فعل — تذكير ودي بصيغة الأمر.",
+    "alternatives": [
+      {
+        "text": "Remember to preheat the oven first.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Make sure the oven's preheated before you begin.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "Don't forget to grease the pan first.",
+      "Remember to set a timer.",
+      "Make sure the water is boiling before you add the pasta."
+    ]
+  },
+  {
+    "id": 544,
+    "text": "Balancing acidity is often what separates a good dish from a great one.",
+    "translation_ar": "موازنة الحموضة غالبًا ما تكون الفارق بين الطبق الجيد والطبق الرائع.",
+    "level": "C2",
+    "situation": "cooking",
+    "variety": "GB",
+    "channel": "Culinary Techniques Weekly",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 128,
+    "videoId": null,
+    "transcriptContext": "Balancing acidity is often what separates a good dish from a great one, more than people realize.",
+    "pronunciation": "Balancing acidity is often what separates a good dish from a great one.",
+    "words": [
+      {
+        "w": "separate (X from Y)",
+        "m_en": "to be the key difference between two things",
+        "m_ar": "أن يكون الفارق الرئيسي بين أمرين"
+      }
+    ],
+    "grammar_en": "Gerund as subject (Balancing...) with a cleft-like structure (what separates...) — a sophisticated way of emphasizing a key factor.",
+    "grammar_ar": "المصدر المؤول كفاعل (Balancing...) مع تركيب تأكيدي (what separates...) — طريقة متقدمة للتأكيد على عامل رئيسي.",
+    "alternatives": [
+      {
+        "text": "Getting the acidity right is often the key difference in a great dish.",
+        "note_en": "Simpler phrasing",
+        "note_ar": "صياغة أبسط"
+      },
+      {
+        "text": "A well-balanced acidity is often what makes a dish stand out.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "Seasoning properly is often what elevates a simple recipe.",
+      "Timing is often what distinguishes an expert cook from a beginner.",
+      "Texture contrast is often what makes a dish memorable."
+    ]
   }
 ]
