@@ -476,13 +476,8 @@ footer .wrap{display:flex; flex-wrap:wrap; gap:10px; justify-content:space-betwe
     </div>
   </section>
 
-  <!-- ===================== YOUR SENTENCE / RESULTS ===================== -->
-  <section class="wrap" id="results-section">
-    <div class="your-sentence-box">
-      <div class="label" data-i18n="yourSentence">Your sentence</div>
-      <div class="text" id="yourSentenceText"></div>
-    </div>
-
+  <!-- ===================== LEVEL / VARIETY BROWSE (always visible) ===================== -->
+  <section class="wrap" id="browse-section">
     <div class="filters-bar">
       <div class="filter-group">
         <span class="filter-label" data-i18n="level">Level</span>
@@ -492,6 +487,14 @@ footer .wrap{display:flex; flex-wrap:wrap; gap:10px; justify-content:space-betwe
         <span class="filter-label" data-i18n="variety">Variety</span>
         <div id="varietyPills"></div>
       </div>
+    </div>
+  </section>
+
+  <!-- ===================== YOUR SENTENCE / RESULTS ===================== -->
+  <section class="wrap" id="results-section">
+    <div class="your-sentence-box">
+      <div class="label" data-i18n="yourSentence">Your sentence</div>
+      <div class="text" id="yourSentenceText"></div>
     </div>
 
     <div id="noResultsBox" class="no-results" style="display:none;">
@@ -1394,9 +1397,9 @@ function renderExamples(){
 function renderSituations(){
   const grid = document.getElementById('situationsGrid');
   grid.innerHTML = '';
-  const seenSituationQueries = new Set();
   Object.keys(SITUATIONS).forEach(key=>{
     const sit = SITUATIONS[key];
+    const seenSituationQueries = new Set();
     const card = document.createElement('div');
     card.className = 'situation-card';
     card.innerHTML = `
@@ -1449,8 +1452,34 @@ function renderLevelPills(){
     return `<button type="button" class="pill ${State.level===lv?'active':''}" data-level="${lv}">${label}</button>`;
   }).join('');
   box.querySelectorAll('.pill').forEach(p=>{
-    p.addEventListener('click', ()=>{ State.level = p.dataset.level; renderLevelPills(); runSearch(State.currentQuery); });
+    p.addEventListener('click', ()=>{
+      State.level = p.dataset.level;
+      renderLevelPills();
+      if(State.currentQuery){ runSearch(State.currentQuery); } else { browseByLevel(State.level); }
+    });
   });
+}
+/* Browse all sentences for a level directly (no text search needed).
+   Triggered by the level pills, which now live outside the results
+   section so they're visible and usable from the first page load. */
+function browseByLevel(level){
+  const pool = DEMO_SENTENCES
+    .filter(s => level==='all' || s.level===level)
+    .filter(s => State.variety==='all' || s.variety===State.variety);
+  State.currentQuery = '';
+  State.currentResults = pool.map(s=>({sentence:s, score:1}));
+  State.currentSimilar = [];
+  const label = level==='all' ? t('allLevels') : level;
+  document.getElementById('yourSentenceText').textContent = `${t('level')}: ${label}`;
+  document.getElementById('results-section').classList.add('show');
+  const note = document.getElementById('youglishNote');
+  if(note) note.textContent = '';
+  const mount = document.getElementById('youglishMount');
+  if(mount) mount.innerHTML = '';
+  renderResults();
+  renderSimilar();
+  hideSuggestions();
+  window.scrollTo({top: document.getElementById('results-section').offsetTop - 70, behavior:'smooth'});
 }
 function renderVarietyPills(){
   const varieties = [['all', t('allVarieties'),'🌍'],['US', t('us'),'🇺🇸'],['GB', t('gb'),'🇬🇧'],['AU', t('au'),'🇦🇺'],['CA', t('ca'),'🇨🇦']];
@@ -1459,7 +1488,11 @@ function renderVarietyPills(){
     `<button type="button" class="pill ${State.variety===code?'active':''}" data-variety="${code}">${flag} ${label}</button>`
   ).join('');
   box.querySelectorAll('.pill').forEach(p=>{
-    p.addEventListener('click', ()=>{ State.variety = p.dataset.variety; renderVarietyPills(); runSearch(State.currentQuery); });
+    p.addEventListener('click', ()=>{
+      State.variety = p.dataset.variety;
+      renderVarietyPills();
+      if(State.currentQuery){ runSearch(State.currentQuery); } else { browseByLevel(State.level); }
+    });
   });
 }
 
