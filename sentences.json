@@ -4082,7 +4082,7 @@
   {
     "id": 118,
     "text": "The role would provide an opportunity to leverage my analytical and communication skills.",
-    "translation_ar": "سيتيح الدور فرصة لتوظيف مهاراتي التحليلية ومهاراتي في التواصل.",
+    "translation_ar": "سيتيح الدور فرصة لتوظيف مهاراتي التحليلية ومهارات التواصل.",
     "level": "C1",
     "situation": "career",
     "variety": "AU",
@@ -5459,7 +5459,7 @@
   {
     "id": 275,
     "text": "Can I have a glass of water, please?",
-    "translation_ar": "هل يمكنني الحصول على كوب من الماء من فضلك؟",
+    "translation_ar": "ممكن كوباية مية من فضلك؟",
     "level": "A1",
     "situation": "restaurant",
     "variety": "US",
@@ -5498,7 +5498,7 @@
   {
     "id": 276,
     "text": "I like coffee in the morning.",
-    "translation_ar": "أحب القهوة في الصباح.",
+    "translation_ar": "أنا بحب القهوة في الصباح.",
     "level": "A1",
     "situation": "daily",
     "variety": "US",
@@ -5537,7 +5537,7 @@
   {
     "id": 277,
     "text": "Where is the nearest bus stop?",
-    "translation_ar": "أين أقرب محطة حافلات؟",
+    "translation_ar": "فين أقرب محطة أتوبيس؟",
     "level": "A1",
     "situation": "transport",
     "variety": "GB",
@@ -5576,7 +5576,7 @@
   {
     "id": 278,
     "text": "This is my sister.",
-    "translation_ar": "هذه أختي.",
+    "translation_ar": "دي أختي.",
     "level": "A1",
     "situation": "family",
     "variety": "US",
@@ -5615,7 +5615,7 @@
   {
     "id": 279,
     "text": "It's very hot today.",
-    "translation_ar": "الجو حار جدًا اليوم.",
+    "translation_ar": "الجو حر جدًا النهاردة.",
     "level": "A1",
     "situation": "weather",
     "variety": "AU",
@@ -5654,7 +5654,7 @@
   {
     "id": 280,
     "text": "I feel a little dizzy.",
-    "translation_ar": "أشعر بدوار قليل.",
+    "translation_ar": "حاسس بدوخة شوية.",
     "level": "A1",
     "situation": "health",
     "variety": "US",
@@ -5693,7 +5693,7 @@
   {
     "id": 281,
     "text": "How much does this cost?",
-    "translation_ar": "كم يكلف هذا؟",
+    "translation_ar": "ده بكام؟",
     "level": "A1",
     "situation": "shopping",
     "variety": "US",
@@ -5732,7 +5732,7 @@
   {
     "id": 282,
     "text": "I'm looking for the train station.",
-    "translation_ar": "أبحث عن محطة القطار.",
+    "translation_ar": "أنا بدور على محطة القطر.",
     "level": "A1",
     "situation": "directions",
     "variety": "GB",
@@ -5810,7 +5810,7 @@
   {
     "id": 284,
     "text": "I need help, please.",
-    "translation_ar": "أحتاج إلى مساعدة من فضلك.",
+    "translation_ar": "محتاج مساعدة من فضلك.",
     "level": "A1",
     "situation": "emergency",
     "variety": "US",
@@ -5849,7 +5849,7 @@
   {
     "id": 285,
     "text": "What is your phone number?",
-    "translation_ar": "ما رقم هاتفك؟",
+    "translation_ar": "ايه رقم تليفونك؟",
     "level": "A1",
     "situation": "phone-calls",
     "variety": "US",
@@ -5927,7 +5927,7 @@
   {
     "id": 287,
     "text": "Can you speak more slowly, please?",
-    "translation_ar": "هل يمكنك التحدث ببطء أكثر من فضلك؟",
+    "translation_ar": "ممكن تتكلم أبطأ شوية من فضلك؟",
     "level": "A1",
     "situation": "daily",
     "variety": "GB",
@@ -5966,7 +5966,7 @@
   {
     "id": 288,
     "text": "I have two children.",
-    "translation_ar": "لدي طفلان.",
+    "translation_ar": "عندي طفلين.",
     "level": "A1",
     "situation": "family",
     "variety": "US",
@@ -6005,7 +6005,7 @@
   {
     "id": 289,
     "text": "The shop is closed on Sundays.",
-    "translation_ar": "المتجر مغلق أيام الأحد.",
+    "translation_ar": "المحل مقفول أيام الحد.",
     "level": "A1",
     "situation": "shopping",
     "variety": "GB",
@@ -6044,7 +6044,7 @@
   {
     "id": 290,
     "text": "Congratulations on your new job!",
-    "translation_ar": "تهانينا على وظيفتك الجديدة!",
+    "translation_ar": "مبروك على شغلك الجديد!",
     "level": "A1",
     "situation": "celebrations",
     "variety": "US",
@@ -6083,7 +6083,7 @@
   {
     "id": 291,
     "text": "I usually go to the gym after work.",
-    "translation_ar": "عادةً أذهب إلى صالة الرياضة بعد العمل.",
+    "translation_ar": "عادةً بروح الجيم بعد الشغل.",
     "level": "A2",
     "situation": "daily",
     "variety": "US",
@@ -6122,7 +6122,7 @@
   {
     "id": 292,
     "text": "Could you recommend a good restaurant nearby?",
-    "translation_ar": "هل يمكنك أن تنصحني بمطعم جيد قريب من هنا؟",
+    "translation_ar": "ممكن تنصحني بمطعم كويس قريب من هنا؟",
     "level": "A2",
     "situation": "travel",
     "variety": "GB",
@@ -6161,7 +6161,7 @@
   {
     "id": 293,
     "text": "I've never been to Japan.",
-    "translation_ar": "لم أزر اليابان من قبل.",
+    "translation_ar": "أنا معنديش سابق زيارة اليابان.",
     "level": "A2",
     "situation": "travel",
     "variety": "US",
@@ -6200,7 +6200,7 @@
   {
     "id": 294,
     "text": "I'm not sure what to order.",
-    "translation_ar": "لست متأكدًا مما يجب أن أطلبه.",
+    "translation_ar": "مش متأكد أطلب إيه.",
     "level": "A2",
     "situation": "restaurant",
     "variety": "US",
@@ -6239,7 +6239,7 @@
   {
     "id": 295,
     "text": "Do you mind if I open the window?",
-    "translation_ar": "هل تسمح لي بفتح النافذة؟",
+    "translation_ar": "تسمح لو فتحت الشباك؟",
     "level": "A2",
     "situation": "daily",
     "variety": "GB",
@@ -6278,7 +6278,7 @@
   {
     "id": 296,
     "text": "I'm trying to save some money this month.",
-    "translation_ar": "أحاول توفير بعض المال هذا الشهر.",
+    "translation_ar": "بحاول أوفر شوية فلوس الشهر ده.",
     "level": "A2",
     "situation": "banking",
     "variety": "US",
@@ -6317,7 +6317,7 @@
   {
     "id": 297,
     "text": "The flight was delayed by two hours.",
-    "translation_ar": "تأخرت الرحلة ساعتين.",
+    "translation_ar": "الرحلة اتأخرت ساعتين.",
     "level": "A2",
     "situation": "travel",
     "variety": "US",
@@ -6356,7 +6356,7 @@
   {
     "id": 298,
     "text": "I think I left my keys at the office.",
-    "translation_ar": "أظن أنني تركت مفاتيحي في المكتب.",
+    "translation_ar": "أظن إني سايب مفاتيحي في المكتب.",
     "level": "A2",
     "situation": "daily",
     "variety": "US",
@@ -6395,7 +6395,7 @@
   {
     "id": 299,
     "text": "Would you like to join us for dinner?",
-    "translation_ar": "هل ترغب في الانضمام إلينا لتناول العشاء؟",
+    "translation_ar": "حابب تنضم لنا على العشا؟",
     "level": "A2",
     "situation": "social",
     "variety": "US",
@@ -6434,7 +6434,7 @@
   {
     "id": 300,
     "text": "I've been waiting for almost an hour.",
-    "translation_ar": "أنتظر منذ ما يقارب ساعة.",
+    "translation_ar": "بستنى من ساعة تقريبًا.",
     "level": "A2",
     "situation": "customer-service",
     "variety": "US",
@@ -6473,7 +6473,7 @@
   {
     "id": 301,
     "text": "Turn left at the next traffic light.",
-    "translation_ar": "انعطف يسارًا عند الإشارة التالية.",
+    "translation_ar": "حوّد شمالًا عند الإشارة الجاية.",
     "level": "A2",
     "situation": "directions",
     "variety": "US",
@@ -6512,7 +6512,7 @@
   {
     "id": 302,
     "text": "I'm allergic to peanuts.",
-    "translation_ar": "لدي حساسية من الفول السوداني.",
+    "translation_ar": "عندي حساسية من الفول السوداني.",
     "level": "A2",
     "situation": "health",
     "variety": "US",
@@ -6551,7 +6551,7 @@
   {
     "id": 303,
     "text": "Let's meet up sometime next week.",
-    "translation_ar": "لنلتقِ في وقتٍ ما الأسبوع القادم.",
+    "translation_ar": "يلا نتقابل في وقت الأسبوع الجاي.",
     "level": "A2",
     "situation": "social",
     "variety": "US",
@@ -6590,7 +6590,7 @@
   {
     "id": 304,
     "text": "I forgot to charge my phone last night.",
-    "translation_ar": "نسيت أن أشحن هاتفي الليلة الماضية.",
+    "translation_ar": "نسيت أشحن تليفوني إمبارح بالليل.",
     "level": "A2",
     "situation": "daily",
     "variety": "US",
@@ -6629,7 +6629,7 @@
   {
     "id": 305,
     "text": "Take care of yourself and stay in touch.",
-    "translation_ar": "اعتنِ بنفسك وابقَ على تواصل.",
+    "translation_ar": "خد بالك من نفسك وخلينا على تواصل.",
     "level": "A2",
     "situation": "celebrations",
     "variety": "GB",
@@ -6702,7 +6702,7 @@
   {
     "id": 307,
     "text": "It seems the proposal hasn't been fully resolved.",
-    "translation_ar": "يبدو أن المقترح لم يُحسم بالكامل بعد.",
+    "translation_ar": "يبدو إن المقترح لسه معملوش فيها حل كامل.",
     "level": "B2",
     "situation": "meetings",
     "variety": "US",
@@ -6770,7 +6770,7 @@
   {
     "id": 309,
     "text": "The proposal, however well-intentioned, may yet prove counterproductive.",
-    "translation_ar": "المقترح، رغم حسن النية من ورائه، قد تكون نتائجه في النهاية عكسية.",
+    "translation_ar": "المقترح، رغم حسن النية وراءه، قد يثبت في النهاية أنه له نتائج عكسية.",
     "level": "C2",
     "situation": "meetings",
     "variety": "US",
@@ -6804,7 +6804,7 @@
   {
     "id": 310,
     "text": "Do you have any updates on the customer request?",
-    "translation_ar": "هل لديك أي تحديثات عن طلب العميل؟",
+    "translation_ar": "هل عندك أي تحديثات عن طلب العميل؟",
     "level": "B1",
     "situation": "support",
     "variety": "US",
@@ -6838,7 +6838,7 @@
   {
     "id": 311,
     "text": "There are a few concerns regarding the customer request that we should address.",
-    "translation_ar": "هناك بعض المخاوف بخصوص طلب العميل ينبغي أن نتعامل معها.",
+    "translation_ar": "فيه شوية مخاوف بخصوص طلب العميل لازم نتعامل معاها.",
     "level": "B2",
     "situation": "support",
     "variety": "US",
@@ -6872,7 +6872,7 @@
   {
     "id": 312,
     "text": "The implications of the customer request are not yet fully understood.",
-    "translation_ar": "الآثار المترتبة على طلب العميل ليست مفهومة بالكامل بعد.",
+    "translation_ar": "الآثار المترتبة على طلب العميل لسه مش مفهومة بالكامل.",
     "level": "C1",
     "situation": "support",
     "variety": "US",
@@ -6940,7 +6940,7 @@
   {
     "id": 314,
     "text": "I'm not sure I fully understood the system issue.",
-    "translation_ar": "لست متأكدًا من أنني فهمت مشكلة النظام جيدًا.",
+    "translation_ar": "مش متأكد إني فهمت مشكلة النظام كويس.",
     "level": "B1",
     "situation": "technical-support",
     "variety": "US",
@@ -6974,7 +6974,7 @@
   {
     "id": 315,
     "text": "The system issue could have a bigger impact than we expected.",
-    "translation_ar": "من المحتمل أن يكون لمشكلة النظام تأثير أكبر مما توقعنا.",
+    "translation_ar": "ممكن يكون لـ مشكلة النظام تأثير أكبر مما توقعنا.",
     "level": "B2",
     "situation": "technical-support",
     "variety": "US",
@@ -7042,7 +7042,7 @@
   {
     "id": 317,
     "text": "Few would dispute that the system issue warrants closer scrutiny.",
-    "translation_ar": "قليلون من سيختلفون على أن مشكلة النظام تستحق فحصًا أدق.",
+    "translation_ar": "قليلون من سيختلفون على أن مشكلة النظام يستحق فحصًا أدق.",
     "level": "C2",
     "situation": "technical-support",
     "variety": "US",
@@ -7076,7 +7076,7 @@
   {
     "id": 318,
     "text": "Could we go over the service response again?",
-    "translation_ar": "هل يمكننا مراجعة رد الخدمة مرة أخرى؟",
+    "translation_ar": "ممكن نراجع رد الخدمة تاني؟",
     "level": "B1",
     "situation": "customer-service",
     "variety": "US",
@@ -7110,7 +7110,7 @@
   {
     "id": 319,
     "text": "I'd like to understand the reasoning behind the service response.",
-    "translation_ar": "أود أن أفهم الأسباب الكامنة وراء رد الخدمة.",
+    "translation_ar": "حابب أفهم الأسباب اللي وراء رد الخدمة.",
     "level": "B2",
     "situation": "customer-service",
     "variety": "US",
@@ -7212,7 +7212,7 @@
   {
     "id": 322,
     "text": "I think we need more information about the daily routine.",
-    "translation_ar": "أعتقد أننا بحاجة إلى مزيد من المعلومات عن الروتين اليومي.",
+    "translation_ar": "أعتقد إننا محتاجين معلومات أكتر عن الروتين اليومي.",
     "level": "B1",
     "situation": "daily",
     "variety": "US",
@@ -7246,7 +7246,7 @@
   {
     "id": 323,
     "text": "Whoever is responsible for the daily routine should update us soon.",
-    "translation_ar": "أيًا كان المسؤول عن الروتين اليومي، ينبغي أن يُحدّثنا قريبًا.",
+    "translation_ar": "أيًا كان المسؤول عن الروتين اليومي لازم يحدثنا قريبًا.",
     "level": "B2",
     "situation": "daily",
     "variety": "US",
@@ -7348,7 +7348,7 @@
   {
     "id": 326,
     "text": "We haven't discussed the travel itinerary yet.",
-    "translation_ar": "لم نناقش خطة السفر بعد.",
+    "translation_ar": "لسه ما ناقشناش خطة السفر.",
     "level": "B1",
     "situation": "travel",
     "variety": "US",
@@ -7382,7 +7382,7 @@
   {
     "id": 327,
     "text": "We should consider how the travel itinerary might affect our plans.",
-    "translation_ar": "ينبغي أن نأخذ في الاعتبار كيف يمكن أن تؤثر خطة السفر على خططنا.",
+    "translation_ar": "ينبغي أن نأخذ في الاعتبار كيف يمكن أن يؤثر خطة السفر على خططنا.",
     "level": "B2",
     "situation": "travel",
     "variety": "US",
@@ -7416,7 +7416,7 @@
   {
     "id": 328,
     "text": "Had we anticipated the travel itinerary, we might have planned differently.",
-    "translation_ar": "لو كنا قد توقعنا خطة السفر، لخططنا بشكل مختلف.",
+    "translation_ar": "لو كنا توقعنا خطة السفر، كنا خططنا بشكل مختلف.",
     "level": "C1",
     "situation": "travel",
     "variety": "US",
@@ -7518,7 +7518,7 @@
   {
     "id": 331,
     "text": "It seems the menu options haven't been fully resolved.",
-    "translation_ar": "يبدو أن خيارات القائمة لم تُحسم بالكامل بعد.",
+    "translation_ar": "يبدو إن خيارات القائمة لسه معملوش فيها حل كامل.",
     "level": "B2",
     "situation": "restaurant",
     "variety": "US",
@@ -7620,7 +7620,7 @@
   {
     "id": 334,
     "text": "Do you have any updates on the reported symptoms?",
-    "translation_ar": "هل لديك أي تحديثات عن الأعراض المذكورة؟",
+    "translation_ar": "هل عندك أي تحديثات عن الأعراض المذكورة؟",
     "level": "B1",
     "situation": "health",
     "variety": "US",
@@ -7654,7 +7654,7 @@
   {
     "id": 335,
     "text": "There are a few concerns regarding the reported symptoms that we should address.",
-    "translation_ar": "هناك بعض المخاوف بخصوص الأعراض المذكورة ينبغي أن نتعامل معها.",
+    "translation_ar": "فيه شوية مخاوف بخصوص الأعراض المذكورة لازم نتعامل معاها.",
     "level": "B2",
     "situation": "health",
     "variety": "US",
@@ -7688,7 +7688,7 @@
   {
     "id": 336,
     "text": "The implications of the reported symptoms are not yet fully understood.",
-    "translation_ar": "الآثار المترتبة على الأعراض المذكورة ليست مفهومة بالكامل بعد.",
+    "translation_ar": "الآثار المترتبة على الأعراض المذكورة لسه مش مفهومة بالكامل.",
     "level": "C1",
     "situation": "health",
     "variety": "US",
@@ -7756,7 +7756,7 @@
   {
     "id": 338,
     "text": "I'm not sure I fully understood the learning objectives.",
-    "translation_ar": "لست متأكدًا من أنني فهمت أهداف التعلم جيدًا.",
+    "translation_ar": "مش متأكد إني فهمت أهداف التعلم كويس.",
     "level": "B1",
     "situation": "education",
     "variety": "US",
@@ -7790,7 +7790,7 @@
   {
     "id": 339,
     "text": "The learning objectives could have a bigger impact than we expected.",
-    "translation_ar": "من المحتمل أن يكون لأهداف التعلم تأثير أكبر مما توقعنا.",
+    "translation_ar": "ممكن يكون لـ أهداف التعلم تأثير أكبر مما توقعنا.",
     "level": "B2",
     "situation": "education",
     "variety": "US",
@@ -7892,7 +7892,7 @@
   {
     "id": 342,
     "text": "Could we go over the maintenance work again?",
-    "translation_ar": "هل يمكننا مراجعة أعمال الصيانة مرة أخرى؟",
+    "translation_ar": "ممكن نراجع أعمال الصيانة تاني؟",
     "level": "B1",
     "situation": "home",
     "variety": "US",
@@ -7926,7 +7926,7 @@
   {
     "id": 343,
     "text": "I'd like to understand the reasoning behind the maintenance work.",
-    "translation_ar": "أود أن أفهم الأسباب الكامنة وراء أعمال الصيانة.",
+    "translation_ar": "حابب أفهم الأسباب اللي وراء أعمال الصيانة.",
     "level": "B2",
     "situation": "home",
     "variety": "US",
@@ -8028,7 +8028,7 @@
   {
     "id": 346,
     "text": "I think we need more information about the difference of opinion.",
-    "translation_ar": "أعتقد أننا بحاجة إلى مزيد من المعلومات عن اختلاف الرأي.",
+    "translation_ar": "أعتقد إننا محتاجين معلومات أكتر عن اختلاف الرأي.",
     "level": "B1",
     "situation": "social",
     "variety": "US",
@@ -8062,7 +8062,7 @@
   {
     "id": 347,
     "text": "Whoever is responsible for the difference of opinion should update us soon.",
-    "translation_ar": "أيًا كان المسؤول عن اختلاف الرأي، ينبغي أن يُحدّثنا قريبًا.",
+    "translation_ar": "أيًا كان المسؤول عن اختلاف الرأي لازم يحدثنا قريبًا.",
     "level": "B2",
     "situation": "social",
     "variety": "US",
@@ -8164,7 +8164,7 @@
   {
     "id": 350,
     "text": "We haven't discussed the product quality yet.",
-    "translation_ar": "لم نناقش جودة المنتج بعد.",
+    "translation_ar": "لسه ما ناقشناش جودة المنتج.",
     "level": "B1",
     "situation": "shopping",
     "variety": "US",
@@ -8198,7 +8198,7 @@
   {
     "id": 351,
     "text": "We should consider how the product quality might affect our plans.",
-    "translation_ar": "ينبغي أن نأخذ في الاعتبار كيف يمكن أن تؤثر جودة المنتج على خططنا.",
+    "translation_ar": "ينبغي أن نأخذ في الاعتبار كيف يمكن أن يؤثر جودة المنتج على خططنا.",
     "level": "B2",
     "situation": "shopping",
     "variety": "US",
@@ -8232,7 +8232,7 @@
   {
     "id": 352,
     "text": "Had we anticipated the product quality, we might have planned differently.",
-    "translation_ar": "لو كنا قد توقعنا جودة المنتج، لخططنا بشكل مختلف.",
+    "translation_ar": "لو كنا توقعنا جودة المنتج، كنا خططنا بشكل مختلف.",
     "level": "C1",
     "situation": "shopping",
     "variety": "US",
@@ -8334,7 +8334,7 @@
   {
     "id": 355,
     "text": "It seems the account activity hasn't been fully resolved.",
-    "translation_ar": "يبدو أن نشاط الحساب لم يُحسم بالكامل بعد.",
+    "translation_ar": "يبدو إن نشاط الحساب لسه معملوش فيها حل كامل.",
     "level": "B2",
     "situation": "banking",
     "variety": "US",
@@ -8436,7 +8436,7 @@
   {
     "id": 358,
     "text": "Do you have any updates on the project timeline?",
-    "translation_ar": "هل لديك أي تحديثات عن الجدول الزمني للمشروع؟",
+    "translation_ar": "هل عندك أي تحديثات عن الجدول الزمني للمشروع؟",
     "level": "B1",
     "situation": "workplace",
     "variety": "US",
@@ -8470,7 +8470,7 @@
   {
     "id": 359,
     "text": "There are a few concerns regarding the project timeline that we should address.",
-    "translation_ar": "هناك بعض المخاوف بخصوص الجدول الزمني للمشروع ينبغي أن نتعامل معها.",
+    "translation_ar": "فيه شوية مخاوف بخصوص الجدول الزمني للمشروع لازم نتعامل معاها.",
     "level": "B2",
     "situation": "workplace",
     "variety": "US",
@@ -8504,7 +8504,7 @@
   {
     "id": 360,
     "text": "The implications of the project timeline are not yet fully understood.",
-    "translation_ar": "الآثار المترتبة على الجدول الزمني للمشروع ليست مفهومة بالكامل بعد.",
+    "translation_ar": "الآثار المترتبة على الجدول الزمني للمشروع لسه مش مفهومة بالكامل.",
     "level": "C1",
     "situation": "workplace",
     "variety": "US",
@@ -8572,7 +8572,7 @@
   {
     "id": 362,
     "text": "I'm not sure I fully understood the software update.",
-    "translation_ar": "لست متأكدًا من أنني فهمت تحديث البرنامج جيدًا.",
+    "translation_ar": "مش متأكد إني فهمت تحديث البرنامج كويس.",
     "level": "B1",
     "situation": "technology",
     "variety": "US",
@@ -8606,7 +8606,7 @@
   {
     "id": 363,
     "text": "The software update could have a bigger impact than we expected.",
-    "translation_ar": "من المحتمل أن يكون لتحديث البرنامج تأثير أكبر مما توقعنا.",
+    "translation_ar": "ممكن يكون لـ تحديث البرنامج تأثير أكبر مما توقعنا.",
     "level": "B2",
     "situation": "technology",
     "variety": "US",
@@ -8640,7 +8640,7 @@
   {
     "id": 364,
     "text": "Rarely have we seen the software update handled so efficiently.",
-    "translation_ar": "نادرًا ما رأينا تحديث البرنامج يُدار بهذه الكفاءة.",
+    "translation_ar": "نادرًا ما رأينا تحديث البرنامج تُدار بهذه الكفاءة.",
     "level": "C1",
     "situation": "technology",
     "variety": "US",
@@ -8708,7 +8708,7 @@
   {
     "id": 366,
     "text": "Could we go over the revised timetable again?",
-    "translation_ar": "هل يمكننا مراجعة الجدول المعدل مرة أخرى؟",
+    "translation_ar": "ممكن نراجع الجدول المعدل تاني؟",
     "level": "B1",
     "situation": "transport",
     "variety": "US",
@@ -8742,7 +8742,7 @@
   {
     "id": 367,
     "text": "I'd like to understand the reasoning behind the revised timetable.",
-    "translation_ar": "أود أن أفهم الأسباب الكامنة وراء الجدول المعدل.",
+    "translation_ar": "حابب أفهم الأسباب اللي وراء الجدول المعدل.",
     "level": "B2",
     "situation": "transport",
     "variety": "US",
@@ -8844,7 +8844,7 @@
   {
     "id": 370,
     "text": "I think we need more information about the event arrangements.",
-    "translation_ar": "أعتقد أننا بحاجة إلى مزيد من المعلومات عن ترتيبات الفعالية.",
+    "translation_ar": "أعتقد إننا محتاجين معلومات أكتر عن ترتيبات الفعالية.",
     "level": "B1",
     "situation": "events",
     "variety": "US",
@@ -8878,7 +8878,7 @@
   {
     "id": 371,
     "text": "Whoever is responsible for the event arrangements should update us soon.",
-    "translation_ar": "أيًا كان المسؤول عن ترتيبات الفعالية، ينبغي أن يُحدّثنا قريبًا.",
+    "translation_ar": "أيًا كان المسؤول عن ترتيبات الفعالية لازم يحدثنا قريبًا.",
     "level": "B2",
     "situation": "events",
     "variety": "US",
@@ -8980,7 +8980,7 @@
   {
     "id": 374,
     "text": "We haven't discussed the consultation time yet.",
-    "translation_ar": "لم نناقش وقت الاستشارة بعد.",
+    "translation_ar": "لسه ما ناقشناش وقت الاستشارة.",
     "level": "B1",
     "situation": "appointments",
     "variety": "US",
@@ -9048,7 +9048,7 @@
   {
     "id": 376,
     "text": "Had we anticipated the consultation time, we might have planned differently.",
-    "translation_ar": "لو كنا قد توقعنا وقت الاستشارة، لخططنا بشكل مختلف.",
+    "translation_ar": "لو كنا توقعنا وقت الاستشارة، كنا خططنا بشكل مختلف.",
     "level": "C1",
     "situation": "appointments",
     "variety": "US",
@@ -9150,7 +9150,7 @@
   {
     "id": 379,
     "text": "It seems the weather conditions haven't been fully resolved.",
-    "translation_ar": "يبدو أن الأحوال الجوية لم تُحسم بالكامل بعد.",
+    "translation_ar": "يبدو إن الأحوال الجوية لسه معملوش فيها حل كامل.",
     "level": "B2",
     "situation": "weather",
     "variety": "US",
@@ -9252,7 +9252,7 @@
   {
     "id": 382,
     "text": "Do you have any updates on the follow-up call?",
-    "translation_ar": "هل لديك أي تحديثات عن مكالمة المتابعة؟",
+    "translation_ar": "هل عندك أي تحديثات عن مكالمة المتابعة؟",
     "level": "B1",
     "situation": "phone-calls",
     "variety": "US",
@@ -9286,7 +9286,7 @@
   {
     "id": 383,
     "text": "There are a few concerns regarding the follow-up call that we should address.",
-    "translation_ar": "هناك بعض المخاوف بخصوص مكالمة المتابعة ينبغي أن نتعامل معها.",
+    "translation_ar": "فيه شوية مخاوف بخصوص مكالمة المتابعة لازم نتعامل معاها.",
     "level": "B2",
     "situation": "phone-calls",
     "variety": "US",
@@ -9320,7 +9320,7 @@
   {
     "id": 384,
     "text": "The implications of the follow-up call are not yet fully understood.",
-    "translation_ar": "الآثار المترتبة على مكالمة المتابعة ليست مفهومة بالكامل بعد.",
+    "translation_ar": "الآثار المترتبة على مكالمة المتابعة لسه مش مفهومة بالكامل.",
     "level": "C1",
     "situation": "phone-calls",
     "variety": "US",
@@ -9388,7 +9388,7 @@
   {
     "id": 386,
     "text": "I'm not sure I fully understood the family plans.",
-    "translation_ar": "لست متأكدًا من أنني فهمت خطط العائلة جيدًا.",
+    "translation_ar": "مش متأكد إني فهمت خطط العائلة كويس.",
     "level": "B1",
     "situation": "family",
     "variety": "US",
@@ -9422,7 +9422,7 @@
   {
     "id": 387,
     "text": "The family plans could have a bigger impact than we expected.",
-    "translation_ar": "من المحتمل أن يكون لخطط العائلة تأثير أكبر مما توقعنا.",
+    "translation_ar": "ممكن يكون لـ خطط العائلة تأثير أكبر مما توقعنا.",
     "level": "B2",
     "situation": "family",
     "variety": "US",
@@ -9524,7 +9524,7 @@
   {
     "id": 390,
     "text": "Could we go over the local initiative again?",
-    "translation_ar": "هل يمكننا مراجعة المبادرة المحلية مرة أخرى؟",
+    "translation_ar": "ممكن نراجع المبادرة المحلية تاني؟",
     "level": "B1",
     "situation": "community",
     "variety": "US",
@@ -9558,7 +9558,7 @@
   {
     "id": 391,
     "text": "I'd like to understand the reasoning behind the local initiative.",
-    "translation_ar": "أود أن أفهم الأسباب الكامنة وراء المبادرة المحلية.",
+    "translation_ar": "حابب أفهم الأسباب اللي وراء المبادرة المحلية.",
     "level": "B2",
     "situation": "community",
     "variety": "US",
@@ -9660,7 +9660,7 @@
   {
     "id": 394,
     "text": "I think we need more information about the weekend activity.",
-    "translation_ar": "أعتقد أننا بحاجة إلى مزيد من المعلومات عن نشاط عطلة نهاية الأسبوع.",
+    "translation_ar": "أعتقد إننا محتاجين معلومات أكتر عن نشاط عطلة نهاية الأسبوع.",
     "level": "B1",
     "situation": "leisure",
     "variety": "US",
@@ -9694,7 +9694,7 @@
   {
     "id": 395,
     "text": "Whoever is responsible for the weekend activity should update us soon.",
-    "translation_ar": "أيًا كان المسؤول عن نشاط عطلة نهاية الأسبوع، ينبغي أن يُحدّثنا قريبًا.",
+    "translation_ar": "أيًا كان المسؤول عن نشاط عطلة نهاية الأسبوع لازم يحدثنا قريبًا.",
     "level": "B2",
     "situation": "leisure",
     "variety": "US",
@@ -9796,7 +9796,7 @@
   {
     "id": 398,
     "text": "We haven't discussed the emergency procedure yet.",
-    "translation_ar": "لم نناقش إجراء الطوارئ بعد.",
+    "translation_ar": "لسه ما ناقشناش إجراء الطوارئ.",
     "level": "B1",
     "situation": "emergency",
     "variety": "US",
@@ -9864,7 +9864,7 @@
   {
     "id": 400,
     "text": "Had we anticipated the emergency procedure, we might have planned differently.",
-    "translation_ar": "لو كنا قد توقعنا إجراء الطوارئ، لخططنا بشكل مختلف.",
+    "translation_ar": "لو كنا توقعنا إجراء الطوارئ، كنا خططنا بشكل مختلف.",
     "level": "C1",
     "situation": "emergency",
     "variety": "US",
@@ -9966,7 +9966,7 @@
   {
     "id": 403,
     "text": "It seems the proposed solution hasn't been fully resolved.",
-    "translation_ar": "يبدو أن الحل المقترح لم يُحسم بعد بشكل كامل.",
+    "translation_ar": "يبدو إن الحل المقترح لسه معملوش فيها حل كامل.",
     "level": "B2",
     "situation": "customer-help",
     "variety": "US",
@@ -10034,7 +10034,7 @@
   {
     "id": 405,
     "text": "The proposed solution, however well-intentioned, may yet prove counterproductive.",
-    "translation_ar": "الحل المقترح، رغم حسن النية من ورائه، قد تكون نتائجه في النهاية عكسية.",
+    "translation_ar": "الحل المقترح، رغم حسن النية وراءه، قد يثبت في النهاية أنه له نتائج عكسية.",
     "level": "C2",
     "situation": "customer-help",
     "variety": "US",
@@ -10068,7 +10068,7 @@
   {
     "id": 406,
     "text": "Do you have any updates on the professional opportunity?",
-    "translation_ar": "هل لديك أي تحديثات عن الفرصة المهنية؟",
+    "translation_ar": "هل عندك أي تحديثات عن الفرصة المهنية؟",
     "level": "B1",
     "situation": "career",
     "variety": "US",
@@ -10102,7 +10102,7 @@
   {
     "id": 407,
     "text": "There are a few concerns regarding the professional opportunity that we should address.",
-    "translation_ar": "هناك بعض المخاوف بخصوص الفرصة المهنية ينبغي أن نتعامل معها.",
+    "translation_ar": "فيه شوية مخاوف بخصوص الفرصة المهنية لازم نتعامل معاها.",
     "level": "B2",
     "situation": "career",
     "variety": "US",
@@ -10136,7 +10136,7 @@
   {
     "id": 408,
     "text": "The implications of the professional opportunity are not yet fully understood.",
-    "translation_ar": "الآثار المترتبة على الفرصة المهنية ليست مفهومة بالكامل بعد.",
+    "translation_ar": "الآثار المترتبة على الفرصة المهنية لسه مش مفهومة بالكامل.",
     "level": "C1",
     "situation": "career",
     "variety": "US",
@@ -10204,7 +10204,7 @@
   {
     "id": 410,
     "text": "I'm not sure I fully understood the replacement request.",
-    "translation_ar": "لست متأكدًا من أنني فهمت طلب الاستبدال جيدًا.",
+    "translation_ar": "مش متأكد إني فهمت طلب الاستبدال كويس.",
     "level": "B1",
     "situation": "returns",
     "variety": "US",
@@ -10238,7 +10238,7 @@
   {
     "id": 411,
     "text": "The replacement request could have a bigger impact than we expected.",
-    "translation_ar": "من المحتمل أن يكون لطلب الاستبدال تأثير أكبر مما توقعنا.",
+    "translation_ar": "ممكن يكون لـ طلب الاستبدال تأثير أكبر مما توقعنا.",
     "level": "B2",
     "situation": "returns",
     "variety": "US",
@@ -10272,7 +10272,7 @@
   {
     "id": 412,
     "text": "Rarely have we seen the replacement request handled so efficiently.",
-    "translation_ar": "نادرًا ما رأينا طلب الاستبدال يُدار بهذه الكفاءة.",
+    "translation_ar": "نادرًا ما رأينا طلب الاستبدال تُدار بهذه الكفاءة.",
     "level": "C1",
     "situation": "returns",
     "variety": "US",
@@ -10340,7 +10340,7 @@
   {
     "id": 414,
     "text": "Could we go over the suggested route again?",
-    "translation_ar": "هل يمكننا مراجعة المسار المقترح مرة أخرى؟",
+    "translation_ar": "ممكن نراجع المسار المقترح تاني؟",
     "level": "B1",
     "situation": "directions",
     "variety": "US",
@@ -10374,7 +10374,7 @@
   {
     "id": 415,
     "text": "I'd like to understand the reasoning behind the suggested route.",
-    "translation_ar": "أود أن أفهم الأسباب الكامنة وراء المسار المقترح.",
+    "translation_ar": "حابب أفهم الأسباب اللي وراء المسار المقترح.",
     "level": "B2",
     "situation": "directions",
     "variety": "US",
@@ -10476,7 +10476,7 @@
   {
     "id": 418,
     "text": "I think we need more information about the planned celebration.",
-    "translation_ar": "أعتقد أننا بحاجة إلى مزيد من المعلومات عن الاحتفال المخطط.",
+    "translation_ar": "أعتقد إننا محتاجين معلومات أكتر عن الاحتفال المخطط.",
     "level": "B1",
     "situation": "celebrations",
     "variety": "US",
@@ -10510,7 +10510,7 @@
   {
     "id": 419,
     "text": "Whoever is responsible for the planned celebration should update us soon.",
-    "translation_ar": "أيًا كان المسؤول عن الاحتفال المخطط، ينبغي أن يُحدّثنا قريبًا.",
+    "translation_ar": "أيًا كان المسؤول عن الاحتفال المخطط لازم يحدثنا قريبًا.",
     "level": "B2",
     "situation": "celebrations",
     "variety": "US",
@@ -10607,6 +10607,1206 @@
     "similar": [
       "We need to look into the planned celebration.",
       "Let's revisit the planned celebration soon."
+    ]
+  },
+  {
+    "id": 422,
+    "text": "Could you tell me a bit about yourself?",
+    "translation_ar": "هل يمكنك أن تخبرني قليلًا عن نفسك؟",
+    "level": "A1",
+    "situation": "job-interview",
+    "variety": "US",
+    "channel": "Career Coaching Basics",
+    "speaker": "Native speaker (US)",
+    "timestamp": 214,
+    "videoId": null,
+    "transcriptContext": "Thanks for coming in today. Could you tell me a bit about yourself?",
+    "pronunciation": "Could you tell me a bit about yourself?",
+    "words": [
+      {
+        "w": "tell me about yourself",
+        "m_en": "a common opening interview question",
+        "m_ar": "سؤال شائع في بداية المقابلة"
+      }
+    ],
+    "grammar_en": "Could you + verb — a polite way to open a conversation or ask a broad question.",
+    "grammar_ar": "Could you + فعل — طريقة مهذبة لفتح حوار أو طرح سؤال عام.",
+    "alternatives": [
+      {
+        "text": "Tell me about yourself.",
+        "note_en": "More direct",
+        "note_ar": "أكثر مباشرة"
+      },
+      {
+        "text": "Can you walk me through your background?",
+        "note_en": "Slightly more formal",
+        "note_ar": "أكثر رسمية قليلًا"
+      }
+    ],
+    "similar": [
+      "Can you introduce yourself?",
+      "Walk me through your resume.",
+      "What should I know about you?"
+    ]
+  },
+  {
+    "id": 423,
+    "text": "I have two years of experience in this field.",
+    "translation_ar": "لدي سنتان من الخبرة في هذا المجال.",
+    "level": "A2",
+    "situation": "job-interview",
+    "variety": "US",
+    "channel": "Career Coaching Basics",
+    "speaker": "Native speaker (US)",
+    "timestamp": 231,
+    "videoId": null,
+    "transcriptContext": "I have two years of experience in this field, mostly working with small teams.",
+    "pronunciation": "I have two years of experience in this field.",
+    "words": [
+      {
+        "w": "experience in",
+        "m_en": "having practical background in a specific area of work",
+        "m_ar": "امتلاك خبرة عملية في مجال معين"
+      }
+    ],
+    "grammar_en": "Have + noun — describing something you possess, here used for professional background.",
+    "grammar_ar": "Have + اسم — تُستخدم لوصف شيء تمتلكه، وهنا للخبرة المهنية.",
+    "alternatives": [
+      {
+        "text": "I've worked in this field for two years.",
+        "note_en": "Present perfect, slightly more formal",
+        "note_ar": "المضارع التام، أكثر رسمية"
+      },
+      {
+        "text": "I've been in this industry for two years.",
+        "note_en": "Common alternative",
+        "note_ar": "بديل شائع"
+      }
+    ],
+    "similar": [
+      "I've been working in sales for three years.",
+      "I have some experience with this software.",
+      "I bring two years of relevant experience."
+    ]
+  },
+  {
+    "id": 424,
+    "text": "What made you apply for this position?",
+    "translation_ar": "ما الذي دفعك للتقديم على هذه الوظيفة؟",
+    "level": "B1",
+    "situation": "job-interview",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 8,
+    "videoId": null,
+    "transcriptContext": "What made you apply for this position? We're curious what drew you to us.",
+    "pronunciation": "What made you apply for this position?",
+    "words": [
+      {
+        "w": "apply for",
+        "m_en": "to formally request a job or position",
+        "m_ar": "التقدّم رسميًا لوظيفة أو منصب"
+      }
+    ],
+    "grammar_en": "What made you + verb — asking about someone's motivation or reason for an action.",
+    "grammar_ar": "What made you + فعل — سؤال عن دافع الشخص أو سبب قيامه بشيء ما.",
+    "alternatives": [
+      {
+        "text": "Why did you apply for this role?",
+        "note_en": "More direct",
+        "note_ar": "أكثر مباشرة"
+      },
+      {
+        "text": "What attracted you to this job?",
+        "note_en": "Slightly softer",
+        "note_ar": "أكثر لطفًا قليلًا"
+      }
+    ],
+    "similar": [
+      "Why are you interested in this role?",
+      "What drew you to our company?",
+      "What made you consider this opportunity?"
+    ]
+  },
+  {
+    "id": 425,
+    "text": "I'd say my biggest strength is problem-solving.",
+    "translation_ar": "أقول إن أكبر نقاط قوتي هي حل المشكلات.",
+    "level": "B1",
+    "situation": "job-interview",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 25,
+    "videoId": null,
+    "transcriptContext": "I'd say my biggest strength is problem-solving, especially under pressure.",
+    "pronunciation": "I'd say my biggest strength is problem-solving.",
+    "words": [
+      {
+        "w": "I'd say",
+        "m_en": "used to give an opinion in a slightly softer, less direct way",
+        "m_ar": "تُستخدم لإبداء رأي بطريقة ألطف وأقل مباشرة"
+      }
+    ],
+    "grammar_en": "I'd say (I would say) + statement — a softened way of stating an opinion.",
+    "grammar_ar": "I'd say (اختصار I would say) + جملة — طريقة ملطّفة للتعبير عن رأي.",
+    "alternatives": [
+      {
+        "text": "My biggest strength is problem-solving.",
+        "note_en": "More direct",
+        "note_ar": "أكثر مباشرة"
+      },
+      {
+        "text": "I consider problem-solving to be my strongest skill.",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسمية"
+      }
+    ],
+    "similar": [
+      "One of my strengths is staying organized.",
+      "I'd say I'm best at working under deadlines.",
+      "My key strength is communication."
+    ]
+  },
+  {
+    "id": 426,
+    "text": "One area I'm working to improve is public speaking.",
+    "translation_ar": "أحد المجالات التي أعمل على تحسينها هو التحدث أمام الجمهور.",
+    "level": "B2",
+    "situation": "job-interview",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 42,
+    "videoId": null,
+    "transcriptContext": "One area I'm working to improve is public speaking, so I've joined a local club.",
+    "pronunciation": "One area I'm working to improve is public speaking.",
+    "words": [
+      {
+        "w": "work to improve",
+        "m_en": "to make an effort to become better at something",
+        "m_ar": "بذل جهد لتحسين شيء ما"
+      }
+    ],
+    "grammar_en": "One area + relative clause — a common structure for discussing a weakness diplomatically in interviews.",
+    "grammar_ar": "One area + جملة وصلية — تركيب شائع للحديث عن نقطة ضعف بأسلوب دبلوماسي في المقابلات.",
+    "alternatives": [
+      {
+        "text": "Something I'm still developing is public speaking.",
+        "note_en": "Similar tone",
+        "note_ar": "نبرة مشابهة"
+      },
+      {
+        "text": "Public speaking is a skill I'm actively building.",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسمية"
+      }
+    ],
+    "similar": [
+      "I'm still building my confidence with presentations.",
+      "That's something I'm actively working on.",
+      "I've been focusing on improving my time management."
+    ]
+  },
+  {
+    "id": 427,
+    "text": "Where do you see yourself in five years?",
+    "translation_ar": "أين ترى نفسك بعد خمس سنوات؟",
+    "level": "B1",
+    "situation": "job-interview",
+    "variety": "US",
+    "channel": "Career Coaching Basics",
+    "speaker": "Native speaker (US)",
+    "timestamp": 59,
+    "videoId": null,
+    "transcriptContext": "Where do you see yourself in five years? We like to understand long-term goals.",
+    "pronunciation": "Where do you see yourself in five years?",
+    "words": [
+      {
+        "w": "see yourself",
+        "m_en": "to imagine your own future situation",
+        "m_ar": "تخيّل وضعك المستقبلي"
+      }
+    ],
+    "grammar_en": "Where do you see + reflexive pronoun — asking someone to imagine their future.",
+    "grammar_ar": "Where do you see + ضمير انعكاسي — سؤال لتخيّل مستقبل الشخص.",
+    "alternatives": [
+      {
+        "text": "What are your long-term career goals?",
+        "note_en": "More direct",
+        "note_ar": "أكثر مباشرة"
+      },
+      {
+        "text": "How do you picture your career developing?",
+        "note_en": "Slightly more formal",
+        "note_ar": "أكثر رسمية قليلًا"
+      }
+    ],
+    "similar": [
+      "What are your career plans?",
+      "How does this role fit your future goals?",
+      "Where would you like to be professionally in a few years?"
+    ]
+  },
+  {
+    "id": 428,
+    "text": "Do you have any questions for us?",
+    "translation_ar": "هل لديك أي أسئلة لنا؟",
+    "level": "A2",
+    "situation": "job-interview",
+    "variety": "CA",
+    "channel": "Career Coaching Basics",
+    "speaker": "Native speaker (Canada)",
+    "timestamp": 76,
+    "videoId": null,
+    "transcriptContext": "That's all from our side — do you have any questions for us?",
+    "pronunciation": "Do you have any questions for us?",
+    "words": [
+      {
+        "w": "any questions",
+        "m_en": "an open invitation to ask for more information",
+        "m_ar": "دعوة مفتوحة لطرح المزيد من الأسئلة"
+      }
+    ],
+    "grammar_en": "Do you have any + noun — a polite way to check whether someone needs more information.",
+    "grammar_ar": "Do you have any + اسم — طريقة مهذبة للتأكد إن كان الشخص يحتاج معلومات إضافية.",
+    "alternatives": [
+      {
+        "text": "Is there anything you'd like to ask?",
+        "note_en": "Slightly softer",
+        "note_ar": "أكثر لطفًا قليلًا"
+      },
+      {
+        "text": "Anything you're curious about?",
+        "note_en": "Casual",
+        "note_ar": "غير رسمية"
+      }
+    ],
+    "similar": [
+      "Is there anything else you'd like to know?",
+      "Feel free to ask if anything's unclear.",
+      "What questions do you have for me?"
+    ]
+  },
+  {
+    "id": 429,
+    "text": "I'd welcome the opportunity to discuss the salary range.",
+    "translation_ar": "أرحّب بفرصة مناقشة نطاق الراتب.",
+    "level": "C1",
+    "situation": "job-interview",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 93,
+    "videoId": null,
+    "transcriptContext": "Before we finish, I'd welcome the opportunity to discuss the salary range for this role.",
+    "pronunciation": "I'd welcome the opportunity to discuss the salary range.",
+    "words": [
+      {
+        "w": "welcome the opportunity",
+        "m_en": "to be glad to have a chance to do something, often used formally",
+        "m_ar": "الترحيب بفرصة القيام بشيء ما، غالبًا بأسلوب رسمي"
+      }
+    ],
+    "grammar_en": "I'd welcome + noun phrase — a formal, polite way of raising a topic you want to discuss.",
+    "grammar_ar": "I'd welcome + شبه جملة اسمية — طريقة رسمية ومهذبة لطرح موضوع تريد مناقشته.",
+    "alternatives": [
+      {
+        "text": "Could we talk about the salary range at some point?",
+        "note_en": "Less formal",
+        "note_ar": "أقل رسمية"
+      },
+      {
+        "text": "I'd like to touch on compensation, if that's alright.",
+        "note_en": "Similarly formal",
+        "note_ar": "رسمية بنفس القدر"
+      }
+    ],
+    "similar": [
+      "I'd appreciate clarity on the compensation package.",
+      "Could we discuss the benefits package as well?",
+      "I'm happy to discuss salary expectations whenever works for you."
+    ]
+  },
+  {
+    "id": 430,
+    "text": "Given the scope of this role, how is success typically measured?",
+    "translation_ar": "بالنظر إلى نطاق هذا المنصب، كيف يُقاس النجاح فيه عادةً؟",
+    "level": "C2",
+    "situation": "job-interview",
+    "variety": "US",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (US)",
+    "timestamp": 110,
+    "videoId": null,
+    "transcriptContext": "Given the scope of this role, how is success typically measured within the first year?",
+    "pronunciation": "Given the scope of this role, how is success typically measured?",
+    "words": [
+      {
+        "w": "given (that)",
+        "m_en": "used to introduce a fact or condition as the basis for a question or statement",
+        "m_ar": "تُستخدم لتقديم حقيقة أو شرط كأساس لسؤال أو جملة"
+      }
+    ],
+    "grammar_en": "Given + noun — a formal way of referencing a known fact before asking a question, common in senior-level discussions.",
+    "grammar_ar": "Given + اسم — طريقة رسمية للإشارة إلى حقيقة معروفة قبل طرح سؤال، شائعة في النقاشات رفيعة المستوى.",
+    "alternatives": [
+      {
+        "text": "How do you typically evaluate performance in this role?",
+        "note_en": "More direct",
+        "note_ar": "أكثر مباشرة"
+      },
+      {
+        "text": "What benchmarks define success in this position?",
+        "note_en": "Slightly more formal",
+        "note_ar": "أكثر رسمية قليلًا"
+      }
+    ],
+    "similar": [
+      "What would success look like in the first six months?",
+      "How is performance assessed at the leadership level?",
+      "What KPIs matter most for this position?"
+    ]
+  },
+  {
+    "id": 431,
+    "text": "Thank you for considering my application.",
+    "translation_ar": "شكرًا لكم على النظر في طلبي.",
+    "level": "A2",
+    "situation": "job-interview",
+    "variety": "US",
+    "channel": "Career Coaching Basics",
+    "speaker": "Native speaker (US)",
+    "timestamp": 127,
+    "videoId": null,
+    "transcriptContext": "Thank you for considering my application — I look forward to hearing from you.",
+    "pronunciation": "Thank you for considering my application.",
+    "words": [
+      {
+        "w": "consider (an application)",
+        "m_en": "to think carefully about a request before deciding",
+        "m_ar": "التفكير بعناية في طلب قبل اتخاذ قرار"
+      }
+    ],
+    "grammar_en": "Thank you for + gerund — a polite closing expression thanking someone for an action.",
+    "grammar_ar": "Thank you for + مصدر مؤول (gerund) — عبارة ختامية مهذبة لشكر شخص على فعل ما.",
+    "alternatives": [
+      {
+        "text": "Thanks for taking the time to review my application.",
+        "note_en": "Slightly less formal",
+        "note_ar": "أقل رسمية قليلًا"
+      },
+      {
+        "text": "I appreciate you considering me for this role.",
+        "note_en": "Warmer tone",
+        "note_ar": "نبرة أكثر دفئًا"
+      }
+    ],
+    "similar": [
+      "Thank you for your time today.",
+      "I appreciate the opportunity to interview.",
+      "Thanks again for meeting with me."
+    ]
+  },
+  {
+    "id": 432,
+    "text": "I'd like to open a savings account, please.",
+    "translation_ar": "أود فتح حساب توفير، من فضلك.",
+    "level": "A2",
+    "situation": "banking",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 144,
+    "videoId": null,
+    "transcriptContext": "Good morning — I'd like to open a savings account, please.",
+    "pronunciation": "I'd like to open a savings account, please.",
+    "words": [
+      {
+        "w": "open an account",
+        "m_en": "to start a new bank account",
+        "m_ar": "إنشاء حساب بنكي جديد"
+      }
+    ],
+    "grammar_en": "I'd like to + verb — a polite way to state what you want to do.",
+    "grammar_ar": "I'd like to + فعل — طريقة مهذبة لذكر ما تريد فعله.",
+    "alternatives": [
+      {
+        "text": "I'm interested in opening a savings account.",
+        "note_en": "Slightly more formal",
+        "note_ar": "أكثر رسمية قليلًا"
+      },
+      {
+        "text": "Can I set up a savings account?",
+        "note_en": "More casual",
+        "note_ar": "أكثر عفوية"
+      }
+    ],
+    "similar": [
+      "I'd like to apply for a debit card.",
+      "Could you help me open a new account?",
+      "I'd like to set up direct deposit."
+    ]
+  },
+  {
+    "id": 433,
+    "text": "There seems to be a charge I don't recognize.",
+    "translation_ar": "يبدو أن هناك رسومًا لا أتعرّف عليها.",
+    "level": "B2",
+    "situation": "banking",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 161,
+    "videoId": null,
+    "transcriptContext": "There seems to be a charge I don't recognize on my statement from last week.",
+    "pronunciation": "There seems to be a charge I don't recognize.",
+    "words": [
+      {
+        "w": "recognize",
+        "m_en": "to identify something as familiar or known",
+        "m_ar": "التعرّف على شيء بأنه مألوف أو معروف"
+      }
+    ],
+    "grammar_en": "There seems to be + noun — a tentative way of pointing out a possible problem without sounding accusatory.",
+    "grammar_ar": "There seems to be + اسم — طريقة غير قاطعة للإشارة إلى مشكلة محتملة دون أن تبدو اتهامية.",
+    "alternatives": [
+      {
+        "text": "I noticed an unfamiliar charge on my account.",
+        "note_en": "More direct",
+        "note_ar": "أكثر مباشرة"
+      },
+      {
+        "text": "Could you explain this charge for me?",
+        "note_en": "Simpler request",
+        "note_ar": "طلب أبسط"
+      }
+    ],
+    "similar": [
+      "I don't recognize this transaction.",
+      "Could you look into a charge on my account?",
+      "Something on my statement doesn't look right."
+    ]
+  },
+  {
+    "id": 434,
+    "text": "The train has been delayed by twenty minutes.",
+    "translation_ar": "تأخر القطار عشرين دقيقة.",
+    "level": "A2",
+    "situation": "transport",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 178,
+    "videoId": null,
+    "transcriptContext": "Attention passengers: the train has been delayed by twenty minutes due to signal issues.",
+    "pronunciation": "The train has been delayed by twenty minutes.",
+    "words": [
+      {
+        "w": "delayed",
+        "m_en": "arriving or happening later than planned",
+        "m_ar": "الوصول أو الحدوث متأخرًا عن الموعد المخطط له"
+      }
+    ],
+    "grammar_en": "Passive voice (has been delayed) — used when the cause of the delay is not the main focus.",
+    "grammar_ar": "المبني للمجهول (has been delayed) — يُستخدم عندما لا يكون سبب التأخير هو محور التركيز.",
+    "alternatives": [
+      {
+        "text": "The train is running twenty minutes late.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عفوية"
+      },
+      {
+        "text": "There's a twenty-minute delay on the train.",
+        "note_en": "Neutral tone",
+        "note_ar": "نبرة محايدة"
+      }
+    ],
+    "similar": [
+      "Our flight has been delayed by an hour.",
+      "The bus is running a bit late today.",
+      "There's been a short delay on this line."
+    ]
+  },
+  {
+    "id": 435,
+    "text": "I'd like to reschedule my appointment for next week.",
+    "translation_ar": "أود إعادة جدولة موعدي للأسبوع القادم.",
+    "level": "B1",
+    "situation": "appointments",
+    "variety": "US",
+    "channel": "Customer Care Practice",
+    "speaker": "Native speaker (US)",
+    "timestamp": 195,
+    "videoId": null,
+    "transcriptContext": "Hi, I'd like to reschedule my appointment for next week if possible.",
+    "pronunciation": "I'd like to reschedule my appointment for next week.",
+    "words": [
+      {
+        "w": "reschedule",
+        "m_en": "to change the planned time of an event to a different time",
+        "m_ar": "تغيير الموعد المحدد لحدث ما إلى وقت آخر"
+      }
+    ],
+    "grammar_en": "I'd like to + verb — a polite way of requesting a change.",
+    "grammar_ar": "I'd like to + فعل — طريقة مهذبة لطلب تغيير.",
+    "alternatives": [
+      {
+        "text": "Could I move my appointment to next week?",
+        "note_en": "Slightly more casual",
+        "note_ar": "أكثر عفوية قليلًا"
+      },
+      {
+        "text": "Is it possible to push my appointment back a week?",
+        "note_en": "Common alternative",
+        "note_ar": "بديل شائع"
+      }
+    ],
+    "similar": [
+      "Can we push the meeting to another day?",
+      "I need to change the time of my appointment.",
+      "Would it be possible to book a later slot?"
+    ]
+  },
+  {
+    "id": 436,
+    "text": "It looks like it might rain later this afternoon.",
+    "translation_ar": "يبدو أنه قد تمطر لاحقًا بعد الظهر.",
+    "level": "A2",
+    "situation": "weather",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 212,
+    "videoId": null,
+    "transcriptContext": "Bring an umbrella — it looks like it might rain later this afternoon.",
+    "pronunciation": "It looks like it might rain later this afternoon.",
+    "words": [
+      {
+        "w": "it looks like",
+        "m_en": "used to make a prediction based on what you can currently see or expect",
+        "m_ar": "تُستخدم للتنبؤ بناءً على ما يمكن ملاحظته أو توقعه حاليًا"
+      }
+    ],
+    "grammar_en": "It looks like + clause — expressing a prediction based on visible evidence.",
+    "grammar_ar": "It looks like + جملة — التعبير عن توقع بناءً على دليل ملحوظ.",
+    "alternatives": [
+      {
+        "text": "It might rain this afternoon.",
+        "note_en": "Simpler",
+        "note_ar": "أبسط"
+      },
+      {
+        "text": "There's a chance of rain later.",
+        "note_en": "Common weather phrasing",
+        "note_ar": "تعبير شائع عن الطقس"
+      }
+    ],
+    "similar": [
+      "It looks like it's going to be sunny tomorrow.",
+      "It seems like the weather is changing.",
+      "There's a storm forecast for tonight."
+    ]
+  },
+  {
+    "id": 437,
+    "text": "Sorry, could you call me back in ten minutes?",
+    "translation_ar": "آسف، هل يمكنك الاتصال بي بعد عشر دقائق؟",
+    "level": "A2",
+    "situation": "phone-calls",
+    "variety": "US",
+    "channel": "Customer Care Practice",
+    "speaker": "Native speaker (US)",
+    "timestamp": 229,
+    "videoId": null,
+    "transcriptContext": "Sorry, could you call me back in ten minutes? I'm just stepping into a meeting.",
+    "pronunciation": "Sorry, could you call me back in ten minutes?",
+    "words": [
+      {
+        "w": "call (someone) back",
+        "m_en": "to return a phone call to someone",
+        "m_ar": "الرد على مكالمة شخص ما لاحقًا"
+      }
+    ],
+    "grammar_en": "Could you + verb — a polite request, softened further by 'sorry' at the start.",
+    "grammar_ar": "Could you + فعل — طلب مهذب، ويزداد لطفًا بإضافة 'sorry' في البداية.",
+    "alternatives": [
+      {
+        "text": "Can you ring me back in ten minutes?",
+        "note_en": "More casual, British-leaning",
+        "note_ar": "أكثر عفوية وقريبة من البريطانية"
+      },
+      {
+        "text": "Would you mind calling back a bit later?",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسمية"
+      }
+    ],
+    "similar": [
+      "I'll call you back as soon as I'm free.",
+      "Could you try me again in a few minutes?",
+      "Let me call you back after the meeting."
+    ]
+  },
+  {
+    "id": 438,
+    "text": "My grandmother is coming to stay with us this weekend.",
+    "translation_ar": "ستأتي جدتي للإقامة معنا هذا الأسبوع.",
+    "level": "A1",
+    "situation": "family",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 6,
+    "videoId": null,
+    "transcriptContext": "My grandmother is coming to stay with us this weekend, so the house is a bit busy.",
+    "pronunciation": "My grandmother is coming to stay with us this weekend.",
+    "words": [
+      {
+        "w": "stay with",
+        "m_en": "to live somewhere temporarily, often with someone else",
+        "m_ar": "الإقامة في مكان ما مؤقتًا، غالبًا مع شخص آخر"
+      }
+    ],
+    "grammar_en": "Present continuous for future plans — used for arranged, near-future events.",
+    "grammar_ar": "المضارع المستمر للتعبير عن المستقبل — يُستخدم للأحداث المرتّبة في المستقبل القريب.",
+    "alternatives": [
+      {
+        "text": "My grandmother is visiting us this weekend.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "We're having my grandmother over this weekend.",
+        "note_en": "Slightly more casual",
+        "note_ar": "أكثر عفوية قليلًا"
+      }
+    ],
+    "similar": [
+      "My parents are visiting next month.",
+      "We're hosting family this weekend.",
+      "My cousin is staying with us for a few days."
+    ]
+  },
+  {
+    "id": 439,
+    "text": "Please stay calm, help is on the way.",
+    "translation_ar": "من فضلك ابقَ هادئًا، المساعدة في الطريق.",
+    "level": "A2",
+    "situation": "emergency",
+    "variety": "US",
+    "channel": "Customer Care Practice",
+    "speaker": "Native speaker (US)",
+    "timestamp": 23,
+    "videoId": null,
+    "transcriptContext": "I understand this is stressful — please stay calm, help is on the way.",
+    "pronunciation": "Please stay calm, help is on the way.",
+    "words": [
+      {
+        "w": "on the way",
+        "m_en": "currently traveling toward a destination, about to arrive",
+        "m_ar": "في الطريق نحو وجهة ما، على وشك الوصول"
+      }
+    ],
+    "grammar_en": "Imperative (Please + verb) — used to give calm, direct instructions in urgent situations.",
+    "grammar_ar": "صيغة الأمر (Please + فعل) — تُستخدم لإعطاء تعليمات هادئة ومباشرة في المواقف الطارئة.",
+    "alternatives": [
+      {
+        "text": "Try to stay calm — help is coming.",
+        "note_en": "Slightly softer",
+        "note_ar": "أكثر لطفًا قليلًا"
+      },
+      {
+        "text": "Stay where you are, someone is coming to help.",
+        "note_en": "More specific instruction",
+        "note_ar": "تعليمات أكثر تحديدًا"
+      }
+    ],
+    "similar": [
+      "An ambulance is on its way.",
+      "Please remain where you are.",
+      "Someone will be with you shortly."
+    ]
+  },
+  {
+    "id": 440,
+    "text": "The teacher explained the lesson very clearly.",
+    "translation_ar": "شرح المعلم الدرس بوضوح شديد.",
+    "level": "A2",
+    "situation": "education",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 40,
+    "videoId": null,
+    "transcriptContext": "I was worried about the topic, but the teacher explained the lesson very clearly.",
+    "pronunciation": "The teacher explained the lesson very clearly.",
+    "words": [
+      {
+        "w": "explain clearly",
+        "m_en": "to make something easy to understand through a clear description",
+        "m_ar": "جعل شيء ما سهل الفهم من خلال وصف واضح"
+      }
+    ],
+    "grammar_en": "Adverb placement (clearly) after the object — describing how an action was performed.",
+    "grammar_ar": "موضع الظرف (clearly) بعد المفعول به — لوصف كيفية تنفيذ الفعل.",
+    "alternatives": [
+      {
+        "text": "The lesson was explained really well.",
+        "note_en": "Passive, similar meaning",
+        "note_ar": "مبني للمجهول، بنفس المعنى"
+      },
+      {
+        "text": "The teacher made the lesson easy to follow.",
+        "note_en": "Alternative phrasing",
+        "note_ar": "صياغة بديلة"
+      }
+    ],
+    "similar": [
+      "She explains grammar in a simple way.",
+      "The instructor made the topic easy to understand.",
+      "He always explains things step by step."
+    ]
+  },
+  {
+    "id": 441,
+    "text": "The plumber is coming to fix the leak tomorrow.",
+    "translation_ar": "سيأتي السباك لإصلاح التسرّب غدًا.",
+    "level": "A2",
+    "situation": "home",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 57,
+    "videoId": null,
+    "transcriptContext": "Good news — the plumber is coming to fix the leak tomorrow morning.",
+    "pronunciation": "The plumber is coming to fix the leak tomorrow.",
+    "words": [
+      {
+        "w": "fix a leak",
+        "m_en": "to repair a place where water or gas is escaping",
+        "m_ar": "إصلاح موضع يتسرّب منه الماء أو الغاز"
+      }
+    ],
+    "grammar_en": "Present continuous for a scheduled future event.",
+    "grammar_ar": "المضارع المستمر للتعبير عن حدث مستقبلي مُرتّب مسبقًا.",
+    "alternatives": [
+      {
+        "text": "The plumber's coming by tomorrow to fix it.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عفوية"
+      },
+      {
+        "text": "We've scheduled the plumber for tomorrow.",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسمية"
+      }
+    ],
+    "similar": [
+      "The electrician is coming next week.",
+      "Someone is coming to repair the heater.",
+      "We finally booked a technician for the leak."
+    ]
+  },
+  {
+    "id": 442,
+    "text": "Let's touch base again before the deadline.",
+    "translation_ar": "لنتواصل مرة أخرى قبل الموعد النهائي.",
+    "level": "B1",
+    "situation": "workplace",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 74,
+    "videoId": null,
+    "transcriptContext": "Let's touch base again before the deadline to make sure everything's on track.",
+    "pronunciation": "Let's touch base again before the deadline.",
+    "words": [
+      {
+        "w": "touch base",
+        "m_en": "to make brief contact with someone to check on progress",
+        "m_ar": "التواصل السريع مع شخص للاطمئنان على سير العمل"
+      }
+    ],
+    "grammar_en": "Let's + verb — a suggestion including both speaker and listener.",
+    "grammar_ar": "Let's + فعل — اقتراح يشمل المتحدث والمستمع معًا.",
+    "alternatives": [
+      {
+        "text": "Let's check in again before the deadline.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "We should sync up before the deadline.",
+        "note_en": "More corporate tone",
+        "note_ar": "نبرة أقرب لبيئة الشركات"
+      }
+    ],
+    "similar": [
+      "Let's reconnect next week.",
+      "We should touch base after the review.",
+      "Let's follow up once the draft is ready."
+    ]
+  },
+  {
+    "id": 443,
+    "text": "This update should fix the login issue.",
+    "translation_ar": "من المفترض أن يُصلح هذا التحديث مشكلة تسجيل الدخول.",
+    "level": "B1",
+    "situation": "technology",
+    "variety": "US",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (US)",
+    "timestamp": 91,
+    "videoId": null,
+    "transcriptContext": "We just released a patch — this update should fix the login issue you reported.",
+    "pronunciation": "This update should fix the login issue.",
+    "words": [
+      {
+        "w": "should",
+        "m_en": "used to express expectation that something will happen",
+        "m_ar": "تُستخدم للتعبير عن توقّع حدوث شيء ما"
+      }
+    ],
+    "grammar_en": "Should + verb — expressing a likely outcome, not a guarantee.",
+    "grammar_ar": "Should + فعل — للتعبير عن نتيجة متوقعة، وليست مؤكدة بشكل قاطع.",
+    "alternatives": [
+      {
+        "text": "This patch is expected to fix the login issue.",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسمية"
+      },
+      {
+        "text": "This should resolve the login problem.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      }
+    ],
+    "similar": [
+      "This fix should resolve the crash.",
+      "The new version should improve performance.",
+      "That should solve the syncing problem."
+    ]
+  },
+  {
+    "id": 444,
+    "text": "The venue can hold up to two hundred guests.",
+    "translation_ar": "يمكن للمكان استيعاب ما يصل إلى مئتي ضيف.",
+    "level": "B1",
+    "situation": "events",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 108,
+    "videoId": null,
+    "transcriptContext": "Just to confirm, the venue can hold up to two hundred guests comfortably.",
+    "pronunciation": "The venue can hold up to two hundred guests.",
+    "words": [
+      {
+        "w": "hold (a number of people)",
+        "m_en": "to have enough space or capacity for a certain number",
+        "m_ar": "امتلاك سعة كافية لعدد معين من الأشخاص"
+      }
+    ],
+    "grammar_en": "Can + verb — expressing capacity or ability.",
+    "grammar_ar": "Can + فعل — للتعبير عن السعة أو القدرة.",
+    "alternatives": [
+      {
+        "text": "The venue has capacity for two hundred guests.",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسمية"
+      },
+      {
+        "text": "Up to two hundred people can fit in the venue.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      }
+    ],
+    "similar": [
+      "The hall seats around 150 people.",
+      "This room can accommodate large groups.",
+      "The space fits up to 300 for a standing event."
+    ]
+  },
+  {
+    "id": 445,
+    "text": "The neighborhood association is planning a cleanup day.",
+    "translation_ar": "تخطط جمعية الحي ليوم لتنظيف المنطقة.",
+    "level": "B1",
+    "situation": "community",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 125,
+    "videoId": null,
+    "transcriptContext": "The neighborhood association is planning a cleanup day next Saturday — everyone's welcome.",
+    "pronunciation": "The neighborhood association is planning a cleanup day.",
+    "words": [
+      {
+        "w": "cleanup day",
+        "m_en": "a scheduled day when a community works together to clean a shared area",
+        "m_ar": "يوم مُخصّص يعمل فيه أفراد المجتمع معًا لتنظيف منطقة مشتركة"
+      }
+    ],
+    "grammar_en": "Present continuous for planned future events.",
+    "grammar_ar": "المضارع المستمر للتعبير عن أحداث مستقبلية مُخطّط لها.",
+    "alternatives": [
+      {
+        "text": "The community group is organizing a cleanup day.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "There's a neighborhood cleanup planned for Saturday.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عفوية"
+      }
+    ],
+    "similar": [
+      "Our building is organizing a recycling drive.",
+      "The town is planning a community event next month.",
+      "Volunteers are meeting Saturday morning to clean the park."
+    ]
+  },
+  {
+    "id": 446,
+    "text": "We usually go hiking on weekends when the weather's nice.",
+    "translation_ar": "عادةً نذهب للمشي في الجبال في العطلات عندما يكون الطقس جميلًا.",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 142,
+    "videoId": null,
+    "transcriptContext": "We usually go hiking on weekends when the weather's nice — it's a great way to relax.",
+    "pronunciation": "We usually go hiking on weekends when the weather's nice.",
+    "words": [
+      {
+        "w": "go hiking",
+        "m_en": "to walk for pleasure in natural areas, often in hills or mountains",
+        "m_ar": "المشي للترفيه في مناطق طبيعية، غالبًا في التلال أو الجبال"
+      }
+    ],
+    "grammar_en": "Usually + present simple — describing habitual actions.",
+    "grammar_ar": "Usually + المضارع البسيط — لوصف الأفعال المعتادة.",
+    "alternatives": [
+      {
+        "text": "We often go hiking when it's sunny.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Weekends are usually for hiking, weather permitting.",
+        "note_en": "Reordered structure",
+        "note_ar": "ترتيب مختلف"
+      }
+    ],
+    "similar": [
+      "We like to go camping in the summer.",
+      "On weekends, we usually relax at home.",
+      "We often take a walk in the park together."
+    ]
+  },
+  {
+    "id": 447,
+    "text": "I appreciate your patience while we sort this out.",
+    "translation_ar": "أقدّر صبرك بينما نحل هذا الأمر.",
+    "level": "B1",
+    "situation": "customer-help",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 159,
+    "videoId": null,
+    "transcriptContext": "I appreciate your patience while we sort this out — it shouldn't take much longer.",
+    "pronunciation": "I appreciate your patience while we sort this out.",
+    "words": [
+      {
+        "w": "sort out",
+        "m_en": "to resolve a problem or organize something that was unclear",
+        "m_ar": "حل مشكلة أو تنظيم أمر كان غير واضح"
+      }
+    ],
+    "grammar_en": "Appreciate + noun — a polite way of thanking someone, often used in customer service.",
+    "grammar_ar": "Appreciate + اسم — طريقة مهذبة لشكر شخص، تُستخدم كثيرًا في خدمة العملاء.",
+    "alternatives": [
+      {
+        "text": "Thanks for bearing with us while we resolve this.",
+        "note_en": "Similar tone",
+        "note_ar": "نبرة مشابهة"
+      },
+      {
+        "text": "We appreciate your understanding as we work through this.",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسمية"
+      }
+    ],
+    "similar": [
+      "Thanks for your patience during the wait.",
+      "We appreciate you bearing with us.",
+      "Thank you for staying patient while we look into it."
+    ]
+  },
+  {
+    "id": 448,
+    "text": "I'm considering a career change into design.",
+    "translation_ar": "أفكّر في تغيير مساري المهني إلى التصميم.",
+    "level": "B2",
+    "situation": "career",
+    "variety": "US",
+    "channel": "Career Coaching Basics",
+    "speaker": "Native speaker (US)",
+    "timestamp": 176,
+    "videoId": null,
+    "transcriptContext": "I'm considering a career change into design after years in marketing.",
+    "pronunciation": "I'm considering a career change into design.",
+    "words": [
+      {
+        "w": "career change",
+        "m_en": "a shift from one profession or field to a different one",
+        "m_ar": "الانتقال من مهنة أو مجال إلى مجال آخر"
+      }
+    ],
+    "grammar_en": "Considering + gerund — expressing that you are thinking about a possible action.",
+    "grammar_ar": "Considering + مصدر مؤول (gerund) — للتعبير عن التفكير في فعل محتمل.",
+    "alternatives": [
+      {
+        "text": "I'm thinking about switching careers into design.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "I've been weighing a move into the design field.",
+        "note_en": "More reflective tone",
+        "note_ar": "نبرة أكثر تأملًا"
+      }
+    ],
+    "similar": [
+      "I'm thinking of switching to a new industry.",
+      "She's considering going back to school.",
+      "He's weighing a move into freelancing."
+    ]
+  },
+  {
+    "id": 449,
+    "text": "We can offer a replacement or a full refund.",
+    "translation_ar": "يمكننا تقديم بديل أو استرداد كامل للمبلغ.",
+    "level": "B1",
+    "situation": "returns",
+    "variety": "US",
+    "channel": "Customer Care Practice",
+    "speaker": "Native speaker (US)",
+    "timestamp": 193,
+    "videoId": null,
+    "transcriptContext": "I'm sorry about the damaged item — we can offer a replacement or a full refund.",
+    "pronunciation": "We can offer a replacement or a full refund.",
+    "words": [
+      {
+        "w": "full refund",
+        "m_en": "the complete return of money paid for a product or service",
+        "m_ar": "إعادة كامل المبلغ المدفوع مقابل منتج أو خدمة"
+      }
+    ],
+    "grammar_en": "Can + verb, offering options — a polite way of presenting choices to a customer.",
+    "grammar_ar": "Can + فعل، لتقديم خيارات — طريقة مهذبة لعرض بدائل على العميل.",
+    "alternatives": [
+      {
+        "text": "You can choose between a replacement or a refund.",
+        "note_en": "Reordered, similar meaning",
+        "note_ar": "إعادة ترتيب، بنفس المعنى"
+      },
+      {
+        "text": "We're happy to replace it or refund you in full.",
+        "note_en": "Warmer tone",
+        "note_ar": "نبرة أكثر دفئًا"
+      }
+    ],
+    "similar": [
+      "We'd be glad to send a replacement free of charge.",
+      "You're entitled to a full refund on this order.",
+      "We can exchange it for a different size."
+    ]
+  },
+  {
+    "id": 450,
+    "text": "Take the second left after the traffic lights.",
+    "translation_ar": "خذ الشارع الثاني على اليسار بعد إشارة المرور.",
+    "level": "A2",
+    "situation": "directions",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 210,
+    "videoId": null,
+    "transcriptContext": "It's not far — take the second left after the traffic lights and you'll see it.",
+    "pronunciation": "Take the second left after the traffic lights.",
+    "words": [
+      {
+        "w": "take a left/right",
+        "m_en": "to turn in a specific direction while walking or driving",
+        "m_ar": "الانعطاف في اتجاه معين أثناء المشي أو القيادة"
+      }
+    ],
+    "grammar_en": "Imperative (Take + noun) — giving direct instructions, common when giving directions.",
+    "grammar_ar": "صيغة الأمر (Take + اسم) — لإعطاء تعليمات مباشرة، شائعة عند إعطاء الاتجاهات.",
+    "alternatives": [
+      {
+        "text": "Turn left at the second street after the lights.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Go past the lights and turn left at the next street.",
+        "note_en": "More detailed",
+        "note_ar": "أكثر تفصيلًا"
+      }
+    ],
+    "similar": [
+      "Turn right at the next corner.",
+      "Go straight until you reach the bridge.",
+      "It's just past the second traffic light on your left."
+    ]
+  },
+  {
+    "id": 451,
+    "text": "We're throwing a small party for her retirement.",
+    "translation_ar": "سنقيم حفلة صغيرة بمناسبة تقاعدها.",
+    "level": "B1",
+    "situation": "celebrations",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 227,
+    "videoId": null,
+    "transcriptContext": "We're throwing a small party for her retirement this Friday afternoon.",
+    "pronunciation": "We're throwing a small party for her retirement.",
+    "words": [
+      {
+        "w": "throw a party",
+        "m_en": "to organize and host a party",
+        "m_ar": "تنظيم واستضافة حفلة"
+      }
+    ],
+    "grammar_en": "Present continuous for planned future events — common for announcing upcoming celebrations.",
+    "grammar_ar": "المضارع المستمر للتعبير عن أحداث مستقبلية مُخطّط لها — شائع للإعلان عن احتفالات قادمة.",
+    "alternatives": [
+      {
+        "text": "We're organizing a small retirement party for her.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "There's a small get-together planned for her retirement.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عفوية"
+      }
+    ],
+    "similar": [
+      "We're hosting a farewell party next week.",
+      "They're planning a surprise party for his birthday.",
+      "We're putting together a small celebration for the team."
     ]
   }
 ]
