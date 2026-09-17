@@ -1,0 +1,1930 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SentenceGlish – Learn English from Real Sentences</title>
+<meta name="description" content="Learn English naturally by listening to real people use complete sentences in real conversations.">
+<meta property="og:title" content="SentenceGlish – Learn English from Real Sentences">
+<meta property="og:description" content="Search a complete sentence and hear how real people use it in real conversations.">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="SentenceGlish – Learn English from Real Sentences">
+<meta name="twitter:description" content="Learn English naturally by listening to real people use complete sentences in real conversations.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%92%AC%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=Cairo:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script async src="https://youglish.com/public/emb/widget.js" charset="utf-8"></script>
+<style>
+/* ============================================================
+   SENTENCEGLISH — DESIGN TOKENS
+   ============================================================ */
+:root{
+  --bg:#FAF8F4;
+  --surface:#FFFFFF;
+  --surface-alt:#F1EEE6;
+  --ink:#1E2124;
+  --ink-soft:#5B5F65;
+  --ink-faint:#8C9096;
+  --border:#E5E0D5;
+  --accent:#2B4C7E;
+  --accent-ink:#FFFFFF;
+  --accent-soft:#E1E9F5;
+  --warm:#C97A2E;
+  --warm-soft:#F6E7D3;
+  --success:#3A7D5C;
+  --success-soft:#DDEEE4;
+  --danger:#B14A38;
+  --danger-soft:#F6DFDA;
+  --radius-s:6px;
+  --radius-m:12px;
+  --radius-l:20px;
+  --shadow:0 1px 2px rgba(30,33,36,.05), 0 8px 24px rgba(30,33,36,.06);
+  --font-display:'Fraunces', Georgia, serif;
+  --font-ui:'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-ar:'Cairo', 'Inter', sans-serif;
+  --max-w:920px;
+}
+:root[data-theme="dark"]{
+  --bg:#14161B;
+  --surface:#1C1F26;
+  --surface-alt:#20232B;
+  --ink:#ECEDEF;
+  --ink-soft:#A5AAB2;
+  --ink-faint:#6C717A;
+  --border:#2B2F38;
+  --accent:#7DA0DE;
+  --accent-ink:#101521;
+  --accent-soft:#223047;
+  --warm:#E8A65C;
+  --warm-soft:#3B2C18;
+  --success:#5FAE85;
+  --success-soft:#1C3227;
+  --danger:#E08672;
+  --danger-soft:#3A2420;
+  --shadow:0 1px 2px rgba(0,0,0,.3), 0 8px 28px rgba(0,0,0,.35);
+}
+
+*{box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--ink);
+  font-family:var(--font-ui);
+  line-height:1.5;
+  -webkit-font-smoothing:antialiased;
+  transition:background .25s ease, color .25s ease;
+}
+html[dir="rtl"] body, html[dir="rtl"] input, html[dir="rtl"] button, html[dir="rtl"] select{
+  font-family:var(--font-ar);
+}
+h1,h2,h3,.font-display{font-family:var(--font-display);}
+img{max-width:100%;display:block;}
+button{font-family:inherit;cursor:pointer;}
+a{color:inherit;}
+:focus-visible{outline:2px solid var(--accent); outline-offset:2px; border-radius:4px;}
+
+.wrap{max-width:var(--max-w); margin:0 auto; padding:0 20px;}
+.visually-hidden{position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap;}
+
+/* ---------- Header ---------- */
+header.site-header{
+  position:sticky; top:0; z-index:40;
+  background:color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter:blur(10px);
+  border-bottom:1px solid var(--border);
+}
+.header-inner{
+  max-width:var(--max-w); margin:0 auto; padding:14px 20px;
+  display:flex; align-items:center; justify-content:space-between; gap:16px;
+}
+.logo{
+  display:flex; align-items:baseline; gap:2px; font-family:var(--font-display);
+  font-weight:600; font-size:1.35rem; letter-spacing:-.01em; text-decoration:none; color:var(--ink);
+}
+.logo .dot{color:var(--warm);}
+.header-controls{display:flex; align-items:center; gap:8px;}
+.icon-btn{
+  border:1px solid var(--border); background:var(--surface); color:var(--ink);
+  width:38px; height:38px; border-radius:var(--radius-s);
+  display:flex; align-items:center; justify-content:center; font-size:1rem;
+  transition:border-color .15s ease, transform .1s ease;
+}
+.icon-btn:hover{border-color:var(--accent);}
+.icon-btn:active{transform:scale(.94);}
+.lang-toggle{
+  border:1px solid var(--border); background:var(--surface); color:var(--ink);
+  height:38px; padding:0 12px; border-radius:var(--radius-s); font-size:.85rem; font-weight:600;
+}
+.lang-toggle:hover{border-color:var(--accent);}
+
+/* ---------- Hero / Search ---------- */
+.hero{padding:56px 0 28px; text-align:center;}
+.hero h1{
+  font-size:clamp(1.9rem, 4.2vw, 2.85rem); font-weight:600; letter-spacing:-.02em;
+  margin:0 0 10px; color:var(--ink);
+}
+.hero p.tagline{color:var(--ink-soft); font-size:1.05rem; margin:0 0 32px;}
+
+.search-form{max-width:680px; margin:0 auto;}
+.search-box{
+  display:flex; align-items:stretch; gap:0; background:var(--surface);
+  border:1.5px solid var(--border); border-radius:var(--radius-m); box-shadow:var(--shadow);
+  overflow:hidden; transition:border-color .15s ease;
+  position:relative;
+}
+.search-box:focus-within{border-color:var(--accent);}
+.search-box input[type="text"]{
+  flex:1; border:0; background:transparent; padding:16px 18px; font-size:1rem; color:var(--ink);
+  outline:none; font-family:var(--font-ui); min-width:0;
+}
+html[dir="rtl"] .search-box input[type="text"]{font-family:var(--font-ar);}
+.search-box button.search-submit{
+  border:0; background:var(--accent); color:var(--accent-ink); padding:0 26px; font-weight:600;
+  font-size:.95rem; white-space:nowrap; transition:filter .15s ease;
+}
+.search-box button.search-submit:hover{filter:brightness(1.08);}
+.suggestions{
+  position:absolute; top:calc(100% + 6px); left:0; right:0; background:var(--surface);
+  border:1px solid var(--border); border-radius:var(--radius-m); box-shadow:var(--shadow);
+  overflow:hidden; z-index:20; text-align:start; display:none;
+}
+.suggestions.show{display:block;}
+.suggestions button{
+  display:block; width:100%; text-align:start; border:0; background:transparent; padding:11px 16px;
+  font-size:.92rem; color:var(--ink-soft); border-bottom:1px solid var(--border);
+}
+.suggestions button:last-child{border-bottom:0;}
+.suggestions button:hover{background:var(--surface-alt); color:var(--ink);}
+
+.examples-row{
+  max-width:680px; margin:16px auto 0; display:flex; flex-wrap:wrap; gap:8px; justify-content:center;
+}
+.examples-label{width:100%; font-size:.78rem; color:var(--ink-faint); margin-bottom:2px; text-align:center; letter-spacing:.01em;}
+.chip{
+  border:1px solid var(--border); background:var(--surface); color:var(--ink-soft);
+  padding:7px 13px; border-radius:100px; font-size:.83rem; transition:all .15s ease;
+}
+.chip:hover{border-color:var(--accent); color:var(--accent); background:var(--accent-soft);}
+
+section{padding:36px 0;}
+.section-head{display:flex; align-items:baseline; justify-content:space-between; gap:12px; margin-bottom:18px;}
+.section-head h2{font-size:1.3rem; font-weight:600; margin:0; letter-spacing:-.01em;}
+.section-head .sub{color:var(--ink-faint); font-size:.85rem;}
+
+/* ---------- Sentence of the Day ---------- */
+.sotd-card{
+  background:linear-gradient(135deg, var(--accent-soft), var(--surface) 65%);
+  border:1px solid var(--border); border-radius:var(--radius-l); padding:26px 28px;
+  display:flex; flex-wrap:wrap; gap:20px; align-items:center; justify-content:space-between;
+}
+.sotd-text{flex:1; min-width:240px;}
+.sotd-eyebrow{font-size:.78rem; color:var(--accent); font-weight:600; margin-bottom:8px;}
+.sotd-sentence{font-family:var(--font-display); font-size:1.5rem; font-weight:500; margin:0 0 8px; line-height:1.3;}
+.sotd-meaning{color:var(--ink-soft); font-size:.92rem;}
+.sotd-actions{display:flex; gap:8px; flex-wrap:wrap;}
+
+/* ---------- Buttons ---------- */
+.btn{
+  display:inline-flex; align-items:center; gap:6px; border-radius:var(--radius-s);
+  padding:9px 15px; font-size:.85rem; font-weight:600; border:1px solid transparent;
+  transition:all .15s ease; white-space:nowrap;
+}
+.btn-primary{background:var(--accent); color:var(--accent-ink);}
+.btn-primary:hover{filter:brightness(1.08);}
+.btn-secondary{background:var(--surface); border-color:var(--border); color:var(--ink);}
+.btn-secondary:hover{border-color:var(--accent); color:var(--accent);}
+.btn-warm{background:var(--warm-soft); color:var(--warm); border-color:transparent;}
+.btn-warm:hover{filter:brightness(1.04);}
+.btn-ghost{background:transparent; color:var(--ink-soft); border-color:var(--border);}
+.btn-ghost:hover{color:var(--ink); border-color:var(--accent);}
+.btn-sm{padding:6px 11px; font-size:.78rem;}
+.btn:disabled{opacity:.45; cursor:not-allowed;}
+
+/* ---------- Situations ---------- */
+.situations-grid{display:grid; grid-template-columns:repeat(auto-fit, minmax(210px,1fr)); gap:14px;}
+.situation-card{
+  background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-m);
+  padding:18px; text-align:start;
+}
+.situation-card h3{margin:0 0 3px; font-size:1.02rem; display:flex; align-items:center; gap:8px;}
+.situation-card .count{color:var(--ink-faint); font-size:.78rem; margin-bottom:10px;}
+.situation-list{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:5px;}
+.situation-list button{
+  border:0; background:transparent; text-align:start; padding:4px 0; font-size:.84rem;
+  color:var(--ink-soft); width:100%; border-radius:4px;
+}
+.situation-list button:hover{color:var(--accent); text-decoration:underline;}
+
+/* ---------- Filters ---------- */
+.filters-bar{display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin-bottom:18px;}
+.filter-group{display:flex; flex-wrap:wrap; gap:6px; align-items:center;}
+.filter-label{font-size:.75rem; color:var(--ink-faint); font-weight:600; margin-inline-end:2px;}
+.pill{
+  border:1px solid var(--border); background:var(--surface); color:var(--ink-soft);
+  padding:5px 11px; border-radius:100px; font-size:.78rem; transition:all .15s ease;
+}
+.pill.active{background:var(--accent); border-color:var(--accent); color:var(--accent-ink);}
+.pill:hover:not(.active){border-color:var(--accent); color:var(--accent);}
+
+/* ---------- Results ---------- */
+#results-section{display:none;}
+#results-section.show{display:block;}
+.your-sentence-box{
+  background:var(--surface-alt); border:1px dashed var(--border); border-radius:var(--radius-m);
+  padding:14px 18px; margin-bottom:22px;
+}
+.your-sentence-box .label{font-size:.75rem; color:var(--ink-faint); font-weight:600; margin-bottom:4px;}
+.your-sentence-box .text{font-family:var(--font-display); font-size:1.15rem;}
+
+.no-results{
+  text-align:center; padding:26px 18px; background:var(--surface); border:1px solid var(--border);
+  border-radius:var(--radius-m); margin-bottom:22px;
+}
+.no-results .headline{font-weight:600; margin-bottom:4px;}
+.no-results .sub{color:var(--ink-soft); font-size:.9rem;}
+
+.youglish-panel{
+  background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-m);
+  padding:18px; margin-bottom:26px;
+}
+.youglish-mount{min-height:360px;}
+.youglish-mount:empty::before{
+  content:""; display:block; min-height:340px; border-radius:var(--radius-s);
+  background:var(--surface-alt);
+}
+.youglish-note{font-size:.85rem; color:var(--ink-soft); margin-top:10px; min-height:1.2em;}
+.youglish-legal{
+  font-size:.74rem; color:var(--ink-faint); margin-top:12px; padding-top:12px;
+  border-top:1px solid var(--border); line-height:1.6;
+}
+.youglish-legal a{color:var(--accent); text-decoration:underline;}
+
+.cards-grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(280px,1fr)); gap:16px;}
+.sentence-card{
+  background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-m);
+  overflow:hidden; display:flex; flex-direction:column; transition:box-shadow .15s ease, transform .15s ease;
+}
+.sentence-card:hover{box-shadow:var(--shadow); transform:translateY(-1px);}
+.card-thumb{
+  position:relative; aspect-ratio:16/9; background:linear-gradient(135deg, var(--accent-soft), var(--warm-soft));
+  display:flex; align-items:center; justify-content:center; cursor:pointer;
+}
+.card-thumb .play-glyph{
+  width:52px; height:52px; border-radius:50%; background:rgba(255,255,255,.92); color:var(--accent);
+  display:flex; align-items:center; justify-content:center; font-size:1.1rem; box-shadow:0 4px 14px rgba(0,0,0,.18);
+  transition:transform .15s ease;
+}
+.card-thumb:hover .play-glyph{transform:scale(1.08);}
+.card-match{
+  position:absolute; top:8px; inset-inline-start:8px; background:var(--success); color:#fff;
+  font-size:.72rem; font-weight:700; padding:3px 9px; border-radius:100px;
+}
+.card-body{padding:14px 16px 16px; display:flex; flex-direction:column; gap:8px; flex:1;}
+.card-meta{font-size:.72rem; color:var(--ink-faint); display:flex; gap:6px; flex-wrap:wrap; align-items:center;}
+.card-meta .dot-sep::before{content:"·"; margin-inline-end:6px;}
+.card-sentence{font-size:.96rem; line-height:1.4; font-weight:500;}
+.card-sentence mark{background:var(--warm-soft); color:var(--ink); padding:0 2px; border-radius:3px;}
+.card-actions{display:flex; gap:6px; flex-wrap:wrap; margin-top:auto; padding-top:4px;}
+
+/* ---------- Similar Sentences ---------- */
+.similar-list{display:flex; flex-direction:column; gap:10px;}
+.similar-row{
+  display:flex; align-items:center; justify-content:space-between; gap:14px; flex-wrap:wrap;
+  background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-s); padding:12px 15px;
+}
+.similar-row .txt{font-size:.92rem; flex:1; min-width:200px;}
+.similar-row .row-actions{display:flex; gap:6px;}
+
+/* ---------- Player / Detail Panel ---------- */
+.overlay{
+  position:fixed; inset:0; background:rgba(20,22,27,.55); z-index:100; display:none;
+  align-items:flex-start; justify-content:center; padding:5vh 16px; overflow-y:auto;
+}
+.overlay.show{display:flex;}
+.panel{
+  background:var(--surface); border-radius:var(--radius-l); max-width:640px; width:100%;
+  box-shadow:0 20px 60px rgba(0,0,0,.3); animation:panelIn .18s ease;
+}
+@keyframes panelIn{from{opacity:0; transform:translateY(8px);} to{opacity:1; transform:translateY(0);}}
+.panel-header{
+  display:flex; align-items:flex-start; justify-content:space-between; gap:12px;
+  padding:18px 20px; border-bottom:1px solid var(--border);
+}
+.panel-header h3{margin:0; font-size:1.05rem; font-family:var(--font-ui); font-weight:600;}
+.panel-close{border:0; background:var(--surface-alt); width:32px; height:32px; border-radius:50%; font-size:1rem; color:var(--ink-soft); flex:none;}
+.panel-close:hover{color:var(--ink);}
+.panel-body{padding:20px; display:flex; flex-direction:column; gap:22px; max-height:75vh; overflow-y:auto;}
+
+.video-stage{
+  background:#10131A; border-radius:var(--radius-m); aspect-ratio:16/9; position:relative;
+  display:flex; align-items:center; justify-content:center; overflow:hidden;
+}
+.video-stage iframe{width:100%; height:100%; border:0;}
+.audio-stage{display:flex; flex-direction:column; align-items:center; justify-content:center; gap:2px; padding:20px;}
+.audio-play-btn{
+  width:64px; height:64px; border-radius:50%; background:var(--accent); color:var(--accent-ink);
+  border:0; font-size:1.25rem; display:flex; align-items:center; justify-content:center;
+  box-shadow:0 6px 18px rgba(0,0,0,.3); transition:transform .15s ease, background .15s ease;
+}
+.audio-play-btn:hover{transform:scale(1.06);}
+.audio-play-btn.playing{background:var(--warm);}
+.audio-wave{display:flex; align-items:flex-end; gap:3px; height:30px; margin-top:14px;}
+.audio-wave span{width:4px; background:rgba(255,255,255,.45); border-radius:2px; height:7px; display:block;}
+.audio-stage.playing .audio-wave span{animation:waveBounce .9s ease-in-out infinite;}
+.audio-wave span:nth-child(2n){animation-delay:.12s;}
+.audio-wave span:nth-child(3n){animation-delay:.24s;}
+.audio-wave span:nth-child(4n){animation-delay:.36s;}
+@keyframes waveBounce{0%,100%{height:7px;} 50%{height:26px;}}
+.audio-caption{color:#C9CFDA; font-size:.76rem; margin-top:12px; text-align:center;}
+.timestamp-line{display:flex; align-items:center; gap:10px; font-size:.85rem; color:var(--ink-soft); margin-top:6px;}
+.timestamp-line .time{font-family:monospace; background:var(--surface-alt); padding:2px 7px; border-radius:4px; font-size:.78rem;}
+
+.transcript-box{
+  background:var(--surface-alt); border-radius:var(--radius-m); padding:14px 16px; font-size:.92rem;
+  line-height:1.7; color:var(--ink-soft);
+}
+.transcript-box mark{background:var(--warm-soft); color:var(--ink); padding:1px 3px; border-radius:3px; font-weight:600;}
+
+.detail-block h4{margin:0 0 8px; font-size:.82rem; text-transform:none; color:var(--ink-faint); font-weight:600; letter-spacing:.01em;}
+.detail-block .content{font-size:.95rem; color:var(--ink);}
+.pron-line{font-family:var(--font-display); font-size:1.1rem; color:var(--warm); margin-top:4px;}
+.words-list{display:flex; flex-direction:column; gap:8px;}
+.word-item{display:flex; gap:8px; align-items:baseline; font-size:.9rem;}
+.word-item .w{font-weight:700; color:var(--ink); flex:none;}
+.word-item .m{color:var(--ink-soft);}
+.alt-item{padding:8px 0; border-bottom:1px solid var(--border); font-size:.9rem;}
+.alt-item:last-child{border-bottom:0;}
+.alt-item .note{color:var(--ink-faint); font-size:.76rem; margin-bottom:2px;}
+.panel-footer-actions{display:flex; gap:8px; flex-wrap:wrap; padding-top:4px; border-top:1px solid var(--border); padding-top:16px;}
+
+/* ---------- Practice Mode ---------- */
+.practice-stage{text-align:center; padding:10px 4px;}
+.practice-sentence{
+  font-family:var(--font-display); font-size:1.4rem; font-weight:500; margin:18px 0; min-height:1.8em;
+  transition:filter .2s ease;
+}
+.practice-sentence.hidden-text{filter:blur(7px); user-select:none;}
+.practice-controls{display:flex; gap:8px; justify-content:center; flex-wrap:wrap; margin-top:14px;}
+.mic-indicator{
+  display:none; align-items:center; justify-content:center; gap:8px; color:var(--danger); font-size:.85rem;
+  margin-top:14px; font-weight:600;
+}
+.mic-indicator.active{display:flex;}
+.mic-dot{width:9px; height:9px; border-radius:50%; background:var(--danger); animation:pulse 1s infinite;}
+@keyframes pulse{0%,100%{opacity:1;} 50%{opacity:.3;}}
+.match-result{margin-top:14px; font-size:.92rem; padding:10px 14px; border-radius:var(--radius-s); display:none;}
+.match-result.show{display:block;}
+.match-result.good{background:var(--success-soft); color:var(--success);}
+.match-result.retry{background:var(--danger-soft); color:var(--danger);}
+.match-caveat{font-size:.72rem; color:var(--ink-faint); margin-top:6px;}
+
+/* ---------- Listening Mode ---------- */
+.listen-input{
+  width:100%; border:1px solid var(--border); border-radius:var(--radius-s); padding:11px 13px;
+  font-size:.92rem; background:var(--surface); color:var(--ink); margin-top:8px; font-family:inherit;
+}
+.listen-compare{margin-top:14px; display:none; flex-direction:column; gap:8px;}
+.listen-compare.show{display:flex;}
+.listen-row{font-size:.88rem; padding:8px 12px; border-radius:var(--radius-s);}
+.listen-row.correct-full{background:var(--success-soft); color:var(--success);}
+.listen-row .diff-wrong{color:var(--danger); text-decoration:line-through;}
+.listen-row .diff-orig{color:var(--success); font-weight:600;}
+
+/* ---------- Tabs (panel modes) ---------- */
+.mode-tabs{display:flex; gap:6px; border-bottom:1px solid var(--border); margin-bottom:2px;}
+.mode-tab{
+  border:0; background:transparent; padding:9px 4px; font-size:.85rem; font-weight:600; color:var(--ink-faint);
+  border-bottom:2px solid transparent; margin-bottom:-1px;
+}
+.mode-tab.active{color:var(--accent); border-color:var(--accent);}
+
+/* ---------- Favorites / History ---------- */
+.list-row{
+  display:flex; align-items:center; justify-content:space-between; gap:12px; padding:11px 0;
+  border-bottom:1px solid var(--border); flex-wrap:wrap;
+}
+.list-row:last-child{border-bottom:0;}
+.list-row .txt{font-size:.92rem; flex:1; min-width:200px;}
+.list-row .row-actions{display:flex; gap:6px;}
+.empty-note{color:var(--ink-faint); font-size:.88rem; padding:6px 0;}
+
+/* ---------- Toast ---------- */
+.toast{
+  position:fixed; bottom:22px; left:50%; transform:translateX(-50%) translateY(10px); z-index:200;
+  background:var(--ink); color:var(--bg); padding:10px 18px; border-radius:100px; font-size:.85rem;
+  opacity:0; pointer-events:none; transition:all .2s ease;
+}
+:root[data-theme="dark"] .toast{background:var(--surface); color:var(--ink); border:1px solid var(--border);}
+.toast.show{opacity:1; transform:translateX(-50%) translateY(0);}
+html[dir="rtl"] .toast{left:auto; right:50%; transform:translateX(50%) translateY(10px);}
+html[dir="rtl"] .toast.show{transform:translateX(50%) translateY(0);}
+
+footer{border-top:1px solid var(--border); padding:28px 0 40px; margin-top:20px;}
+footer .wrap{display:flex; flex-wrap:wrap; gap:10px; justify-content:space-between; align-items:center; color:var(--ink-faint); font-size:.82rem;}
+
+
+.quiz-card{background:linear-gradient(135deg,var(--warm-soft),var(--surface) 68%);border:1px solid var(--border);border-radius:var(--radius-l);padding:24px 26px;box-shadow:var(--shadow)}
+.quiz-toolbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:18px}.quiz-toolbar label{font-size:.82rem;color:var(--ink-soft);font-weight:600}.quiz-select{border:1px solid var(--border);background:var(--surface);color:var(--ink);border-radius:var(--radius-s);padding:8px 11px;font:inherit;font-size:.85rem}.quiz-progress{display:flex;justify-content:space-between;gap:12px;color:var(--ink-faint);font-size:.8rem;margin-bottom:10px}.quiz-question{font-family:var(--font-display);font-size:1.25rem;line-height:1.4;margin:0 0 16px}.quiz-prompt{color:var(--ink-soft);font-size:.88rem;margin:0 0 14px}.quiz-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.quiz-option{border:1px solid var(--border);background:var(--surface);color:var(--ink);border-radius:var(--radius-s);padding:11px 13px;text-align:start;font:inherit;font-size:.88rem;line-height:1.4}.quiz-option.correct{border-color:var(--success);background:var(--success-soft);color:var(--success);font-weight:600}.quiz-option.wrong{border-color:var(--danger);background:var(--danger-soft);color:var(--danger)}.quiz-feedback{min-height:1.4em;margin-top:13px;font-size:.88rem;font-weight:600}.quiz-feedback.good{color:var(--success)}.quiz-feedback.bad{color:var(--danger)}.quiz-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}.quiz-result{text-align:center;padding:18px 8px}.quiz-result h3{margin:0 0 7px;font-size:1.35rem}.quiz-result p{color:var(--ink-soft);margin:0 0 16px}@media (max-width:640px){.quiz-options{grid-template-columns:1fr}.quiz-card{padding:20px 18px}}
+@media (max-width:640px){
+  .hero{padding:36px 0 20px;}
+  .search-box{flex-direction:column;}
+  .search-box button.search-submit{padding:13px; }
+  .header-controls{gap:6px;}
+  .panel-body{padding:16px;}
+}
+@media (prefers-reduced-motion: reduce){
+  *{animation-duration:.001s !important; transition-duration:.001s !important;}
+}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="#top" class="logo" data-i18n-aria="logoAria" aria-label="SentenceGlish home">SentenceGlish<span class="dot">.</span></a>
+    <div class="header-controls">
+      <button class="lang-toggle" id="langToggle" type="button">العربية</button>
+      <button class="icon-btn" id="themeToggle" type="button" aria-label="Toggle dark mode">🌙</button>
+    </div>
+  </div>
+</header>
+
+<main id="top">
+
+  <!-- ===================== HERO / SEARCH ===================== -->
+  <section class="hero wrap">
+    <h1 data-i18n="heroTitle">Learn English from Real Sentences</h1>
+    <p class="tagline" data-i18n="heroTagline">Search a complete sentence and hear how real people use it.</p>
+
+    <form class="search-form" id="searchForm" role="search">
+      <div class="search-box">
+        <input type="text" id="searchInput" autocomplete="off"
+               data-i18n-placeholder="searchPlaceholder"
+               placeholder="Search for a sentence..."
+               aria-label="Search for a sentence">
+        <button type="submit" class="search-submit" data-i18n="searchBtn">Search</button>
+        <div class="suggestions" id="suggestionsBox"></div>
+      </div>
+    </form>
+
+    <div class="examples-row">
+      <div class="examples-label" data-i18n="tryExamples">Try examples:</div>
+      <div id="exampleChips"></div>
+    </div>
+  </section>
+
+  <!-- ===================== YOUR SENTENCE / RESULTS ===================== -->
+  <section class="wrap" id="results-section">
+    <div class="your-sentence-box">
+      <div class="label" data-i18n="yourSentence">Your sentence</div>
+      <div class="text" id="yourSentenceText"></div>
+    </div>
+
+    <div class="filters-bar">
+      <div class="filter-group">
+        <span class="filter-label" data-i18n="level">Level</span>
+        <div id="levelPills"></div>
+      </div>
+      <div class="filter-group">
+        <span class="filter-label" data-i18n="variety">Variety</span>
+        <div id="varietyPills"></div>
+      </div>
+    </div>
+
+    <div id="noResultsBox" class="no-results" style="display:none;">
+      <div class="headline" data-i18n="noResultsHeadline">We couldn't find this exact sentence.</div>
+      <div class="sub" data-i18n="noResultsSub">Here are the closest similar sentences we found.</div>
+    </div>
+
+    <div class="section-head">
+      <h2 data-i18n="realVideoExamples">Real Video Examples</h2>
+      <span class="sub" data-i18n="poweredByYouglish">Powered by YouGlish.com</span>
+    </div>
+    <div class="youglish-panel">
+      <div class="youglish-mount" id="youglishMount"></div>
+      <div class="youglish-note" id="youglishNote"></div>
+      <div class="youglish-legal">
+        <span data-i18n="youglishLegal">This panel embeds YouGlish, which uses real YouTube videos. Playing a video may set cookies from YouGlish and YouTube/Google.</span>
+        <a href="https://www.youtube.com/t/terms" target="_blank" rel="noopener nofollow">YouTube Terms</a> ·
+        <a href="https://policies.google.com/privacy" target="_blank" rel="noopener nofollow">Google Privacy Policy</a>
+      </div>
+    </div>
+
+    <div class="section-head">
+      <h2 data-i18n="realExamples">Practice Sentences</h2>
+      <span class="sub" id="resultsCount"></span>
+    </div>
+    <div class="cards-grid" id="resultsGrid"></div>
+
+    <div class="section-head" style="margin-top:34px;">
+      <h2 data-i18n="similarSentences">Similar Sentences</h2>
+    </div>
+    <div class="similar-list" id="similarList"></div>
+  </section>
+
+  <section class="wrap" id="quiz-section"><div class="section-head"><h2 data-i18n="quizTitle">Interactive Quiz</h2><span class="sub" data-i18n="quizSub">Test your understanding by level</span></div><div class="quiz-card" id="quizCard"><div class="quiz-toolbar"><label for="quizLevel" data-i18n="quizLevelLabel">Choose a level</label><select class="quiz-select" id="quizLevel" aria-label="Quiz level"></select><button class="btn btn-primary btn-sm" id="quizStartBtn" type="button" data-i18n="startQuiz">Start Quiz</button></div><div id="quizContent"><p class="quiz-prompt" data-i18n="quizIntro">Choose a level and start a five-question quiz.</p></div></div></section>
+
+  <!-- ===================== SENTENCE OF THE DAY ===================== -->
+  <section class="wrap">
+    <div class="section-head">
+      <h2 data-i18n="sotdTitle">Sentence of the Day</h2>
+    </div>
+    <div class="sotd-card">
+      <div class="sotd-text">
+        <div class="sotd-eyebrow" data-i18n="sotdEyebrow">Today's sentence</div>
+        <p class="sotd-sentence" id="sotdSentence"></p>
+        <p class="sotd-meaning" id="sotdMeaning"></p>
+      </div>
+      <div class="sotd-actions">
+        <button class="btn btn-secondary" id="sotdListen" type="button">🔊 <span data-i18n="listen">Listen</span></button>
+        <button class="btn btn-primary" id="sotdPractice" type="button" data-i18n="practice">Practice</button>
+        <button class="btn btn-warm" id="sotdSave" type="button">⭐ <span data-i18n="save">Save</span></button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== SITUATIONS ===================== -->
+  <section class="wrap">
+    <div class="section-head">
+      <h2 data-i18n="situationsTitle">Practice by Situation</h2>
+      <span class="sub" data-i18n="situationsSub">Pick a real-world context</span>
+    </div>
+    <div class="situations-grid" id="situationsGrid"></div>
+  </section>
+
+  <!-- ===================== MY SENTENCES ===================== -->
+  <section class="wrap">
+    <div class="section-head">
+      <h2 data-i18n="mySentences">My Sentences</h2>
+    </div>
+    <div id="favoritesList"></div>
+  </section>
+
+  <!-- ===================== RECENT SEARCHES ===================== -->
+  <section class="wrap">
+    <div class="section-head">
+      <h2 data-i18n="recentSearches">Recent Searches</h2>
+    </div>
+    <div id="historyList"></div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>SentenceGlish — <span data-i18n="footerTag">learn English one real sentence at a time</span></span>
+    <span data-i18n="footerDemo">Demo build · sample data</span>
+  </div>
+</footer>
+
+<!-- ===================== SENTENCE DETAIL / PLAYER OVERLAY ===================== -->
+<div class="overlay" id="detailOverlay">
+  <div class="panel" role="dialog" aria-modal="true" aria-labelledby="panelTitle">
+    <div class="panel-header">
+      <h3 id="panelTitle" data-i18n="sentenceDetails">Sentence Details</h3>
+      <button class="panel-close" id="panelCloseBtn" aria-label="Close" type="button">✕</button>
+    </div>
+    <div class="panel-body">
+
+      <div class="mode-tabs" id="modeTabs">
+        <button class="mode-tab active" data-mode="watch" data-i18n="tabWatch" type="button">Watch</button>
+        <button class="mode-tab" data-mode="practice" data-i18n="tabPractice" type="button">Practice</button>
+        <button class="mode-tab" data-mode="listening" data-i18n="tabListening" type="button">Listening</button>
+      </div>
+
+      <!-- WATCH MODE -->
+      <div id="mode-watch" class="mode-panel">
+        <div class="video-stage" id="videoStage"></div>
+        <div class="timestamp-line">
+          <span class="time" id="videoTime"></span>
+          <span id="videoContextLine"></span>
+        </div>
+
+        <div class="detail-block" style="margin-top:18px;">
+          <h4 data-i18n="transcript">Transcript</h4>
+          <div class="transcript-box" id="transcriptBox"></div>
+        </div>
+
+        <div class="detail-block">
+          <h4 data-i18n="meaning">Meaning</h4>
+          <div class="content" id="meaningText"></div>
+        </div>
+
+        <div class="detail-block">
+          <h4 data-i18n="naturalPronunciation">Natural pronunciation</h4>
+          <div class="pron-line" id="pronText"></div>
+        </div>
+
+        <div class="detail-block">
+          <h4 data-i18n="importantWords">Important words</h4>
+          <div class="words-list" id="wordsList"></div>
+        </div>
+
+        <div class="detail-block">
+          <h4 data-i18n="grammar">Grammar</h4>
+          <div class="content" id="grammarText"></div>
+        </div>
+
+        <div class="detail-block">
+          <h4 data-i18n="alternatives">Alternative ways to say it</h4>
+          <div id="alternativesList"></div>
+        </div>
+
+        <div class="panel-footer-actions">
+          <button class="btn btn-warm" id="detailSaveBtn" type="button">⭐ <span data-i18n="save">Save</span></button>
+          <button class="btn btn-secondary" id="detailYoutubeBtn" type="button">↗ <span data-i18n="openYoutube">Open on YouTube</span></button>
+        </div>
+      </div>
+
+      <!-- PRACTICE MODE -->
+      <div id="mode-practice" class="mode-panel" style="display:none;">
+        <div class="practice-stage">
+          <div class="practice-sentence" id="practiceSentenceText"></div>
+          <div class="practice-controls">
+            <button class="btn btn-secondary" id="practiceListenBtn" type="button">🔊 <span data-i18n="listen">Listen</span></button>
+            <button class="btn btn-primary" id="practiceRepeatBtn" type="button" data-i18n="repeat">Repeat</button>
+            <button class="btn btn-ghost" id="practiceHideBtn" type="button" data-i18n="hideSentence">Hide sentence</button>
+            <button class="btn btn-ghost" id="practiceShowBtn" type="button" style="display:none;" data-i18n="showSentence">Show sentence</button>
+          </div>
+          <div class="mic-indicator" id="micIndicator">
+            <span class="mic-dot"></span><span data-i18n="speakNow">Speak now...</span>
+          </div>
+          <div class="match-result" id="practiceMatchResult"></div>
+          <div class="match-caveat" data-i18n="matchCaveat">This is a rough practice check, not an official pronunciation score.</div>
+        </div>
+      </div>
+
+      <!-- LISTENING MODE -->
+      <div id="mode-listening" class="mode-panel" style="display:none;">
+        <div class="video-stage" id="listeningStage"></div>
+        <div class="detail-block" style="margin-top:16px;">
+          <h4 data-i18n="whatDidYouHear">What did you hear?</h4>
+          <textarea class="listen-input" id="listeningInput" rows="2" data-i18n-placeholder="typeWhatYouHeard" placeholder="Type the sentence you heard..."></textarea>
+          <div class="practice-controls" style="justify-content:flex-start; margin-top:10px;">
+            <button class="btn btn-secondary" id="listeningPlayBtn" type="button">▶ <span data-i18n="play">Play</span></button>
+            <button class="btn btn-primary" id="listeningCheckBtn" type="button" data-i18n="checkAnswer">Check answer</button>
+          </div>
+          <div class="listen-compare" id="listeningCompare"></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+(function(){
+"use strict";
+
+/* ==========================================================================
+   SENTENCEGLISH — APP SCRIPT
+   Organized into: I18N, STATE, DATA, SIMILARITY, SEARCH, YOUTUBE (adapter),
+   TRANSLATION (stub), STORAGE, PRACTICE, SPEECH, LISTENING, UI/RENDER.
+   ========================================================================== */
+
+/* ---------------------------------------------------------------------- */
+/* I18N                                                                    */
+/* ---------------------------------------------------------------------- */
+const I18N = {
+  en: {
+    logoAria:"SentenceGlish home",
+    heroTitle:"Learn English from Real Sentences",
+    heroTagline:"Search a complete sentence and hear how real people use it.",
+    searchPlaceholder:"I wanted to let you know that we have a problem with the system.",
+    searchBtn:"Search",
+    tryExamples:"Try examples:",
+    yourSentence:"Your sentence",
+    level:"Level", variety:"Variety",
+    noResultsHeadline:"We couldn't find this exact sentence.",
+    noResultsSub:"Here are the closest similar sentences we found.",
+    realExamples:"Practice Sentences",
+    realVideoExamples:"Real Video Examples",
+    poweredByYouglish:"Powered by YouGlish.com",
+    youglishLegal:"This panel embeds YouGlish, which uses real YouTube videos. Playing a video may set cookies from YouGlish and YouTube/Google.",
+    youglishNoResults:"YouGlish couldn't find a real video for this exact sentence — try a shorter phrase from it.",
+    similarSentences:"Similar Sentences",
+    sotdTitle:"Sentence of the Day", sotdEyebrow:"Today's sentence",
+    listen:"Listen", practice:"Practice", save:"Save", repeat:"Repeat",
+    situationsTitle:"Practice by Situation", situationsSub:"Pick a real-world context",
+    mySentences:"My Sentences", recentSearches:"Recent Searches",
+    footerTag:"learn English one real sentence at a time", footerDemo:"Demo build · sample data",
+    sentenceDetails:"Sentence Details",
+    tabWatch:"Watch", tabPractice:"Practice", tabListening:"Listening",
+    transcript:"Transcript", meaning:"Meaning", naturalPronunciation:"Natural pronunciation",
+    importantWords:"Important words", grammar:"Grammar", alternatives:"Alternative ways to say it",
+    openYoutube:"Open on YouTube",
+    hideSentence:"Hide sentence", showSentence:"Show sentence", speakNow:"Speak now...",
+    matchCaveat:"This is a rough practice check, not an official pronunciation score.",
+    whatDidYouHear:"What did you hear?", typeWhatYouHeard:"Type the sentence you heard...",
+    play:"Play", checkAnswer:"Check answer",
+    emptyFavorites:"No saved sentences yet. Tap ⭐ Save on any sentence to keep it here.",
+    emptyHistory:"Your recent searches will appear here.",
+    goodMatch:"Good match", tryAgain:"Try again",
+    correct:"Correct", notQuite:"Not quite — compare the two sentences below.",
+    allLevels:"All Levels", allVarieties:"All",
+    quizTitle:"Interactive Quiz", quizSub:"Test your understanding by level", quizLevelLabel:"Choose a level", startQuiz:"Start Quiz", quizIntro:"Choose a level and start a five-question quiz.", quizAllLevels:"All Levels", quizQuestion:"What does this sentence mean?", quizQuestionCount:"Question", quizNext:"Next Question", quizRestart:"Try Again", quizScore:"Your score", quizCorrect:"Correct!", quizWrong:"Not quite.", quizResult:"You finished the quiz.", quizNoData:"There are not enough sentences for this level yet.",
+    us:"American", gb:"British", au:"Australian", ca:"Canadian",
+    demoNoVideo:"Demo mode — no licensed video for this sentence yet.",
+    demoNoVideoSub:"Connect the YouTube Data API in searchYouTubeSentences() to play real clips here.",
+    speechNotSupported:"Speech recognition isn't supported in this browser.",
+    reSearch:"Search again", removeHistory:"Remove", removeFav:"Remove",
+    matchLabel:"Match", secBefore:"starts 2–3s before the sentence for context",
+  },
+  ar: {
+    logoAria:"الصفحة الرئيسية لسنتنس-جليش",
+    heroTitle:"تعلّم الإنجليزية من جُمل حقيقية",
+    heroTagline:"ابحث عن جملة كاملة واستمع كيف يستخدمها متحدثون حقيقيون.",
+    searchPlaceholder:"I wanted to let you know that we have a problem with the system.",
+    searchBtn:"بحث",
+    tryExamples:"جرّب هذه الأمثلة:",
+    yourSentence:"جملتك",
+    level:"المستوى", variety:"اللهجة",
+    noResultsHeadline:"لم نجد هذه الجملة بالضبط.",
+    noResultsSub:"إليك أقرب الجمل المشابهة التي وجدناها.",
+    realExamples:"جمل للتدريب",
+    realVideoExamples:"أمثلة فيديو حقيقية",
+    poweredByYouglish:"بدعم من YouGlish.com",
+    youglishLegal:"هذه اللوحة تُضمّن خدمة YouGlish التي تستخدم فيديوهات يوتيوب حقيقية. تشغيل أي فيديو قد يضع ملفات تعريف ارتباط (كوكيز) من YouGlish ويوتيوب/جوجل.",
+    youglishNoResults:"لم يجد YouGlish فيديو حقيقيًا لهذه الجملة بالضبط — جرّب عبارة أقصر منها.",
+    similarSentences:"جمل مشابهة",
+    sotdTitle:"جملة اليوم", sotdEyebrow:"جملة اليوم",
+    listen:"استماع", practice:"تدريب", save:"حفظ", repeat:"كرّر",
+    situationsTitle:"تدرّب حسب الموقف", situationsSub:"اختر سياقًا واقعيًا",
+    mySentences:"جملي المحفوظة", recentSearches:"عمليات البحث الأخيرة",
+    footerTag:"تعلّم الإنجليزية جملة حقيقية في كل مرة", footerDemo:"نسخة تجريبية · بيانات نموذجية",
+    sentenceDetails:"تفاصيل الجملة",
+    tabWatch:"مشاهدة", tabPractice:"تدريب", tabListening:"استماع",
+    transcript:"النص المكتوب", meaning:"المعنى", naturalPronunciation:"النطق الطبيعي",
+    importantWords:"كلمات مهمة", grammar:"القواعد", alternatives:"طرق بديلة لقول الجملة",
+    openYoutube:"فتح على يوتيوب",
+    hideSentence:"إخفِ الجملة", showSentence:"أظهر الجملة", speakNow:"تحدث الآن...",
+    matchCaveat:"هذا تقييم تدريبي تقريبي وليس تقييمًا رسميًا للنطق.",
+    whatDidYouHear:"ماذا سمعت؟", typeWhatYouHeard:"اكتب الجملة التي سمعتها...",
+    play:"تشغيل", checkAnswer:"تحقق من الإجابة",
+    emptyFavorites:"لا توجد جمل محفوظة بعد. اضغط ⭐ حفظ على أي جملة لإضافتها هنا.",
+    emptyHistory:"ستظهر هنا عمليات بحثك الأخيرة.",
+    goodMatch:"تطابق جيد", tryAgain:"حاول مرة أخرى",
+    correct:"إجابة صحيحة", notQuite:"ليست دقيقة تمامًا — قارن الجملتين أدناه.",
+    allLevels:"كل المستويات", allVarieties:"الكل",
+    quizTitle:"اختبار تفاعلي", quizSub:"اختبر فهمك حسب المستوى", quizLevelLabel:"اختر المستوى", startQuiz:"ابدأ الاختبار", quizIntro:"اختر مستوى وابدأ اختبارًا من خمسة أسئلة.", quizAllLevels:"كل المستويات", quizQuestion:"ما معنى هذه الجملة؟", quizQuestionCount:"السؤال", quizNext:"السؤال التالي", quizRestart:"حاول مرة أخرى", quizScore:"نتيجتك", quizCorrect:"إجابة صحيحة!", quizWrong:"ليست صحيحة تمامًا.", quizResult:"لقد أنهيت الاختبار.", quizNoData:"لا توجد جمل كافية لهذا المستوى حتى الآن.",
+    us:"أمريكية", gb:"بريطانية", au:"أسترالية", ca:"كندية",
+    demoNoVideo:"وضع تجريبي — لا يوجد فيديو مرخّص لهذه الجملة بعد.",
+    demoNoVideoSub:"اربط YouTube Data API داخل دالة searchYouTubeSentences() لتشغيل مقاطع حقيقية هنا.",
+    speechNotSupported:"التعرف على الصوت غير مدعوم في هذا المتصفح.",
+    reSearch:"ابحث مرة أخرى", removeHistory:"حذف", removeFav:"حذف",
+    matchLabel:"تطابق", secBefore:"يبدأ قبل الجملة بـ ٢-٣ ثوانٍ ليعطيك السياق",
+  }
+};
+
+/* ---------------------------------------------------------------------- */
+/* STATE                                                                   */
+/* ---------------------------------------------------------------------- */
+const State = {
+  lang: localStorage.getItem('sg_lang') || 'en',
+  theme: localStorage.getItem('sg_theme') || 'light',
+  level: 'all',
+  variety: 'all',
+  currentQuery: '',
+  currentResults: [],
+  currentSimilar: [],
+  activeSentence: null,
+  practiceHidden: false,
+  favorites: JSON.parse(localStorage.getItem('sg_favorites') || '[]'),
+  history: JSON.parse(localStorage.getItem('sg_history') || '[]'),
+  recognizing: false,
+  quiz: { level:'all', questions:[], index:0, score:0, answered:false },
+};
+
+function t(key){ return (I18N[State.lang] && I18N[State.lang][key]) || I18N.en[key] || key; }
+
+/* ---------------------------------------------------------------------- */
+/* DEMO DATA                                                               */
+/* Each sentence models what a real backend record would look like.       */
+/* videoId:null => no licensed clip available in this demo (see YouTube    */
+/* adapter section below for where a real integration plugs in).          */
+/* ---------------------------------------------------------------------- */
+function makeSentence(id, text, translation_ar, level, situation, variety, meaning, grammar_en, grammar_ar, word, wordMeaning, alternatives, similar, channel){
+  return {
+    id, text, translation_ar, level, situation, variety,
+    channel: channel || "SentenceGlish Practice",
+    speaker: `Native speaker (${variety})`,
+    timestamp: (id * 17) % 240, videoId:null,
+    transcriptContext: `${meaning} — ${text}`,
+    pronunciation: text,
+    words:[{w:word, m_en:wordMeaning, m_ar:wordMeaning}],
+    grammar_en, grammar_ar,
+    alternatives: alternatives.map(([text, note_en, note_ar])=>({text, note_en, note_ar})),
+    similar
+  };
+}
+
+/* Expanded practice library: four fresh sentences for every CEFR level. */
+const ADVANCED_SITUATION_ITEMS = {"meetings":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the proposal."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the proposal might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the proposal would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the proposal must acknowledge the wider implications involved."}],"support":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the customer request."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the customer request might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the customer request would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the customer request must acknowledge the wider implications involved."}],"technical-support":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the system issue."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the system issue might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the system issue would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the system issue must acknowledge the wider implications involved."}],"customer-service":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the service response."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the service response might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the service response would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the service response must acknowledge the wider implications involved."}],"daily":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the daily routine."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the daily routine might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the daily routine would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the daily routine must acknowledge the wider implications involved."}],"travel":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the travel itinerary."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the travel itinerary might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the travel itinerary would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the travel itinerary must acknowledge the wider implications involved."}],"restaurant":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the menu options."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the menu options might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the menu options would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the menu options must acknowledge the wider implications involved."}],"health":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the reported symptoms."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the reported symptoms might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the reported symptoms would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the reported symptoms must acknowledge the wider implications involved."}],"education":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the learning objectives."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the learning objectives might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the learning objectives would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the learning objectives must acknowledge the wider implications involved."}],"home":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the maintenance work."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the maintenance work might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the maintenance work would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the maintenance work must acknowledge the wider implications involved."}],"social":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the difference of opinion."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the difference of opinion might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the difference of opinion would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the difference of opinion must acknowledge the wider implications involved."}],"shopping":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the product quality."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the product quality might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the product quality would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the product quality must acknowledge the wider implications involved."}],"banking":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the account activity."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the account activity might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the account activity would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the account activity must acknowledge the wider implications involved."}],"workplace":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the project timeline."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the project timeline might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the project timeline would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the project timeline must acknowledge the wider implications involved."}],"technology":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the software update."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the software update might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the software update would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the software update must acknowledge the wider implications involved."}],"transport":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the revised timetable."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the revised timetable might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the revised timetable would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the revised timetable must acknowledge the wider implications involved."}],"events":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the event arrangements."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the event arrangements might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the event arrangements would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the event arrangements must acknowledge the wider implications involved."}],"appointments":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the consultation time."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the consultation time might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the consultation time would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the consultation time must acknowledge the wider implications involved."}],"weather":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the weather conditions."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the weather conditions might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the weather conditions would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the weather conditions must acknowledge the wider implications involved."}],"phone-calls":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the follow-up call."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the follow-up call might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the follow-up call would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the follow-up call must acknowledge the wider implications involved."}],"family":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the family plans."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the family plans might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the family plans would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the family plans must acknowledge the wider implications involved."}],"community":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the local initiative."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the local initiative might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the local initiative would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the local initiative must acknowledge the wider implications involved."}],"leisure":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the weekend activity."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the weekend activity might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the weekend activity would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the weekend activity must acknowledge the wider implications involved."}],"emergency":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the emergency procedure."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the emergency procedure might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the emergency procedure would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the emergency procedure must acknowledge the wider implications involved."}],"customer-help":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the proposed solution."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the proposed solution might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the proposed solution would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the proposed solution must acknowledge the wider implications involved."}],"career":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the professional opportunity."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the professional opportunity might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the professional opportunity would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the professional opportunity must acknowledge the wider implications involved."}],"returns":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the replacement request."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the replacement request might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the replacement request would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the replacement request must acknowledge the wider implications involved."}],"directions":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the suggested route."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the suggested route might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the suggested route would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the suggested route must acknowledge the wider implications involved."}],"celebrations":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the planned celebration."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the planned celebration might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the planned celebration would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the planned celebration must acknowledge the wider implications involved."}]};
+
+let DEMO_SENTENCES = [];
+async function loadSentences(){
+  try{
+    const res = await fetch('sentences.json');
+    if(!res.ok) throw new Error('HTTP ' + res.status);
+    DEMO_SENTENCES = await res.json();
+  }catch(err){
+    console.error('Failed to load sentences.json — falling back to an empty list.', err);
+    DEMO_SENTENCES = [];
+  }
+}
+
+const SITUATIONS = {
+  meetings:{
+    en:"Meetings", ar:"الاجتماعات", icon:"🗂️",
+    items:[
+      {en:"Starting a meeting", ar:"بدء الاجتماع", q:"Let's get started, shall we?"},
+      {en:"Giving an opinion", ar:"إبداء الرأي", q:"In my opinion, we should wait."},
+      {en:"Agreeing", ar:"الموافقة", q:"That's a good point."},
+      {en:"Disagreeing", ar:"الاعتراض", q:"I see it a bit differently."},
+      {en:"Asking for clarification", ar:"طلب التوضيح", q:"Could you clarify what you mean?"},
+      {en:"Presenting an idea", ar:"عرض فكرة", q:"Can we schedule a meeting for tomorrow?"},
+      {en:"Ending a meeting", ar:"إنهاء الاجتماع", q:"Let's move on to the next topic."}
+    ]
+  },
+  support:{
+    en:"Sales", ar:"المبيعات", icon:"💼",
+    items:[
+      {en:"Introducing yourself", ar:"تقديم نفسك", q:"Could you please send me the report?"},
+      {en:"Understanding customer needs", ar:"فهم احتياجات العميل", q:"I completely understand your concern."},
+      {en:"Explaining a product", ar:"شرح المنتج", q:"Let me check that for you."},
+      {en:"Handling objections", ar:"الرد على الاعتراضات", q:"I see your point, but here's another way to look at it."},
+      {en:"Negotiation", ar:"التفاوض", q:"Would you mind sending me the report?"},
+      {en:"Closing a sale", ar:"إتمام الصفقة", q:"I'll get back to you as soon as possible."}
+    ]
+  },
+  "technical-support":{
+    en:"Technical Support", ar:"الدعم الفني", icon:"🛠️",
+    items:[
+      {en:"Understanding the problem", ar:"فهم المشكلة", q:"I wanted to let you know that we have a problem with the system."},
+      {en:"Asking for information", ar:"طلب معلومات", q:"Could you clarify what you mean?"},
+      {en:"Troubleshooting", ar:"استكشاف الأخطاء", q:"I'll look into it and get back to you."},
+      {en:"Explaining a solution", ar:"شرح الحل", q:"Let me check that for you."},
+      {en:"Following up", ar:"المتابعة", q:"I'll get back to you as soon as possible."},
+      {en:"Closing a support call", ar:"إنهاء مكالمة الدعم", q:"Let's move on to the next topic."}
+    ]
+  },
+  "customer-service":{
+    en:"Customer Service", ar:"خدمة العملاء", icon:"🎧",
+    items:[
+      {en:"Greeting", ar:"الترحيب", q:"Let me check that for you."},
+      {en:"Apologizing", ar:"الاعتذار", q:"I completely understand your concern."},
+      {en:"Handling complaints", ar:"التعامل مع الشكاوى", q:"I completely understand your concern."},
+      {en:"Asking for details", ar:"طلب التفاصيل", q:"Could you clarify what you mean?"},
+      {en:"Offering a solution", ar:"تقديم حل", q:"I'll get back to you as soon as possible."}
+    ]
+  },
+  emergency:{
+    en:"Emergencies", ar:"حالات الطوارئ", icon:"🚨",
+    items:[
+      {en:"Calling for help", ar:"طلب المساعدة", q:"Please call an ambulance."},
+      {en:"Finding a hospital", ar:"العثور على مستشفى", q:"Where is the nearest hospital?"},
+      {en:"Reporting a lost passport", ar:"الإبلاغ عن جواز مفقود", q:"I would like to report a lost passport."},
+      {en:"Formal emergency instruction", ar:"تعليمات طوارئ رسمية", q:"In the event of an emergency, remain calm and follow the posted instructions."}
+    ]
+  },
+  "customer-help":{
+    en:"Customer Help", ar:"مساعدة العملاء", icon:"🙋",
+    items:[
+      {en:"Asking for help", ar:"طلب المساعدة", q:"Can you help me, please?"},
+      {en:"Returning an item", ar:"إرجاع منتج", q:"I'd like to return this item."},
+      {en:"Responding with empathy", ar:"الرد بتعاطف", q:"I understand your frustration, and I'll see what I can do."},
+      {en:"Evaluating a solution", ar:"تقييم حل", q:"The proposed remedy does not adequately address the inconvenience caused to customers."}
+    ]
+  },
+  career:{
+    en:"Career & Jobs", ar:"العمل والوظائف", icon:"🧑‍💼",
+    items:[
+      {en:"Describing your workplace", ar:"وصف مكان العمل", q:"I work in an office."},
+      {en:"Looking for a job", ar:"البحث عن وظيفة", q:"I am looking for a part-time job."},
+      {en:"Describing experience", ar:"وصف الخبرة", q:"I have gained valuable experience working with international clients."},
+      {en:"Explaining your fit", ar:"شرح ملاءمة الوظيفة", q:"The role would provide an opportunity to leverage my analytical and communication skills."}
+    ]
+  },
+  returns:{
+    en:"Shopping Returns", ar:"إرجاع المشتريات", icon:"↩️",
+    items:[
+      {en:"Buying clothing", ar:"شراء ملابس", q:"I need to buy a new jacket."},
+      {en:"Finding another size", ar:"العثور على مقاس آخر", q:"Do you have this shirt in a larger size?"},
+      {en:"Requesting a replacement", ar:"طلب بديل", q:"The item arrived damaged, so I would like to request a replacement."},
+      {en:"Requesting a formal refund", ar:"طلب استرداد رسمي", q:"I would appreciate a full refund, given that the product failed to meet the advertised specifications."}
+    ]
+  },
+  directions:{
+    en:"Asking for Directions", ar:"السؤال عن الاتجاهات", icon:"🧭",
+    items:[
+      {en:"Finding a bus stop", ar:"العثور على موقف حافلة", q:"Where is the bus stop?"},
+      {en:"Giving simple directions", ar:"إعطاء اتجاهات بسيطة", q:"Go straight and turn left at the bank."},
+      {en:"Describing distance", ar:"وصف المسافة", q:"The museum is within walking distance of the main square."},
+      {en:"Explaining a route", ar:"شرح طريق", q:"The quickest route appears to involve taking a less frequently used side street."}
+    ]
+  },
+  celebrations:{
+    en:"Celebrations", ar:"الاحتفالات", icon:"🎉",
+    items:[
+      {en:"Birthday greeting", ar:"تهنئة بعيد الميلاد", q:"Happy birthday!"},
+      {en:"Inviting someone", ar:"دعوة شخص", q:"Would you like to come to my party on Saturday?"},
+      {en:"Announcing success", ar:"الإعلان عن نجاح", q:"We are delighted to announce that the project has been completed successfully."},
+      {en:"Describing a milestone", ar:"وصف إنجاز مهم", q:"The occasion marked a significant milestone in the organization's history."}
+    ]
+  },
+  appointments:{
+    en:"Appointments", ar:"المواعيد", icon:"📅",
+    items:[
+      {en:"Asking the time", ar:"السؤال عن وقت الموعد", q:"What time is the appointment?"},
+      {en:"Booking a time", ar:"حجز موعد", q:"I'd like to book an appointment for next week."},
+      {en:"Rescheduling", ar:"إعادة الجدولة", q:"I may need to reschedule because of a conflict in my calendar."},
+      {en:"Formal recommendation", ar:"توصية رسمية", q:"Given the circumstances, postponing the consultation would be the most sensible option."}
+    ]
+  },
+  weather:{
+    en:"Weather", ar:"الطقس", icon:"☀️",
+    items:[
+      {en:"Describing the weather", ar:"وصف الطقس", q:"It's sunny today."},
+      {en:"Checking a prediction", ar:"السؤال عن التوقعات", q:"Do you think it will rain later?"},
+      {en:"Reporting the forecast", ar:"نقل النشرة الجوية", q:"The forecast suggests that temperatures will drop overnight."},
+      {en:"Event in difficult weather", ar:"فعالية في طقس صعب", q:"Despite the adverse conditions, the outdoor event proceeded as planned."}
+    ]
+  },
+  "phone-calls":{
+    en:"Phone Calls", ar:"المكالمات الهاتفية", icon:"📞",
+    items:[
+      {en:"Checking the connection", ar:"فحص الاتصال", q:"Can you hear me?"},
+      {en:"Calling back", ar:"الاتصال مرة أخرى", q:"I'll call you back in five minutes."},
+      {en:"Following up", ar:"المتابعة", q:"I just wanted to follow up on our conversation from yesterday."},
+      {en:"Requesting clarification", ar:"طلب توضيح", q:"I would appreciate it if you could clarify the next steps at your earliest convenience."}
+    ]
+  },
+  family:{
+    en:"Family Life", ar:"الحياة العائلية", icon:"👨‍👩‍👧‍👦",
+    items:[
+      {en:"Talking about family", ar:"التحدث عن العائلة", q:"My family lives near the park."},
+      {en:"Family routine", ar:"روتين العائلة", q:"We usually have dinner together on Fridays."},
+      {en:"Sharing family news", ar:"مشاركة أخبار العائلة", q:"My brother has recently started working in a different city."},
+      {en:"Maintaining relationships", ar:"الحفاظ على العلاقات", q:"Maintaining close family ties can be challenging when everyone leads increasingly busy lives."}
+    ]
+  },
+  community:{
+    en:"Community", ar:"المجتمع المحلي", icon:"🏘️",
+    items:[
+      {en:"Getting a library card", ar:"استخراج بطاقة مكتبة", q:"I need a new library card."},
+      {en:"Finding a supermarket", ar:"العثور على متجر", q:"Is there a supermarket near here?"},
+      {en:"Describing neighborhood change", ar:"وصف تغير الحي", q:"The neighborhood has become noticeably more diverse over the past decade."},
+      {en:"Community initiative", ar:"مبادرة مجتمعية", q:"The initiative seeks to foster a stronger sense of belonging within the local community."}
+    ]
+  },
+  leisure:{
+    en:"Hobbies & Leisure", ar:"الهوايات ووقت الفراغ", icon:"🎬",
+    items:[
+      {en:"Talking about a hobby", ar:"التحدث عن هواية", q:"I like watching movies."},
+      {en:"Inviting someone", ar:"دعوة شخص", q:"Would you like to join us for a walk?"},
+      {en:"Describing an intention", ar:"وصف نية", q:"I've been meaning to try that restaurant, but I haven't found the time."},
+      {en:"Reviewing a documentary", ar:"تقييم فيلم وثائقي", q:"The documentary provides a thought-provoking exploration of how creativity shapes collective identity."}
+    ]
+  },
+  shopping:{
+    en:"Shopping", ar:"التسوق", icon:"🛍️",
+    items:[
+      {en:"Asking the price", ar:"السؤال عن السعر", q:"How much is this shirt?"},
+      {en:"Finding a product", ar:"العثور على منتج", q:"I'm looking for a pair of comfortable shoes."},
+      {en:"Negotiating a discount", ar:"التفاوض على خصم", q:"Would you be willing to offer a small discount?"},
+      {en:"Describing a product", ar:"وصف منتج", q:"The product's appeal lies in its combination of practicality and understated design."}
+    ]
+  },
+  banking:{
+    en:"Banking & Money", ar:"البنوك والمال", icon:"💳",
+    items:[
+      {en:"Sending money", ar:"إرسال المال", q:"I need to send some money to my family."},
+      {en:"Withdrawing cash", ar:"سحب النقود", q:"Could I withdraw some cash, please?"},
+      {en:"Questioning a transaction", ar:"الاستفسار عن معاملة", q:"I noticed a transaction that I don't recognize on my statement."},
+      {en:"Explaining a discrepancy", ar:"شرح اختلاف مالي", q:"The discrepancy appears to stem from a processing error rather than a missing payment."}
+    ]
+  },
+  workplace:{
+    en:"Workplace", ar:"مكان العمل", icon:"💼",
+    items:[
+      {en:"Talking about a meeting", ar:"التحدث عن اجتماع", q:"I have a meeting at ten o'clock."},
+      {en:"Requesting a file", ar:"طلب ملف", q:"Could you send me the file before lunch?"},
+      {en:"Asking for updates", ar:"طلب تحديثات", q:"I'd appreciate it if you could keep me updated on the project's progress."},
+      {en:"Praising resilience", ar:"الإشادة بالمرونة", q:"The team demonstrated remarkable resilience in the face of mounting pressure."}
+    ]
+  },
+  technology:{
+    en:"Technology", ar:"التكنولوجيا", icon:"💻",
+    items:[
+      {en:"Reporting a phone problem", ar:"الإبلاغ عن مشكلة الهاتف", q:"My phone is not working."},
+      {en:"Connecting to Wi-Fi", ar:"الاتصال بالواي فاي", q:"Can you show me how to connect to the Wi-Fi?"},
+      {en:"Describing an update", ar:"وصف تحديث", q:"The update seems to have resolved the issue without affecting the saved settings."},
+      {en:"Describing system architecture", ar:"وصف بنية النظام", q:"The platform's architecture is sufficiently modular to accommodate future integrations."}
+    ]
+  },
+  transport:{
+    en:"Public Transport", ar:"المواصلات العامة", icon:"🚌",
+    items:[
+      {en:"Reporting a late bus", ar:"الإبلاغ عن تأخر الحافلة", q:"The bus is late."},
+      {en:"Finding a platform", ar:"العثور على الرصيف", q:"Which platform does the train leave from?"},
+      {en:"Service interruption", ar:"انقطاع الخدمة", q:"The service has been suspended due to severe weather conditions."},
+      {en:"Announcing delays", ar:"الإعلان عن التأخيرات", q:"Passengers are advised to allow extra time in anticipation of significant delays."}
+    ]
+  },
+  events:{
+    en:"Events & Tickets", ar:"الفعاليات والتذاكر", icon:"🎟️",
+    items:[
+      {en:"Giving the start time", ar:"تحديد وقت البدء", q:"The event starts at seven."},
+      {en:"Asking about a ticket", ar:"السؤال عن التذكرة", q:"Do I need to bring a ticket?"},
+      {en:"Describing accessibility", ar:"وصف سهولة الوصول", q:"The organizers have made every effort to ensure the venue is accessible."},
+      {en:"Reviewing an exhibition", ar:"تقييم معرض", q:"The exhibition offers a compelling examination of how memory shapes our perception of place."}
+    ]
+  },
+  travel:{
+    en:"Travel", ar:"السفر", icon:"✈️",
+    items:[
+      {en:"Finding the station", ar:"العثور على المحطة", q:"Where is the nearest train station?"},
+      {en:"Checking in", ar:"تسجيل الوصول", q:"I'd like to check in, please."},
+      {en:"Changing a reservation", ar:"تغيير الحجز", q:"Would it be possible to change my reservation?"},
+      {en:"Flight disruption", ar:"تعطل الرحلة", q:"Were our flight to be cancelled, we would need an alternative route."}
+    ]
+  },
+  restaurant:{
+    en:"Restaurant", ar:"المطعم", icon:"🍽️",
+    items:[
+      {en:"Asking for the menu", ar:"طلب قائمة الطعام", q:"Can I have the menu, please?"},
+      {en:"Getting a table", ar:"طلب طاولة", q:"I'd like a table for two."},
+      {en:"Dietary questions", ar:"السؤال عن مكونات الطعام", q:"Could you let me know which dishes are vegetarian?"},
+      {en:"Writing a review", ar:"كتابة تقييم", q:"The meal was impeccably presented, although the service was inconsistent."}
+    ]
+  },
+  health:{
+    en:"Health", ar:"الصحة", icon:"🩺",
+    items:[
+      {en:"Describing a symptom", ar:"وصف عرض صحي", q:"I have a headache."},
+      {en:"Booking an appointment", ar:"حجز موعد", q:"I need to make an appointment with the doctor."},
+      {en:"Reporting improvement", ar:"الإبلاغ عن تحسن", q:"The symptoms seem to have improved since yesterday."},
+      {en:"Seeking medical advice", ar:"طلب نصيحة طبية", q:"Any persistent symptoms warrant professional medical advice."}
+    ]
+  },
+  education:{
+    en:"Education", ar:"التعليم", icon:"📚",
+    items:[
+      {en:"Talking about class", ar:"التحدث عن الحصة", q:"I have English class on Monday."},
+      {en:"Asking for an explanation", ar:"طلب شرح", q:"Could you explain this word, please?"},
+      {en:"Discussing study difficulty", ar:"مناقشة صعوبة الدراسة", q:"I struggled to keep up with the reading assignments."},
+      {en:"Describing a course", ar:"وصف دورة تعليمية", q:"The course is designed to foster independent critical thinking."}
+    ]
+  },
+  home:{
+    en:"Home & Housing", ar:"المنزل والسكن", icon:"🏠",
+    items:[
+      {en:"Describing a room", ar:"وصف غرفة", q:"My room is upstairs."},
+      {en:"Preparing the house", ar:"تجهيز المنزل", q:"I need to tidy up before the guests arrive."},
+      {en:"Reporting a repair", ar:"الإبلاغ عن عطل", q:"The heating system appears to be malfunctioning."},
+      {en:"Describing renovation", ar:"وصف التجديد", q:"The renovation has transformed what was once a cramped living space."}
+    ]
+  },
+  social:{
+    en:"Social Conversations", ar:"المحادثات الاجتماعية", icon:"🤝",
+    items:[
+      {en:"Introducing yourself", ar:"التعريف بنفسك", q:"What's your name?"},
+      {en:"Ending a conversation", ar:"إنهاء محادثة", q:"It was nice talking to you."},
+      {en:"Disagreeing politely", ar:"الاختلاف بأدب", q:"I see where you're coming from, but I have a slightly different view."},
+      {en:"Deep conversation", ar:"محادثة عميقة", q:"The conversation gradually shifted from small talk to a surprisingly candid exchange."}
+    ]
+  },
+  daily:{
+    en:"Daily English", ar:"الإنجليزية اليومية", icon:"☀️",
+    items:[
+      {en:"Shopping", ar:"التسوق", q:"Could you please send me the report?"},
+      {en:"Travel", ar:"السفر", q:"Can we schedule a meeting for tomorrow?"},
+      {en:"Restaurant", ar:"المطعم", q:"That's a good point."},
+      {en:"Phone calls", ar:"المكالمات الهاتفية", q:"I'll get back to you as soon as possible."},
+      {en:"Small talk", ar:"الحديث العابر", q:"That's a good point."}
+    ]
+  }
+};
+
+/* ---------------------------------------------------------------------- */
+/* SIMILARITY — findSimilarSentences()                                    */
+/* Lightweight lexical overlap score (Jaccard on normalized word sets)     */
+/* plus a bonus for shared leading n-gram. Swappable for a real semantic   */
+/* similarity API later (see comment below).                              */
+/* ---------------------------------------------------------------------- */
+function normalizeWords(str){
+  return str.toLowerCase().replace(/[^a-z0-9'\s]/g,'').split(/\s+/).filter(Boolean);
+}
+function similarityScore(a,b){
+  const wa = new Set(normalizeWords(a));
+  const wb = new Set(normalizeWords(b));
+  if(wa.size===0 || wb.size===0) return 0;
+  let overlap = 0;
+  wa.forEach(w=>{ if(wb.has(w)) overlap++; });
+  const jaccard = overlap / (wa.size + wb.size - overlap);
+  // bonus if they start similarly (first 2 words match)
+  const aArr=[...wa], bArr=[...wb];
+  let leadBonus = 0;
+  const aFirst = normalizeWords(a).slice(0,2).join(' ');
+  const bFirst = normalizeWords(b).slice(0,2).join(' ');
+  if(aFirst && aFirst===bFirst) leadBonus = 0.12;
+  return Math.min(1, jaccard + leadBonus);
+}
+// Placeholder for future semantic similarity (embeddings/AI API).
+// Swap the body of this function to call an embeddings endpoint and
+// return cosine similarity instead of lexical overlap.
+function findSimilarSentences(query, pool, limit){
+  limit = limit || 6;
+  return pool
+    .map(s=>({ sentence:s, score:similarityScore(query, s.text) }))
+    .sort((a,b)=>b.score - a.score)
+    .slice(0, limit);
+}
+
+/* ---------------------------------------------------------------------- */
+/* YOUGLISH — real, licensed video search via the official public widget. */
+/* Docs: https://youglish.com/api/doc/js-api . Loaded async in <head>.    */
+/* Developer policy reminder (see reply to user): non-commercial embed is */
+/* covered by the public terms; commercial or in-app-mobile use requires */
+/* explicit permission from YouGlish — contact them before shipping this. */
+/* ---------------------------------------------------------------------- */
+let ygWidget = null;
+const VARIETY_TO_ACCENT = { US:'us', GB:'uk', AU:'aus', CA:'ca' };
+
+function whenYouglishReady(cb){
+  if(window.YG && window.YG.Widget){ cb(); return; }
+  const prevCb = window.onYouglishAPIReady;
+  window.onYouglishAPIReady = function(){
+    if(typeof prevCb === 'function') prevCb();
+    cb();
+  };
+  // Fallback poll in case the API finished loading before we attached the
+  // callback above (async script timing isn't guaranteed).
+  let tries = 0;
+  const iv = setInterval(()=>{
+    tries++;
+    if(window.YG && window.YG.Widget){ clearInterval(iv); cb(); }
+    else if(tries > 150){ clearInterval(iv); }
+  }, 100);
+}
+
+function initYouglishWidget(){
+  if(ygWidget || !document.getElementById('youglishMount')) return;
+  whenYouglishReady(()=>{
+    if(ygWidget) return;
+    const dark = State.theme === 'dark';
+    ygWidget = new YG.Widget('youglishMount', {
+      components: 4 + 8 + 64 + 128 + 256, // Title + Caption + Control buttons + Dictionary + Near-by panel
+      restrictionMode: 1,
+      backgroundColor: dark ? '#1C1F26' : '#FFFFFF',
+      textColor: dark ? '#ECEDEF' : '#7F98AD',
+      titleColor: dark ? '#ECEDEF' : '#555555',
+      panelsBackgroundColor: dark ? '#20232B' : '#F5F5F5',
+      events: { 'onFetchDone': onYouglishFetchDone }
+    });
+    if(State.currentQuery) fetchYouglish(State.currentQuery);
+  });
+}
+function fetchYouglish(query){
+  document.getElementById('youglishNote').textContent = '';
+  if(!ygWidget){ initYouglishWidget(); return; } // will auto-fetch once ready
+  const accent = VARIETY_TO_ACCENT[State.variety];
+  if(accent) ygWidget.fetch(query, 'english', accent);
+  else ygWidget.fetch(query, 'english');
+}
+function onYouglishFetchDone(event){
+  const note = document.getElementById('youglishNote');
+  if(note) note.textContent = (event && event.totalResult === 0) ? t('youglishNoResults') : '';
+}
+
+/* ---------------------------------------------------------------------- */
+/* SEARCH — searchSentence()                                              */
+/* ---------------------------------------------------------------------- */
+function searchSentence(query){
+  const scored = findSimilarSentences(query, DEMO_SENTENCES, DEMO_SENTENCES.length)
+    .filter(r=>r.score > 0.08);
+  return applyFilters(scored);
+}
+function applyFilters(scoredList){
+  return scoredList.filter(r=>{
+    const okLevel = State.level==='all' || r.sentence.level===State.level;
+    const okVariety = State.variety==='all' || r.sentence.variety===State.variety;
+    return okLevel && okVariety;
+  });
+}
+
+/* ---------------------------------------------------------------------- */
+/* YOUTUBE ADAPTER — searchYouTubeSentences()                             */
+/* This is the seam where a real backend/API plugs in. Today it simply    */
+/* returns the matching demo records. In production this would call a    */
+/* server-side endpoint (never expose a YouTube API key in the frontend)  */
+/* that has already indexed video transcripts and timestamps.            */
+/* ---------------------------------------------------------------------- */
+async function searchYouTubeSentences(query){
+  // TODO(backend): replace with e.g.
+  //   const res = await fetch('/api/youtube-sentence-search?q=' + encodeURIComponent(query));
+  //   return res.json();
+  // which would call the YouTube Data API + a transcript index server-side.
+  return searchSentence(query).map(r=>r.sentence);
+}
+
+/* ---------------------------------------------------------------------- */
+/* TRANSLATION (stub) — translateSentence()                               */
+/* Demo data already ships with Arabic translations. This function is the */
+/* seam for a live translation API later.                                 */
+/* ---------------------------------------------------------------------- */
+async function translateSentence(sentenceObj, targetLang){
+  if(targetLang==='ar') return sentenceObj.translation_ar;
+  return sentenceObj.text;
+  // TODO(AI API): call a translation endpoint for languages beyond the
+  // demo dataset's built-in Arabic translations.
+}
+
+/* AI seams referenced in the spec (kept for future wiring) */
+async function analyzeSentence(sentenceObj){ return sentenceObj; }
+async function generateSimilarSentences(text){ return findSimilarSentences(text, DEMO_SENTENCES, 6); }
+async function generatePractice(sentenceObj){ return sentenceObj; }
+
+/* ---------------------------------------------------------------------- */
+/* INTERACTIVE QUIZ                                                        */
+/* ---------------------------------------------------------------------- */
+function shuffleItems(items){
+  return [...items].sort(()=>Math.random()-.5);
+}
+function quizLevels(){ return ['all','A1','A2','B1','B2','C1','C2']; }
+function renderQuizLevelOptions(){
+  const select=document.getElementById('quizLevel');
+  if(!select) return;
+  select.innerHTML=quizLevels().map(level=>`<option value="${level}">${level==='all'?t('quizAllLevels'):level}</option>`).join('');
+  select.value=State.quiz.level;
+}
+function buildQuizQuestion(sentence, pool){
+  const distractors=shuffleItems(pool.filter(item=>item.id!==sentence.id)).slice(0,3).map(item=>item.translation_ar);
+  return { sentence, options:shuffleItems([sentence.translation_ar,...distractors]) };
+}
+function startQuiz(){
+  const level=document.getElementById('quizLevel').value;
+  const pool=DEMO_SENTENCES.filter(s=>level==='all'||s.level===level);
+  if(!pool.length){ document.getElementById('quizContent').innerHTML=`<p class="quiz-prompt">${t('quizNoData')}</p>`; return; }
+  const selected=shuffleItems(pool).slice(0,Math.min(5,pool.length));
+  State.quiz={level,questions:selected.map(sentence=>buildQuizQuestion(sentence,pool)),index:0,score:0,answered:false};
+  renderQuizQuestion();
+}
+function renderQuizQuestion(){
+  const q=State.quiz.questions[State.quiz.index];
+  const content=document.getElementById('quizContent');
+  if(!q){ renderQuizResult(); return; }
+  const n=State.quiz.index+1, total=State.quiz.questions.length;
+  content.innerHTML=`
+    <div class="quiz-progress"><span>${t('quizQuestion')} ${n} / ${total}</span><span>${State.quiz.level==='all'?t('quizAllLevels'):State.quiz.level}</span></div>
+    <p class="quiz-prompt">${t('quizQuestion')}</p>
+    <p class="quiz-question">${escapeHtml(q.sentence.text)}</p>
+    <div class="quiz-options">${q.options.map((option,i)=>`<button class="quiz-option" type="button" data-quiz-option="${i}">${escapeHtml(option)}</button>`).join('')}</div>
+    <div class="quiz-feedback" id="quizFeedback" aria-live="polite"></div>
+    <div class="quiz-actions"><button class="btn btn-primary btn-sm" id="quizNextBtn" type="button" disabled>${n===total?t('quizScore'):t('quizNext')}</button></div>`;
+  content.querySelectorAll('[data-quiz-option]').forEach(btn=>btn.addEventListener('click',()=>answerQuiz(Number(btn.dataset.quizOption))));
+  document.getElementById('quizNextBtn').addEventListener('click',()=>{ State.quiz.index++; State.quiz.answered=false; renderQuizQuestion(); });
+}
+function answerQuiz(choice){
+  if(State.quiz.answered) return;
+  State.quiz.answered=true;
+  const q=State.quiz.questions[State.quiz.index];
+  const correct=q.options.indexOf(q.sentence.translation_ar);
+  const buttons=[...document.querySelectorAll('[data-quiz-option]')];
+  buttons.forEach((btn,i)=>{ btn.disabled=true; if(i===correct) btn.classList.add('correct'); if(i===choice&&i!==correct) btn.classList.add('wrong'); });
+  const feedback=document.getElementById('quizFeedback');
+  if(choice===correct){ State.quiz.score++; feedback.className='quiz-feedback good'; feedback.textContent='✓ '+t('quizCorrect'); }
+  else { feedback.className='quiz-feedback bad'; feedback.textContent='→ '+t('quizWrong')+' '+q.sentence.translation_ar; }
+  document.getElementById('quizNextBtn').disabled=false;
+}
+function renderQuizResult(){
+  const total=State.quiz.questions.length;
+  const percent=Math.round((State.quiz.score/total)*100);
+  document.getElementById('quizContent').innerHTML=`<div class="quiz-result"><h3>${t('quizResult')}</h3><p>${t('quizScore')}: <strong>${State.quiz.score} / ${total}</strong> (${percent}%)</p><button class="btn btn-primary" id="quizRestartBtn" type="button">${t('quizRestart')}</button></div>`;
+  document.getElementById('quizRestartBtn').addEventListener('click',startQuiz);
+}
+
+/* ---------------------------------------------------------------------- */
+/* STORAGE                                                                 */
+/* ---------------------------------------------------------------------- */
+function persistFavorites(){ localStorage.setItem('sg_favorites', JSON.stringify(State.favorites)); }
+function persistHistory(){ localStorage.setItem('sg_history', JSON.stringify(State.history)); }
+
+function saveFavorite(sentenceObj){
+  if(State.favorites.some(f=>f.id===sentenceObj.id)) { showToast(t('save')+' ✓'); return; }
+  State.favorites.unshift({id:sentenceObj.id, text:sentenceObj.text});
+  persistFavorites();
+  renderFavorites();
+  showToast('⭐ ' + sentenceObj.text.slice(0,40) + (sentenceObj.text.length>40?'…':''));
+}
+function removeFavorite(id){
+  State.favorites = State.favorites.filter(f=>f.id!==id);
+  persistFavorites();
+  renderFavorites();
+}
+function saveHistory(query){
+  State.history = State.history.filter(h=>h.toLowerCase()!==query.toLowerCase());
+  State.history.unshift(query);
+  State.history = State.history.slice(0,10);
+  persistHistory();
+  renderHistory();
+}
+function removeHistory(query){
+  State.history = State.history.filter(h=>h!==query);
+  persistHistory();
+  renderHistory();
+}
+
+/* ---------------------------------------------------------------------- */
+/* UI HELPERS                                                              */
+/* ---------------------------------------------------------------------- */
+let toastTimer=null;
+function showToast(msg){
+  const el = document.getElementById('toast');
+  el.textContent = msg;
+  el.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(()=>el.classList.remove('show'), 2200);
+}
+function escapeHtml(s){
+  return s.replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+function highlightMatch(fullText, query){
+  const q = query.trim();
+  if(!q) return escapeHtml(fullText);
+  const idx = fullText.toLowerCase().indexOf(q.toLowerCase());
+  if(idx === -1){
+    // fall back to whole-sentence mark since it's not a literal substring
+    return `<mark>${escapeHtml(fullText)}</mark>`;
+  }
+  return escapeHtml(fullText.slice(0,idx)) + '<mark>' + escapeHtml(fullText.slice(idx, idx+q.length)) + '</mark>' + escapeHtml(fullText.slice(idx+q.length));
+}
+function formatTime(sec){
+  const m = Math.floor(sec/60), s = sec%60;
+  return `${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+}
+
+/* ---------------------------------------------------------------------- */
+/* RENDER — static chrome (examples, situations, sotd)                    */
+/* ---------------------------------------------------------------------- */
+const EXAMPLES = [
+  "Could you please send me the report?",
+  "I'll get back to you as soon as possible.",
+  "I completely understand your concern.",
+  "Let me check that for you.",
+  "We need to discuss this in the meeting."
+];
+
+function renderExamples(){
+  const box = document.getElementById('exampleChips');
+  box.innerHTML = EXAMPLES.map(ex=>`<button type="button" class="chip" data-ex="${escapeHtml(ex)}">${escapeHtml(ex)}</button>`).join('');
+  box.querySelectorAll('.chip').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      document.getElementById('searchInput').value = btn.dataset.ex;
+      runSearch(btn.dataset.ex);
+    });
+  });
+}
+
+function renderSituations(){
+  const grid = document.getElementById('situationsGrid');
+  grid.innerHTML = '';
+  const seenSituationQueries = new Set();
+  Object.keys(SITUATIONS).forEach(key=>{
+    const sit = SITUATIONS[key];
+    const card = document.createElement('div');
+    card.className = 'situation-card';
+    card.innerHTML = `
+      <h3>${sit.icon} ${sit[State.lang]||sit.en}</h3>
+      <div class="count">${sit.items.length} ${State.lang==='ar'?'مواقف':'prompts'}</div>
+      <ul class="situation-list"></ul>`;
+    const list = card.querySelector('.situation-list');
+    const visibleItems = [...sit.items, ...(ADVANCED_SITUATION_ITEMS[key] || [])];
+    visibleItems.forEach(item=>{
+      const normalizedQuery = item.q.trim().toLowerCase();
+      if(seenSituationQueries.has(normalizedQuery)) return;
+      seenSituationQueries.add(normalizedQuery);
+      const li = document.createElement('li');
+      const b = document.createElement('button');
+      b.type='button';
+      b.textContent = item[State.lang] || item.en;
+      b.addEventListener('click', ()=>{
+        document.getElementById('searchInput').value = item.q;
+        runSearch(item.q);
+        window.scrollTo({top: document.getElementById('results-section').offsetTop - 70, behavior:'smooth'});
+      });
+      li.appendChild(b);
+      list.appendChild(li);
+    });
+    grid.appendChild(card);
+  });
+}
+
+function pickSentenceOfDay(){
+  const dayIndex = Math.floor(Date.now() / 86400000) % DEMO_SENTENCES.length;
+  return DEMO_SENTENCES[dayIndex];
+}
+function renderSotd(){
+  const s = pickSentenceOfDay();
+  document.getElementById('sotdSentence').textContent = s.text;
+  document.getElementById('sotdMeaning').textContent = State.lang==='ar' ? s.translation_ar : s.grammar_en;
+  document.getElementById('sotdListen').onclick = ()=>speak(s.text);
+  document.getElementById('sotdPractice').onclick = ()=>openDetail(s, 'practice');
+  document.getElementById('sotdSave').onclick = ()=>saveFavorite(s);
+}
+
+/* ---------------------------------------------------------------------- */
+/* RENDER — results, similar, favorites, history                          */
+/* ---------------------------------------------------------------------- */
+function renderLevelPills(){
+  const levels = ['all','A1','A2','B1','B2','C1','C2'];
+  const box = document.getElementById('levelPills');
+  box.innerHTML = levels.map(lv=>{
+    const label = lv==='all' ? t('allLevels') : lv;
+    return `<button type="button" class="pill ${State.level===lv?'active':''}" data-level="${lv}">${label}</button>`;
+  }).join('');
+  box.querySelectorAll('.pill').forEach(p=>{
+    p.addEventListener('click', ()=>{ State.level = p.dataset.level; renderLevelPills(); runSearch(State.currentQuery); });
+  });
+}
+function renderVarietyPills(){
+  const varieties = [['all', t('allVarieties'),'🌍'],['US', t('us'),'🇺🇸'],['GB', t('gb'),'🇬🇧'],['AU', t('au'),'🇦🇺'],['CA', t('ca'),'🇨🇦']];
+  const box = document.getElementById('varietyPills');
+  box.innerHTML = varieties.map(([code,label,flag])=>
+    `<button type="button" class="pill ${State.variety===code?'active':''}" data-variety="${code}">${flag} ${label}</button>`
+  ).join('');
+  box.querySelectorAll('.pill').forEach(p=>{
+    p.addEventListener('click', ()=>{ State.variety = p.dataset.variety; renderVarietyPills(); runSearch(State.currentQuery); });
+  });
+}
+
+function renderResults(){
+  const grid = document.getElementById('resultsGrid');
+  const noResBox = document.getElementById('noResultsBox');
+  const countEl = document.getElementById('resultsCount');
+  const results = State.currentResults;
+
+  countEl.textContent = results.length ? `${results.length} ${State.lang==='ar'?'نتيجة':'results'}` : '';
+  noResBox.style.display = results.length ? 'none' : 'block';
+  grid.innerHTML = '';
+
+  results.forEach(r=>{
+    const s = r.sentence;
+    const pct = Math.round(Math.min(0.98, 0.55 + r.score*0.5) * 100);
+    const card = document.createElement('div');
+    card.className = 'sentence-card';
+    card.innerHTML = `
+      <div class="card-thumb" data-action="play" data-id="${s.id}" role="button" tabindex="0" aria-label="Play">
+        <span class="card-match">${pct}% ${t('matchLabel')}</span>
+        <span class="play-glyph">▶</span>
+      </div>
+      <div class="card-body">
+        <div class="card-meta">
+          <span>${escapeHtml(s.channel)}</span>
+          <span class="dot-sep">${escapeHtml(s.speaker)}</span>
+          <span class="dot-sep">${s.level}</span>
+        </div>
+        <div class="card-sentence">${highlightMatch(s.text, State.currentQuery)}</div>
+        <div class="card-actions">
+          <button class="btn btn-secondary btn-sm" data-action="play" data-id="${s.id}">▶ ${t('play')}</button>
+          <button class="btn btn-ghost btn-sm" data-action="practice" data-id="${s.id}">${t('practice')}</button>
+          <button class="btn btn-warm btn-sm" data-action="save" data-id="${s.id}">⭐ ${t('save')}</button>
+        </div>
+      </div>`;
+    grid.appendChild(card);
+  });
+
+  grid.querySelectorAll('[data-action]').forEach(el=>{
+    el.addEventListener('click', ()=>{
+      const s = DEMO_SENTENCES.find(x=>x.id === Number(el.dataset.id));
+      if(!s) return;
+      const action = el.dataset.action;
+      if(action==='save') saveFavorite(s);
+      else openDetail(s, action==='practice' ? 'practice' : 'watch');
+    });
+    el.addEventListener('keydown', (e)=>{ if(e.key==='Enter') el.click(); });
+  });
+}
+
+function renderSimilar(){
+  const box = document.getElementById('similarList');
+  box.innerHTML = '';
+  State.currentSimilar.forEach(r=>{
+    const s = r.sentence;
+    const row = document.createElement('div');
+    row.className = 'similar-row';
+    row.innerHTML = `
+      <div class="txt">${escapeHtml(s.text)}</div>
+      <div class="row-actions">
+        <button class="btn btn-secondary btn-sm" data-action="play" data-id="${s.id}">▶ ${t('listen')}</button>
+        <button class="btn btn-ghost btn-sm" data-action="practice" data-id="${s.id}">${t('practice')}</button>
+        <button class="btn btn-warm btn-sm" data-action="save" data-id="${s.id}">⭐ ${t('save')}</button>
+      </div>`;
+    box.appendChild(row);
+  });
+  box.querySelectorAll('[data-action]').forEach(el=>{
+    el.addEventListener('click', ()=>{
+      const s = DEMO_SENTENCES.find(x=>x.id === Number(el.dataset.id));
+      if(!s) return;
+      const action = el.dataset.action;
+      if(action==='save') saveFavorite(s);
+      else openDetail(s, action==='practice' ? 'practice' : 'watch');
+    });
+  });
+}
+
+function renderFavorites(){
+  const box = document.getElementById('favoritesList');
+  if(State.favorites.length===0){
+    box.innerHTML = `<div class="empty-note">${t('emptyFavorites')}</div>`;
+    return;
+  }
+  box.innerHTML = State.favorites.map(f=>`
+    <div class="list-row">
+      <div class="txt">${escapeHtml(f.text)}</div>
+      <div class="row-actions">
+        <button class="btn btn-secondary btn-sm" data-action="play" data-id="${f.id}">▶ ${t('play')}</button>
+        <button class="btn btn-ghost btn-sm" data-action="practice" data-id="${f.id}">${t('practice')}</button>
+        <button class="btn btn-ghost btn-sm" data-action="remove" data-id="${f.id}">${t('removeFav')}</button>
+      </div>
+    </div>`).join('');
+  box.querySelectorAll('[data-action]').forEach(el=>{
+    el.addEventListener('click', ()=>{
+      const id = Number(el.dataset.id);
+      if(el.dataset.action==='remove'){ removeFavorite(id); return; }
+      const s = DEMO_SENTENCES.find(x=>x.id === id);
+      if(s) openDetail(s, el.dataset.action==='practice' ? 'practice' : 'watch');
+    });
+  });
+}
+
+function renderHistory(){
+  const box = document.getElementById('historyList');
+  if(State.history.length===0){
+    box.innerHTML = `<div class="empty-note">${t('emptyHistory')}</div>`;
+    return;
+  }
+  box.innerHTML = State.history.map(h=>`
+    <div class="list-row">
+      <div class="txt">${escapeHtml(h)}</div>
+      <div class="row-actions">
+        <button class="btn btn-secondary btn-sm" data-action="research" data-q="${escapeHtml(h)}">${t('reSearch')}</button>
+        <button class="btn btn-ghost btn-sm" data-action="removeh" data-q="${escapeHtml(h)}">${t('removeHistory')}</button>
+      </div>
+    </div>`).join('');
+  box.querySelectorAll('[data-action]').forEach(el=>{
+    el.addEventListener('click', ()=>{
+      const q = el.dataset.q;
+      if(el.dataset.action==='removeh'){ removeHistory(q); return; }
+      document.getElementById('searchInput').value = q;
+      runSearch(q);
+      window.scrollTo({top:0, behavior:'smooth'});
+    });
+  });
+}
+
+/* ---------------------------------------------------------------------- */
+/* SEARCH FLOW                                                             */
+/* ---------------------------------------------------------------------- */
+function runSearch(query){
+  query = (query||'').trim();
+  if(!query) return;
+  State.currentQuery = query;
+  State.currentResults = searchSentence(query);
+  State.currentSimilar = findSimilarSentences(query, DEMO_SENTENCES, 6)
+    .filter(r=>r.score>0.04 && r.score<0.999);
+
+  document.getElementById('yourSentenceText').textContent = query;
+  document.getElementById('results-section').classList.add('show');
+  renderResults();
+  renderSimilar();
+  fetchYouglish(query);
+  saveHistory(query);
+  hideSuggestions();
+}
+
+/* Search suggestions while typing */
+const SUGGESTION_SEEDS = [
+  "I wanted to let you know...", "I wanted to ask you about...", "I wanted to make sure...", "I wanted to check...",
+  "Could you please...", "Could you clarify...", "Could you send me...",
+  "I'll get back to you...", "I'll look into it...", "I'll follow up...",
+  "Let me check that...", "Let me know if...", "Let's move on to...",
+  "That's a good point.", "That's a fair point.",
+  "Can we schedule a meeting...", "Can you send me..."
+];
+function renderSuggestions(value){
+  const box = document.getElementById('suggestionsBox');
+  const v = value.trim().toLowerCase();
+  if(v.length < 3){ hideSuggestions(); return; }
+  const matches = SUGGESTION_SEEDS.filter(s=>s.toLowerCase().startsWith(v)).slice(0,5);
+  if(matches.length===0){ hideSuggestions(); return; }
+  box.innerHTML = matches.map(m=>`<button type="button">${escapeHtml(m)}</button>`).join('');
+  box.classList.add('show');
+  box.querySelectorAll('button').forEach(b=>{
+    b.addEventListener('click', ()=>{
+      document.getElementById('searchInput').value = b.textContent;
+      hideSuggestions();
+      document.getElementById('searchInput').focus();
+    });
+  });
+}
+function hideSuggestions(){ document.getElementById('suggestionsBox').classList.remove('show'); }
+
+/* ---------------------------------------------------------------------- */
+/* DETAIL PANEL / PLAYER                                                   */
+/* ---------------------------------------------------------------------- */
+function buildAudioStageHtml(s){
+  return `<div class="audio-stage">
+      <button type="button" class="audio-play-btn" aria-label="${t('play')}">▶</button>
+      <div class="audio-wave">${'<span></span>'.repeat(9)}</div>
+      <div class="audio-caption">${escapeHtml(s.speaker)} · ${escapeHtml(s.channel)}</div>
+    </div>`;
+}
+// Renders a working audio player into containerEl. Uses speech synthesis today;
+// swap the utterance below for a real <audio> element pointing at a licensed
+// clip once a backend serves timestamped audio/video (see YouTube adapter above).
+function renderAudioStage(containerEl, s, textToSpeak){
+  if(s.videoId){
+    const start = Math.max(0, s.timestamp - 2);
+    containerEl.innerHTML = `<iframe src="https://www.youtube.com/embed/${s.videoId}?start=${start}&autoplay=0" title="${escapeHtml(s.text)}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+    return;
+  }
+  containerEl.innerHTML = buildAudioStageHtml(s);
+  const btn = containerEl.querySelector('.audio-play-btn');
+  const stage = containerEl.querySelector('.audio-stage');
+  btn.addEventListener('click', ()=>{
+    if(!('speechSynthesis' in window)){ showToast(t('speechNotSupported')); return; }
+    if(window.speechSynthesis.speaking){
+      window.speechSynthesis.cancel();
+      stage.classList.remove('playing'); btn.classList.remove('playing'); btn.textContent='▶';
+      return;
+    }
+    const u = new SpeechSynthesisUtterance(textToSpeak);
+    u.lang='en-US'; u.rate=0.95;
+    u.onstart = ()=>{ stage.classList.add('playing'); btn.classList.add('playing'); btn.textContent='❚❚'; };
+    u.onend = ()=>{ stage.classList.remove('playing'); btn.classList.remove('playing'); btn.textContent='▶'; };
+    u.onerror = ()=>{ stage.classList.remove('playing'); btn.classList.remove('playing'); btn.textContent='▶'; };
+    window.speechSynthesis.cancel();
+    window.speechSynthesis.speak(u);
+  });
+}
+
+function openDetail(s, startTab){
+  State.activeSentence = s;
+  State.practiceHidden = false;
+
+  document.getElementById('panelTitle').textContent = t('sentenceDetails');
+  renderAudioStage(document.getElementById('videoStage'), s, s.transcriptContext);
+  document.getElementById('videoTime').textContent = formatTime(Math.max(0,s.timestamp-2));
+  document.getElementById('videoContextLine').textContent = t('secBefore');
+  document.getElementById('transcriptBox').innerHTML = highlightMatch(s.transcriptContext, s.text);
+  document.getElementById('meaningText').textContent = State.lang==='ar' ? s.translation_ar : s.translation_ar;
+  document.getElementById('pronText').textContent = s.pronunciation;
+  document.getElementById('wordsList').innerHTML = s.words.map(w=>`
+    <div class="word-item"><span class="w">${escapeHtml(w.w)}</span><span class="m">— ${escapeHtml(State.lang==='ar'?w.m_ar:w.m_en)}</span></div>
+  `).join('');
+  document.getElementById('grammarText').textContent = State.lang==='ar' ? s.grammar_ar : s.grammar_en;
+  document.getElementById('alternativesList').innerHTML = s.alternatives.map(a=>`
+    <div class="alt-item"><div class="note">${escapeHtml(State.lang==='ar'?a.note_ar:a.note_en)}</div><div>${escapeHtml(a.text)}</div></div>
+  `).join('');
+
+  document.getElementById('detailSaveBtn').onclick = ()=>saveFavorite(s);
+  const ytBtn = document.getElementById('detailYoutubeBtn');
+  if(s.videoId){
+    ytBtn.disabled = false;
+    ytBtn.title = '';
+    ytBtn.onclick = ()=>window.open(`https://www.youtube.com/watch?v=${s.videoId}&t=${s.timestamp}s`, '_blank');
+  } else {
+    ytBtn.disabled = true;
+    ytBtn.title = t('demoNoVideoSub');
+    ytBtn.onclick = null;
+  }
+
+  // reset practice/listening sub-views
+  document.getElementById('practiceSentenceText').textContent = s.text;
+  document.getElementById('practiceSentenceText').classList.remove('hidden-text');
+  document.getElementById('practiceHideBtn').style.display = '';
+  document.getElementById('practiceShowBtn').style.display = 'none';
+  document.getElementById('practiceMatchResult').className = 'match-result';
+  document.getElementById('micIndicator').classList.remove('active');
+
+  renderAudioStage(document.getElementById('listeningStage'), s, s.text);
+  document.getElementById('listeningInput').value = '';
+  document.getElementById('listeningCompare').classList.remove('show');
+  document.getElementById('listeningCompare').innerHTML = '';
+
+  switchMode(startTab || 'watch');
+  document.getElementById('detailOverlay').classList.add('show');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeDetail(){
+  document.getElementById('detailOverlay').classList.remove('show');
+  document.body.style.overflow = '';
+  stopRecognition();
+}
+
+function switchMode(mode){
+  document.querySelectorAll('.mode-tab').forEach(tb=>tb.classList.toggle('active', tb.dataset.mode===mode));
+  ['watch','practice','listening'].forEach(m=>{
+    document.getElementById('mode-'+m).style.display = (m===mode) ? '' : 'none';
+  });
+}
+
+/* ---------------------------------------------------------------------- */
+/* SPEECH — TTS (listen) + Speech Recognition (practice/speaking)          */
+/* ---------------------------------------------------------------------- */
+function speak(text){
+  if(!('speechSynthesis' in window)){ showToast(t('speechNotSupported')); return; }
+  window.speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'en-US';
+  u.rate = 0.95;
+  window.speechSynthesis.speak(u);
+}
+
+const SpeechRecognitionCtor = window.SpeechRecognition || window.webkitSpeechRecognition;
+let recognizer = null;
+
+function startSpeechRecognition(onResult){
+  if(!SpeechRecognitionCtor){ showToast(t('speechNotSupported')); return; }
+  stopRecognition();
+  recognizer = new SpeechRecognitionCtor();
+  recognizer.lang = 'en-US';
+  recognizer.interimResults = false;
+  recognizer.maxAlternatives = 1;
+  State.recognizing = true;
+  document.getElementById('micIndicator').classList.add('active');
+  recognizer.onresult = (e)=>{
+    const heard = e.results[0][0].transcript;
+    onResult(heard);
+  };
+  recognizer.onerror = ()=>{ stopRecognition(); };
+  recognizer.onend = ()=>{ stopRecognition(); };
+  recognizer.start();
+}
+function stopRecognition(){
+  State.recognizing = false;
+  document.getElementById('micIndicator').classList.remove('active');
+  if(recognizer){ try{ recognizer.abort(); }catch(e){} recognizer=null; }
+}
+
+function roughMatch(a,b){
+  const wa = normalizeWords(a), wb = normalizeWords(b);
+  const setA = new Set(wa), setB = new Set(wb);
+  let overlap=0; setA.forEach(w=>{ if(setB.has(w)) overlap++; });
+  const denom = Math.max(setA.size, setB.size) || 1;
+  return overlap/denom;
+}
+
+/* ---------------------------------------------------------------------- */
+/* PRACTICE MODE WIRING                                                    */
+/* ---------------------------------------------------------------------- */
+function startPractice(){
+  const s = State.activeSentence;
+  if(!s) return;
+  document.getElementById('practiceSentenceText').textContent = s.text;
+}
+
+document.getElementById('practiceListenBtn').addEventListener('click', ()=>{
+  if(State.activeSentence) speak(State.activeSentence.text);
+});
+document.getElementById('practiceHideBtn').addEventListener('click', ()=>{
+  document.getElementById('practiceSentenceText').classList.add('hidden-text');
+  document.getElementById('practiceHideBtn').style.display='none';
+  document.getElementById('practiceShowBtn').style.display='';
+});
+document.getElementById('practiceShowBtn').addEventListener('click', ()=>{
+  document.getElementById('practiceSentenceText').classList.remove('hidden-text');
+  document.getElementById('practiceShowBtn').style.display='none';
+  document.getElementById('practiceHideBtn').style.display='';
+});
+document.getElementById('practiceRepeatBtn').addEventListener('click', ()=>{
+  const s = State.activeSentence;
+  if(!s) return;
+  const resultBox = document.getElementById('practiceMatchResult');
+  resultBox.className = 'match-result';
+  startSpeechRecognition((heard)=>{
+    const score = roughMatch(heard, s.text);
+    resultBox.classList.add('show');
+    if(score >= 0.6){
+      resultBox.classList.add('good');
+      resultBox.textContent = `✓ ${t('goodMatch')} — "${heard}"`;
+    } else {
+      resultBox.classList.add('retry');
+      resultBox.textContent = `${t('tryAgain')} — "${heard}"`;
+    }
+  });
+});
+
+/* ---------------------------------------------------------------------- */
+/* LISTENING MODE WIRING                                                   */
+/* ---------------------------------------------------------------------- */
+document.getElementById('listeningPlayBtn').addEventListener('click', ()=>{
+  if(State.activeSentence) speak(State.activeSentence.text);
+});
+document.getElementById('listeningCheckBtn').addEventListener('click', ()=>{
+  const s = State.activeSentence;
+  if(!s) return;
+  const userText = document.getElementById('listeningInput').value.trim();
+  const box = document.getElementById('listeningCompare');
+  box.classList.add('show');
+  const isCorrect = normalizeWords(userText).join(' ') === normalizeWords(s.text).join(' ');
+  if(isCorrect){
+    box.innerHTML = `<div class="listen-row correct-full">✓ ${t('correct')}</div>`;
+  } else {
+    box.innerHTML = `
+      <div class="listen-row">${t('notQuite')}</div>
+      <div class="listen-row"><strong>${State.lang==='ar'?'أنت سمعت':'You heard'}:</strong> ${escapeHtml(userText||'—')}</div>
+      <div class="listen-row"><strong>${State.lang==='ar'?'الأصل':'Original'}:</strong> ${escapeHtml(s.text)}</div>
+    `;
+  }
+});
+
+document.getElementById('quizStartBtn').addEventListener('click', startQuiz);
+document.getElementById('quizLevel').addEventListener('change', (e)=>{ State.quiz.level=e.target.value; });
+
+/* ---------------------------------------------------------------------- */
+/* EVENT WIRING — global                                                   */
+/* ---------------------------------------------------------------------- */
+document.getElementById('searchForm').addEventListener('submit', (e)=>{
+  e.preventDefault();
+  runSearch(document.getElementById('searchInput').value);
+});
+document.getElementById('searchInput').addEventListener('input', (e)=>{
+  renderSuggestions(e.target.value);
+});
+document.addEventListener('click', (e)=>{
+  if(!e.target.closest('.search-box')) hideSuggestions();
+});
+
+document.querySelectorAll('.mode-tab').forEach(tb=>{
+  tb.addEventListener('click', ()=>switchMode(tb.dataset.mode));
+});
+
+document.getElementById('panelCloseBtn').addEventListener('click', closeDetail);
+document.getElementById('detailOverlay').addEventListener('click', (e)=>{
+  if(e.target.id==='detailOverlay') closeDetail();
+});
+document.addEventListener('keydown', (e)=>{
+  if(e.key==='Escape' && document.getElementById('detailOverlay').classList.contains('show')) closeDetail();
+});
+
+/* Theme toggle */
+function applyTheme(){
+  document.documentElement.setAttribute('data-theme', State.theme);
+  document.getElementById('themeToggle').textContent = State.theme==='dark' ? '☀️' : '🌙';
+}
+document.getElementById('themeToggle').addEventListener('click', ()=>{
+  State.theme = State.theme==='dark' ? 'light' : 'dark';
+  localStorage.setItem('sg_theme', State.theme);
+  applyTheme();
+});
+
+/* Language toggle */
+function applyLanguage(){
+  const isAr = State.lang==='ar';
+  document.documentElement.lang = isAr ? 'ar' : 'en';
+  document.documentElement.dir = isAr ? 'rtl' : 'ltr';
+  document.getElementById('langToggle').textContent = isAr ? 'English' : 'العربية';
+  document.querySelectorAll('[data-i18n]').forEach(el=>{
+    el.textContent = t(el.dataset.i18n);
+  });
+  document.querySelectorAll('[data-i18n-placeholder]').forEach(el=>{
+    el.setAttribute('placeholder', t(el.dataset.i18nPlaceholder));
+  });
+  renderExamples();
+  renderSituations();
+  renderSotd();
+  renderLevelPills();
+  renderVarietyPills();
+  renderQuizLevelOptions();
+  renderFavorites();
+  renderHistory();
+  if(State.currentQuery){ renderResults(); renderSimilar(); }
+}
+document.getElementById('langToggle').addEventListener('click', ()=>{
+  State.lang = State.lang==='ar' ? 'en' : 'ar';
+  localStorage.setItem('sg_lang', State.lang);
+  applyLanguage();
+});
+
+/* ---------------------------------------------------------------------- */
+/* INIT                                                                     */
+/* ---------------------------------------------------------------------- */
+function init(){
+  applyTheme();
+  applyLanguage(); // also renders examples/situations/sotd/pills/favorites/history
+}
+loadSentences().then(init);
+
+})();
+
+</script>
+</body>
+</html>
