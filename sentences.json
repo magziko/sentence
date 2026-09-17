@@ -5537,7 +5537,7 @@
   {
     "id": 277,
     "text": "Where is the nearest bus stop?",
-    "translation_ar": "فين أقرب محطة أتوبيس؟",
+    "translation_ar": "أين أقرب محطة حافلات؟",
     "level": "A1",
     "situation": "transport",
     "variety": "GB",
@@ -5576,7 +5576,7 @@
   {
     "id": 278,
     "text": "This is my sister.",
-    "translation_ar": "دي أختي.",
+    "translation_ar": "هذه أختي.",
     "level": "A1",
     "situation": "family",
     "variety": "US",
@@ -5654,7 +5654,7 @@
   {
     "id": 280,
     "text": "I feel a little dizzy.",
-    "translation_ar": "حاسس بدوخة شوية.",
+    "translation_ar": "أشعر بدوار قليلاً.",
     "level": "A1",
     "situation": "health",
     "variety": "US",
@@ -5693,7 +5693,7 @@
   {
     "id": 281,
     "text": "How much does this cost?",
-    "translation_ar": "ده بكام؟",
+    "translation_ar": "بكم هذا؟",
     "level": "A1",
     "situation": "shopping",
     "variety": "US",
@@ -5849,7 +5849,7 @@
   {
     "id": 285,
     "text": "What is your phone number?",
-    "translation_ar": "ايه رقم تليفونك؟",
+    "translation_ar": "ما رقم هاتفك؟",
     "level": "A1",
     "situation": "phone-calls",
     "variety": "US",
@@ -5927,7 +5927,7 @@
   {
     "id": 287,
     "text": "Can you speak more slowly, please?",
-    "translation_ar": "ممكن تتكلم أبطأ شوية من فضلك؟",
+    "translation_ar": "هل يمكنك أن تتحدث ببطء أكثر قليلاً من فضلك؟",
     "level": "A1",
     "situation": "daily",
     "variety": "GB",
@@ -5966,7 +5966,7 @@
   {
     "id": 288,
     "text": "I have two children.",
-    "translation_ar": "عندي طفلين.",
+    "translation_ar": "لديّ طفلان.",
     "level": "A1",
     "situation": "family",
     "variety": "US",
@@ -6122,7 +6122,7 @@
   {
     "id": 292,
     "text": "Could you recommend a good restaurant nearby?",
-    "translation_ar": "ممكن تنصحني بمطعم كويس قريب من هنا؟",
+    "translation_ar": "هل يمكنك أن تنصحني بمطعم جيد قريب من هنا؟",
     "level": "A2",
     "situation": "travel",
     "variety": "GB",
@@ -6161,7 +6161,7 @@
   {
     "id": 293,
     "text": "I've never been to Japan.",
-    "translation_ar": "أنا معنديش سابق زيارة اليابان.",
+    "translation_ar": "لم أزر اليابان من قبل.",
     "level": "A2",
     "situation": "travel",
     "variety": "US",
@@ -6182,7 +6182,7 @@
       {
         "text": "I haven't visited Japan yet.",
         "note_en": "Emphasizes 'not yet'",
-        "note_ar": "تركز على 'لسه'"
+        "note_ar": "تؤكد أن الأمر 'لم يحدث بعد'"
       },
       {
         "text": "I've never traveled to Japan.",
@@ -6200,7 +6200,7 @@
   {
     "id": 294,
     "text": "I'm not sure what to order.",
-    "translation_ar": "مش متأكد أطلب إيه.",
+    "translation_ar": "لست متأكدًا مما ينبغي أن أطلبه.",
     "level": "A2",
     "situation": "restaurant",
     "variety": "US",
@@ -6278,7 +6278,7 @@
   {
     "id": 296,
     "text": "I'm trying to save some money this month.",
-    "translation_ar": "بحاول أوفر شوية فلوس الشهر ده.",
+    "translation_ar": "أحاول أن أدّخر بعض المال هذا الشهر.",
     "level": "A2",
     "situation": "banking",
     "variety": "US",
@@ -6395,7 +6395,7 @@
   {
     "id": 299,
     "text": "Would you like to join us for dinner?",
-    "translation_ar": "حابب تنضم لنا على العشا؟",
+    "translation_ar": "هل تودّ الانضمام إلينا لتناول العشاء؟",
     "level": "A2",
     "situation": "social",
     "variety": "US",
@@ -6473,7 +6473,7 @@
   {
     "id": 301,
     "text": "Turn left at the next traffic light.",
-    "translation_ar": "حوّد شمالًا عند الإشارة الجاية.",
+    "translation_ar": "انعطف يسارًا عند الإشارة الضوئية التالية.",
     "level": "A2",
     "situation": "directions",
     "variety": "US",
@@ -6512,7 +6512,7 @@
   {
     "id": 302,
     "text": "I'm allergic to peanuts.",
-    "translation_ar": "عندي حساسية من الفول السوداني.",
+    "translation_ar": "لديّ حساسية من الفول السوداني.",
     "level": "A2",
     "situation": "health",
     "variety": "US",
@@ -6524,7 +6524,7 @@
       {
         "w": "allergic",
         "m_en": "having a bad physical reaction to something",
-        "m_ar": "لديك رد فعل سيء تجاه شيء معين"
+        "m_ar": "امتلاك رد فعل جسدي سلبي تجاه شيء معين"
       }
     ],
     "grammar_en": "I'm allergic to + noun — a fixed pattern to talk about allergies.",
@@ -6551,7 +6551,7 @@
   {
     "id": 303,
     "text": "Let's meet up sometime next week.",
-    "translation_ar": "يلا نتقابل في وقت الأسبوع الجاي.",
+    "translation_ar": "لنلتقِ في وقتٍ ما من الأسبوع القادم.",
     "level": "A2",
     "situation": "social",
     "variety": "US",
@@ -6590,7 +6590,7 @@
   {
     "id": 304,
     "text": "I forgot to charge my phone last night.",
-    "translation_ar": "نسيت أشحن تليفوني إمبارح بالليل.",
+    "translation_ar": "نسيت أن أشحن هاتفي الليلة الماضية.",
     "level": "A2",
     "situation": "daily",
     "variety": "US",
@@ -6616,7 +6616,7 @@
       {
         "text": "My phone wasn't charged last night.",
         "note_en": "Passive focus on the phone",
-        "note_ar": "مبني للمجهول تركز على التليفون"
+        "note_ar": "مبني للمجهول يركز على الهاتف"
       }
     ],
     "similar": [
@@ -6702,7 +6702,7 @@
   {
     "id": 307,
     "text": "It seems the proposal hasn't been fully resolved.",
-    "translation_ar": "يبدو إن المقترح لسه معملوش فيها حل كامل.",
+    "translation_ar": "يبدو أن المقترح لم يُحلّ بالكامل بعد.",
     "level": "B2",
     "situation": "meetings",
     "variety": "US",
@@ -6720,7 +6720,7 @@
       }
     ],
     "grammar_en": "It seems + clause softens a statement, showing it is based on impression, not certainty.",
-    "grammar_ar": "It seems + جملة تخفف العبارة وتوضح إنها مبنية على انطباع مش يقين.",
+    "grammar_ar": "It seems + جملة تخفف العبارة وتوضح أنها مبنية على انطباع وليس على يقين تام.",
     "alternatives": [
       {
         "text": "Let's talk about the proposal.",
@@ -6804,7 +6804,7 @@
   {
     "id": 310,
     "text": "Do you have any updates on the customer request?",
-    "translation_ar": "هل عندك أي تحديثات عن طلب العميل؟",
+    "translation_ar": "هل لديك أي تحديثات عن طلب العميل؟",
     "level": "B1",
     "situation": "support",
     "variety": "US",
@@ -6838,7 +6838,7 @@
   {
     "id": 311,
     "text": "There are a few concerns regarding the customer request that we should address.",
-    "translation_ar": "فيه شوية مخاوف بخصوص طلب العميل لازم نتعامل معاها.",
+    "translation_ar": "هناك بعض المخاوف بشأن طلب العميل ينبغي أن نعالجها.",
     "level": "B2",
     "situation": "support",
     "variety": "US",
@@ -6872,7 +6872,7 @@
   {
     "id": 312,
     "text": "The implications of the customer request are not yet fully understood.",
-    "translation_ar": "الآثار المترتبة على طلب العميل لسه مش مفهومة بالكامل.",
+    "translation_ar": "الآثار المترتبة على طلب العميل لا تزال غير مفهومة بالكامل.",
     "level": "C1",
     "situation": "support",
     "variety": "US",
@@ -6940,7 +6940,7 @@
   {
     "id": 314,
     "text": "I'm not sure I fully understood the system issue.",
-    "translation_ar": "مش متأكد إني فهمت مشكلة النظام كويس.",
+    "translation_ar": "لست متأكدًا من أنني فهمت مشكلة النظام جيدًا.",
     "level": "B1",
     "situation": "technical-support",
     "variety": "US",
@@ -7076,7 +7076,7 @@
   {
     "id": 318,
     "text": "Could we go over the service response again?",
-    "translation_ar": "ممكن نراجع رد الخدمة تاني؟",
+    "translation_ar": "هل يمكننا مراجعة رد الخدمة مرة أخرى؟",
     "level": "B1",
     "situation": "customer-service",
     "variety": "US",
@@ -7110,7 +7110,7 @@
   {
     "id": 319,
     "text": "I'd like to understand the reasoning behind the service response.",
-    "translation_ar": "حابب أفهم الأسباب اللي وراء رد الخدمة.",
+    "translation_ar": "أود أن أفهم الأسباب الكامنة وراء رد الخدمة.",
     "level": "B2",
     "situation": "customer-service",
     "variety": "US",
@@ -7246,7 +7246,7 @@
   {
     "id": 323,
     "text": "Whoever is responsible for the daily routine should update us soon.",
-    "translation_ar": "أيًا كان المسؤول عن الروتين اليومي لازم يحدثنا قريبًا.",
+    "translation_ar": "أيًا كان المسؤول عن الروتين اليومي، ينبغي أن يُحدّثنا قريبًا.",
     "level": "B2",
     "situation": "daily",
     "variety": "US",
@@ -7348,7 +7348,7 @@
   {
     "id": 326,
     "text": "We haven't discussed the travel itinerary yet.",
-    "translation_ar": "لسه ما ناقشناش خطة السفر.",
+    "translation_ar": "لم نناقش خطة السفر بعد.",
     "level": "B1",
     "situation": "travel",
     "variety": "US",
@@ -7518,7 +7518,7 @@
   {
     "id": 331,
     "text": "It seems the menu options haven't been fully resolved.",
-    "translation_ar": "يبدو إن خيارات القائمة لسه معملوش فيها حل كامل.",
+    "translation_ar": "يبدو أن خيارات القائمة لم تُحلّ بالكامل بعد.",
     "level": "B2",
     "situation": "restaurant",
     "variety": "US",
@@ -7536,7 +7536,7 @@
       }
     ],
     "grammar_en": "It seems + clause softens a statement, showing it is based on impression, not certainty.",
-    "grammar_ar": "It seems + جملة تخفف العبارة وتوضح إنها مبنية على انطباع مش يقين.",
+    "grammar_ar": "It seems + جملة تخفف العبارة وتوضح أنها مبنية على انطباع وليس على يقين تام.",
     "alternatives": [
       {
         "text": "Let's talk about the menu options.",
@@ -7620,7 +7620,7 @@
   {
     "id": 334,
     "text": "Do you have any updates on the reported symptoms?",
-    "translation_ar": "هل عندك أي تحديثات عن الأعراض المذكورة؟",
+    "translation_ar": "هل لديك أي تحديثات عن الأعراض المذكورة؟",
     "level": "B1",
     "situation": "health",
     "variety": "US",
@@ -7654,7 +7654,7 @@
   {
     "id": 335,
     "text": "There are a few concerns regarding the reported symptoms that we should address.",
-    "translation_ar": "فيه شوية مخاوف بخصوص الأعراض المذكورة لازم نتعامل معاها.",
+    "translation_ar": "هناك بعض المخاوف بشأن الأعراض المذكورة ينبغي أن نعالجها.",
     "level": "B2",
     "situation": "health",
     "variety": "US",
@@ -7688,7 +7688,7 @@
   {
     "id": 336,
     "text": "The implications of the reported symptoms are not yet fully understood.",
-    "translation_ar": "الآثار المترتبة على الأعراض المذكورة لسه مش مفهومة بالكامل.",
+    "translation_ar": "الآثار المترتبة على الأعراض المذكورة لا تزال غير مفهومة بالكامل.",
     "level": "C1",
     "situation": "health",
     "variety": "US",
@@ -7756,7 +7756,7 @@
   {
     "id": 338,
     "text": "I'm not sure I fully understood the learning objectives.",
-    "translation_ar": "مش متأكد إني فهمت أهداف التعلم كويس.",
+    "translation_ar": "لست متأكدًا من أنني فهمت أهداف التعلم جيدًا.",
     "level": "B1",
     "situation": "education",
     "variety": "US",
@@ -7892,7 +7892,7 @@
   {
     "id": 342,
     "text": "Could we go over the maintenance work again?",
-    "translation_ar": "ممكن نراجع أعمال الصيانة تاني؟",
+    "translation_ar": "هل يمكننا مراجعة أعمال الصيانة مرة أخرى؟",
     "level": "B1",
     "situation": "home",
     "variety": "US",
@@ -7926,7 +7926,7 @@
   {
     "id": 343,
     "text": "I'd like to understand the reasoning behind the maintenance work.",
-    "translation_ar": "حابب أفهم الأسباب اللي وراء أعمال الصيانة.",
+    "translation_ar": "أود أن أفهم الأسباب الكامنة وراء أعمال الصيانة.",
     "level": "B2",
     "situation": "home",
     "variety": "US",
@@ -8062,7 +8062,7 @@
   {
     "id": 347,
     "text": "Whoever is responsible for the difference of opinion should update us soon.",
-    "translation_ar": "أيًا كان المسؤول عن اختلاف الرأي لازم يحدثنا قريبًا.",
+    "translation_ar": "أيًا كان المسؤول عن اختلاف الرأي، ينبغي أن يُحدّثنا قريبًا.",
     "level": "B2",
     "situation": "social",
     "variety": "US",
@@ -8164,7 +8164,7 @@
   {
     "id": 350,
     "text": "We haven't discussed the product quality yet.",
-    "translation_ar": "لسه ما ناقشناش جودة المنتج.",
+    "translation_ar": "لم نناقش جودة المنتج بعد.",
     "level": "B1",
     "situation": "shopping",
     "variety": "US",
@@ -8334,7 +8334,7 @@
   {
     "id": 355,
     "text": "It seems the account activity hasn't been fully resolved.",
-    "translation_ar": "يبدو إن نشاط الحساب لسه معملوش فيها حل كامل.",
+    "translation_ar": "يبدو أن نشاط الحساب لم يُحلّ بالكامل بعد.",
     "level": "B2",
     "situation": "banking",
     "variety": "US",
@@ -8352,7 +8352,7 @@
       }
     ],
     "grammar_en": "It seems + clause softens a statement, showing it is based on impression, not certainty.",
-    "grammar_ar": "It seems + جملة تخفف العبارة وتوضح إنها مبنية على انطباع مش يقين.",
+    "grammar_ar": "It seems + جملة تخفف العبارة وتوضح أنها مبنية على انطباع وليس على يقين تام.",
     "alternatives": [
       {
         "text": "Let's talk about the account activity.",
@@ -8436,7 +8436,7 @@
   {
     "id": 358,
     "text": "Do you have any updates on the project timeline?",
-    "translation_ar": "هل عندك أي تحديثات عن الجدول الزمني للمشروع؟",
+    "translation_ar": "هل لديك أي تحديثات عن الجدول الزمني للمشروع؟",
     "level": "B1",
     "situation": "workplace",
     "variety": "US",
@@ -8470,7 +8470,7 @@
   {
     "id": 359,
     "text": "There are a few concerns regarding the project timeline that we should address.",
-    "translation_ar": "فيه شوية مخاوف بخصوص الجدول الزمني للمشروع لازم نتعامل معاها.",
+    "translation_ar": "هناك بعض المخاوف بشأن الجدول الزمني للمشروع ينبغي أن نعالجها.",
     "level": "B2",
     "situation": "workplace",
     "variety": "US",
@@ -8504,7 +8504,7 @@
   {
     "id": 360,
     "text": "The implications of the project timeline are not yet fully understood.",
-    "translation_ar": "الآثار المترتبة على الجدول الزمني للمشروع لسه مش مفهومة بالكامل.",
+    "translation_ar": "الآثار المترتبة على الجدول الزمني للمشروع لا تزال غير مفهومة بالكامل.",
     "level": "C1",
     "situation": "workplace",
     "variety": "US",
@@ -8572,7 +8572,7 @@
   {
     "id": 362,
     "text": "I'm not sure I fully understood the software update.",
-    "translation_ar": "مش متأكد إني فهمت تحديث البرنامج كويس.",
+    "translation_ar": "لست متأكدًا من أنني فهمت تحديث البرنامج جيدًا.",
     "level": "B1",
     "situation": "technology",
     "variety": "US",
@@ -8708,7 +8708,7 @@
   {
     "id": 366,
     "text": "Could we go over the revised timetable again?",
-    "translation_ar": "ممكن نراجع الجدول المعدل تاني؟",
+    "translation_ar": "هل يمكننا مراجعة الجدول المعدل مرة أخرى؟",
     "level": "B1",
     "situation": "transport",
     "variety": "US",
@@ -8742,7 +8742,7 @@
   {
     "id": 367,
     "text": "I'd like to understand the reasoning behind the revised timetable.",
-    "translation_ar": "حابب أفهم الأسباب اللي وراء الجدول المعدل.",
+    "translation_ar": "أود أن أفهم الأسباب الكامنة وراء الجدول المعدل.",
     "level": "B2",
     "situation": "transport",
     "variety": "US",
@@ -8878,7 +8878,7 @@
   {
     "id": 371,
     "text": "Whoever is responsible for the event arrangements should update us soon.",
-    "translation_ar": "أيًا كان المسؤول عن ترتيبات الفعالية لازم يحدثنا قريبًا.",
+    "translation_ar": "أيًا كان المسؤول عن ترتيبات الفعالية، ينبغي أن يُحدّثنا قريبًا.",
     "level": "B2",
     "situation": "events",
     "variety": "US",
@@ -8980,7 +8980,7 @@
   {
     "id": 374,
     "text": "We haven't discussed the consultation time yet.",
-    "translation_ar": "لسه ما ناقشناش وقت الاستشارة.",
+    "translation_ar": "لم نناقش وقت الاستشارة بعد.",
     "level": "B1",
     "situation": "appointments",
     "variety": "US",
@@ -9150,7 +9150,7 @@
   {
     "id": 379,
     "text": "It seems the weather conditions haven't been fully resolved.",
-    "translation_ar": "يبدو إن الأحوال الجوية لسه معملوش فيها حل كامل.",
+    "translation_ar": "يبدو أن الأحوال الجوية لم تُحلّ بالكامل بعد.",
     "level": "B2",
     "situation": "weather",
     "variety": "US",
@@ -9168,7 +9168,7 @@
       }
     ],
     "grammar_en": "It seems + clause softens a statement, showing it is based on impression, not certainty.",
-    "grammar_ar": "It seems + جملة تخفف العبارة وتوضح إنها مبنية على انطباع مش يقين.",
+    "grammar_ar": "It seems + جملة تخفف العبارة وتوضح أنها مبنية على انطباع وليس على يقين تام.",
     "alternatives": [
       {
         "text": "Let's talk about the weather conditions.",
@@ -9252,7 +9252,7 @@
   {
     "id": 382,
     "text": "Do you have any updates on the follow-up call?",
-    "translation_ar": "هل عندك أي تحديثات عن مكالمة المتابعة؟",
+    "translation_ar": "هل لديك أي تحديثات عن مكالمة المتابعة؟",
     "level": "B1",
     "situation": "phone-calls",
     "variety": "US",
@@ -9286,7 +9286,7 @@
   {
     "id": 383,
     "text": "There are a few concerns regarding the follow-up call that we should address.",
-    "translation_ar": "فيه شوية مخاوف بخصوص مكالمة المتابعة لازم نتعامل معاها.",
+    "translation_ar": "هناك بعض المخاوف بشأن مكالمة المتابعة ينبغي أن نعالجها.",
     "level": "B2",
     "situation": "phone-calls",
     "variety": "US",
@@ -9320,7 +9320,7 @@
   {
     "id": 384,
     "text": "The implications of the follow-up call are not yet fully understood.",
-    "translation_ar": "الآثار المترتبة على مكالمة المتابعة لسه مش مفهومة بالكامل.",
+    "translation_ar": "الآثار المترتبة على مكالمة المتابعة لا تزال غير مفهومة بالكامل.",
     "level": "C1",
     "situation": "phone-calls",
     "variety": "US",
@@ -9388,7 +9388,7 @@
   {
     "id": 386,
     "text": "I'm not sure I fully understood the family plans.",
-    "translation_ar": "مش متأكد إني فهمت خطط العائلة كويس.",
+    "translation_ar": "لست متأكدًا من أنني فهمت خطط العائلة جيدًا.",
     "level": "B1",
     "situation": "family",
     "variety": "US",
@@ -9524,7 +9524,7 @@
   {
     "id": 390,
     "text": "Could we go over the local initiative again?",
-    "translation_ar": "ممكن نراجع المبادرة المحلية تاني؟",
+    "translation_ar": "هل يمكننا مراجعة المبادرة المحلية مرة أخرى؟",
     "level": "B1",
     "situation": "community",
     "variety": "US",
@@ -9558,7 +9558,7 @@
   {
     "id": 391,
     "text": "I'd like to understand the reasoning behind the local initiative.",
-    "translation_ar": "حابب أفهم الأسباب اللي وراء المبادرة المحلية.",
+    "translation_ar": "أود أن أفهم الأسباب الكامنة وراء المبادرة المحلية.",
     "level": "B2",
     "situation": "community",
     "variety": "US",
@@ -9694,7 +9694,7 @@
   {
     "id": 395,
     "text": "Whoever is responsible for the weekend activity should update us soon.",
-    "translation_ar": "أيًا كان المسؤول عن نشاط عطلة نهاية الأسبوع لازم يحدثنا قريبًا.",
+    "translation_ar": "أيًا كان المسؤول عن نشاط عطلة نهاية الأسبوع، ينبغي أن يُحدّثنا قريبًا.",
     "level": "B2",
     "situation": "leisure",
     "variety": "US",
@@ -9796,7 +9796,7 @@
   {
     "id": 398,
     "text": "We haven't discussed the emergency procedure yet.",
-    "translation_ar": "لسه ما ناقشناش إجراء الطوارئ.",
+    "translation_ar": "لم نناقش إجراء الطوارئ بعد.",
     "level": "B1",
     "situation": "emergency",
     "variety": "US",
@@ -9966,7 +9966,7 @@
   {
     "id": 403,
     "text": "It seems the proposed solution hasn't been fully resolved.",
-    "translation_ar": "يبدو إن الحل المقترح لسه معملوش فيها حل كامل.",
+    "translation_ar": "يبدو أن الحل المقترح لم يُحلّ بالكامل بعد.",
     "level": "B2",
     "situation": "customer-help",
     "variety": "US",
@@ -9984,7 +9984,7 @@
       }
     ],
     "grammar_en": "It seems + clause softens a statement, showing it is based on impression, not certainty.",
-    "grammar_ar": "It seems + جملة تخفف العبارة وتوضح إنها مبنية على انطباع مش يقين.",
+    "grammar_ar": "It seems + جملة تخفف العبارة وتوضح أنها مبنية على انطباع وليس على يقين تام.",
     "alternatives": [
       {
         "text": "Let's talk about the proposed solution.",
@@ -10068,7 +10068,7 @@
   {
     "id": 406,
     "text": "Do you have any updates on the professional opportunity?",
-    "translation_ar": "هل عندك أي تحديثات عن الفرصة المهنية؟",
+    "translation_ar": "هل لديك أي تحديثات عن الفرصة المهنية؟",
     "level": "B1",
     "situation": "career",
     "variety": "US",
@@ -10102,7 +10102,7 @@
   {
     "id": 407,
     "text": "There are a few concerns regarding the professional opportunity that we should address.",
-    "translation_ar": "فيه شوية مخاوف بخصوص الفرصة المهنية لازم نتعامل معاها.",
+    "translation_ar": "هناك بعض المخاوف بشأن الفرصة المهنية ينبغي أن نعالجها.",
     "level": "B2",
     "situation": "career",
     "variety": "US",
@@ -10136,7 +10136,7 @@
   {
     "id": 408,
     "text": "The implications of the professional opportunity are not yet fully understood.",
-    "translation_ar": "الآثار المترتبة على الفرصة المهنية لسه مش مفهومة بالكامل.",
+    "translation_ar": "الآثار المترتبة على الفرصة المهنية لا تزال غير مفهومة بالكامل.",
     "level": "C1",
     "situation": "career",
     "variety": "US",
@@ -10204,7 +10204,7 @@
   {
     "id": 410,
     "text": "I'm not sure I fully understood the replacement request.",
-    "translation_ar": "مش متأكد إني فهمت طلب الاستبدال كويس.",
+    "translation_ar": "لست متأكدًا من أنني فهمت طلب الاستبدال جيدًا.",
     "level": "B1",
     "situation": "returns",
     "variety": "US",
@@ -10340,7 +10340,7 @@
   {
     "id": 414,
     "text": "Could we go over the suggested route again?",
-    "translation_ar": "ممكن نراجع المسار المقترح تاني؟",
+    "translation_ar": "هل يمكننا مراجعة المسار المقترح مرة أخرى؟",
     "level": "B1",
     "situation": "directions",
     "variety": "US",
@@ -10374,7 +10374,7 @@
   {
     "id": 415,
     "text": "I'd like to understand the reasoning behind the suggested route.",
-    "translation_ar": "حابب أفهم الأسباب اللي وراء المسار المقترح.",
+    "translation_ar": "أود أن أفهم الأسباب الكامنة وراء المسار المقترح.",
     "level": "B2",
     "situation": "directions",
     "variety": "US",
@@ -10510,7 +10510,7 @@
   {
     "id": 419,
     "text": "Whoever is responsible for the planned celebration should update us soon.",
-    "translation_ar": "أيًا كان المسؤول عن الاحتفال المخطط لازم يحدثنا قريبًا.",
+    "translation_ar": "أيًا كان المسؤول عن الاحتفال المخطط له، ينبغي أن يُحدّثنا قريبًا.",
     "level": "B2",
     "situation": "celebrations",
     "variety": "US",
@@ -15527,6 +15527,1566 @@
       "Seasoning properly is often what elevates a simple recipe.",
       "Timing is often what distinguishes an expert cook from a beginner.",
       "Texture contrast is often what makes a dish memorable."
+    ]
+  },
+  {
+    "id": 1001,
+    "text": "I have a reservation.",
+    "translation_ar": "لديّ حجز.",
+    "level": "A1",
+    "situation": "hotel",
+    "variety": "US",
+    "channel": "Hotel & Travel English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 12,
+    "videoId": null,
+    "transcriptContext": "Hi, welcome to the Grand Palm. — Hi, I have a reservation under Smith.",
+    "pronunciation": "I have a reservation.",
+    "words": [
+      {
+        "w": "reservation",
+        "m_en": "an arrangement to have a room, table, or seat kept for you",
+        "m_ar": "ترتيب لحجز غرفة أو طاولة أو مقعد لك"
+      }
+    ],
+    "grammar_en": "I have + noun — a simple pattern to state something you've already arranged.",
+    "grammar_ar": "I have + اسم — نمط بسيط لذكر شيء تم ترتيبه مسبقًا.",
+    "alternatives": [
+      {
+        "text": "I booked a room here.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عامية"
+      },
+      {
+        "text": "I made a reservation for tonight.",
+        "note_en": "Adds the time detail",
+        "note_ar": "تضيف تفصيل الوقت"
+      }
+    ],
+    "similar": [
+      "I have an appointment.",
+      "I have a table booked for two."
+    ]
+  },
+  {
+    "id": 1002,
+    "text": "Could I get a wake-up call at seven?",
+    "translation_ar": "هل يمكنني الحصول على مكالمة إيقاظ الساعة السابعة؟",
+    "level": "A2",
+    "situation": "hotel",
+    "variety": "GB",
+    "channel": "Hotel & Travel English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 45,
+    "videoId": null,
+    "transcriptContext": "I have an early flight tomorrow — could I get a wake-up call at seven?",
+    "pronunciation": "Could I get a wake-up call at seven?",
+    "words": [
+      {
+        "w": "wake-up call",
+        "m_en": "a phone call from the hotel to wake you at a set time",
+        "m_ar": "مكالمة من الفندق لإيقاظك في وقت محدد"
+      }
+    ],
+    "grammar_en": "Could I + verb? — a polite way to ask for a service.",
+    "grammar_ar": "Could I + فعل؟ — طريقة مهذبة لطلب خدمة.",
+    "alternatives": [
+      {
+        "text": "Can you wake me up at seven, please?",
+        "note_en": "More direct",
+        "note_ar": "أكثر مباشرة"
+      },
+      {
+        "text": "Would it be possible to arrange a wake-up call?",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسمية"
+      }
+    ],
+    "similar": [
+      "Could I get an extra towel?",
+      "Could I get some more pillows?"
+    ]
+  },
+  {
+    "id": 1003,
+    "text": "Is breakfast included in the price?",
+    "translation_ar": "هل الإفطار مشمول في السعر؟",
+    "level": "A2",
+    "situation": "hotel",
+    "variety": "US",
+    "channel": "Hotel & Travel English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 61,
+    "videoId": null,
+    "transcriptContext": "Before I confirm the booking — is breakfast included in the price?",
+    "pronunciation": "Is breakfast included in the price?",
+    "words": [
+      {
+        "w": "included",
+        "m_en": "counted as part of something, without an extra charge",
+        "m_ar": "محسوب ضمن الشيء دون رسوم إضافية"
+      }
+    ],
+    "grammar_en": "Is + noun + included in + noun? — asking whether something is part of a package.",
+    "grammar_ar": "Is + اسم + included in + اسم؟ — للسؤال عمّا إذا كان شيء ضمن باقة معينة.",
+    "alternatives": [
+      {
+        "text": "Does the price include breakfast?",
+        "note_en": "Same meaning, different order",
+        "note_ar": "نفس المعنى بترتيب مختلف"
+      },
+      {
+        "text": "Is breakfast free with the room?",
+        "note_en": "More casual",
+        "note_ar": "أكثر عامية"
+      }
+    ],
+    "similar": [
+      "Is parking included?",
+      "Is Wi-Fi free in the rooms?"
+    ]
+  },
+  {
+    "id": 1004,
+    "text": "Would it be possible to have a room with a sea view?",
+    "translation_ar": "هل من الممكن الحصول على غرفة تطل على البحر؟",
+    "level": "B1",
+    "situation": "hotel",
+    "variety": "AU",
+    "channel": "Hotel & Travel English",
+    "speaker": "Native speaker (AU)",
+    "timestamp": 88,
+    "videoId": null,
+    "transcriptContext": "We'd love to make the stay special — would it be possible to have a room with a sea view?",
+    "pronunciation": "Would it be possible to have a room with a sea view?",
+    "words": [
+      {
+        "w": "sea view",
+        "m_en": "a view overlooking the sea",
+        "m_ar": "إطلالة تشرف على البحر"
+      }
+    ],
+    "grammar_en": "Would it be possible to + verb? — a polite, slightly formal request.",
+    "grammar_ar": "Would it be possible to + فعل؟ — طلب مهذب ورسمي إلى حد ما.",
+    "alternatives": [
+      {
+        "text": "Could we possibly get a room facing the sea?",
+        "note_en": "Slightly less formal",
+        "note_ar": "أقل رسمية قليلًا"
+      },
+      {
+        "text": "I'd appreciate a room with a sea view, if available.",
+        "note_en": "Softer, more polite",
+        "note_ar": "أكثر لطفًا وتهذيبًا"
+      }
+    ],
+    "similar": [
+      "Would it be possible to change rooms?",
+      "Would it be possible to check out later?"
+    ]
+  },
+  {
+    "id": 1005,
+    "text": "The air conditioning in my room isn't working.",
+    "translation_ar": "مكيف الهواء في غرفتي لا يعمل.",
+    "level": "B1",
+    "situation": "hotel",
+    "variety": "US",
+    "channel": "Hotel & Travel English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 102,
+    "videoId": null,
+    "transcriptContext": "I need to report a problem — the air conditioning in my room isn't working.",
+    "pronunciation": "The air conditioning in my room isn't working.",
+    "words": [
+      {
+        "w": "working",
+        "m_en": "functioning correctly",
+        "m_ar": "يعمل بشكل صحيح"
+      }
+    ],
+    "grammar_en": "Noun + isn't working — a common way to report a broken appliance.",
+    "grammar_ar": "اسم + isn't working — طريقة شائعة للإبلاغ عن عطل في جهاز.",
+    "alternatives": [
+      {
+        "text": "The AC in my room is broken.",
+        "note_en": "Shorter, more casual",
+        "note_ar": "أقصر وأكثر عامية"
+      },
+      {
+        "text": "My room's air conditioning seems to have stopped working.",
+        "note_en": "Softer, more formal",
+        "note_ar": "أكثر لطفًا ورسمية"
+      }
+    ],
+    "similar": [
+      "The TV in my room isn't working.",
+      "The shower isn't working properly."
+    ]
+  },
+  {
+    "id": 1006,
+    "text": "I'd like to extend my stay by two more nights.",
+    "translation_ar": "أودّ تمديد إقامتي ليلتين إضافيتين.",
+    "level": "B2",
+    "situation": "hotel",
+    "variety": "GB",
+    "channel": "Hotel & Travel English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 130,
+    "videoId": null,
+    "transcriptContext": "We've really enjoyed it here — I'd like to extend my stay by two more nights.",
+    "pronunciation": "I'd like to extend my stay by two more nights.",
+    "words": [
+      {
+        "w": "extend",
+        "m_en": "to make something longer in time",
+        "m_ar": "جعل شيء أطول من حيث الوقت"
+      }
+    ],
+    "grammar_en": "I'd like to + verb — a polite way to state a request or intention.",
+    "grammar_ar": "I'd like to + فعل — طريقة مهذبة لذكر طلب أو نية.",
+    "alternatives": [
+      {
+        "text": "Is it possible to stay two extra nights?",
+        "note_en": "Asks directly instead of stating intent",
+        "note_ar": "تسأل مباشرة بدلًا من ذكر النية"
+      },
+      {
+        "text": "I was hoping to add a couple more nights to my booking.",
+        "note_en": "Softer, more tentative",
+        "note_ar": "أكثر تحفظًا ولطفًا"
+      }
+    ],
+    "similar": [
+      "I'd like to change my checkout date.",
+      "I'd like to upgrade my room."
+    ]
+  },
+  {
+    "id": 1007,
+    "text": "Could you arrange a taxi to the airport for tomorrow morning?",
+    "translation_ar": "هل يمكنكم ترتيب سيارة أجرة إلى المطار غدًا صباحًا؟",
+    "level": "B2",
+    "situation": "hotel",
+    "variety": "US",
+    "channel": "Hotel & Travel English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 155,
+    "videoId": null,
+    "transcriptContext": "My flight leaves early — could you arrange a taxi to the airport for tomorrow morning?",
+    "pronunciation": "Could you arrange a taxi to the airport for tomorrow morning?",
+    "words": [
+      {
+        "w": "arrange",
+        "m_en": "to plan or organize something in advance",
+        "m_ar": "التخطيط لشيء أو تنظيمه مسبقًا"
+      }
+    ],
+    "grammar_en": "Could you + verb? — a polite request for the hotel staff to organize something.",
+    "grammar_ar": "Could you + فعل؟ — طلب مهذب من موظفي الفندق لتنظيم شيء ما.",
+    "alternatives": [
+      {
+        "text": "Would you be able to book a taxi for me tomorrow morning?",
+        "note_en": "Slightly more formal",
+        "note_ar": "أكثر رسمية قليلًا"
+      },
+      {
+        "text": "Can you call a cab for me for tomorrow?",
+        "note_en": "More casual",
+        "note_ar": "أكثر عامية"
+      }
+    ],
+    "similar": [
+      "Could you arrange an early checkout?",
+      "Could you arrange for my luggage to be stored?"
+    ]
+  },
+  {
+    "id": 1008,
+    "text": "The hotel's amenities exceeded our expectations, particularly the spa.",
+    "translation_ar": "فاقت مرافق الفندق توقعاتنا، لا سيما المنتجع الصحي.",
+    "level": "C1",
+    "situation": "hotel",
+    "variety": "GB",
+    "channel": "Hotel & Travel English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 190,
+    "videoId": null,
+    "transcriptContext": "Writing a review after checkout — the hotel's amenities exceeded our expectations, particularly the spa.",
+    "pronunciation": "The hotel's amenities exceeded our expectations, particularly the spa.",
+    "words": [
+      {
+        "w": "amenities",
+        "m_en": "useful or pleasant features and facilities a place offers",
+        "m_ar": "مرافق أو خصائص مفيدة أو ممتعة يوفرها مكان ما"
+      }
+    ],
+    "grammar_en": "Exceeded + noun — used to say something was better than expected, often in reviews.",
+    "grammar_ar": "Exceeded + اسم — تُستخدم للقول بأن شيئًا كان أفضل من المتوقع، وغالبًا ما تُستخدم في التقييمات.",
+    "alternatives": [
+      {
+        "text": "The amenities were far better than we had expected, especially the spa.",
+        "note_en": "Same meaning, less formal",
+        "note_ar": "نفس المعنى بأسلوب أقل رسمية"
+      },
+      {
+        "text": "We were pleasantly surprised by the hotel's facilities, above all the spa.",
+        "note_en": "Softer, more conversational",
+        "note_ar": "أكثر لطفًا ومحادثية"
+      }
+    ],
+    "similar": [
+      "The service exceeded our expectations throughout the stay.",
+      "The location exceeded what we had hoped for."
+    ]
+  },
+  {
+    "id": 1011,
+    "text": "Where is the check-in counter?",
+    "translation_ar": "أين مكتب تسجيل الوصول؟",
+    "level": "A1",
+    "situation": "airport",
+    "variety": "US",
+    "channel": "Airport English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 10,
+    "videoId": null,
+    "transcriptContext": "Excuse me, where is the check-in counter for this airline?",
+    "pronunciation": "Where is the check-in counter?",
+    "words": [
+      {
+        "w": "check-in counter",
+        "m_en": "the desk where passengers register for their flight",
+        "m_ar": "المكتب الذي يسجّل فيه المسافرون لرحلتهم"
+      }
+    ],
+    "grammar_en": "Where is + noun? — a basic question to locate something.",
+    "grammar_ar": "Where is + اسم؟ — سؤال أساسي لتحديد مكان شيء.",
+    "alternatives": [
+      {
+        "text": "Which way is the check-in desk?",
+        "note_en": "Slightly different phrasing",
+        "note_ar": "صياغة مختلفة قليلًا"
+      },
+      {
+        "text": "Excuse me, where do I check in?",
+        "note_en": "More conversational",
+        "note_ar": "أكثر محادثية"
+      }
+    ],
+    "similar": [
+      "Where is the baggage claim?",
+      "Where is gate twelve?"
+    ]
+  },
+  {
+    "id": 1012,
+    "text": "My flight is delayed.",
+    "translation_ar": "رحلتي متأخرة.",
+    "level": "A1",
+    "situation": "airport",
+    "variety": "GB",
+    "channel": "Airport English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 24,
+    "videoId": null,
+    "transcriptContext": "Sorry I'm late texting you — my flight is delayed.",
+    "pronunciation": "My flight is delayed.",
+    "words": [
+      {
+        "w": "delayed",
+        "m_en": "happening later than planned",
+        "m_ar": "يحدث في وقت متأخر عمّا كان مخططًا له"
+      }
+    ],
+    "grammar_en": "Subject + is + adjective — a simple pattern to describe a current state.",
+    "grammar_ar": "الفاعل + is + صفة — نمط بسيط لوصف حالة راهنة.",
+    "alternatives": [
+      {
+        "text": "My flight's running late.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عامية"
+      },
+      {
+        "text": "There's been a delay with my flight.",
+        "note_en": "Slightly more formal",
+        "note_ar": "أكثر رسمية قليلًا"
+      }
+    ],
+    "similar": [
+      "My train is delayed.",
+      "The meeting is delayed by an hour."
+    ]
+  },
+  {
+    "id": 1013,
+    "text": "How many bags can I check in?",
+    "translation_ar": "كم حقيبة يمكنني تسجيلها؟",
+    "level": "A2",
+    "situation": "airport",
+    "variety": "CA",
+    "channel": "Airport English",
+    "speaker": "Native speaker (CA)",
+    "timestamp": 40,
+    "videoId": null,
+    "transcriptContext": "I have quite a bit of luggage — how many bags can I check in?",
+    "pronunciation": "How many bags can I check in?",
+    "words": [
+      {
+        "w": "check in",
+        "m_en": "to hand over your luggage to be loaded onto the plane",
+        "m_ar": "تسليم أمتعتك ليتم تحميلها على الطائرة"
+      }
+    ],
+    "grammar_en": "How many + noun + can I + verb? — asking about a limit or allowance.",
+    "grammar_ar": "How many + اسم + can I + فعل؟ — سؤال عن حد مسموح به.",
+    "alternatives": [
+      {
+        "text": "What's the baggage allowance for this flight?",
+        "note_en": "Asks about the rule directly",
+        "note_ar": "تسأل عن القاعدة مباشرة"
+      },
+      {
+        "text": "Is there a limit on how many bags I can bring?",
+        "note_en": "Slightly more formal",
+        "note_ar": "أكثر رسمية قليلًا"
+      }
+    ],
+    "similar": [
+      "How many carry-on items am I allowed?",
+      "How much does an extra bag cost?"
+    ]
+  },
+  {
+    "id": 1014,
+    "text": "Where is the boarding gate for flight 204?",
+    "translation_ar": "أين بوابة الصعود للرحلة رقم 204؟",
+    "level": "A2",
+    "situation": "airport",
+    "variety": "US",
+    "channel": "Airport English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 58,
+    "videoId": null,
+    "transcriptContext": "I can't find it on the screen — where is the boarding gate for flight 204?",
+    "pronunciation": "Where is the boarding gate for flight 204?",
+    "words": [
+      {
+        "w": "boarding gate",
+        "m_en": "the area where passengers enter the plane",
+        "m_ar": "المكان الذي يدخل منه المسافرون إلى الطائرة"
+      }
+    ],
+    "grammar_en": "Where is + noun + for + noun? — asking for the location of something specific.",
+    "grammar_ar": "Where is + اسم + for + اسم؟ — سؤال عن مكان شيء محدد.",
+    "alternatives": [
+      {
+        "text": "Which gate does flight 204 leave from?",
+        "note_en": "Slightly different phrasing",
+        "note_ar": "صياغة مختلفة قليلًا"
+      },
+      {
+        "text": "Can you tell me the gate number for flight 204?",
+        "note_en": "More polite",
+        "note_ar": "أكثر تهذيبًا"
+      }
+    ],
+    "similar": [
+      "Where is the departure lounge?",
+      "Where is passport control?"
+    ]
+  },
+  {
+    "id": 1015,
+    "text": "I missed my connecting flight.",
+    "translation_ar": "فاتتني رحلتي المتصلة.",
+    "level": "B1",
+    "situation": "airport",
+    "variety": "GB",
+    "channel": "Airport English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 77,
+    "videoId": null,
+    "transcriptContext": "I just landed and I'm panicking — I missed my connecting flight.",
+    "pronunciation": "I missed my connecting flight.",
+    "words": [
+      {
+        "w": "connecting flight",
+        "m_en": "a second flight you take after changing planes",
+        "m_ar": "رحلة ثانية تستقلها بعد تبديل الطائرة"
+      }
+    ],
+    "grammar_en": "Missed + noun — used to describe failing to catch something in time.",
+    "grammar_ar": "Missed + اسم — تُستخدم لوصف فشلك في اللحاق بشيء في الوقت المحدد.",
+    "alternatives": [
+      {
+        "text": "I wasn't able to make my connection.",
+        "note_en": "Slightly softer phrasing",
+        "note_ar": "صياغة ألطف قليلًا"
+      },
+      {
+        "text": "My connecting flight left without me.",
+        "note_en": "More descriptive",
+        "note_ar": "أكثر وصفية"
+      }
+    ],
+    "similar": [
+      "I missed the bus this morning.",
+      "I nearly missed my flight."
+    ]
+  },
+  {
+    "id": 1016,
+    "text": "Could you tell me where the baggage claim is?",
+    "translation_ar": "هل يمكنك إخباري بمكان استلام الأمتعة؟",
+    "level": "B1",
+    "situation": "airport",
+    "variety": "US",
+    "channel": "Airport English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 95,
+    "videoId": null,
+    "transcriptContext": "I've just landed and I'm a bit lost — could you tell me where the baggage claim is?",
+    "pronunciation": "Could you tell me where the baggage claim is?",
+    "words": [
+      {
+        "w": "baggage claim",
+        "m_en": "the area where passengers collect their luggage after a flight",
+        "m_ar": "المنطقة التي يستلم فيها المسافرون أمتعتهم بعد الرحلة"
+      }
+    ],
+    "grammar_en": "Could you tell me where + clause? — a polite indirect question.",
+    "grammar_ar": "Could you tell me where + جملة؟ — سؤال غير مباشر ومهذب.",
+    "alternatives": [
+      {
+        "text": "Do you know where I can pick up my luggage?",
+        "note_en": "Slightly less formal",
+        "note_ar": "أقل رسمية قليلًا"
+      },
+      {
+        "text": "Which way to baggage claim, please?",
+        "note_en": "Shorter, more direct",
+        "note_ar": "أقصر وأكثر مباشرة"
+      }
+    ],
+    "similar": [
+      "Could you tell me where the exit is?",
+      "Could you tell me where I can find a trolley?"
+    ]
+  },
+  {
+    "id": 1017,
+    "text": "Security screening took much longer than expected.",
+    "translation_ar": "استغرق التفتيش الأمني وقتًا أطول بكثير مما كان متوقعًا.",
+    "level": "B2",
+    "situation": "airport",
+    "variety": "AU",
+    "channel": "Airport English",
+    "speaker": "Native speaker (AU)",
+    "timestamp": 120,
+    "videoId": null,
+    "transcriptContext": "Sorry I'm late reaching the gate — security screening took much longer than expected.",
+    "pronunciation": "Security screening took much longer than expected.",
+    "words": [
+      {
+        "w": "screening",
+        "m_en": "a security check carried out before passengers board",
+        "m_ar": "فحص أمني يُجرى قبل صعود المسافرين"
+      }
+    ],
+    "grammar_en": "Took + comparative + than expected — describing something that exceeded a predicted duration.",
+    "grammar_ar": "Took + صيغة تفضيل + than expected — تصف شيئًا استغرق وقتًا أطول من المتوقع.",
+    "alternatives": [
+      {
+        "text": "It took ages to get through security today.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عامية"
+      },
+      {
+        "text": "The security queue was much longer than usual.",
+        "note_en": "Focuses on the queue rather than the time",
+        "note_ar": "تركز على الطابور بدلًا من الوقت"
+      }
+    ],
+    "similar": [
+      "The check-in process took longer than usual.",
+      "Passport control took much longer than we thought."
+    ]
+  },
+  {
+    "id": 1018,
+    "text": "Passengers travelling with connecting flights are advised to keep their boarding passes accessible.",
+    "translation_ar": "يُنصح المسافرون الذين لديهم رحلات متصلة بإبقاء بطاقات الصعود في متناول أيديهم.",
+    "level": "C1",
+    "situation": "airport",
+    "variety": "GB",
+    "channel": "Airport English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 150,
+    "videoId": null,
+    "transcriptContext": "Attention passengers: those travelling with connecting flights are advised to keep their boarding passes accessible.",
+    "pronunciation": "Passengers travelling with connecting flights are advised to keep their boarding passes accessible.",
+    "words": [
+      {
+        "w": "accessible",
+        "m_en": "easy to reach or obtain quickly",
+        "m_ar": "سهل الوصول إليه أو الحصول عليه بسرعة"
+      }
+    ],
+    "grammar_en": "Are advised to + verb — a formal, impersonal way to give recommendations, common in announcements.",
+    "grammar_ar": "Are advised to + فعل — طريقة رسمية وغير شخصية لتقديم توصيات، شائعة في الإعلانات.",
+    "alternatives": [
+      {
+        "text": "Passengers with connecting flights should have their boarding passes ready.",
+        "note_en": "Slightly less formal",
+        "note_ar": "أقل رسمية قليلًا"
+      },
+      {
+        "text": "We recommend that transferring passengers keep their boarding passes within reach.",
+        "note_en": "Alternative formal phrasing",
+        "note_ar": "صياغة رسمية بديلة"
+      }
+    ],
+    "similar": [
+      "Passengers are advised to arrive two hours before departure.",
+      "Travellers are advised to keep their passports accessible."
+    ]
+  },
+  {
+    "id": 1021,
+    "text": "I'm planning to make a budget for next month.",
+    "translation_ar": "أخطط لوضع ميزانية للشهر القادم.",
+    "level": "A2",
+    "situation": "finance",
+    "variety": "US",
+    "channel": "Money Matters English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 20,
+    "videoId": null,
+    "transcriptContext": "I've been spending too much lately — I'm planning to make a budget for next month.",
+    "pronunciation": "I'm planning to make a budget for next month.",
+    "words": [
+      {
+        "w": "budget",
+        "m_en": "a plan for how much money to spend and save",
+        "m_ar": "خطة لتحديد المبلغ الذي سيُنفق ويُدَّخر"
+      }
+    ],
+    "grammar_en": "I'm planning to + verb — describing an intention for the near future.",
+    "grammar_ar": "I'm planning to + فعل — تصف نية بخصوص المستقبل القريب.",
+    "alternatives": [
+      {
+        "text": "I want to start budgeting next month.",
+        "note_en": "Slightly more casual",
+        "note_ar": "أكثر عامية قليلًا"
+      },
+      {
+        "text": "I'm going to work out a budget for next month.",
+        "note_en": "Similar meaning, alternative phrasing",
+        "note_ar": "نفس المعنى بصياغة بديلة"
+      }
+    ],
+    "similar": [
+      "I'm planning to save more this year.",
+      "I'm planning to review my expenses."
+    ]
+  },
+  {
+    "id": 1022,
+    "text": "What's the difference between saving and investing?",
+    "translation_ar": "ما الفرق بين الادخار والاستثمار؟",
+    "level": "B1",
+    "situation": "finance",
+    "variety": "GB",
+    "channel": "Money Matters English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 42,
+    "videoId": null,
+    "transcriptContext": "I'm new to all this — what's the difference between saving and investing?",
+    "pronunciation": "What's the difference between saving and investing?",
+    "words": [
+      {
+        "w": "investing",
+        "m_en": "putting money into something with the hope of gaining more over time",
+        "m_ar": "وضع المال في شيء بهدف تحقيق ربح مع الوقت"
+      }
+    ],
+    "grammar_en": "What's the difference between X and Y? — a common structure for comparing two things.",
+    "grammar_ar": "What's the difference between X and Y؟ — تركيب شائع لمقارنة شيئين.",
+    "alternatives": [
+      {
+        "text": "How is investing different from saving?",
+        "note_en": "Same question, different order",
+        "note_ar": "نفس السؤال بترتيب مختلف"
+      },
+      {
+        "text": "Could you explain the difference between saving and investing?",
+        "note_en": "More polite, asks for an explanation",
+        "note_ar": "أكثر تهذيبًا وتطلب شرحًا"
+      }
+    ],
+    "similar": [
+      "What's the difference between a loan and a mortgage?",
+      "What's the difference between gross and net income?"
+    ]
+  },
+  {
+    "id": 1023,
+    "text": "I'd like to take out a small loan.",
+    "translation_ar": "أودّ الحصول على قرض صغير.",
+    "level": "B1",
+    "situation": "finance",
+    "variety": "US",
+    "channel": "Money Matters English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 66,
+    "videoId": null,
+    "transcriptContext": "I'm here to discuss financing options — I'd like to take out a small loan.",
+    "pronunciation": "I'd like to take out a small loan.",
+    "words": [
+      {
+        "w": "take out a loan",
+        "m_en": "to borrow money, usually from a bank",
+        "m_ar": "اقتراض المال، عادةً من بنك"
+      }
+    ],
+    "grammar_en": "I'd like to + verb — a polite way to state what you want to do.",
+    "grammar_ar": "I'd like to + فعل — طريقة مهذبة لذكر ما تريد فعله.",
+    "alternatives": [
+      {
+        "text": "I'm interested in applying for a small loan.",
+        "note_en": "Slightly more formal",
+        "note_ar": "أكثر رسمية قليلًا"
+      },
+      {
+        "text": "I need to borrow a bit of money.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عامية"
+      }
+    ],
+    "similar": [
+      "I'd like to open a savings account.",
+      "I'd like to apply for a credit card."
+    ]
+  },
+  {
+    "id": 1024,
+    "text": "Interest rates have gone up again this quarter.",
+    "translation_ar": "ارتفعت أسعار الفائدة مرة أخرى هذا الربع.",
+    "level": "B2",
+    "situation": "finance",
+    "variety": "GB",
+    "channel": "Money Matters English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 90,
+    "videoId": null,
+    "transcriptContext": "Mortgages are getting more expensive — interest rates have gone up again this quarter.",
+    "pronunciation": "Interest rates have gone up again this quarter.",
+    "words": [
+      {
+        "w": "interest rate",
+        "m_en": "the percentage charged or earned on borrowed or saved money",
+        "m_ar": "النسبة المئوية التي تُفرض أو تُكتسب على المال المقترض أو المدخر"
+      }
+    ],
+    "grammar_en": "Have gone up — present perfect used for a change that has recently occurred and is still relevant.",
+    "grammar_ar": "Have gone up — المضارع التام يُستخدم للتعبير عن تغيّر حدث مؤخرًا وما زال ذا صلة.",
+    "alternatives": [
+      {
+        "text": "Interest rates have risen again this quarter.",
+        "note_en": "More formal verb",
+        "note_ar": "فعل أكثر رسمية"
+      },
+      {
+        "text": "Rates have climbed once more this quarter.",
+        "note_en": "More vivid, journalistic tone",
+        "note_ar": "أسلوب أكثر حيوية وصحفيًا"
+      }
+    ],
+    "similar": [
+      "Prices have gone up again this year.",
+      "Unemployment has gone up slightly this month."
+    ]
+  },
+  {
+    "id": 1025,
+    "text": "It's wise to diversify your investments rather than relying on a single source.",
+    "translation_ar": "من الحكمة تنويع استثماراتك بدلًا من الاعتماد على مصدر واحد.",
+    "level": "B2",
+    "situation": "finance",
+    "variety": "US",
+    "channel": "Money Matters English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 115,
+    "videoId": null,
+    "transcriptContext": "A friend asked me for investment advice, so I told them: it's wise to diversify your investments rather than relying on a single source.",
+    "pronunciation": "It's wise to diversify your investments rather than relying on a single source.",
+    "words": [
+      {
+        "w": "diversify",
+        "m_en": "to spread money across different types of investments to reduce risk",
+        "m_ar": "توزيع المال على أنواع مختلفة من الاستثمارات لتقليل المخاطر"
+      }
+    ],
+    "grammar_en": "It's wise to + verb rather than + gerund — giving advice while contrasting it with a less advisable option.",
+    "grammar_ar": "It's wise to + فعل rather than + مصدر — تقديم نصيحة مع مقارنتها بخيار أقل حكمة.",
+    "alternatives": [
+      {
+        "text": "You shouldn't put all your money in one place.",
+        "note_en": "Simpler, more direct",
+        "note_ar": "أبسط وأكثر مباشرة"
+      },
+      {
+        "text": "Spreading your investments across different areas reduces risk.",
+        "note_en": "States the benefit directly",
+        "note_ar": "تذكر الفائدة مباشرة"
+      }
+    ],
+    "similar": [
+      "It's wise to have an emergency fund.",
+      "It's wise to read the contract carefully before signing."
+    ]
+  },
+  {
+    "id": 1026,
+    "text": "The company's quarterly earnings fell short of analysts' expectations.",
+    "translation_ar": "جاءت أرباح الشركة الفصلية دون توقعات المحللين.",
+    "level": "C1",
+    "situation": "finance",
+    "variety": "GB",
+    "channel": "Money Matters English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 140,
+    "videoId": null,
+    "transcriptContext": "The stock dropped this morning after the company's quarterly earnings fell short of analysts' expectations.",
+    "pronunciation": "The company's quarterly earnings fell short of analysts' expectations.",
+    "words": [
+      {
+        "w": "fell short of",
+        "m_en": "failed to reach an expected level or standard",
+        "m_ar": "فشل في بلوغ مستوى أو معيار متوقع"
+      }
+    ],
+    "grammar_en": "Fell short of + noun — a formal expression used to say something did not meet a target.",
+    "grammar_ar": "Fell short of + اسم — تعبير رسمي يُستخدم للقول بأن شيئًا لم يبلغ الهدف المرجو.",
+    "alternatives": [
+      {
+        "text": "The company's earnings were lower than analysts had predicted.",
+        "note_en": "Simpler phrasing",
+        "note_ar": "صياغة أبسط"
+      },
+      {
+        "text": "Quarterly profits disappointed the market.",
+        "note_en": "Shorter, more journalistic",
+        "note_ar": "أقصر وأكثر صحفية"
+      }
+    ],
+    "similar": [
+      "Sales figures fell short of the target this year.",
+      "The proposal fell short of what the committee had hoped for."
+    ]
+  },
+  {
+    "id": 1027,
+    "text": "Rising inflation has eroded the purchasing power of many households.",
+    "translation_ar": "أدى ارتفاع التضخم إلى تآكل القوة الشرائية لدى العديد من الأسر.",
+    "level": "C1",
+    "situation": "finance",
+    "variety": "US",
+    "channel": "Money Matters English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 165,
+    "videoId": null,
+    "transcriptContext": "According to the latest report, rising inflation has eroded the purchasing power of many households.",
+    "pronunciation": "Rising inflation has eroded the purchasing power of many households.",
+    "words": [
+      {
+        "w": "purchasing power",
+        "m_en": "the amount of goods or services that can be bought with a given amount of money",
+        "m_ar": "كمية السلع أو الخدمات التي يمكن شراؤها بمبلغ معين من المال"
+      }
+    ],
+    "grammar_en": "Has eroded + noun — a formal metaphorical expression describing a gradual negative effect.",
+    "grammar_ar": "Has eroded + اسم — تعبير مجازي رسمي يصف أثرًا سلبيًا تدريجيًا.",
+    "alternatives": [
+      {
+        "text": "Inflation has been steadily reducing what people can afford to buy.",
+        "note_en": "Less formal, more explanatory",
+        "note_ar": "أقل رسمية وأكثر توضيحًا"
+      },
+      {
+        "text": "Households are finding their money doesn't go as far as it used to.",
+        "note_en": "Conversational, from the households' perspective",
+        "note_ar": "محادثية ومن منظور الأسر"
+      }
+    ],
+    "similar": [
+      "Years of underinvestment have eroded public trust in the system.",
+      "Repeated delays have eroded the client's confidence in the project."
+    ]
+  },
+  {
+    "id": 1028,
+    "text": "A well-diversified portfolio can help mitigate risk during periods of market volatility.",
+    "translation_ar": "يمكن لمحفظة استثمارية جيدة التنويع أن تساعد في تخفيف المخاطر خلال فترات تقلب السوق.",
+    "level": "C2",
+    "situation": "finance",
+    "variety": "GB",
+    "channel": "Money Matters English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 200,
+    "videoId": null,
+    "transcriptContext": "During the seminar, the advisor explained that a well-diversified portfolio can help mitigate risk during periods of market volatility.",
+    "pronunciation": "A well-diversified portfolio can help mitigate risk during periods of market volatility.",
+    "words": [
+      {
+        "w": "mitigate",
+        "m_en": "to make something less severe or harmful",
+        "m_ar": "جعل شيء أقل حدة أو ضررًا"
+      }
+    ],
+    "grammar_en": "Can help + verb — used in formal, analytical writing to describe a beneficial effect without overstating certainty.",
+    "grammar_ar": "Can help + فعل — تُستخدم في الكتابة الرسمية والتحليلية لوصف أثر مفيد دون المبالغة في التأكيد.",
+    "alternatives": [
+      {
+        "text": "Diversifying a portfolio can reduce risk when markets are volatile.",
+        "note_en": "Simpler restatement",
+        "note_ar": "إعادة صياغة أبسط"
+      },
+      {
+        "text": "Spreading investments widely tends to cushion the impact of market swings.",
+        "note_en": "More vivid, less technical",
+        "note_ar": "أكثر حيوية وأقل تقنية"
+      }
+    ],
+    "similar": [
+      "Regular exercise can help mitigate the effects of stress.",
+      "Clear communication can help mitigate misunderstandings in a team."
+    ]
+  },
+  {
+    "id": 1031,
+    "text": "I'm looking for a two-bedroom apartment to rent.",
+    "translation_ar": "أبحث عن شقة بغرفتي نوم للإيجار.",
+    "level": "A2",
+    "situation": "real-estate",
+    "variety": "US",
+    "channel": "Real Estate English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 18,
+    "videoId": null,
+    "transcriptContext": "I just moved to the city — I'm looking for a two-bedroom apartment to rent.",
+    "pronunciation": "I'm looking for a two-bedroom apartment to rent.",
+    "words": [
+      {
+        "w": "rent",
+        "m_en": "to pay money regularly to use a place that belongs to someone else",
+        "m_ar": "دفع مال بشكل دوري مقابل استخدام مكان يملكه شخص آخر"
+      }
+    ],
+    "grammar_en": "I'm looking for + noun — a common way to describe what you're searching for.",
+    "grammar_ar": "I'm looking for + اسم — طريقة شائعة لوصف ما تبحث عنه.",
+    "alternatives": [
+      {
+        "text": "I need to find a two-bedroom flat to rent.",
+        "note_en": "'Flat' is common in British English",
+        "note_ar": "كلمة 'flat' شائعة في الإنجليزية البريطانية"
+      },
+      {
+        "text": "Do you have any two-bedroom apartments available?",
+        "note_en": "Asked directly to an agent",
+        "note_ar": "تُطرح مباشرة على وكيل عقاري"
+      }
+    ],
+    "similar": [
+      "I'm looking for a studio apartment.",
+      "I'm looking for a quiet neighborhood."
+    ]
+  },
+  {
+    "id": 1032,
+    "text": "How much is the monthly rent, including utilities?",
+    "translation_ar": "كم الإيجار الشهري شاملًا المرافق؟",
+    "level": "B1",
+    "situation": "real-estate",
+    "variety": "GB",
+    "channel": "Real Estate English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 40,
+    "videoId": null,
+    "transcriptContext": "Before I decide, I need the full picture — how much is the monthly rent, including utilities?",
+    "pronunciation": "How much is the monthly rent, including utilities?",
+    "words": [
+      {
+        "w": "utilities",
+        "m_en": "basic services such as water, electricity, and gas",
+        "m_ar": "خدمات أساسية مثل الماء والكهرباء والغاز"
+      }
+    ],
+    "grammar_en": "How much is + noun, including + noun? — asking for a total cost that covers extra items.",
+    "grammar_ar": "How much is + اسم، including + اسم؟ — سؤال عن التكلفة الإجمالية شاملة عناصر إضافية.",
+    "alternatives": [
+      {
+        "text": "Does the rent include utility bills?",
+        "note_en": "Asks about inclusion rather than total cost",
+        "note_ar": "تسأل عن الشمول وليس التكلفة الإجمالية"
+      },
+      {
+        "text": "What's the total monthly cost, with bills included?",
+        "note_en": "Slightly more casual",
+        "note_ar": "أكثر عامية قليلًا"
+      }
+    ],
+    "similar": [
+      "How much is the deposit?",
+      "How much is the rent likely to increase each year?"
+    ]
+  },
+  {
+    "id": 1033,
+    "text": "Is the apartment furnished or unfurnished?",
+    "translation_ar": "هل الشقة مفروشة أم غير مفروشة؟",
+    "level": "B1",
+    "situation": "real-estate",
+    "variety": "US",
+    "channel": "Real Estate English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 58,
+    "videoId": null,
+    "transcriptContext": "I don't have any furniture yet — is the apartment furnished or unfurnished?",
+    "pronunciation": "Is the apartment furnished or unfurnished?",
+    "words": [
+      {
+        "w": "furnished",
+        "m_en": "already equipped with furniture",
+        "m_ar": "مزوّد بالأثاث مسبقًا"
+      }
+    ],
+    "grammar_en": "Is + noun + adjective or adjective? — a question offering two possible options.",
+    "grammar_ar": "Is + اسم + صفة or صفة؟ — سؤال يعرض خيارين محتملين.",
+    "alternatives": [
+      {
+        "text": "Does the apartment come with furniture?",
+        "note_en": "Alternative phrasing",
+        "note_ar": "صياغة بديلة"
+      },
+      {
+        "text": "Will I need to bring my own furniture?",
+        "note_en": "Focuses on what the tenant needs to do",
+        "note_ar": "تركز على ما يحتاج المستأجر فعله"
+      }
+    ],
+    "similar": [
+      "Is the kitchen equipped with appliances?",
+      "Is parking included with the apartment?"
+    ]
+  },
+  {
+    "id": 1034,
+    "text": "We're considering buying a house closer to the city center.",
+    "translation_ar": "نفكر في شراء منزل أقرب إلى وسط المدينة.",
+    "level": "B2",
+    "situation": "real-estate",
+    "variety": "CA",
+    "channel": "Real Estate English",
+    "speaker": "Native speaker (CA)",
+    "timestamp": 84,
+    "videoId": null,
+    "transcriptContext": "The commute is getting exhausting — we're considering buying a house closer to the city center.",
+    "pronunciation": "We're considering buying a house closer to the city center.",
+    "words": [
+      {
+        "w": "considering",
+        "m_en": "thinking carefully about a possible action",
+        "m_ar": "التفكير بعناية في إجراء محتمل"
+      }
+    ],
+    "grammar_en": "Considering + gerund — used to describe an option currently being thought over.",
+    "grammar_ar": "Considering + مصدر — تُستخدم لوصف خيار قيد التفكير حاليًا.",
+    "alternatives": [
+      {
+        "text": "We're thinking about buying a house nearer downtown.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عامية"
+      },
+      {
+        "text": "We might buy a house closer to the center at some point.",
+        "note_en": "Less certain, more tentative",
+        "note_ar": "أقل تأكيدًا وأكثر تحفظًا"
+      }
+    ],
+    "similar": [
+      "We're considering moving abroad.",
+      "We're considering renovating the kitchen."
+    ]
+  },
+  {
+    "id": 1035,
+    "text": "The landlord agreed to fix the plumbing before we move in.",
+    "translation_ar": "وافق المالك على إصلاح السباكة قبل أن ننتقل.",
+    "level": "B2",
+    "situation": "real-estate",
+    "variety": "GB",
+    "channel": "Real Estate English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 108,
+    "videoId": null,
+    "transcriptContext": "Good news — the landlord agreed to fix the plumbing before we move in.",
+    "pronunciation": "The landlord agreed to fix the plumbing before we move in.",
+    "words": [
+      {
+        "w": "plumbing",
+        "m_en": "the system of pipes that carry water in a building",
+        "m_ar": "شبكة الأنابيب التي تنقل الماء داخل المبنى"
+      }
+    ],
+    "grammar_en": "Agreed to + verb — describing that someone gave consent to do something.",
+    "grammar_ar": "Agreed to + فعل — تصف موافقة شخص على القيام بشيء.",
+    "alternatives": [
+      {
+        "text": "The landlord promised to sort out the plumbing before we move in.",
+        "note_en": "'Promised' feels slightly stronger",
+        "note_ar": "'promised' تبدو أقوى قليلًا"
+      },
+      {
+        "text": "The plumbing will be fixed before we move in, according to the landlord.",
+        "note_en": "Passive focus, attributing the claim",
+        "note_ar": "تركيز على المبني للمجهول مع نسبة القول"
+      }
+    ],
+    "similar": [
+      "The landlord agreed to repaint the walls.",
+      "The landlord agreed to lower the deposit."
+    ]
+  },
+  {
+    "id": 1036,
+    "text": "Property prices in this neighborhood have risen sharply over the past year.",
+    "translation_ar": "ارتفعت أسعار العقارات في هذا الحي ارتفاعًا حادًا خلال العام الماضي.",
+    "level": "C1",
+    "situation": "real-estate",
+    "variety": "US",
+    "channel": "Real Estate English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 135,
+    "videoId": null,
+    "transcriptContext": "According to the latest market report, property prices in this neighborhood have risen sharply over the past year.",
+    "pronunciation": "Property prices in this neighborhood have risen sharply over the past year.",
+    "words": [
+      {
+        "w": "sharply",
+        "m_en": "suddenly and by a large amount",
+        "m_ar": "بشكل مفاجئ وبمقدار كبير"
+      }
+    ],
+    "grammar_en": "Have risen sharply — present perfect with an intensifying adverb, common in market reports.",
+    "grammar_ar": "Have risen sharply — المضارع التام مع ظرف يعزز المعنى، شائع في تقارير السوق.",
+    "alternatives": [
+      {
+        "text": "House prices here have gone up a lot in the last year.",
+        "note_en": "Simpler, more casual",
+        "note_ar": "أبسط وأكثر عامية"
+      },
+      {
+        "text": "This area has seen a sharp rise in property values recently.",
+        "note_en": "Alternative structure, same meaning",
+        "note_ar": "تركيب بديل بنفس المعنى"
+      }
+    ],
+    "similar": [
+      "Rents have risen sharply across the city.",
+      "Demand for housing has risen sharply since the new metro line opened."
+    ]
+  },
+  {
+    "id": 1037,
+    "text": "The lease stipulates a minimum tenancy period of twelve months.",
+    "translation_ar": "ينص عقد الإيجار على مدة إقامة لا تقل عن اثني عشر شهرًا.",
+    "level": "C1",
+    "situation": "real-estate",
+    "variety": "GB",
+    "channel": "Real Estate English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 160,
+    "videoId": null,
+    "transcriptContext": "Before you sign, note that the lease stipulates a minimum tenancy period of twelve months.",
+    "pronunciation": "The lease stipulates a minimum tenancy period of twelve months.",
+    "words": [
+      {
+        "w": "stipulates",
+        "m_en": "states clearly as a required condition",
+        "m_ar": "يُحدد بوضوح كشرط مطلوب"
+      }
+    ],
+    "grammar_en": "Stipulates + noun — a formal verb used in legal or contractual writing to state a requirement.",
+    "grammar_ar": "Stipulates + اسم — فعل رسمي يُستخدم في الكتابة القانونية أو التعاقدية لذكر شرط.",
+    "alternatives": [
+      {
+        "text": "The lease requires you to stay for at least twelve months.",
+        "note_en": "Simpler, less formal",
+        "note_ar": "أبسط وأقل رسمية"
+      },
+      {
+        "text": "According to the contract, the minimum stay is twelve months.",
+        "note_en": "Alternative formal phrasing",
+        "note_ar": "صياغة رسمية بديلة"
+      }
+    ],
+    "similar": [
+      "The contract stipulates a notice period of thirty days.",
+      "The agreement stipulates that repairs are the landlord's responsibility."
+    ]
+  },
+  {
+    "id": 1038,
+    "text": "Prospective buyers should factor in maintenance costs alongside the purchase price.",
+    "translation_ar": "ينبغي للمشترين المحتملين أن يأخذوا تكاليف الصيانة بعين الاعتبار إلى جانب سعر الشراء.",
+    "level": "C2",
+    "situation": "real-estate",
+    "variety": "US",
+    "channel": "Real Estate English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 195,
+    "videoId": null,
+    "transcriptContext": "As the agent explained during the tour, prospective buyers should factor in maintenance costs alongside the purchase price.",
+    "pronunciation": "Prospective buyers should factor in maintenance costs alongside the purchase price.",
+    "words": [
+      {
+        "w": "factor in",
+        "m_en": "to include something as part of a calculation or decision",
+        "m_ar": "إدراج شيء ضمن الحساب أو القرار"
+      }
+    ],
+    "grammar_en": "Should factor in + noun — formal advisory language urging consideration of an additional cost or variable.",
+    "grammar_ar": "Should factor in + اسم — أسلوب استشاري رسمي يحث على مراعاة عامل أو تكلفة إضافية.",
+    "alternatives": [
+      {
+        "text": "Buyers shouldn't just look at the price — they need to think about upkeep costs too.",
+        "note_en": "More conversational",
+        "note_ar": "أكثر محادثية"
+      },
+      {
+        "text": "It's important to account for ongoing maintenance when budgeting for a home purchase.",
+        "note_en": "Alternative formal phrasing",
+        "note_ar": "صياغة رسمية بديلة"
+      }
+    ],
+    "similar": [
+      "Investors should factor in exchange rate risk before committing funds.",
+      "Planners should factor in future population growth when designing infrastructure."
+    ]
+  },
+  {
+    "id": 1041,
+    "text": "I volunteer at an animal shelter on weekends.",
+    "translation_ar": "أتطوع في ملجأ للحيوانات في عطلات نهاية الأسبوع.",
+    "level": "A2",
+    "situation": "community",
+    "variety": "US",
+    "channel": "Community English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 22,
+    "videoId": null,
+    "transcriptContext": "What do you usually do on Saturdays? — I volunteer at an animal shelter on weekends.",
+    "pronunciation": "I volunteer at an animal shelter on weekends.",
+    "words": [
+      {
+        "w": "shelter",
+        "m_en": "a place that provides safety and care, often for animals or people in need",
+        "m_ar": "مكان يوفر الأمان والرعاية، غالبًا للحيوانات أو الأشخاص المحتاجين"
+      }
+    ],
+    "grammar_en": "I volunteer at + place — a simple structure to describe regular unpaid help you give.",
+    "grammar_ar": "I volunteer at + مكان — تركيب بسيط لوصف مساعدة منتظمة تقدمها دون مقابل.",
+    "alternatives": [
+      {
+        "text": "I help out at an animal shelter on weekends.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عامية"
+      },
+      {
+        "text": "On weekends, I spend time volunteering at a local animal shelter.",
+        "note_en": "Slightly more descriptive",
+        "note_ar": "أكثر وصفية قليلًا"
+      }
+    ],
+    "similar": [
+      "I volunteer at a food bank once a month.",
+      "I volunteer as a tutor after school."
+    ]
+  },
+  {
+    "id": 1042,
+    "text": "How can I sign up to volunteer for the event?",
+    "translation_ar": "كيف يمكنني التسجيل للتطوع في هذه الفعالية؟",
+    "level": "B1",
+    "situation": "community",
+    "variety": "GB",
+    "channel": "Community English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 44,
+    "videoId": null,
+    "transcriptContext": "This sounds like a great cause — how can I sign up to volunteer for the event?",
+    "pronunciation": "How can I sign up to volunteer for the event?",
+    "words": [
+      {
+        "w": "sign up",
+        "m_en": "to officially register to take part in something",
+        "m_ar": "التسجيل رسميًا للمشاركة في شيء ما"
+      }
+    ],
+    "grammar_en": "How can I + verb? — a common structure for asking about a process or procedure.",
+    "grammar_ar": "How can I + فعل؟ — تركيب شائع للسؤال عن إجراء أو عملية.",
+    "alternatives": [
+      {
+        "text": "Where do I register to volunteer for the event?",
+        "note_en": "Alternative phrasing",
+        "note_ar": "صياغة بديلة"
+      },
+      {
+        "text": "Is there a form I need to fill out to volunteer?",
+        "note_en": "Asks about the specific process",
+        "note_ar": "تسأل عن الإجراء المحدد"
+      }
+    ],
+    "similar": [
+      "How can I sign up for the newsletter?",
+      "How can I apply to join the committee?"
+    ]
+  },
+  {
+    "id": 1043,
+    "text": "We're collecting donations for families affected by the floods.",
+    "translation_ar": "نجمع تبرعات للأسر المتضررة من الفيضانات.",
+    "level": "B1",
+    "situation": "community",
+    "variety": "US",
+    "channel": "Community English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 62,
+    "videoId": null,
+    "transcriptContext": "Please give what you can — we're collecting donations for families affected by the floods.",
+    "pronunciation": "We're collecting donations for families affected by the floods.",
+    "words": [
+      {
+        "w": "donations",
+        "m_en": "money or goods given to help people in need",
+        "m_ar": "أموال أو سلع تُقدَّم لمساعدة المحتاجين"
+      }
+    ],
+    "grammar_en": "We're collecting + noun + for + noun — describing an ongoing charitable effort.",
+    "grammar_ar": "We're collecting + اسم + for + اسم — تصف جهدًا خيريًا مستمرًا.",
+    "alternatives": [
+      {
+        "text": "We're raising donations to help flood-affected families.",
+        "note_en": "Alternative phrasing",
+        "note_ar": "صياغة بديلة"
+      },
+      {
+        "text": "We're gathering supplies for the families hit by the floods.",
+        "note_en": "Focuses on goods rather than money",
+        "note_ar": "تركز على السلع بدلًا من المال"
+      }
+    ],
+    "similar": [
+      "We're collecting clothes for the winter drive.",
+      "We're collecting signatures for the petition."
+    ]
+  },
+  {
+    "id": 1044,
+    "text": "Volunteering has taught me a lot about patience and teamwork.",
+    "translation_ar": "علّمني العمل التطوعي الكثير عن الصبر والعمل الجماعي.",
+    "level": "B2",
+    "situation": "community",
+    "variety": "GB",
+    "channel": "Community English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 90,
+    "videoId": null,
+    "transcriptContext": "Looking back on the past year, volunteering has taught me a lot about patience and teamwork.",
+    "pronunciation": "Volunteering has taught me a lot about patience and teamwork.",
+    "words": [
+      {
+        "w": "teamwork",
+        "m_en": "the combined effort of a group working together",
+        "m_ar": "الجهد المشترك لمجموعة تعمل معًا"
+      }
+    ],
+    "grammar_en": "Has taught me + noun — present perfect used to reflect on lessons gained over time.",
+    "grammar_ar": "Has taught me + اسم — المضارع التام يُستخدم للتأمل في دروس مكتسبة مع الوقت.",
+    "alternatives": [
+      {
+        "text": "I've learned a lot about patience and teamwork through volunteering.",
+        "note_en": "Same meaning, subject reordered",
+        "note_ar": "نفس المعنى بترتيب مختلف للفاعل"
+      },
+      {
+        "text": "Volunteering has really shaped how I work with others.",
+        "note_en": "More general, less specific",
+        "note_ar": "أكثر عمومية وأقل تحديدًا"
+      }
+    ],
+    "similar": [
+      "Traveling has taught me a lot about independence.",
+      "This job has taught me a lot about time management."
+    ]
+  },
+  {
+    "id": 1045,
+    "text": "The organization relies heavily on volunteers to run its programs.",
+    "translation_ar": "تعتمد المنظمة بشكل كبير على المتطوعين لتشغيل برامجها.",
+    "level": "B2",
+    "situation": "community",
+    "variety": "US",
+    "channel": "Community English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 112,
+    "videoId": null,
+    "transcriptContext": "Without enough funding, the organization relies heavily on volunteers to run its programs.",
+    "pronunciation": "The organization relies heavily on volunteers to run its programs.",
+    "words": [
+      {
+        "w": "relies on",
+        "m_en": "depends on someone or something for support",
+        "m_ar": "يعتمد على شخص أو شيء للحصول على الدعم"
+      }
+    ],
+    "grammar_en": "Relies heavily on + noun — describing a strong dependence on something.",
+    "grammar_ar": "Relies heavily on + اسم — تصف اعتمادًا قويًا على شيء ما.",
+    "alternatives": [
+      {
+        "text": "The organization depends a great deal on volunteer support.",
+        "note_en": "Alternative phrasing",
+        "note_ar": "صياغة بديلة"
+      },
+      {
+        "text": "Without volunteers, the organization couldn't run most of its programs.",
+        "note_en": "Emphasizes the consequence",
+        "note_ar": "تركز على النتيجة"
+      }
+    ],
+    "similar": [
+      "The clinic relies heavily on donations to stay open.",
+      "The festival relies heavily on local sponsors."
+    ]
+  },
+  {
+    "id": 1046,
+    "text": "Community initiatives like this one wouldn't be possible without volunteer support.",
+    "translation_ar": "لن تكون المبادرات المجتمعية كهذه ممكنة لولا دعم المتطوعين.",
+    "level": "C1",
+    "situation": "community",
+    "variety": "GB",
+    "channel": "Community English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 140,
+    "videoId": null,
+    "transcriptContext": "As the coordinator noted in her speech, community initiatives like this one wouldn't be possible without volunteer support.",
+    "pronunciation": "Community initiatives like this one wouldn't be possible without volunteer support.",
+    "words": [
+      {
+        "w": "initiative",
+        "m_en": "a plan or project intended to achieve a particular goal",
+        "m_ar": "خطة أو مشروع يهدف إلى تحقيق هدف معين"
+      }
+    ],
+    "grammar_en": "Wouldn't be possible without + noun — a conditional structure emphasizing dependence on something.",
+    "grammar_ar": "Wouldn't be possible without + اسم — تركيب شرطي يؤكد الاعتماد على شيء ما.",
+    "alternatives": [
+      {
+        "text": "This kind of project simply couldn't happen without volunteers.",
+        "note_en": "Less formal, more direct",
+        "note_ar": "أقل رسمية وأكثر مباشرة"
+      },
+      {
+        "text": "Volunteer support is essential to initiatives of this kind.",
+        "note_en": "States the same idea more directly",
+        "note_ar": "تذكر نفس الفكرة بشكل مباشر أكثر"
+      }
+    ],
+    "similar": [
+      "None of this would be possible without the community's generosity.",
+      "The festival wouldn't be possible without local volunteers."
+    ]
+  },
+  {
+    "id": 1047,
+    "text": "She dedicates several hours a week to mentoring underprivileged students.",
+    "translation_ar": "تخصص عدة ساعات أسبوعيًا لتوجيه الطلاب من الفئات المحرومة.",
+    "level": "C1",
+    "situation": "community",
+    "variety": "US",
+    "channel": "Community English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 165,
+    "videoId": null,
+    "transcriptContext": "It's inspiring, honestly — she dedicates several hours a week to mentoring underprivileged students.",
+    "pronunciation": "She dedicates several hours a week to mentoring underprivileged students.",
+    "words": [
+      {
+        "w": "underprivileged",
+        "m_en": "having fewer advantages or resources than most people, especially due to poverty",
+        "m_ar": "من له فرص أو موارد أقل من معظم الناس، غالبًا بسبب الفقر"
+      }
+    ],
+    "grammar_en": "Dedicates + time + to + gerund — a formal way to describe committed, regular effort.",
+    "grammar_ar": "Dedicates + وقت + to + مصدر — طريقة رسمية لوصف جهد ملتزم ومنتظم.",
+    "alternatives": [
+      {
+        "text": "She spends several hours a week mentoring students from disadvantaged backgrounds.",
+        "note_en": "Slightly less formal wording",
+        "note_ar": "صياغة أقل رسمية قليلًا"
+      },
+      {
+        "text": "Every week, she gives up several hours to mentor students who need extra support.",
+        "note_en": "More conversational",
+        "note_ar": "أكثر محادثية"
+      }
+    ],
+    "similar": [
+      "He dedicates his weekends to coaching young athletes.",
+      "The foundation dedicates significant resources to mentoring programs."
+    ]
+  },
+  {
+    "id": 1048,
+    "text": "Sustained volunteer engagement often hinges on how valued participants feel within the organization.",
+    "translation_ar": "غالبًا ما تتوقف استمرارية مشاركة المتطوعين على مدى شعورهم بالتقدير داخل المنظمة.",
+    "level": "C2",
+    "situation": "community",
+    "variety": "GB",
+    "channel": "Community English",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 210,
+    "videoId": null,
+    "transcriptContext": "One of the panel's key findings was that sustained volunteer engagement often hinges on how valued participants feel within the organization.",
+    "pronunciation": "Sustained volunteer engagement often hinges on how valued participants feel within the organization.",
+    "words": [
+      {
+        "w": "hinges on",
+        "m_en": "depends entirely on a particular factor",
+        "m_ar": "يعتمد كليًا على عامل معين"
+      }
+    ],
+    "grammar_en": "Hinges on + clause — a formal expression indicating that an outcome is conditional on a specific factor.",
+    "grammar_ar": "Hinges on + جملة — تعبير رسمي يشير إلى أن نتيجة ما مشروطة بعامل محدد.",
+    "alternatives": [
+      {
+        "text": "Volunteers tend to stay involved longer when they feel genuinely appreciated.",
+        "note_en": "Simpler, more direct",
+        "note_ar": "أبسط وأكثر مباشرة"
+      },
+      {
+        "text": "Long-term volunteer commitment largely depends on a sense of being valued.",
+        "note_en": "Alternative formal phrasing",
+        "note_ar": "صياغة رسمية بديلة"
+      }
+    ],
+    "similar": [
+      "Employee retention often hinges on a sense of purpose at work.",
+      "The project's success hinges on early community buy-in."
     ]
   }
 ]
