@@ -11808,5 +11808,2165 @@
       "They're planning a surprise party for his birthday.",
       "We're putting together a small celebration for the team."
     ]
+  },
+  {
+    "id": 452,
+    "text": "Please turn off the lights when you leave.",
+    "translation_ar": "من فضلك أطفئ الأنوار عند مغادرتك.",
+    "level": "A1",
+    "situation": "environment",
+    "variety": "US",
+    "channel": "Green Living Basics",
+    "speaker": "Native speaker (US)",
+    "timestamp": 4,
+    "videoId": null,
+    "transcriptContext": "Please turn off the lights when you leave the room to save energy.",
+    "pronunciation": "Please turn off the lights when you leave.",
+    "words": [
+      {
+        "w": "turn off",
+        "m_en": "to switch something off so it stops working",
+        "m_ar": "إيقاف تشغيل شيء ما"
+      }
+    ],
+    "grammar_en": "Imperative (Please + verb) — a polite instruction.",
+    "grammar_ar": "صيغة الأمر (Please + فعل) — تعليمات مهذبة.",
+    "alternatives": [
+      {
+        "text": "Turn the lights off before you go.",
+        "note_en": "More direct",
+        "note_ar": "أكثر مباشرة"
+      },
+      {
+        "text": "Don't forget to switch off the lights.",
+        "note_en": "Reminder tone",
+        "note_ar": "نبرة تذكير"
+      }
+    ],
+    "similar": [
+      "Please recycle these bottles.",
+      "Turn off the tap when you brush your teeth.",
+      "Switch off appliances when not in use."
+    ]
+  },
+  {
+    "id": 453,
+    "text": "We try to recycle as much as we can at home.",
+    "translation_ar": "نحاول إعادة تدوير أكبر قدر ممكن في المنزل.",
+    "level": "A2",
+    "situation": "environment",
+    "variety": "US",
+    "channel": "Green Living Basics",
+    "speaker": "Native speaker (US)",
+    "timestamp": 21,
+    "videoId": null,
+    "transcriptContext": "We try to recycle as much as we can at home, especially paper and plastic.",
+    "pronunciation": "We try to recycle as much as we can at home.",
+    "words": [
+      {
+        "w": "recycle",
+        "m_en": "to process used materials so they can be used again",
+        "m_ar": "إعادة معالجة المواد المستعملة لاستخدامها مرة أخرى"
+      }
+    ],
+    "grammar_en": "Try to + verb — expressing an effort or intention.",
+    "grammar_ar": "Try to + فعل — للتعبير عن محاولة أو نيّة.",
+    "alternatives": [
+      {
+        "text": "We make an effort to recycle at home.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "We recycle whenever we can.",
+        "note_en": "Simpler",
+        "note_ar": "أبسط"
+      }
+    ],
+    "similar": [
+      "We compost our food waste.",
+      "We try to reduce plastic use.",
+      "We separate our trash for recycling."
+    ]
+  },
+  {
+    "id": 454,
+    "text": "Plastic bags are no longer given out for free here.",
+    "translation_ar": "لم تعد أكياس البلاستيك تُوزّع مجانًا هنا.",
+    "level": "B1",
+    "situation": "environment",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 38,
+    "videoId": null,
+    "transcriptContext": "As of this year, plastic bags are no longer given out for free here — you'll need to bring your own.",
+    "pronunciation": "Plastic bags are no longer given out for free here.",
+    "words": [
+      {
+        "w": "no longer",
+        "m_en": "not anymore; used to show something has stopped happening",
+        "m_ar": "لم يعد يحدث؛ تُستخدم للإشارة إلى توقف شيء كان يحدث"
+      }
+    ],
+    "grammar_en": "Passive voice (are given out) — used when the focus is on the action, not who performs it.",
+    "grammar_ar": "المبني للمجهول (are given out) — يُستخدم عندما يكون التركيز على الفعل وليس الفاعل.",
+    "alternatives": [
+      {
+        "text": "They stopped giving out free plastic bags here.",
+        "note_en": "Active voice",
+        "note_ar": "المبني للمعلوم"
+      },
+      {
+        "text": "Free plastic bags aren't available anymore.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      }
+    ],
+    "similar": [
+      "Single-use straws are banned in this city.",
+      "Free samples are no longer offered at this store.",
+      "Plastic packaging is being phased out gradually."
+    ]
+  },
+  {
+    "id": 455,
+    "text": "The city is investing in more public transport to cut emissions.",
+    "translation_ar": "تستثمر المدينة في المزيد من وسائل النقل العام لتقليل الانبعاثات.",
+    "level": "B1",
+    "situation": "environment",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 55,
+    "videoId": null,
+    "transcriptContext": "The city is investing in more public transport to cut emissions and ease traffic.",
+    "pronunciation": "The city is investing in more public transport to cut emissions.",
+    "words": [
+      {
+        "w": "cut emissions",
+        "m_en": "to reduce the amount of harmful gases released into the air",
+        "m_ar": "تقليل كمية الغازات الضارة المنبعثة في الهواء"
+      }
+    ],
+    "grammar_en": "Invest in + noun — putting resources into something to achieve a future benefit.",
+    "grammar_ar": "Invest in + اسم — تخصيص موارد لتحقيق فائدة مستقبلية.",
+    "alternatives": [
+      {
+        "text": "The city is spending more on public transport to reduce pollution.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "More funding is going toward public transport to lower emissions.",
+        "note_en": "Passive, formal",
+        "note_ar": "مبني للمجهول، رسمي"
+      }
+    ],
+    "similar": [
+      "The government is funding new bike lanes.",
+      "They're expanding the metro to reduce car use.",
+      "The city is promoting electric buses."
+    ]
+  },
+  {
+    "id": 456,
+    "text": "We should consider the long-term impact of single-use plastics.",
+    "translation_ar": "يجب أن نأخذ في الاعتبار التأثير طويل المدى للبلاستيك أحادي الاستخدام.",
+    "level": "B2",
+    "situation": "environment",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 72,
+    "videoId": null,
+    "transcriptContext": "Before we decide, we should consider the long-term impact of single-use plastics on marine life.",
+    "pronunciation": "We should consider the long-term impact of single-use plastics.",
+    "words": [
+      {
+        "w": "long-term impact",
+        "m_en": "an effect that continues or becomes clear over a long period",
+        "m_ar": "تأثير يستمر أو يظهر بوضوح على مدى فترة طويلة"
+      }
+    ],
+    "grammar_en": "Should + verb — giving advice or recommending a course of action.",
+    "grammar_ar": "Should + فعل — لتقديم نصيحة أو التوصية بإجراء معين.",
+    "alternatives": [
+      {
+        "text": "We need to think about the long-term effects of single-use plastics.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "It's worth considering how single-use plastics affect us long-term.",
+        "note_en": "Softer phrasing",
+        "note_ar": "صياغة ألطف"
+      }
+    ],
+    "similar": [
+      "We should think about the environmental cost of fast fashion.",
+      "It's important to weigh the long-term effects of deforestation.",
+      "We need to consider the impact of overfishing."
+    ]
+  },
+  {
+    "id": 457,
+    "text": "A growing number of companies are adopting sustainable packaging.",
+    "translation_ar": "عدد متزايد من الشركات يتبنى التغليف المستدام.",
+    "level": "B2",
+    "situation": "environment",
+    "variety": "US",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (US)",
+    "timestamp": 89,
+    "videoId": null,
+    "transcriptContext": "A growing number of companies are adopting sustainable packaging in response to customer demand.",
+    "pronunciation": "A growing number of companies are adopting sustainable packaging.",
+    "words": [
+      {
+        "w": "adopt",
+        "m_en": "to start using a new method, idea, or approach",
+        "m_ar": "البدء في استخدام طريقة أو فكرة أو نهج جديد"
+      }
+    ],
+    "grammar_en": "A growing number of + noun — describing an increasing trend.",
+    "grammar_ar": "A growing number of + اسم — لوصف اتجاه متزايد.",
+    "alternatives": [
+      {
+        "text": "More and more companies are adopting sustainable packaging.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Sustainable packaging is being adopted by more businesses each year.",
+        "note_en": "Passive, formal",
+        "note_ar": "مبني للمجهول، رسمي"
+      }
+    ],
+    "similar": [
+      "More brands are switching to renewable energy.",
+      "An increasing number of firms are going paperless.",
+      "More consumers are choosing eco-friendly products."
+    ]
+  },
+  {
+    "id": 458,
+    "text": "Without stronger regulation, plastic waste will likely keep rising.",
+    "translation_ar": "بدون تنظيم أقوى، من المرجح أن تستمر النفايات البلاستيكية في الازدياد.",
+    "level": "C1",
+    "situation": "environment",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 106,
+    "videoId": null,
+    "transcriptContext": "Without stronger regulation, plastic waste will likely keep rising over the next decade.",
+    "pronunciation": "Without stronger regulation, plastic waste will likely keep rising.",
+    "words": [
+      {
+        "w": "regulation",
+        "m_en": "an official rule that controls how something is done",
+        "m_ar": "قاعدة رسمية تنظّم كيفية تنفيذ أمر ما"
+      }
+    ],
+    "grammar_en": "Without + noun, conditional-style clause — implying a consequence if a condition isn't met.",
+    "grammar_ar": "Without + اسم، جملة شرطية ضمنية — تُشير إلى نتيجة في حال عدم تحقّق شرط ما.",
+    "alternatives": [
+      {
+        "text": "If regulation doesn't improve, plastic waste will probably keep increasing.",
+        "note_en": "More explicit conditional",
+        "note_ar": "جملة شرطية أوضح"
+      },
+      {
+        "text": "Absent stronger rules, plastic waste is likely to continue rising.",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسمية"
+      }
+    ],
+    "similar": [
+      "Without intervention, emissions will continue to climb.",
+      "Unless policies change, deforestation will likely accelerate.",
+      "Without investment, the problem will probably worsen."
+    ]
+  },
+  {
+    "id": 459,
+    "text": "The proposal fails to account for the ecological cost of rapid expansion.",
+    "translation_ar": "المقترح لا يأخذ في الاعتبار التكلفة البيئية للتوسع السريع.",
+    "level": "C1",
+    "situation": "environment",
+    "variety": "US",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (US)",
+    "timestamp": 123,
+    "videoId": null,
+    "transcriptContext": "In my view, the proposal fails to account for the ecological cost of rapid expansion.",
+    "pronunciation": "The proposal fails to account for the ecological cost of rapid expansion.",
+    "words": [
+      {
+        "w": "account for",
+        "m_en": "to take something into consideration or explain it",
+        "m_ar": "أخذ شيء ما بعين الاعتبار أو تفسيره"
+      }
+    ],
+    "grammar_en": "Fails to + verb — indicating an omission or shortcoming in something.",
+    "grammar_ar": "Fails to + فعل — للإشارة إلى تقصير أو نقص في شيء ما.",
+    "alternatives": [
+      {
+        "text": "The proposal doesn't take the ecological cost into account.",
+        "note_en": "Simpler phrasing",
+        "note_ar": "صياغة أبسط"
+      },
+      {
+        "text": "The ecological cost of rapid expansion isn't addressed in the proposal.",
+        "note_en": "Passive, formal",
+        "note_ar": "مبني للمجهول، رسمي"
+      }
+    ],
+    "similar": [
+      "The plan overlooks the social impact of the merger.",
+      "The report fails to mention the associated risks.",
+      "The budget doesn't account for rising material costs."
+    ]
+  },
+  {
+    "id": 460,
+    "text": "Climate policy, however well-intentioned, often falls short without enforcement.",
+    "translation_ar": "السياسة المناخية، مهما كانت حسنة النية، غالبًا ما تكون قاصرة دون تطبيق فعلي.",
+    "level": "C2",
+    "situation": "environment",
+    "variety": "GB",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 140,
+    "videoId": null,
+    "transcriptContext": "Climate policy, however well-intentioned, often falls short without enforcement mechanisms in place.",
+    "pronunciation": "Climate policy, however well-intentioned, often falls short without enforcement.",
+    "words": [
+      {
+        "w": "fall short",
+        "m_en": "to fail to meet an expected standard or goal",
+        "m_ar": "الفشل في تحقيق مستوى أو هدف متوقع"
+      }
+    ],
+    "grammar_en": "However + adjective, inserted as a concessive phrase — acknowledging a point before making a contrasting claim.",
+    "grammar_ar": "However + صفة، كعبارة تنازلية معترضة — الاعتراف بنقطة قبل تقديم ادعاء مخالف.",
+    "alternatives": [
+      {
+        "text": "Even well-intentioned climate policy often fails without enforcement.",
+        "note_en": "Simpler structure",
+        "note_ar": "تركيب أبسط"
+      },
+      {
+        "text": "No matter how well-intentioned, climate policy tends to fall short without enforcement.",
+        "note_en": "Similar formality",
+        "note_ar": "بنفس الرسمية"
+      }
+    ],
+    "similar": [
+      "Reform, however necessary, is rarely simple to implement.",
+      "The plan, ambitious as it is, lacks a clear timeline.",
+      "Good intentions alone rarely produce lasting change."
+    ]
+  },
+  {
+    "id": 461,
+    "text": "It remains unclear whether voluntary targets will suffice.",
+    "translation_ar": "لا يزال من غير الواضح ما إذا كانت الأهداف الطوعية ستكون كافية.",
+    "level": "C2",
+    "situation": "environment",
+    "variety": "US",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (US)",
+    "timestamp": 157,
+    "videoId": null,
+    "transcriptContext": "It remains unclear whether voluntary targets will suffice to meet the country's climate commitments.",
+    "pronunciation": "It remains unclear whether voluntary targets will suffice.",
+    "words": [
+      {
+        "w": "suffice",
+        "m_en": "to be enough for a particular purpose",
+        "m_ar": "أن يكون كافيًا لغرض معين"
+      }
+    ],
+    "grammar_en": "It remains unclear whether + clause — a formal way of expressing ongoing uncertainty.",
+    "grammar_ar": "It remains unclear whether + جملة — طريقة رسمية للتعبير عن استمرار عدم اليقين.",
+    "alternatives": [
+      {
+        "text": "We still don't know if voluntary targets will be enough.",
+        "note_en": "Less formal",
+        "note_ar": "أقل رسمية"
+      },
+      {
+        "text": "Whether voluntary targets will suffice is still an open question.",
+        "note_en": "Reordered, formal",
+        "note_ar": "إعادة ترتيب، رسمي"
+      }
+    ],
+    "similar": [
+      "It's unclear whether the reforms will have the intended effect.",
+      "Whether the plan will succeed remains to be seen.",
+      "It's still uncertain if the funding will be approved."
+    ]
+  },
+  {
+    "id": 462,
+    "text": "I posted a photo from our trip yesterday.",
+    "translation_ar": "نشرت صورة من رحلتنا أمس.",
+    "level": "A1",
+    "situation": "social-media",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 174,
+    "videoId": null,
+    "transcriptContext": "I posted a photo from our trip yesterday — did you see it?",
+    "pronunciation": "I posted a photo from our trip yesterday.",
+    "words": [
+      {
+        "w": "post",
+        "m_en": "to share content online, such as a photo or message",
+        "m_ar": "مشاركة محتوى عبر الإنترنت، مثل صورة أو رسالة"
+      }
+    ],
+    "grammar_en": "Simple past (posted) — describing a completed action in the past.",
+    "grammar_ar": "الماضي البسيط (posted) — لوصف فعل مكتمل في الماضي.",
+    "alternatives": [
+      {
+        "text": "I shared a photo from our trip yesterday.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "I uploaded a picture from the trip yesterday.",
+        "note_en": "Common alternative",
+        "note_ar": "بديل شائع"
+      }
+    ],
+    "similar": [
+      "I shared the video with my friends.",
+      "She posted a story about her weekend.",
+      "He uploaded some new pictures today."
+    ]
+  },
+  {
+    "id": 463,
+    "text": "Could you tag me in that picture?",
+    "translation_ar": "هل يمكنك أن تضع اسمي في تلك الصورة؟",
+    "level": "A2",
+    "situation": "social-media",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 191,
+    "videoId": null,
+    "transcriptContext": "That looks great — could you tag me in that picture?",
+    "pronunciation": "Could you tag me in that picture?",
+    "words": [
+      {
+        "w": "tag (someone)",
+        "m_en": "to link a person's name or profile to a photo or post online",
+        "m_ar": "ربط اسم أو حساب شخص بصورة أو منشور عبر الإنترنت"
+      }
+    ],
+    "grammar_en": "Could you + verb — a polite request.",
+    "grammar_ar": "Could you + فعل — طلب مهذب.",
+    "alternatives": [
+      {
+        "text": "Can you tag me in that photo?",
+        "note_en": "More casual",
+        "note_ar": "أكثر عفوية"
+      },
+      {
+        "text": "Would you mind tagging me in it?",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسمية"
+      }
+    ],
+    "similar": [
+      "Could you share that post with me?",
+      "Can you mention me in the comments?",
+      "Could you send me the link to that video?"
+    ]
+  },
+  {
+    "id": 464,
+    "text": "I try not to spend too much time scrolling at night.",
+    "translation_ar": "أحاول ألا أقضي وقتًا طويلًا في التصفح ليلًا.",
+    "level": "B1",
+    "situation": "social-media",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 208,
+    "videoId": null,
+    "transcriptContext": "I try not to spend too much time scrolling at night — it affects my sleep.",
+    "pronunciation": "I try not to spend too much time scrolling at night.",
+    "words": [
+      {
+        "w": "scroll",
+        "m_en": "to move content up or down on a screen, especially on social media",
+        "m_ar": "تحريك المحتوى لأعلى أو لأسفل على الشاشة، خاصة في وسائل التواصل"
+      }
+    ],
+    "grammar_en": "Try not to + verb — expressing an effort to avoid doing something.",
+    "grammar_ar": "Try not to + فعل — للتعبير عن محاولة تجنّب فعل ما.",
+    "alternatives": [
+      {
+        "text": "I try to limit my screen time in the evening.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "I try to avoid scrolling too much before bed.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "I try not to check my phone first thing in the morning.",
+      "She limits her social media use on weekdays.",
+      "We try to have phone-free dinners."
+    ]
+  },
+  {
+    "id": 465,
+    "text": "This post has gone viral over the past few days.",
+    "translation_ar": "انتشر هذا المنشور بشكل واسع خلال الأيام القليلة الماضية.",
+    "level": "B1",
+    "situation": "social-media",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 225,
+    "videoId": null,
+    "transcriptContext": "This post has gone viral over the past few days, with millions of views.",
+    "pronunciation": "This post has gone viral over the past few days.",
+    "words": [
+      {
+        "w": "go viral",
+        "m_en": "to spread very quickly and widely online",
+        "m_ar": "الانتشار بسرعة وعلى نطاق واسع عبر الإنترنت"
+      }
+    ],
+    "grammar_en": "Present perfect (has gone) — describing a recent event with present relevance.",
+    "grammar_ar": "المضارع التام (has gone) — لوصف حدث حديث له تأثير مستمر حتى الآن.",
+    "alternatives": [
+      {
+        "text": "This post has become really popular recently.",
+        "note_en": "Simpler phrasing",
+        "note_ar": "صياغة أبسط"
+      },
+      {
+        "text": "This post blew up over the last few days.",
+        "note_en": "Very casual",
+        "note_ar": "عامية جدًا"
+      }
+    ],
+    "similar": [
+      "That video went viral overnight.",
+      "The clip has been shared thousands of times.",
+      "The campaign spread quickly across social media."
+    ]
+  },
+  {
+    "id": 466,
+    "text": "We're seeing a lot of engagement on the new campaign.",
+    "translation_ar": "نلاحظ تفاعلًا كبيرًا مع الحملة الجديدة.",
+    "level": "B2",
+    "situation": "social-media",
+    "variety": "US",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (US)",
+    "timestamp": 2,
+    "videoId": null,
+    "transcriptContext": "We're seeing a lot of engagement on the new campaign, especially among younger audiences.",
+    "pronunciation": "We're seeing a lot of engagement on the new campaign.",
+    "words": [
+      {
+        "w": "engagement",
+        "m_en": "interaction such as likes, comments, or shares on social media content",
+        "m_ar": "التفاعل مثل الإعجابات أو التعليقات أو المشاركات على محتوى وسائل التواصل"
+      }
+    ],
+    "grammar_en": "Present continuous (are seeing) — describing an ongoing trend or observation.",
+    "grammar_ar": "المضارع المستمر (are seeing) — لوصف اتجاه أو ملاحظة مستمرة.",
+    "alternatives": [
+      {
+        "text": "The new campaign is getting a lot of engagement.",
+        "note_en": "Reordered, similar meaning",
+        "note_ar": "إعادة ترتيب، بنفس المعنى"
+      },
+      {
+        "text": "Engagement on the new campaign has been strong.",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسمية"
+      }
+    ],
+    "similar": [
+      "The post is getting a lot of comments.",
+      "Our follower count has grown steadily this month.",
+      "The ad is performing well across platforms."
+    ]
+  },
+  {
+    "id": 467,
+    "text": "It's worth being cautious about what you share publicly.",
+    "translation_ar": "من الجدير توخي الحذر بشأن ما تشاركه علنًا.",
+    "level": "B2",
+    "situation": "social-media",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 19,
+    "videoId": null,
+    "transcriptContext": "It's worth being cautious about what you share publicly, especially personal details.",
+    "pronunciation": "It's worth being cautious about what you share publicly.",
+    "words": [
+      {
+        "w": "cautious",
+        "m_en": "careful to avoid risk or danger",
+        "m_ar": "حذر لتجنب الخطر أو المخاطرة"
+      }
+    ],
+    "grammar_en": "It's worth + gerund — recommending an action because it has value.",
+    "grammar_ar": "It's worth + مصدر مؤول (gerund) — للتوصية بفعل ما لأنه ذو قيمة.",
+    "alternatives": [
+      {
+        "text": "You should be careful about what you post publicly.",
+        "note_en": "More direct",
+        "note_ar": "أكثر مباشرة"
+      },
+      {
+        "text": "It's a good idea to think twice before sharing personal information.",
+        "note_en": "Reworded, similar meaning",
+        "note_ar": "معاد صياغته، بنفس المعنى"
+      }
+    ],
+    "similar": [
+      "It's worth double-checking your privacy settings.",
+      "It's best to avoid oversharing online.",
+      "You should think before posting anything sensitive."
+    ]
+  },
+  {
+    "id": 468,
+    "text": "Algorithms are designed to keep users engaged for longer.",
+    "translation_ar": "الخوارزميات مصممة لإبقاء المستخدمين متفاعلين لفترة أطول.",
+    "level": "C1",
+    "situation": "social-media",
+    "variety": "US",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (US)",
+    "timestamp": 36,
+    "videoId": null,
+    "transcriptContext": "Algorithms are designed to keep users engaged for longer, which raises concerns about screen time.",
+    "pronunciation": "Algorithms are designed to keep users engaged for longer.",
+    "words": [
+      {
+        "w": "engaged",
+        "m_en": "actively interested and involved in something",
+        "m_ar": "مهتم ومنخرط بفاعلية في شيء ما"
+      }
+    ],
+    "grammar_en": "Passive voice (are designed) — focusing on the purpose of a system rather than who created it.",
+    "grammar_ar": "المبني للمجهول (are designed) — للتركيز على غرض النظام وليس على من صمّمه.",
+    "alternatives": [
+      {
+        "text": "Algorithms are built to maximize how long users stay engaged.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Platforms design their algorithms to increase user engagement.",
+        "note_en": "Active voice",
+        "note_ar": "المبني للمعلوم"
+      }
+    ],
+    "similar": [
+      "These features are built to encourage repeat visits.",
+      "The app is designed to notify you constantly.",
+      "Recommendation systems are built to hold your attention."
+    ]
+  },
+  {
+    "id": 469,
+    "text": "The platform has come under scrutiny for how it handles user data.",
+    "translation_ar": "تعرضت المنصة للتدقيق بسبب طريقة تعاملها مع بيانات المستخدمين.",
+    "level": "C1",
+    "situation": "social-media",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 53,
+    "videoId": null,
+    "transcriptContext": "The platform has come under scrutiny for how it handles user data in recent months.",
+    "pronunciation": "The platform has come under scrutiny for how it handles user data.",
+    "words": [
+      {
+        "w": "come under scrutiny",
+        "m_en": "to become the subject of close, critical examination",
+        "m_ar": "أن يصبح موضع فحص دقيق وانتقادي"
+      }
+    ],
+    "grammar_en": "Present perfect (has come) — connecting a past development to its current relevance.",
+    "grammar_ar": "المضارع التام (has come) — لربط تطوّر سابق بأهميته الحالية.",
+    "alternatives": [
+      {
+        "text": "The platform is facing criticism over its data practices.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Questions have been raised about how the platform handles user data.",
+        "note_en": "Passive, formal",
+        "note_ar": "مبني للمجهول، رسمي"
+      }
+    ],
+    "similar": [
+      "The company has faced backlash over its pricing changes.",
+      "The app is under investigation for privacy violations.",
+      "The policy has drawn criticism from users."
+    ]
+  },
+  {
+    "id": 470,
+    "text": "The line between authentic content and advertising has become increasingly blurred.",
+    "translation_ar": "أصبح الخط الفاصل بين المحتوى الحقيقي والإعلانات ضبابيًا بشكل متزايد.",
+    "level": "C2",
+    "situation": "social-media",
+    "variety": "US",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (US)",
+    "timestamp": 70,
+    "videoId": null,
+    "transcriptContext": "The line between authentic content and advertising has become increasingly blurred on these platforms.",
+    "pronunciation": "The line between authentic content and advertising has become increasingly blurred.",
+    "words": [
+      {
+        "w": "blurred",
+        "m_en": "unclear or difficult to distinguish",
+        "m_ar": "غير واضح أو يصعب تمييزه"
+      }
+    ],
+    "grammar_en": "Present perfect continuous tendency shown via 'has become increasingly' — describing a gradual change over time.",
+    "grammar_ar": "استخدام 'has become increasingly' — لوصف تغيّر تدريجي عبر الزمن.",
+    "alternatives": [
+      {
+        "text": "It's becoming harder to tell authentic content from advertising.",
+        "note_en": "Simpler phrasing",
+        "note_ar": "صياغة أبسط"
+      },
+      {
+        "text": "The distinction between genuine content and ads is fading.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "The boundary between news and opinion has grown less clear.",
+      "It's increasingly difficult to separate fact from marketing.",
+      "The line between work and personal life keeps shifting."
+    ]
+  },
+  {
+    "id": 471,
+    "text": "The department has restructured its reporting lines to improve accountability.",
+    "translation_ar": "أعادت الإدارة هيكلة خطوط التقارير لتحسين المساءلة.",
+    "level": "C1",
+    "situation": "workplace",
+    "variety": "GB",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 87,
+    "videoId": null,
+    "transcriptContext": "The department has restructured its reporting lines to improve accountability across teams.",
+    "pronunciation": "The department has restructured its reporting lines to improve accountability.",
+    "words": [
+      {
+        "w": "reporting lines",
+        "m_en": "the structure showing who reports to whom within an organization",
+        "m_ar": "الهيكل الذي يوضح من يتبع من داخل المؤسسة"
+      }
+    ],
+    "grammar_en": "Present perfect (has restructured) — an action completed recently with ongoing relevance.",
+    "grammar_ar": "المضارع التام (has restructured) — فعل اكتمل مؤخرًا وله أثر مستمر.",
+    "alternatives": [
+      {
+        "text": "The department has reorganized how teams report to management.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      },
+      {
+        "text": "Reporting structures have been revised to boost accountability.",
+        "note_en": "Passive, formal",
+        "note_ar": "مبني للمجهول، رسمي"
+      }
+    ],
+    "similar": [
+      "The company has flattened its management structure.",
+      "Roles were redefined after the merger.",
+      "The team now reports directly to the CFO."
+    ]
+  },
+  {
+    "id": 472,
+    "text": "It's unlikely the merger will close before the end of the quarter.",
+    "translation_ar": "من غير المرجح أن يُستكمل الاندماج قبل نهاية الربع.",
+    "level": "C1",
+    "situation": "career",
+    "variety": "US",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (US)",
+    "timestamp": 104,
+    "videoId": null,
+    "transcriptContext": "Based on the current pace, it's unlikely the merger will close before the end of the quarter.",
+    "pronunciation": "It's unlikely the merger will close before the end of the quarter.",
+    "words": [
+      {
+        "w": "close (a deal/merger)",
+        "m_en": "to formally complete a business transaction",
+        "m_ar": "إتمام صفقة تجارية بشكل رسمي"
+      }
+    ],
+    "grammar_en": "It's unlikely + clause — expressing a low probability in a formal tone.",
+    "grammar_ar": "It's unlikely + جملة — للتعبير عن احتمال ضعيف بأسلوب رسمي.",
+    "alternatives": [
+      {
+        "text": "The merger probably won't close before the quarter ends.",
+        "note_en": "Less formal",
+        "note_ar": "أقل رسمية"
+      },
+      {
+        "text": "Chances are the merger will close later than planned.",
+        "note_en": "Casual alternative",
+        "note_ar": "بديل غير رسمي"
+      }
+    ],
+    "similar": [
+      "It's doubtful the deal will go through this year.",
+      "The acquisition is unlikely to be finalized soon.",
+      "It's improbable the deadline will be met."
+    ]
+  },
+  {
+    "id": 473,
+    "text": "The findings suggest a stronger link than previously assumed.",
+    "translation_ar": "تشير النتائج إلى ارتباط أقوى مما كان مفترضًا سابقًا.",
+    "level": "C1",
+    "situation": "education",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 121,
+    "videoId": null,
+    "transcriptContext": "The findings suggest a stronger link than previously assumed between sleep and academic performance.",
+    "pronunciation": "The findings suggest a stronger link than previously assumed.",
+    "words": [
+      {
+        "w": "suggest",
+        "m_en": "to indicate something without stating it directly, especially in research",
+        "m_ar": "الإشارة إلى شيء دون ذكره مباشرة، خاصة في الأبحاث"
+      }
+    ],
+    "grammar_en": "Suggest + noun — a common academic verb for presenting evidence-based conclusions cautiously.",
+    "grammar_ar": "Suggest + اسم — فعل أكاديمي شائع لتقديم استنتاجات مبنية على أدلة بحذر.",
+    "alternatives": [
+      {
+        "text": "The results indicate a stronger connection than expected.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "The data points to a closer relationship than previously thought.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "The study points to a clear correlation.",
+      "Early results hint at a different explanation.",
+      "The research indicates a growing trend."
+    ]
+  },
+  {
+    "id": 474,
+    "text": "The renovation is taking longer than originally quoted.",
+    "translation_ar": "التجديد يستغرق وقتًا أطول مما تم تقديره في البداية.",
+    "level": "C1",
+    "situation": "home",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 138,
+    "videoId": null,
+    "transcriptContext": "Unfortunately, the renovation is taking longer than originally quoted due to material delays.",
+    "pronunciation": "The renovation is taking longer than originally quoted.",
+    "words": [
+      {
+        "w": "quoted",
+        "m_en": "given an estimated price or time for a job",
+        "m_ar": "تقديم سعر أو وقت متوقع لعمل ما"
+      }
+    ],
+    "grammar_en": "Comparative structure (longer than) — comparing actual outcome to an original estimate.",
+    "grammar_ar": "تركيب المقارنة (longer than) — لمقارنة النتيجة الفعلية بالتقدير الأصلي.",
+    "alternatives": [
+      {
+        "text": "The renovation is running behind the original schedule.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "It's taking more time than the contractor initially estimated.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "The project is behind schedule due to supply issues.",
+      "The repair took longer than we expected.",
+      "Costs ended up higher than the original estimate."
+    ]
+  },
+  {
+    "id": 475,
+    "text": "The rollout has been delayed pending further testing.",
+    "translation_ar": "تأجّل الإطلاق بانتظار مزيد من الاختبارات.",
+    "level": "C1",
+    "situation": "technology",
+    "variety": "US",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (US)",
+    "timestamp": 155,
+    "videoId": null,
+    "transcriptContext": "The rollout has been delayed pending further testing to ensure system stability.",
+    "pronunciation": "The rollout has been delayed pending further testing.",
+    "words": [
+      {
+        "w": "pending",
+        "m_en": "waiting for something to happen or be decided",
+        "m_ar": "في انتظار حدوث أو تقرير أمر ما"
+      }
+    ],
+    "grammar_en": "Passive voice + pending — a formal way of explaining a delay due to an unresolved condition.",
+    "grammar_ar": "المبني للمجهول + pending — طريقة رسمية لشرح تأخير بسبب أمر لم يُحسم بعد.",
+    "alternatives": [
+      {
+        "text": "They've delayed the rollout until testing is complete.",
+        "note_en": "Active voice",
+        "note_ar": "المبني للمعلوم"
+      },
+      {
+        "text": "The launch is on hold until further tests are finished.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "The update is paused pending a security review.",
+      "Approval is pending until the board meets.",
+      "The launch was postponed pending final checks."
+    ]
+  },
+  {
+    "id": 476,
+    "text": "Turnout for the event exceeded expectations by a wide margin.",
+    "translation_ar": "تجاوز عدد الحضور في الفعالية التوقعات بفارق كبير.",
+    "level": "C1",
+    "situation": "events",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 172,
+    "videoId": null,
+    "transcriptContext": "Turnout for the event exceeded expectations by a wide margin, with over a thousand attendees.",
+    "pronunciation": "Turnout for the event exceeded expectations by a wide margin.",
+    "words": [
+      {
+        "w": "exceed expectations",
+        "m_en": "to be better or greater than what was expected",
+        "m_ar": "أن يكون أفضل أو أكبر مما كان متوقعًا"
+      }
+    ],
+    "grammar_en": "Exceed + noun — a formal verb for surpassing a standard or estimate.",
+    "grammar_ar": "Exceed + اسم — فعل رسمي يعني تجاوز معيار أو تقدير معين.",
+    "alternatives": [
+      {
+        "text": "A lot more people showed up than we expected.",
+        "note_en": "Less formal",
+        "note_ar": "أقل رسمية"
+      },
+      {
+        "text": "Attendance far surpassed our projections.",
+        "note_en": "Similar formality",
+        "note_ar": "بنفس الرسمية"
+      }
+    ],
+    "similar": [
+      "Sales exceeded projections for the third quarter.",
+      "The response exceeded what the organizers had planned for.",
+      "Demand outpaced what the venue could accommodate."
+    ]
+  },
+  {
+    "id": 477,
+    "text": "Local residents have raised concerns about the proposed development.",
+    "translation_ar": "أبدى السكان المحليون قلقهم بشأن التطوير المقترح.",
+    "level": "C1",
+    "situation": "community",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 189,
+    "videoId": null,
+    "transcriptContext": "Local residents have raised concerns about the proposed development at the town hall meeting.",
+    "pronunciation": "Local residents have raised concerns about the proposed development.",
+    "words": [
+      {
+        "w": "raise concerns",
+        "m_en": "to formally express worry or objection about something",
+        "m_ar": "التعبير رسميًا عن قلق أو اعتراض تجاه أمر ما"
+      }
+    ],
+    "grammar_en": "Present perfect (have raised) — describing a recent action with continuing relevance.",
+    "grammar_ar": "المضارع التام (have raised) — لوصف فعل حديث له أثر مستمر.",
+    "alternatives": [
+      {
+        "text": "Residents have voiced concerns about the new development.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "There's been pushback from locals over the proposed project.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عفوية"
+      }
+    ],
+    "similar": [
+      "Neighbors have objected to the new construction plans.",
+      "Community members expressed concerns at the meeting.",
+      "Several residents have questioned the project's impact."
+    ]
+  },
+  {
+    "id": 478,
+    "text": "Attendance has dropped off noticeably since the schedule changed.",
+    "translation_ar": "انخفض الحضور بشكل ملحوظ منذ تغيير الجدول.",
+    "level": "C1",
+    "situation": "leisure",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 206,
+    "videoId": null,
+    "transcriptContext": "Attendance has dropped off noticeably since the schedule changed last month.",
+    "pronunciation": "Attendance has dropped off noticeably since the schedule changed.",
+    "words": [
+      {
+        "w": "drop off",
+        "m_en": "to decrease gradually",
+        "m_ar": "الانخفاض بشكل تدريجي"
+      }
+    ],
+    "grammar_en": "Present perfect (has dropped off) — linking a past change to a present, ongoing effect.",
+    "grammar_ar": "المضارع التام (has dropped off) — لربط تغيّر سابق بأثر مستمر حتى الآن.",
+    "alternatives": [
+      {
+        "text": "Fewer people have been showing up since the schedule changed.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      },
+      {
+        "text": "Numbers have declined since the new schedule started.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      }
+    ],
+    "similar": [
+      "Membership has fallen since the price increase.",
+      "Interest has waned over the past few months.",
+      "Participation dropped after the venue changed."
+    ]
+  },
+  {
+    "id": 479,
+    "text": "Escalating the issue may be necessary if this continues.",
+    "translation_ar": "قد يكون تصعيد المشكلة ضروريًا إذا استمر هذا الوضع.",
+    "level": "C1",
+    "situation": "customer-help",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 223,
+    "videoId": null,
+    "transcriptContext": "Escalating the issue may be necessary if this continues without a resolution.",
+    "pronunciation": "Escalating the issue may be necessary if this continues.",
+    "words": [
+      {
+        "w": "escalate",
+        "m_en": "to pass a problem to someone with more authority to resolve it",
+        "m_ar": "تحويل مشكلة إلى شخص أعلى صلاحية لحلها"
+      }
+    ],
+    "grammar_en": "May be necessary — a formal, hedged way of suggesting a possible future action.",
+    "grammar_ar": "May be necessary — طريقة رسمية ومتحفظة لاقتراح إجراء مستقبلي محتمل.",
+    "alternatives": [
+      {
+        "text": "We might need to escalate this if it keeps happening.",
+        "note_en": "Less formal",
+        "note_ar": "أقل رسمية"
+      },
+      {
+        "text": "This may require escalation if it isn't resolved soon.",
+        "note_en": "Similar formality",
+        "note_ar": "بنفس الرسمية"
+      }
+    ],
+    "similar": [
+      "We may need to involve a supervisor.",
+      "This might need to go to the next level of support.",
+      "We may have to escalate if there's no response by Friday."
+    ]
+  },
+  {
+    "id": 480,
+    "text": "The exchange process is fairly straightforward once you have your receipt.",
+    "translation_ar": "عملية الاستبدال بسيطة إلى حد كبير بمجرد أن يكون لديك الإيصال.",
+    "level": "C1",
+    "situation": "returns",
+    "variety": "US",
+    "channel": "Customer Care Practice",
+    "speaker": "Native speaker (US)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "The exchange process is fairly straightforward once you have your receipt handy.",
+    "pronunciation": "The exchange process is fairly straightforward once you have your receipt.",
+    "words": [
+      {
+        "w": "straightforward",
+        "m_en": "simple and easy to understand or do",
+        "m_ar": "بسيط وسهل الفهم أو التنفيذ"
+      }
+    ],
+    "grammar_en": "Once + clause — indicating that an action becomes possible after a condition is met.",
+    "grammar_ar": "Once + جملة — للإشارة إلى أن فعلًا يصبح ممكنًا بعد تحقّق شرط معين.",
+    "alternatives": [
+      {
+        "text": "Exchanges are easy as long as you have the receipt.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      },
+      {
+        "text": "It's a simple process once your receipt is ready.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      }
+    ],
+    "similar": [
+      "The refund process is quick once approved.",
+      "It's easy to return items within 30 days.",
+      "The process is simple once the form is submitted."
+    ]
+  },
+  {
+    "id": 481,
+    "text": "The committee's recommendations, while thorough, stop short of proposing concrete deadlines.",
+    "translation_ar": "توصيات اللجنة، رغم شمولها، لا ترقى إلى اقتراح مواعيد نهائية محددة.",
+    "level": "C2",
+    "situation": "workplace",
+    "variety": "GB",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 17,
+    "videoId": null,
+    "transcriptContext": "The committee's recommendations, while thorough, stop short of proposing concrete deadlines for implementation.",
+    "pronunciation": "The committee's recommendations, while thorough, stop short of proposing concrete deadlines.",
+    "words": [
+      {
+        "w": "stop short of",
+        "m_en": "to almost do something but not quite go that far",
+        "m_ar": "الاقتراب من فعل شيء دون الوصول إليه بالكامل"
+      }
+    ],
+    "grammar_en": "While + adjective, as a concessive clause — acknowledging a positive quality before noting a limitation.",
+    "grammar_ar": "While + صفة، كجملة تنازلية — الاعتراف بجانب إيجابي قبل الإشارة إلى قصور ما.",
+    "alternatives": [
+      {
+        "text": "The recommendations are thorough but don't include firm deadlines.",
+        "note_en": "Simpler phrasing",
+        "note_ar": "صياغة أبسط"
+      },
+      {
+        "text": "Though detailed, the report avoids setting specific deadlines.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "The proposal, though ambitious, lacks a clear budget.",
+      "The plan is comprehensive but doesn't address funding.",
+      "The report is detailed yet avoids naming responsible parties."
+    ]
+  },
+  {
+    "id": 482,
+    "text": "Whether the initiative gains traction will largely depend on early buy-in.",
+    "translation_ar": "ما إذا كانت المبادرة ستكتسب زخمًا سيعتمد إلى حد كبير على التأييد المبكر.",
+    "level": "C2",
+    "situation": "career",
+    "variety": "US",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (US)",
+    "timestamp": 34,
+    "videoId": null,
+    "transcriptContext": "Whether the initiative gains traction will largely depend on early buy-in from senior leadership.",
+    "pronunciation": "Whether the initiative gains traction will largely depend on early buy-in.",
+    "words": [
+      {
+        "w": "gain traction",
+        "m_en": "to start to be accepted or successful",
+        "m_ar": "أن يبدأ في الحصول على قبول أو نجاح"
+      }
+    ],
+    "grammar_en": "Whether + clause as subject — a formal structure introducing uncertainty as the topic of a sentence.",
+    "grammar_ar": "Whether + جملة كفاعل للجملة — تركيب رسمي يقدّم حالة عدم يقين كموضوع للجملة.",
+    "alternatives": [
+      {
+        "text": "How well the initiative does will depend a lot on early support.",
+        "note_en": "Less formal",
+        "note_ar": "أقل رسمية"
+      },
+      {
+        "text": "Early buy-in will be key to whether the initiative succeeds.",
+        "note_en": "Reordered",
+        "note_ar": "إعادة ترتيب"
+      }
+    ],
+    "similar": [
+      "Whether the plan works will depend on funding.",
+      "The project's success hinges on early stakeholder support.",
+      "Adoption will likely hinge on how it's introduced."
+    ]
+  },
+  {
+    "id": 483,
+    "text": "Can you pass me the salt, please?",
+    "translation_ar": "هل يمكنك تمرير الملح لي، من فضلك؟",
+    "level": "A1",
+    "situation": "cooking",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 51,
+    "videoId": null,
+    "transcriptContext": "This needs a bit more flavor — can you pass me the salt, please?",
+    "pronunciation": "Can you pass me the salt, please?",
+    "words": [
+      {
+        "w": "pass (something)",
+        "m_en": "to hand an object to someone nearby",
+        "m_ar": "تناول شيء وتسليمه لشخص قريب"
+      }
+    ],
+    "grammar_en": "Can you + verb — a simple, everyday request.",
+    "grammar_ar": "Can you + فعل — طلب بسيط ويومي.",
+    "alternatives": [
+      {
+        "text": "Could you hand me the salt?",
+        "note_en": "Slightly more polite",
+        "note_ar": "أكثر تهذيبًا قليلًا"
+      },
+      {
+        "text": "Pass the salt, please.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عفوية"
+      }
+    ],
+    "similar": [
+      "Can you pass the pepper too?",
+      "Could you hand me that bowl?",
+      "Can you grab the olive oil?"
+    ]
+  },
+  {
+    "id": 484,
+    "text": "I usually chop the onions first.",
+    "translation_ar": "عادةً أقطّع البصل أولًا.",
+    "level": "A2",
+    "situation": "cooking",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 68,
+    "videoId": null,
+    "transcriptContext": "For this recipe, I usually chop the onions first before anything else.",
+    "pronunciation": "I usually chop the onions first.",
+    "words": [
+      {
+        "w": "chop",
+        "m_en": "to cut food into small pieces",
+        "m_ar": "تقطيع الطعام إلى قطع صغيرة"
+      }
+    ],
+    "grammar_en": "Usually + present simple — describing a habitual step in a routine.",
+    "grammar_ar": "Usually + المضارع البسيط — لوصف خطوة معتادة في روتين ما.",
+    "alternatives": [
+      {
+        "text": "I always start by chopping the onions.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "The onions are usually the first thing I cut.",
+        "note_en": "Reordered",
+        "note_ar": "إعادة ترتيب"
+      }
+    ],
+    "similar": [
+      "I always preheat the oven first.",
+      "I usually marinate the chicken overnight.",
+      "I start by washing the vegetables."
+    ]
+  },
+  {
+    "id": 485,
+    "text": "Let it simmer for about twenty minutes.",
+    "translation_ar": "دعه ينضج على نار هادئة لمدة عشرين دقيقة تقريبًا.",
+    "level": "B1",
+    "situation": "cooking",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 85,
+    "videoId": null,
+    "transcriptContext": "Once it's boiling, turn the heat down and let it simmer for about twenty minutes.",
+    "pronunciation": "Let it simmer for about twenty minutes.",
+    "words": [
+      {
+        "w": "simmer",
+        "m_en": "to cook food gently in liquid just below boiling point",
+        "m_ar": "طهي الطعام بلطف في سائل قرب درجة الغليان"
+      }
+    ],
+    "grammar_en": "Let it + verb — giving an instruction that allows a process to continue on its own.",
+    "grammar_ar": "Let it + فعل — تعليمات تسمح باستمرار عملية ما تلقائيًا.",
+    "alternatives": [
+      {
+        "text": "Leave it to simmer for around twenty minutes.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Cook it on low heat for about twenty minutes.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "Let the dough rest for an hour.",
+      "Leave it to cool before serving.",
+      "Let it marinate overnight for the best flavor."
+    ]
+  },
+  {
+    "id": 486,
+    "text": "This recipe calls for fresh basil, but dried works too.",
+    "translation_ar": "هذه الوصفة تتطلب ريحان طازج، لكن المجفف يصلح أيضًا.",
+    "level": "B1",
+    "situation": "cooking",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 102,
+    "videoId": null,
+    "transcriptContext": "This recipe calls for fresh basil, but dried works too if that's what you have.",
+    "pronunciation": "This recipe calls for fresh basil, but dried works too.",
+    "words": [
+      {
+        "w": "call for",
+        "m_en": "to require a specific ingredient or action in a recipe",
+        "m_ar": "أن تتطلب الوصفة مكونًا أو إجراءً معينًا"
+      }
+    ],
+    "grammar_en": "Call for + noun — a common recipe phrase for listing required ingredients.",
+    "grammar_ar": "Call for + اسم — عبارة شائعة في الوصفات لذكر المكونات المطلوبة.",
+    "alternatives": [
+      {
+        "text": "This recipe needs fresh basil, though dried is fine too.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Fresh basil is preferred here, but dried is an acceptable substitute.",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسمية"
+      }
+    ],
+    "similar": [
+      "The recipe requires two cups of flour.",
+      "This dish calls for a pinch of saffron.",
+      "You can substitute butter for oil if needed."
+    ]
+  },
+  {
+    "id": 487,
+    "text": "I wouldn't overcook the fish if I were you.",
+    "translation_ar": "لن أُفرط في طهي السمك لو كنت مكانك.",
+    "level": "B2",
+    "situation": "cooking",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 119,
+    "videoId": null,
+    "transcriptContext": "I wouldn't overcook the fish if I were you — it dries out quickly.",
+    "pronunciation": "I wouldn't overcook the fish if I were you.",
+    "words": [
+      {
+        "w": "overcook",
+        "m_en": "to cook food for too long, making it dry or tough",
+        "m_ar": "طهي الطعام لفترة طويلة جدًا مما يجعله جافًا أو قاسيًا"
+      }
+    ],
+    "grammar_en": "Second conditional (wouldn't ... if I were you) — giving advice in a hypothetical, gentle way.",
+    "grammar_ar": "الجملة الشرطية الثانية (wouldn't ... if I were you) — لتقديم نصيحة بأسلوب افتراضي ولطيف.",
+    "alternatives": [
+      {
+        "text": "I'd be careful not to overcook the fish.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "If I were you, I'd take the fish off a bit earlier.",
+        "note_en": "Reordered",
+        "note_ar": "إعادة ترتيب"
+      }
+    ],
+    "similar": [
+      "I wouldn't add too much salt if I were you.",
+      "If I were you, I'd let it rest before slicing.",
+      "I'd double-check the temperature before serving."
+    ]
+  },
+  {
+    "id": 488,
+    "text": "The sauce needs to reduce a bit more before it thickens properly.",
+    "translation_ar": "تحتاج الصلصة أن تتركز أكثر قليلًا قبل أن تتماسك بشكل جيد.",
+    "level": "B2",
+    "situation": "cooking",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 136,
+    "videoId": null,
+    "transcriptContext": "The sauce needs to reduce a bit more before it thickens properly — give it another five minutes.",
+    "pronunciation": "The sauce needs to reduce a bit more before it thickens properly.",
+    "words": [
+      {
+        "w": "reduce",
+        "m_en": "to cook a liquid until it decreases in volume and becomes thicker",
+        "m_ar": "طهي سائل حتى يقل حجمه ويصبح أكثر تماسكًا"
+      }
+    ],
+    "grammar_en": "Needs to + verb — expressing a necessary step to reach a desired result.",
+    "grammar_ar": "Needs to + فعل — للتعبير عن خطوة ضرورية للوصول إلى نتيجة مرغوبة.",
+    "alternatives": [
+      {
+        "text": "The sauce has to cook down more to thicken.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "It'll need a few more minutes to thicken up.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "The stock needs to reduce by half.",
+      "It'll thicken as it cools.",
+      "Keep stirring so it doesn't stick while it reduces."
+    ]
+  },
+  {
+    "id": 489,
+    "text": "Searing the meat first locks in the flavor.",
+    "translation_ar": "تحمير اللحم أولًا يحافظ على النكهة بداخله.",
+    "level": "C1",
+    "situation": "cooking",
+    "variety": "US",
+    "channel": "Culinary Techniques Weekly",
+    "speaker": "Native speaker (US)",
+    "timestamp": 153,
+    "videoId": null,
+    "transcriptContext": "Searing the meat first locks in the flavor before it goes into the oven.",
+    "pronunciation": "Searing the meat first locks in the flavor.",
+    "words": [
+      {
+        "w": "sear",
+        "m_en": "to cook the surface of meat quickly at high heat",
+        "m_ar": "طهي سطح اللحم بسرعة على حرارة عالية"
+      }
+    ],
+    "grammar_en": "Gerund as subject (Searing...) — using an -ing form to describe a technique as the topic of the sentence.",
+    "grammar_ar": "استخدام المصدر المؤول كفاعل (Searing...) — لوصف تقنية كموضوع رئيسي للجملة.",
+    "alternatives": [
+      {
+        "text": "Browning the meat beforehand helps retain flavor.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "A quick sear at the start helps keep the meat flavorful.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "Resting the meat helps redistribute the juices.",
+      "Toasting the spices first brings out their aroma.",
+      "Marinating overnight deepens the flavor significantly."
+    ]
+  },
+  {
+    "id": 490,
+    "text": "The dish benefits from a longer resting period than most recipes suggest.",
+    "translation_ar": "يستفيد الطبق من فترة راحة أطول مما تقترحه معظم الوصفات.",
+    "level": "C1",
+    "situation": "cooking",
+    "variety": "GB",
+    "channel": "Culinary Techniques Weekly",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 170,
+    "videoId": null,
+    "transcriptContext": "In my experience, the dish benefits from a longer resting period than most recipes suggest.",
+    "pronunciation": "The dish benefits from a longer resting period than most recipes suggest.",
+    "words": [
+      {
+        "w": "benefit from",
+        "m_en": "to gain an advantage or improvement from something",
+        "m_ar": "الاستفادة أو التحسّن نتيجة شيء ما"
+      }
+    ],
+    "grammar_en": "Benefit from + noun — a formal way of recommending a step based on experience.",
+    "grammar_ar": "Benefit from + اسم — طريقة رسمية للتوصية بخطوة بناءً على الخبرة.",
+    "alternatives": [
+      {
+        "text": "The dish turns out better with extra resting time.",
+        "note_en": "Simpler phrasing",
+        "note_ar": "صياغة أبسط"
+      },
+      {
+        "text": "Letting it rest longer than usual improves the result.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "The bread benefits from a slow, overnight rise.",
+      "This cut of meat improves with a longer marinade.",
+      "The flavor develops more with extra resting time."
+    ]
+  },
+  {
+    "id": 491,
+    "text": "Achieving that balance of sweet and savory takes a fair amount of trial and error.",
+    "translation_ar": "تحقيق هذا التوازن بين الحلو والمالح يتطلب قدرًا لا بأس به من التجربة والخطأ.",
+    "level": "C2",
+    "situation": "cooking",
+    "variety": "US",
+    "channel": "Culinary Techniques Weekly",
+    "speaker": "Native speaker (US)",
+    "timestamp": 187,
+    "videoId": null,
+    "transcriptContext": "Achieving that balance of sweet and savory takes a fair amount of trial and error, even for experienced cooks.",
+    "pronunciation": "Achieving that balance of sweet and savory takes a fair amount of trial and error.",
+    "words": [
+      {
+        "w": "trial and error",
+        "m_en": "a method of solving a problem by trying different approaches until one works",
+        "m_ar": "أسلوب لحل مشكلة عن طريق تجربة طرق مختلفة حتى تنجح إحداها"
+      }
+    ],
+    "grammar_en": "Gerund as subject (Achieving...) with a formal predicate — a structure common in reflective, expert-level explanations.",
+    "grammar_ar": "المصدر المؤول كفاعل (Achieving...) مع خبر رسمي — تركيب شائع في الشروحات التأملية على مستوى الخبراء.",
+    "alternatives": [
+      {
+        "text": "Getting that sweet-savory balance right usually takes some experimenting.",
+        "note_en": "Simpler phrasing",
+        "note_ar": "صياغة أبسط"
+      },
+      {
+        "text": "It takes considerable practice to strike that balance well.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "Mastering that technique takes years of practice.",
+      "Perfecting the recipe required countless attempts.",
+      "Getting the seasoning just right is largely a matter of taste and experience."
+    ]
+  },
+  {
+    "id": 492,
+    "text": "Would you recommend cast iron over non-stick for this?",
+    "translation_ar": "هل توصي باستخدام الحديد الزهر بدلاً من غير اللاصق لهذا الغرض؟",
+    "level": "B1",
+    "situation": "cooking",
+    "variety": "AU",
+    "channel": "Culinary Techniques Weekly",
+    "speaker": "Native speaker (Australia)",
+    "timestamp": 204,
+    "videoId": null,
+    "transcriptContext": "Would you recommend cast iron over non-stick for this kind of dish?",
+    "pronunciation": "Would you recommend cast iron over non-stick for this?",
+    "words": [
+      {
+        "w": "recommend",
+        "m_en": "to suggest that something is good or suitable",
+        "m_ar": "اقتراح أن شيئًا ما جيد أو مناسب"
+      }
+    ],
+    "grammar_en": "Would you recommend + noun — a polite way of asking for advice or an opinion.",
+    "grammar_ar": "Would you recommend + اسم — طريقة مهذبة لطلب نصيحة أو رأي.",
+    "alternatives": [
+      {
+        "text": "Do you think cast iron is better than non-stick here?",
+        "note_en": "More direct",
+        "note_ar": "أكثر مباشرة"
+      },
+      {
+        "text": "Which would you suggest, cast iron or non-stick?",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "Would you recommend a gas or electric stove?",
+      "What would you suggest for a beginner?",
+      "Do you recommend marinating it overnight?"
+    ]
+  },
+  {
+    "id": 493,
+    "text": "I go to the gym three times a week.",
+    "translation_ar": "أذهب إلى النادي الرياضي ثلاث مرات في الأسبوع.",
+    "level": "A1",
+    "situation": "sports",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 221,
+    "videoId": null,
+    "transcriptContext": "I go to the gym three times a week to stay active.",
+    "pronunciation": "I go to the gym three times a week.",
+    "words": [
+      {
+        "w": "go to the gym",
+        "m_en": "to visit a place with exercise equipment to work out",
+        "m_ar": "الذهاب إلى مكان مجهز بمعدات رياضية لممارسة التمارين"
+      }
+    ],
+    "grammar_en": "Present simple + frequency phrase — describing a regular habit.",
+    "grammar_ar": "المضارع البسيط + عبارة تكرار — لوصف عادة منتظمة.",
+    "alternatives": [
+      {
+        "text": "I work out at the gym three times a week.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "I hit the gym three times weekly.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عفوية"
+      }
+    ],
+    "similar": [
+      "I run every morning.",
+      "I play football on weekends.",
+      "I do yoga twice a week."
+    ]
+  },
+  {
+    "id": 494,
+    "text": "Who won the match last night?",
+    "translation_ar": "من فاز في المباراة الليلة الماضية؟",
+    "level": "A1",
+    "situation": "sports",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 238,
+    "videoId": null,
+    "transcriptContext": "Did you watch the game? Who won the match last night?",
+    "pronunciation": "Who won the match last night?",
+    "words": [
+      {
+        "w": "match",
+        "m_en": "a sports competition between two players or teams",
+        "m_ar": "منافسة رياضية بين لاعبين أو فريقين"
+      }
+    ],
+    "grammar_en": "Simple past (won) — asking about a completed event.",
+    "grammar_ar": "الماضي البسيط (won) — للسؤال عن حدث مكتمل.",
+    "alternatives": [
+      {
+        "text": "Who won the game yesterday?",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Do you know the result of last night's match?",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "What was the final score?",
+      "Did our team win?",
+      "Who scored the winning goal?"
+    ]
+  },
+  {
+    "id": 495,
+    "text": "I'm training for a half marathon next month.",
+    "translation_ar": "أتدرب لخوض سباق نصف ماراثون الشهر القادم.",
+    "level": "A2",
+    "situation": "sports",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 15,
+    "videoId": null,
+    "transcriptContext": "I'm training for a half marathon next month, so I run most days.",
+    "pronunciation": "I'm training for a half marathon next month.",
+    "words": [
+      {
+        "w": "train for",
+        "m_en": "to prepare physically for a specific event or competition",
+        "m_ar": "الاستعداد بدنيًا لحدث أو منافسة معينة"
+      }
+    ],
+    "grammar_en": "Present continuous for future plans — describing a scheduled, prepared-for event.",
+    "grammar_ar": "المضارع المستمر للتعبير عن المستقبل — لوصف حدث مُخطّط ومُستعد له.",
+    "alternatives": [
+      {
+        "text": "I'm getting ready for a half marathon next month.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Next month I'm running a half marathon, so I've been training hard.",
+        "note_en": "Reordered",
+        "note_ar": "إعادة ترتيب"
+      }
+    ],
+    "similar": [
+      "I'm preparing for a big race in the spring.",
+      "She's training for her first triathlon.",
+      "He's getting in shape for the season."
+    ]
+  },
+  {
+    "id": 496,
+    "text": "Try to warm up properly before you start lifting.",
+    "translation_ar": "حاول أن تُسخّن جسمك جيدًا قبل أن تبدأ رفع الأثقال.",
+    "level": "B1",
+    "situation": "sports",
+    "variety": "US",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (US)",
+    "timestamp": 32,
+    "videoId": null,
+    "transcriptContext": "Try to warm up properly before you start lifting to avoid injury.",
+    "pronunciation": "Try to warm up properly before you start lifting.",
+    "words": [
+      {
+        "w": "warm up",
+        "m_en": "to do light exercise to prepare your body before intense activity",
+        "m_ar": "القيام بتمارين خفيفة لتهيئة الجسم قبل نشاط مكثف"
+      }
+    ],
+    "grammar_en": "Imperative + purpose — giving advice with an implied reason.",
+    "grammar_ar": "صيغة الأمر + غرض — لتقديم نصيحة مع سبب ضمني.",
+    "alternatives": [
+      {
+        "text": "Make sure to stretch before lifting weights.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Warm up first so you don't get hurt.",
+        "note_en": "Simpler phrasing",
+        "note_ar": "صياغة أبسط"
+      }
+    ],
+    "similar": [
+      "Stretch before you go for a run.",
+      "Cool down after your workout.",
+      "Take a few minutes to warm up your muscles."
+    ]
+  },
+  {
+    "id": 497,
+    "text": "She's been the top scorer in the league for two seasons running.",
+    "translation_ar": "كانت أعلى هدافة في الدوري لموسمين متتاليين.",
+    "level": "B2",
+    "situation": "sports",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 49,
+    "videoId": null,
+    "transcriptContext": "She's been the top scorer in the league for two seasons running, which is quite an achievement.",
+    "pronunciation": "She's been the top scorer in the league for two seasons running.",
+    "words": [
+      {
+        "w": "running",
+        "m_en": "consecutively, one after another (used with a period of time)",
+        "m_ar": "على التوالي، بشكل متتابع (تُستخدم مع فترة زمنية)"
+      }
+    ],
+    "grammar_en": "Present perfect continuous idea via 'has been ... running' — describing an ongoing streak.",
+    "grammar_ar": "استخدام 'has been ... running' — لوصف سلسلة إنجازات مستمرة.",
+    "alternatives": [
+      {
+        "text": "She's topped the scoring charts for two years in a row.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "For two seasons now, she's led the league in goals.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "He's won the championship three years running.",
+      "They've made the playoffs four seasons in a row.",
+      "She's held the record for over a decade now."
+    ]
+  },
+  {
+    "id": 498,
+    "text": "It's not just about physical strength — mental focus matters just as much.",
+    "translation_ar": "الأمر لا يتعلق فقط بالقوة البدنية — التركيز الذهني له نفس الأهمية.",
+    "level": "B2",
+    "situation": "sports",
+    "variety": "US",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (US)",
+    "timestamp": 66,
+    "videoId": null,
+    "transcriptContext": "It's not just about physical strength — mental focus matters just as much at this level.",
+    "pronunciation": "It's not just about physical strength — mental focus matters just as much.",
+    "words": [
+      {
+        "w": "just as much",
+        "m_en": "to an equal degree or extent",
+        "m_ar": "بنفس الدرجة أو القدر"
+      }
+    ],
+    "grammar_en": "Not just about + noun — a structure used to broaden a claim beyond an obvious factor.",
+    "grammar_ar": "Not just about + اسم — تركيب يُستخدم لتوسيع فكرة بعيدًا عن العامل الواضح.",
+    "alternatives": [
+      {
+        "text": "Physical strength alone isn't enough — mental focus counts too.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      },
+      {
+        "text": "Mental focus is just as important as physical strength.",
+        "note_en": "Simpler phrasing",
+        "note_ar": "صياغة أبسط"
+      }
+    ],
+    "similar": [
+      "It's not only about talent — hard work matters too.",
+      "Strategy is just as important as skill in this sport.",
+      "Recovery matters just as much as training."
+    ]
+  },
+  {
+    "id": 499,
+    "text": "The team's form has dipped noticeably since the injury to their captain.",
+    "translation_ar": "تراجع أداء الفريق بشكل ملحوظ منذ إصابة قائدهم.",
+    "level": "C1",
+    "situation": "sports",
+    "variety": "GB",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (UK)",
+    "timestamp": 83,
+    "videoId": null,
+    "transcriptContext": "The team's form has dipped noticeably since the injury to their captain last month.",
+    "pronunciation": "The team's form has dipped noticeably since the injury to their captain.",
+    "words": [
+      {
+        "w": "form",
+        "m_en": "a team or player's recent level of performance",
+        "m_ar": "المستوى الأخير لأداء فريق أو لاعب"
+      }
+    ],
+    "grammar_en": "Present perfect (has dipped) — connecting a past cause to its present effect.",
+    "grammar_ar": "المضارع التام (has dipped) — لربط سبب سابق بأثره الحالي.",
+    "alternatives": [
+      {
+        "text": "The team hasn't played as well since their captain got injured.",
+        "note_en": "Simpler phrasing",
+        "note_ar": "صياغة أبسط"
+      },
+      {
+        "text": "Performance has declined since the captain's injury.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "Their results have suffered since the coaching change.",
+      "Confidence has dropped since the losing streak began.",
+      "The squad's morale has taken a hit this season."
+    ]
+  },
+  {
+    "id": 500,
+    "text": "Sustaining peak performance over a full season requires more than raw talent.",
+    "translation_ar": "الحفاظ على أعلى مستوى أداء طوال الموسم يتطلب أكثر من مجرد الموهبة الخام.",
+    "level": "C2",
+    "situation": "sports",
+    "variety": "US",
+    "channel": "Executive Interview Series",
+    "speaker": "Native speaker (US)",
+    "timestamp": 100,
+    "videoId": null,
+    "transcriptContext": "Sustaining peak performance over a full season requires more than raw talent — it demands discipline and recovery.",
+    "pronunciation": "Sustaining peak performance over a full season requires more than raw talent.",
+    "words": [
+      {
+        "w": "sustain",
+        "m_en": "to keep something going at the same level over time",
+        "m_ar": "الحفاظ على استمرار شيء ما بنفس المستوى مع مرور الوقت"
+      }
+    ],
+    "grammar_en": "Gerund as subject (Sustaining...) — a formal structure for discussing abstract, ongoing challenges.",
+    "grammar_ar": "المصدر المؤول كفاعل (Sustaining...) — تركيب رسمي لمناقشة تحديات مجردة ومستمرة.",
+    "alternatives": [
+      {
+        "text": "Keeping up peak performance all season takes more than just talent.",
+        "note_en": "Simpler phrasing",
+        "note_ar": "صياغة أبسط"
+      },
+      {
+        "text": "Maintaining that level of performance year-round demands real discipline.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "Maintaining consistency over a long career takes real discipline.",
+      "Staying at the top requires constant adaptation.",
+      "Long-term success depends on more than natural ability."
+    ]
+  },
+  {
+    "id": 501,
+    "text": "I've made a reservation for two at seven o'clock.",
+    "translation_ar": "حجزت طاولة لشخصين الساعة السابعة.",
+    "level": "A2",
+    "situation": "restaurant",
+    "variety": "CA",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (Canada)",
+    "timestamp": 117,
+    "videoId": null,
+    "transcriptContext": "Hi, I've made a reservation for two at seven o'clock under the name Smith.",
+    "pronunciation": "I've made a reservation for two at seven o'clock.",
+    "words": [
+      {
+        "w": "make a reservation",
+        "m_en": "to book a table, room, or seat in advance",
+        "m_ar": "حجز طاولة أو غرفة أو مقعد مسبقًا"
+      }
+    ],
+    "grammar_en": "Present perfect (have made) — describing a past action relevant to the present situation.",
+    "grammar_ar": "المضارع التام (have made) — لوصف فعل سابق له صلة بالوضع الحالي.",
+    "alternatives": [
+      {
+        "text": "I booked a table for two at seven.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "We have a reservation for seven o'clock.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "I'd like to book a table for four.",
+      "Do you have any tables available at eight?",
+      "We reserved a spot for tonight."
+    ]
+  },
+  {
+    "id": 502,
+    "text": "Is there a pharmacy nearby that's still open?",
+    "translation_ar": "هل يوجد صيدلية قريبة لا تزال مفتوحة؟",
+    "level": "A2",
+    "situation": "health",
+    "variety": "AU",
+    "channel": "Customer Care Practice",
+    "speaker": "Native speaker (Australia)",
+    "timestamp": 134,
+    "videoId": null,
+    "transcriptContext": "Is there a pharmacy nearby that's still open at this hour?",
+    "pronunciation": "Is there a pharmacy nearby that's still open?",
+    "words": [
+      {
+        "w": "nearby",
+        "m_en": "close to a particular place",
+        "m_ar": "قريب من مكان معين"
+      }
+    ],
+    "grammar_en": "Is there + noun — a common structure for asking about availability.",
+    "grammar_ar": "Is there + اسم — تركيب شائع للسؤال عن توفر شيء ما.",
+    "alternatives": [
+      {
+        "text": "Is there a pharmacy close by that's open now?",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "Do you know of any open pharmacies around here?",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "Is there a clinic nearby?",
+      "Do you know where the nearest hospital is?",
+      "Is there a 24-hour pharmacy around here?"
+    ]
+  },
+  {
+    "id": 503,
+    "text": "The bus stop is just around the corner.",
+    "translation_ar": "موقف الحافلة على بعد منعطف واحد فقط.",
+    "level": "A1",
+    "situation": "directions",
+    "variety": "CA",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (Canada)",
+    "timestamp": 151,
+    "videoId": null,
+    "transcriptContext": "It's really close — the bus stop is just around the corner.",
+    "pronunciation": "The bus stop is just around the corner.",
+    "words": [
+      {
+        "w": "around the corner",
+        "m_en": "very close by, a short distance away",
+        "m_ar": "قريب جدًا، على مسافة قصيرة"
+      }
+    ],
+    "grammar_en": "Just + prepositional phrase — emphasizing how close something is.",
+    "grammar_ar": "Just + شبه جملة — للتأكيد على مدى قرب شيء ما.",
+    "alternatives": [
+      {
+        "text": "The bus stop is really close, just around the corner.",
+        "note_en": "Similar meaning",
+        "note_ar": "معنى مشابه"
+      },
+      {
+        "text": "It's a short walk to the bus stop.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "The station is just down the street.",
+      "It's a five-minute walk from here.",
+      "The shop is right around the corner."
+    ]
+  },
+  {
+    "id": 504,
+    "text": "We're looking forward to celebrating with the whole family this year.",
+    "translation_ar": "نتطلع للاحتفال مع العائلة بأكملها هذا العام.",
+    "level": "B1",
+    "situation": "celebrations",
+    "variety": "AU",
+    "channel": "Everyday Business English",
+    "speaker": "Native speaker (Australia)",
+    "timestamp": 168,
+    "videoId": null,
+    "transcriptContext": "We're looking forward to celebrating with the whole family this year.",
+    "pronunciation": "We're looking forward to celebrating with the whole family this year.",
+    "words": [
+      {
+        "w": "look forward to",
+        "m_en": "to feel happy and excited about something that will happen",
+        "m_ar": "الشعور بالسعادة والحماس تجاه أمر سيحدث"
+      }
+    ],
+    "grammar_en": "Look forward to + gerund — expressing anticipation for a future event.",
+    "grammar_ar": "Look forward to + مصدر مؤول (gerund) — للتعبير عن تطلّع لحدث مستقبلي.",
+    "alternatives": [
+      {
+        "text": "We can't wait to celebrate with everyone this year.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عفوية"
+      },
+      {
+        "text": "We're excited about gathering the whole family this year.",
+        "note_en": "Reworded",
+        "note_ar": "معاد صياغته"
+      }
+    ],
+    "similar": [
+      "We're looking forward to seeing everyone at the reunion.",
+      "I can't wait for the holidays this year.",
+      "We're excited to host the whole family this time."
+    ]
+  },
+  {
+    "id": 505,
+    "text": "Could you keep it down a little? I'm on a call.",
+    "translation_ar": "هل يمكنك خفض الصوت قليلًا؟ أنا في مكالمة.",
+    "level": "B1",
+    "situation": "phone-calls",
+    "variety": "CA",
+    "channel": "Office English Clips",
+    "speaker": "Native speaker (Canada)",
+    "timestamp": 185,
+    "videoId": null,
+    "transcriptContext": "Sorry to interrupt — could you keep it down a little? I'm on a call.",
+    "pronunciation": "Could you keep it down a little? I'm on a call.",
+    "words": [
+      {
+        "w": "keep it down",
+        "m_en": "to reduce the volume of noise",
+        "m_ar": "خفض مستوى الضجيج"
+      }
+    ],
+    "grammar_en": "Could you + verb — a polite request, softened with 'a little'.",
+    "grammar_ar": "Could you + فعل — طلب مهذب، ملطّف بإضافة 'a little'.",
+    "alternatives": [
+      {
+        "text": "Would you mind lowering your voice? I'm on a call.",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسمية"
+      },
+      {
+        "text": "Can you quiet down a bit? I'm on the phone.",
+        "note_en": "More casual",
+        "note_ar": "أكثر عفوية"
+      }
+    ],
+    "similar": [
+      "Could you speak a bit quieter, please?",
+      "I need it a little quieter for this call.",
+      "Would you mind keeping the noise down?"
+    ]
   }
 ]
