@@ -459,7 +459,7 @@ footer .wrap{display:flex; flex-wrap:wrap; gap:10px; justify-content:space-betwe
 
   <!-- ===================== HERO / SEARCH ===================== -->
   <section class="hero wrap">
-    <h1 data-i18n="heroTitle">Learn English from Real Sentences</h1>
+    <h1 id="heroTitle">Learn English from Real Sentences</h1>
     <p class="tagline" data-i18n="heroTagline">Search a complete sentence and hear how real people use it.</p>
 
     <form class="search-form" id="searchForm" role="search">
@@ -2234,7 +2234,7 @@ function applyLanguage(){
   });
   document.getElementById('searchInput').placeholder = LEARN_PLACEHOLDERS[State.learnLang];
   updateYouglishHomeLink();
-  renderExamples();
+  updateHeroTitle();
   renderSituations();
   renderSotd();
   renderLevelPills();
@@ -2254,12 +2254,33 @@ document.getElementById('langToggle').addEventListener('click', ()=>{
    German) the whole app searches, quizzes and speaks. */
 const LEARN_LABELS = { en: '🇬🇧 English', de: '🇩🇪 Deutsch' };
 function otherLearnLang(l){ return l==='de' ? 'en' : 'de'; }
+
+/* Name of the language being learned, translated into the current UI
+   language — used to keep the hero title in sync with State.learnLang
+   instead of always saying "English". */
+const LEARN_LANG_NAME = {
+  en: { en:'English', de:'German' },
+  ar: { en:'الإنجليزية', de:'الألمانية' },
+  de: { en:'Englisch', de:'Deutsch' }
+};
+function heroTitleText(){
+  const learnName = (LEARN_LANG_NAME[State.lang] || LEARN_LANG_NAME.en)[State.learnLang];
+  if(State.lang==='ar') return `تعلّم ${learnName} من جُمل حقيقية`;
+  if(State.lang==='de') return `Lerne ${learnName} mit echten Sätzen`;
+  return `Learn ${learnName} from Real Sentences`;
+}
+function updateHeroTitle(){
+  const el = document.getElementById('heroTitle');
+  if(el) el.textContent = heroTitleText();
+}
+
 function applyLearnLang(){
   DEMO_SENTENCES = State.learnLang==='de' ? DEMO_SENTENCES_DE : DEMO_SENTENCES_EN;
   document.getElementById('learnToggle').textContent = LEARN_LABELS[otherLearnLang(State.learnLang)];
   document.getElementById('searchInput').placeholder = LEARN_PLACEHOLDERS[State.learnLang];
   document.getElementById('searchInput').value = '';
   updateYouglishHomeLink();
+  updateHeroTitle();
   State.favorites = JSON.parse(localStorage.getItem('sg_favorites_' + State.learnLang) || '[]');
   State.history = JSON.parse(localStorage.getItem('sg_history_' + State.learnLang) || '[]');
   State.currentQuery=''; State.currentResults=[]; State.currentSimilar=[]; State.activeSentence=null;
