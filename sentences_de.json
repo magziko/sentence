@@ -11,7 +11,7 @@
     "timestamp": 177,
     "videoId": null,
     "transcriptContext": "Hallo!",
-    "pronunciation": "Hallo!",
+    "pronunciation": "هالو!",
     "words": [
       {
         "w": "Hallo",
@@ -48,7 +48,7 @@
     "timestamp": 194,
     "videoId": null,
     "transcriptContext": "Guten Morgen!",
-    "pronunciation": "Guten Morgen!",
+    "pronunciation": "غوتِن مورغِن!",
     "words": [
       {
         "w": "der Morgen",
@@ -85,7 +85,7 @@
     "timestamp": 211,
     "videoId": null,
     "transcriptContext": "Guten Abend!",
-    "pronunciation": "Guten Abend!",
+    "pronunciation": "غوتِن آبِنت!",
     "words": [
       {
         "w": "der Abend",
@@ -117,7 +117,7 @@
     "timestamp": 228,
     "videoId": null,
     "transcriptContext": "Gute Nacht!",
-    "pronunciation": "Gute Nacht!",
+    "pronunciation": "غوتِه ناخت!",
     "words": [
       {
         "w": "die Nacht",
@@ -149,7 +149,7 @@
     "timestamp": 5,
     "videoId": null,
     "transcriptContext": "Danke!",
-    "pronunciation": "Danke!",
+    "pronunciation": "دانكِه!",
     "words": [
       {
         "w": "danke",
@@ -186,7 +186,7 @@
     "timestamp": 22,
     "videoId": null,
     "transcriptContext": "Bitte!",
-    "pronunciation": "Bitte!",
+    "pronunciation": "بيتِه!",
     "words": [
       {
         "w": "bitte",
@@ -223,7 +223,7 @@
     "timestamp": 39,
     "videoId": null,
     "transcriptContext": "Ja, bitte.",
-    "pronunciation": "Ja, bitte.",
+    "pronunciation": "يا، بيتِه.",
     "words": [
       {
         "w": "ja",
@@ -255,7 +255,7 @@
     "timestamp": 56,
     "videoId": null,
     "transcriptContext": "Nein, danke.",
-    "pronunciation": "Nein, danke.",
+    "pronunciation": "ناين، دانكِه.",
     "words": [
       {
         "w": "nein",
@@ -287,7 +287,7 @@
     "timestamp": 73,
     "videoId": null,
     "transcriptContext": "Entschuldigung!",
-    "pronunciation": "Entschuldigung!",
+    "pronunciation": "إنتشولديغونغ!",
     "words": [
       {
         "w": "Entschuldigung",
@@ -324,7 +324,7 @@
     "timestamp": 90,
     "videoId": null,
     "transcriptContext": "Tschüss!",
-    "pronunciation": "Tschüss!",
+    "pronunciation": "تشوس!",
     "words": [
       {
         "w": "tschüss",
@@ -356,7 +356,7 @@
     "timestamp": 107,
     "videoId": null,
     "transcriptContext": "Auf Wiedersehen!",
-    "pronunciation": "Auf Wiedersehen!",
+    "pronunciation": "آوف فيدِرزيهِن!",
     "words": [
       {
         "w": "Wiedersehen",
@@ -393,7 +393,7 @@
     "timestamp": 124,
     "videoId": null,
     "transcriptContext": "Bis morgen!",
-    "pronunciation": "Bis morgen!",
+    "pronunciation": "بِس مورغِن!",
     "words": [
       {
         "w": "bis",
@@ -435,7 +435,7 @@
     "timestamp": 141,
     "videoId": null,
     "transcriptContext": "Wie geht's?",
-    "pronunciation": "Wie geht's?",
+    "pronunciation": "في غيتس؟",
     "words": [
       {
         "w": "wie",
@@ -477,7 +477,7 @@
     "timestamp": 158,
     "videoId": null,
     "transcriptContext": "Mir geht es gut, danke.",
-    "pronunciation": "Mir geht es gut, danke.",
+    "pronunciation": "ميا غيت إِس غوت، دانكِه.",
     "words": [
       {
         "w": "mir",
@@ -519,7 +519,7 @@
     "timestamp": 175,
     "videoId": null,
     "transcriptContext": "Und dir?",
-    "pronunciation": "Und dir?",
+    "pronunciation": "أونت دير؟",
     "words": [
       {
         "w": "und",
@@ -556,7 +556,7 @@
     "timestamp": 8,
     "videoId": null,
     "transcriptContext": "Eins, zwei, drei.",
-    "pronunciation": "Eins, zwei, drei.",
+    "pronunciation": "آينس، تسفاي، دراي.",
     "words": [
       {
         "w": "eins",
@@ -598,7 +598,7 @@
     "timestamp": 25,
     "videoId": null,
     "transcriptContext": "Vier, fünf, sechs.",
-    "pronunciation": "Vier, fünf, sechs.",
+    "pronunciation": "فيا، فونف، زِكس.",
     "words": [
       {
         "w": "vier",
@@ -640,7 +640,7 @@
     "timestamp": 42,
     "videoId": null,
     "transcriptContext": "Sieben, acht, neun, zehn.",
-    "pronunciation": "Sieben, acht, neun, zehn.",
+    "pronunciation": "زيبِن، آخت، نوين، تسين.",
     "words": [
       {
         "w": "sieben",
@@ -682,7 +682,7 @@
     "timestamp": 57,
     "videoId": null,
     "transcriptContext": "Heute ist Montag.",
-    "pronunciation": "Heute ist Montag.",
+    "pronunciation": "هويتِه إِست مونتاك.",
     "words": [
       {
         "w": "heute",
@@ -719,7 +719,7 @@
     "timestamp": 74,
     "videoId": null,
     "transcriptContext": "Morgen ist Dienstag.",
-    "pronunciation": "Morgen ist Dienstag.",
+    "pronunciation": "مورغِن إِست دينستاك.",
     "words": [
       {
         "w": "morgen",
@@ -756,7 +756,7 @@
     "timestamp": 91,
     "videoId": null,
     "transcriptContext": "Mittwoch, Donnerstag, Freitag.",
-    "pronunciation": "Mittwoch, Donnerstag, Freitag.",
+    "pronunciation": "ميتفوخ، دونِرستاك، فرايتاك.",
     "words": [
       {
         "w": "Mittwoch",
@@ -798,7 +798,7 @@
     "timestamp": 64,
     "videoId": null,
     "transcriptContext": "Januar, Februar, März.",
-    "pronunciation": "Januar, Februar, März.",
+    "pronunciation": "يانوار، فيبروار، ميرتس.",
     "words": [
       {
         "w": "der Januar",
@@ -840,7 +840,7 @@
     "timestamp": 81,
     "videoId": null,
     "transcriptContext": "April, Mai, Juni.",
-    "pronunciation": "April, Mai, Juni.",
+    "pronunciation": "أبريل، ماي، يوني.",
     "words": [
       {
         "w": "der April",
@@ -882,7 +882,7 @@
     "timestamp": 98,
     "videoId": null,
     "transcriptContext": "Juli, August, September.",
-    "pronunciation": "Juli, August, September.",
+    "pronunciation": "يولي، آوغوست، زِبتِمبِر.",
     "words": [
       {
         "w": "der Juli",
@@ -924,7 +924,7 @@
     "timestamp": 115,
     "videoId": null,
     "transcriptContext": "Oktober, November, Dezember.",
-    "pronunciation": "Oktober, November, Dezember.",
+    "pronunciation": "أوكتوبِر، نوفِمبِر، ديتسِمبِر.",
     "words": [
       {
         "w": "der Oktober",
@@ -966,7 +966,7 @@
     "timestamp": 12,
     "videoId": null,
     "transcriptContext": "Es ist gut.",
-    "pronunciation": "Es ist gut.",
+    "pronunciation": "إِس إِست غوت.",
     "words": [
       {
         "w": "es",
@@ -998,7 +998,7 @@
     "timestamp": 190,
     "videoId": null,
     "transcriptContext": "Was ist das?",
-    "pronunciation": "Was ist das?",
+    "pronunciation": "فاس إِست داس؟",
     "words": [
       {
         "w": "was",
@@ -1035,7 +1035,7 @@
     "timestamp": 207,
     "videoId": null,
     "transcriptContext": "Wer ist das?",
-    "pronunciation": "Wer ist das?",
+    "pronunciation": "فير إِست داس؟",
     "words": [
       {
         "w": "wer",
@@ -1067,7 +1067,7 @@
     "timestamp": 118,
     "videoId": null,
     "transcriptContext": "Es ist kalt.",
-    "pronunciation": "Es ist kalt.",
+    "pronunciation": "إِس إِست كالت.",
     "words": [
       {
         "w": "kalt",
@@ -1099,7 +1099,7 @@
     "timestamp": 163,
     "videoId": null,
     "transcriptContext": "Er ist nett.",
-    "pronunciation": "Er ist nett.",
+    "pronunciation": "إير إِست نِت.",
     "words": [
       {
         "w": "nett",
@@ -1131,7 +1131,7 @@
     "timestamp": 215,
     "videoId": null,
     "transcriptContext": "Wie heißt du?",
-    "pronunciation": "Wie heißt du?",
+    "pronunciation": "في هايست دو؟",
     "words": [
       {
         "w": "heißen",
@@ -1163,7 +1163,7 @@
     "timestamp": 192,
     "videoId": null,
     "transcriptContext": "Ich bin müde.",
-    "pronunciation": "Ich bin müde.",
+    "pronunciation": "إِش بِن مودِه.",
     "words": [
       {
         "w": "müde",
@@ -1205,7 +1205,7 @@
     "timestamp": 226,
     "videoId": null,
     "transcriptContext": "Ich bin Arzt.",
-    "pronunciation": "Ich bin Arzt.",
+    "pronunciation": "إِش بِن آرتست.",
     "words": [
       {
         "w": "der Arzt",
@@ -1237,7 +1237,7 @@
     "timestamp": 88,
     "videoId": null,
     "transcriptContext": "Wo wohnst du?",
-    "pronunciation": "Wo wohnst du?",
+    "pronunciation": "فو فونست دو؟",
     "words": [
       {
         "w": "wo",
@@ -1274,7 +1274,7 @@
     "timestamp": 184,
     "videoId": null,
     "transcriptContext": "Ich bin hier.",
-    "pronunciation": "Ich bin hier.",
+    "pronunciation": "إِش بِن هيا.",
     "words": [
       {
         "w": "ich",
@@ -1311,7 +1311,7 @@
     "timestamp": 233,
     "videoId": null,
     "transcriptContext": "Was sagst du?",
-    "pronunciation": "Was sagst du?",
+    "pronunciation": "فاس زاغست دو؟",
     "words": [
       {
         "w": "sagen",
@@ -1343,7 +1343,7 @@
     "timestamp": 18,
     "videoId": null,
     "transcriptContext": "Was machst du?",
-    "pronunciation": "Was machst du?",
+    "pronunciation": "فاس ماخست دو؟",
     "words": [
       {
         "w": "machen",
@@ -1375,7 +1375,7 @@
     "timestamp": 103,
     "videoId": null,
     "transcriptContext": "Ich esse Brot.",
-    "pronunciation": "Ich esse Brot.",
+    "pronunciation": "إِش إِسِه بروت.",
     "words": [
       {
         "w": "essen",
@@ -1412,7 +1412,7 @@
     "timestamp": 222,
     "videoId": null,
     "transcriptContext": "Ich nehme das.",
-    "pronunciation": "Ich nehme das.",
+    "pronunciation": "إِش نيمِه داس.",
     "words": [
       {
         "w": "nehmen",
@@ -1444,7 +1444,7 @@
     "timestamp": 152,
     "videoId": null,
     "transcriptContext": "Ich mag Pizza.",
-    "pronunciation": "Ich mag Pizza.",
+    "pronunciation": "إِش ماك بيتسا.",
     "words": [
       {
         "w": "mögen",
@@ -1481,7 +1481,7 @@
     "timestamp": 65,
     "videoId": null,
     "transcriptContext": "Ich bin krank.",
-    "pronunciation": "Ich bin krank.",
+    "pronunciation": "إِش بِن كرانك.",
     "words": [
       {
         "w": "krank",
@@ -1513,7 +1513,7 @@
     "timestamp": 114,
     "videoId": null,
     "transcriptContext": "Ich kenne ihn.",
-    "pronunciation": "Ich kenne ihn.",
+    "pronunciation": "إِش كِنِه إين.",
     "words": [
       {
         "w": "kennen",
@@ -1550,7 +1550,7 @@
     "timestamp": 131,
     "videoId": null,
     "transcriptContext": "Ich helfe dir.",
-    "pronunciation": "Ich helfe dir.",
+    "pronunciation": "إِش هِلفِه دير.",
     "words": [
       {
         "w": "helfen",
@@ -1587,7 +1587,7 @@
     "timestamp": 2,
     "videoId": null,
     "transcriptContext": "Ist das halal?",
-    "pronunciation": "Ist das halal?",
+    "pronunciation": "إِست داس حلال؟",
     "words": [
       {
         "w": "halal",
@@ -1624,7 +1624,7 @@
     "timestamp": 232,
     "videoId": null,
     "transcriptContext": "Es ist dunkel.",
-    "pronunciation": "Es ist dunkel.",
+    "pronunciation": "إِس إِست دونكِل.",
     "words": [
       {
         "w": "dunkel",
@@ -1656,7 +1656,7 @@
     "timestamp": 1,
     "videoId": null,
     "transcriptContext": "Wann kommst du?",
-    "pronunciation": "Wann kommst du?",
+    "pronunciation": "فان كومست دو؟",
     "words": [
       {
         "w": "wann",
@@ -1688,7 +1688,7 @@
     "timestamp": 52,
     "videoId": null,
     "transcriptContext": "Ich habe Durst.",
-    "pronunciation": "Ich habe Durst.",
+    "pronunciation": "إِش هابِه دورست.",
     "words": [
       {
         "w": "der Durst",
@@ -1720,7 +1720,7 @@
     "timestamp": 116,
     "videoId": null,
     "transcriptContext": "Ich weiß nicht.",
-    "pronunciation": "Ich weiß nicht.",
+    "pronunciation": "إِش فايس نيشت.",
     "words": [
       {
         "w": "wissen",
@@ -1752,7 +1752,7 @@
     "timestamp": 165,
     "videoId": null,
     "transcriptContext": "Ich höre Musik.",
-    "pronunciation": "Ich höre Musik.",
+    "pronunciation": "إِش هورِه موزيك.",
     "words": [
       {
         "w": "hören",
@@ -1789,7 +1789,7 @@
     "timestamp": 216,
     "videoId": null,
     "transcriptContext": "Ich kaufe Brot.",
-    "pronunciation": "Ich kaufe Brot.",
+    "pronunciation": "إِش كاوفِه بروت.",
     "words": [
       {
         "w": "kaufen",
@@ -1826,7 +1826,7 @@
     "timestamp": 27,
     "videoId": null,
     "transcriptContext": "Ich warte hier.",
-    "pronunciation": "Ich warte hier.",
+    "pronunciation": "إِش فارتِه هيا.",
     "words": [
       {
         "w": "warten",
@@ -1863,7 +1863,7 @@
     "timestamp": 95,
     "videoId": null,
     "transcriptContext": "Ich bin fertig.",
-    "pronunciation": "Ich bin fertig.",
+    "pronunciation": "إِش بِن فيرتيش.",
     "words": [
       {
         "w": "fertig",
@@ -1895,7 +1895,7 @@
     "timestamp": 47,
     "videoId": null,
     "transcriptContext": "Ich heiße Sarah.",
-    "pronunciation": "Ich heiße Sarah.",
+    "pronunciation": "إِش هايسِه سارة.",
     "words": [
       {
         "w": "heißen",
@@ -1927,7 +1927,7 @@
     "timestamp": 209,
     "videoId": null,
     "transcriptContext": "Ich bin Student.",
-    "pronunciation": "Ich bin Student.",
+    "pronunciation": "إِش بِن شتودِنت.",
     "words": [
       {
         "w": "der Student",
@@ -1959,7 +1959,7 @@
     "timestamp": 71,
     "videoId": null,
     "transcriptContext": "Woher kommst du?",
-    "pronunciation": "Woher kommst du?",
+    "pronunciation": "فوهير كومست دو؟",
     "words": [
       {
         "w": "woher",
@@ -1996,7 +1996,7 @@
     "timestamp": 35,
     "videoId": null,
     "transcriptContext": "Ich habe Hunger.",
-    "pronunciation": "Ich habe Hunger.",
+    "pronunciation": "إِش هابِه هونغِر.",
     "words": [
       {
         "w": "der Hunger",
@@ -2028,7 +2028,7 @@
     "timestamp": 180,
     "videoId": null,
     "transcriptContext": "Wir gehen jetzt.",
-    "pronunciation": "Wir gehen jetzt.",
+    "pronunciation": "فيا غيهِن يِتست.",
     "words": [
       {
         "w": "jetzt",
@@ -2065,7 +2065,7 @@
     "timestamp": 87,
     "videoId": null,
     "transcriptContext": "Ich koche heute.",
-    "pronunciation": "Ich koche heute.",
+    "pronunciation": "إِش كوخِه هويتِه.",
     "words": [
       {
         "w": "kochen",
@@ -2102,7 +2102,7 @@
     "timestamp": 153,
     "videoId": null,
     "transcriptContext": "Ich habe Fieber.",
-    "pronunciation": "Ich habe Fieber.",
+    "pronunciation": "إِش هابِه فيبِر.",
     "words": [
       {
         "w": "das Fieber",
@@ -2134,7 +2134,7 @@
     "timestamp": 120,
     "videoId": null,
     "transcriptContext": "Er trinkt Wasser.",
-    "pronunciation": "Er trinkt Wasser.",
+    "pronunciation": "إير ترينكت فاسِر.",
     "words": [
       {
         "w": "trinken",
@@ -2171,7 +2171,7 @@
     "timestamp": 133,
     "videoId": null,
     "transcriptContext": "Das schmeckt gut.",
-    "pronunciation": "Das schmeckt gut.",
+    "pronunciation": "داس شمِكت غوت.",
     "words": [
       {
         "w": "schmecken",
@@ -2203,7 +2203,7 @@
     "timestamp": 29,
     "videoId": null,
     "transcriptContext": "Wir sind Freunde.",
-    "pronunciation": "Wir sind Freunde.",
+    "pronunciation": "فيا زينت فرويندِه.",
     "words": [
       {
         "w": "wir",
@@ -2240,7 +2240,7 @@
     "timestamp": 78,
     "videoId": null,
     "transcriptContext": "Ich komme gleich.",
-    "pronunciation": "Ich komme gleich.",
+    "pronunciation": "إِش كومِه غلايش.",
     "words": [
       {
         "w": "gleich",
@@ -2277,7 +2277,7 @@
     "timestamp": 191,
     "videoId": null,
     "transcriptContext": "Ich trinke Milch.",
-    "pronunciation": "Ich trinke Milch.",
+    "pronunciation": "إِش ترينكِه ميلش.",
     "words": [
       {
         "w": "die Milch",
@@ -2314,7 +2314,7 @@
     "timestamp": 54,
     "videoId": null,
     "transcriptContext": "Ich lerne Deutsch.",
-    "pronunciation": "Ich lerne Deutsch.",
+    "pronunciation": "إِش ليرنِه دويتش.",
     "words": [
       {
         "w": "lernen",
@@ -2351,7 +2351,7 @@
     "timestamp": 31,
     "videoId": null,
     "transcriptContext": "Links oder rechts?",
-    "pronunciation": "Links oder rechts?",
+    "pronunciation": "لينكس أودِر رِشتس؟",
     "words": [
       {
         "w": "links",
@@ -2393,7 +2393,7 @@
     "timestamp": 225,
     "videoId": null,
     "transcriptContext": "Ich esse Hähnchen.",
-    "pronunciation": "Ich esse Hähnchen.",
+    "pronunciation": "إِش إِسِه هينشِن.",
     "words": [
       {
         "w": "das Hähnchen",
@@ -2425,7 +2425,7 @@
     "timestamp": 130,
     "videoId": null,
     "transcriptContext": "Ich bin glücklich.",
-    "pronunciation": "Ich bin glücklich.",
+    "pronunciation": "إِش بِن غليكليش.",
     "words": [
       {
         "w": "glücklich",
@@ -2457,7 +2457,7 @@
     "timestamp": 98,
     "videoId": null,
     "transcriptContext": "Ich verstehe nicht.",
-    "pronunciation": "Ich verstehe nicht.",
+    "pronunciation": "إِش فِرشتيهِه نيشت.",
     "words": [
       {
         "w": "verstehen",
@@ -2489,7 +2489,7 @@
     "timestamp": 135,
     "videoId": null,
     "transcriptContext": "Ich brauche Wasser.",
-    "pronunciation": "Ich brauche Wasser.",
+    "pronunciation": "إِش براوخِه فاسِر.",
     "words": [
       {
         "w": "brauchen",
@@ -2521,7 +2521,7 @@
     "timestamp": 182,
     "videoId": null,
     "transcriptContext": "Ich spiele Fußball.",
-    "pronunciation": "Ich spiele Fußball.",
+    "pronunciation": "إِش شبيلِه فوسبال.",
     "words": [
       {
         "w": "spielen",
@@ -2558,7 +2558,7 @@
     "timestamp": 138,
     "videoId": null,
     "transcriptContext": "Wir essen zusammen.",
-    "pronunciation": "Wir essen zusammen.",
+    "pronunciation": "فيا إِسِن تسوزامِن.",
     "words": [
       {
         "w": "zusammen",
@@ -2590,7 +2590,7 @@
     "timestamp": 140,
     "videoId": null,
     "transcriptContext": "Ich bin verheiratet.",
-    "pronunciation": "Ich bin verheiratet.",
+    "pronunciation": "إِش بِن فِرهايراتِت.",
     "words": [
       {
         "w": "verheiratet",
@@ -2622,7 +2622,7 @@
     "timestamp": 37,
     "videoId": null,
     "transcriptContext": "Ich spreche Arabisch.",
-    "pronunciation": "Ich spreche Arabisch.",
+    "pronunciation": "إِش شبريشِه أرابيش.",
     "words": [
       {
         "w": "sprechen",
@@ -2659,7 +2659,7 @@
     "timestamp": 3,
     "videoId": null,
     "transcriptContext": "Ich bin 25 Jahre alt.",
-    "pronunciation": "Ich bin 25 Jahre alt.",
+    "pronunciation": "إِش بِن 25 ياهرِه آلت.",
     "words": [
       {
         "w": "das Jahr",
@@ -2696,7 +2696,7 @@
     "timestamp": 101,
     "videoId": null,
     "transcriptContext": "Es regnet.",
-    "pronunciation": "Es regnet.",
+    "pronunciation": "إِس ريغنِت.",
     "words": [
       {
         "w": "regnen",
@@ -2728,7 +2728,7 @@
     "timestamp": 46,
     "videoId": null,
     "transcriptContext": "Ihr seid spät.",
-    "pronunciation": "Ihr seid spät.",
+    "pronunciation": "إير زايت شبيت.",
     "words": [
       {
         "w": "ihr",
@@ -2765,7 +2765,7 @@
     "timestamp": 170,
     "videoId": null,
     "transcriptContext": "Wo tut es weh?",
-    "pronunciation": "Wo tut es weh?",
+    "pronunciation": "فو توت إِس في؟",
     "words": [
       {
         "w": "wo",
@@ -2802,7 +2802,7 @@
     "timestamp": 63,
     "videoId": null,
     "transcriptContext": "Sie sind Ärzte.",
-    "pronunciation": "Sie sind Ärzte.",
+    "pronunciation": "زي زينت إيرتسِته.",
     "words": [
       {
         "w": "sie",
@@ -2839,7 +2839,7 @@
     "timestamp": 105,
     "videoId": null,
     "transcriptContext": "Wie alt bist du?",
-    "pronunciation": "Wie alt bist du?",
+    "pronunciation": "في آلت بِست دو؟",
     "words": [
       {
         "w": "wie alt",
@@ -2871,7 +2871,7 @@
     "timestamp": 169,
     "videoId": null,
     "transcriptContext": "Es ist drei Uhr.",
-    "pronunciation": "Es ist drei Uhr.",
+    "pronunciation": "إِس إِست دراي أور.",
     "words": [
       {
         "w": "die Uhr",
@@ -2908,7 +2908,7 @@
     "timestamp": 173,
     "videoId": null,
     "transcriptContext": "Das ist ein Buch.",
-    "pronunciation": "Das ist ein Buch.",
+    "pronunciation": "داس إِست آين بوخ.",
     "words": [
       {
         "w": "das Buch",
@@ -2945,7 +2945,7 @@
     "timestamp": 205,
     "videoId": null,
     "transcriptContext": "Das ist zu teuer.",
-    "pronunciation": "Das ist zu teuer.",
+    "pronunciation": "داس إِست تسو تويِر.",
     "words": [
       {
         "w": "zu",
@@ -2977,7 +2977,7 @@
     "timestamp": 186,
     "videoId": null,
     "transcriptContext": "Das Auto ist rot.",
-    "pronunciation": "Das Auto ist rot.",
+    "pronunciation": "داس آوتو إِست روت.",
     "words": [
       {
         "w": "das Auto",
@@ -3014,7 +3014,7 @@
     "timestamp": 217,
     "videoId": null,
     "transcriptContext": "Der Tee ist heiß.",
-    "pronunciation": "Der Tee ist heiß.",
+    "pronunciation": "دير تيه إِست هايس.",
     "words": [
       {
         "w": "heiß",
@@ -3046,7 +3046,7 @@
     "timestamp": 11,
     "videoId": null,
     "transcriptContext": "Der Weg ist lang.",
-    "pronunciation": "Der Weg ist lang.",
+    "pronunciation": "دير فيك إِست لانغ.",
     "words": [
       {
         "w": "der Weg",
@@ -3083,7 +3083,7 @@
     "timestamp": 28,
     "videoId": null,
     "transcriptContext": "Das Buch ist neu.",
-    "pronunciation": "Das Buch ist neu.",
+    "pronunciation": "داس بوخ إِست نوي.",
     "words": [
       {
         "w": "neu",
@@ -3115,7 +3115,7 @@
     "timestamp": 215,
     "videoId": null,
     "transcriptContext": "Der Bus ist voll.",
-    "pronunciation": "Der Bus ist voll.",
+    "pronunciation": "دير بوس إِست فول.",
     "words": [
       {
         "w": "voll",
@@ -3147,7 +3147,7 @@
     "timestamp": 80,
     "videoId": null,
     "transcriptContext": "Das ist dein Buch.",
-    "pronunciation": "Das ist dein Buch.",
+    "pronunciation": "داس إِست داين بوخ.",
     "words": [
       {
         "w": "dein",
@@ -3184,7 +3184,7 @@
     "timestamp": 148,
     "videoId": null,
     "transcriptContext": "Ich sehe das Haus.",
-    "pronunciation": "Ich sehe das Haus.",
+    "pronunciation": "إِش زيهِه داس هاوس.",
     "words": [
       {
         "w": "sehen",
@@ -3221,7 +3221,7 @@
     "timestamp": 10,
     "videoId": null,
     "transcriptContext": "Ich finde das gut.",
-    "pronunciation": "Ich finde das gut.",
+    "pronunciation": "إِش فيندِه داس غوت.",
     "words": [
       {
         "w": "finden",
@@ -3258,7 +3258,7 @@
     "timestamp": 129,
     "videoId": null,
     "transcriptContext": "Er hat einen Hund.",
-    "pronunciation": "Er hat einen Hund.",
+    "pronunciation": "إير هات آينِن هونت.",
     "words": [
       {
         "w": "der Hund",
@@ -3295,7 +3295,7 @@
     "timestamp": 146,
     "videoId": null,
     "transcriptContext": "Wir sind zu Hause.",
-    "pronunciation": "Wir sind zu Hause.",
+    "pronunciation": "فيا زينت تسو هاوزِه.",
     "words": [
       {
         "w": "zu Hause",
@@ -3332,7 +3332,7 @@
     "timestamp": 195,
     "videoId": null,
     "transcriptContext": "Das Gras ist grün.",
-    "pronunciation": "Das Gras ist grün.",
+    "pronunciation": "داس غراس إِست غرون.",
     "words": [
       {
         "w": "das Gras",
@@ -3369,7 +3369,7 @@
     "timestamp": 229,
     "videoId": null,
     "transcriptContext": "Die Wand ist weiß.",
-    "pronunciation": "Die Wand ist weiß.",
+    "pronunciation": "دي فانت إِست فايس.",
     "words": [
       {
         "w": "die Wand",
@@ -3406,7 +3406,7 @@
     "timestamp": 227,
     "videoId": null,
     "transcriptContext": "Das ist mein Sohn.",
-    "pronunciation": "Das ist mein Sohn.",
+    "pronunciation": "داس إِست ماين زون.",
     "words": [
       {
         "w": "der Sohn",
@@ -3438,7 +3438,7 @@
     "timestamp": 206,
     "videoId": null,
     "transcriptContext": "Ein Wasser, bitte.",
-    "pronunciation": "Ein Wasser, bitte.",
+    "pronunciation": "آين فاسِر، بيتِه.",
     "words": [
       {
         "w": "das Wasser",
@@ -3470,7 +3470,7 @@
     "timestamp": 0,
     "videoId": null,
     "transcriptContext": "Mein Kopf tut weh.",
-    "pronunciation": "Mein Kopf tut weh.",
+    "pronunciation": "ماين كوبف توت في.",
     "words": [
       {
         "w": "der Kopf",
@@ -3507,7 +3507,7 @@
     "timestamp": 221,
     "videoId": null,
     "transcriptContext": "Die Bank ist hier.",
-    "pronunciation": "Die Bank ist hier.",
+    "pronunciation": "دي بانك إِست هيا.",
     "words": [
       {
         "w": "die Bank",
@@ -3544,7 +3544,7 @@
     "timestamp": 168,
     "videoId": null,
     "transcriptContext": "Die Post ist dort.",
-    "pronunciation": "Die Post ist dort.",
+    "pronunciation": "دي بوست إِست دورت.",
     "words": [
       {
         "w": "die Post",
@@ -3581,7 +3581,7 @@
     "timestamp": 183,
     "videoId": null,
     "transcriptContext": "Das Haus ist groß.",
-    "pronunciation": "Das Haus ist groß.",
+    "pronunciation": "داس هاوس إِست غروس.",
     "words": [
       {
         "w": "groß",
@@ -3613,7 +3613,7 @@
     "timestamp": 45,
     "videoId": null,
     "transcriptContext": "Mein Auto ist alt.",
-    "pronunciation": "Mein Auto ist alt.",
+    "pronunciation": "ماين آوتو إِست آلت.",
     "words": [
       {
         "w": "alt",
@@ -3645,7 +3645,7 @@
     "timestamp": 147,
     "videoId": null,
     "transcriptContext": "Der Mann ist jung.",
-    "pronunciation": "Der Mann ist jung.",
+    "pronunciation": "دير مان إِست يونغ.",
     "words": [
       {
         "w": "der Mann",
@@ -3682,7 +3682,7 @@
     "timestamp": 181,
     "videoId": null,
     "transcriptContext": "Die Tür ist offen.",
-    "pronunciation": "Die Tür ist offen.",
+    "pronunciation": "دي تور إِست أوفِن.",
     "words": [
       {
         "w": "die Tür",
@@ -3719,7 +3719,7 @@
     "timestamp": 20,
     "videoId": null,
     "transcriptContext": "Ich wohne in Kairo.",
-    "pronunciation": "Ich wohne in Kairo.",
+    "pronunciation": "إِش فونِه إِن كايرو.",
     "words": [
       {
         "w": "wohnen",
@@ -3756,7 +3756,7 @@
     "timestamp": 220,
     "videoId": null,
     "transcriptContext": "Wann fährt der Zug?",
-    "pronunciation": "Wann fährt der Zug?",
+    "pronunciation": "فان فيرت دير تسوك؟",
     "words": [
       {
         "w": "der Zug",
@@ -3793,7 +3793,7 @@
     "timestamp": 99,
     "videoId": null,
     "transcriptContext": "Noch einmal, bitte.",
-    "pronunciation": "Noch einmal, bitte.",
+    "pronunciation": "نوخ آينمال، بيتِه.",
     "words": [
       {
         "w": "noch einmal",
@@ -3825,7 +3825,7 @@
     "timestamp": 218,
     "videoId": null,
     "transcriptContext": "Er ist mein Freund.",
-    "pronunciation": "Er ist mein Freund.",
+    "pronunciation": "إير إِست ماين فرويند.",
     "words": [
       {
         "w": "er",
@@ -3857,7 +3857,7 @@
     "timestamp": 97,
     "videoId": null,
     "transcriptContext": "Das ist unser Haus.",
-    "pronunciation": "Das ist unser Haus.",
+    "pronunciation": "داس إِست أونزِر هاوس.",
     "words": [
       {
         "w": "unser",
@@ -3894,7 +3894,7 @@
     "timestamp": 112,
     "videoId": null,
     "transcriptContext": "Wir haben ein Haus.",
-    "pronunciation": "Wir haben ein Haus.",
+    "pronunciation": "فيا هابِن آين هاوس.",
     "words": [
       {
         "w": "haben",
@@ -3931,7 +3931,7 @@
     "timestamp": 193,
     "videoId": null,
     "transcriptContext": "Das ist mein Vater.",
-    "pronunciation": "Das ist mein Vater.",
+    "pronunciation": "داس إِست ماين فاتِر.",
     "words": [
       {
         "w": "der Vater",
@@ -3968,7 +3968,7 @@
     "timestamp": 123,
     "videoId": null,
     "transcriptContext": "Das ist meine Frau.",
-    "pronunciation": "Das ist meine Frau.",
+    "pronunciation": "داس إِست ماينِه فراو.",
     "words": [
       {
         "w": "die Frau",
@@ -4000,7 +4000,7 @@
     "timestamp": 104,
     "videoId": null,
     "transcriptContext": "Die Suppe ist heiß.",
-    "pronunciation": "Die Suppe ist heiß.",
+    "pronunciation": "دي زوبِه إِست هايس.",
     "words": [
       {
         "w": "die Suppe",
@@ -4037,7 +4037,7 @@
     "timestamp": 172,
     "videoId": null,
     "transcriptContext": "Ich esse gern Obst.",
-    "pronunciation": "Ich esse gern Obst.",
+    "pronunciation": "إِش إِسِه غيرن أوبست.",
     "words": [
       {
         "w": "das Obst",
@@ -4074,7 +4074,7 @@
     "timestamp": 189,
     "videoId": null,
     "transcriptContext": "Kein Zucker, bitte.",
-    "pronunciation": "Kein Zucker, bitte.",
+    "pronunciation": "كاين تسوكِر، بيتِه.",
     "words": [
       {
         "w": "kein",
@@ -4111,7 +4111,7 @@
     "timestamp": 17,
     "videoId": null,
     "transcriptContext": "Mein Bauch tut weh.",
-    "pronunciation": "Mein Bauch tut weh.",
+    "pronunciation": "ماين باوخ توت في.",
     "words": [
       {
         "w": "der Bauch",
@@ -4143,7 +4143,7 @@
     "timestamp": 187,
     "videoId": null,
     "transcriptContext": "Das ist die Schule.",
-    "pronunciation": "Das ist die Schule.",
+    "pronunciation": "داس إِست دي شولِه.",
     "words": [
       {
         "w": "die Schule",
@@ -4175,7 +4175,7 @@
     "timestamp": 83,
     "videoId": null,
     "transcriptContext": "Der Park ist schön.",
-    "pronunciation": "Der Park ist schön.",
+    "pronunciation": "دير بارك إِست شون.",
     "words": [
       {
         "w": "der Park",
@@ -4212,7 +4212,7 @@
     "timestamp": 100,
     "videoId": null,
     "transcriptContext": "Wo ist die Moschee?",
-    "pronunciation": "Wo ist die Moschee?",
+    "pronunciation": "فو إِست دي موشيه؟",
     "words": [
       {
         "w": "die Moschee",
@@ -4244,7 +4244,7 @@
     "timestamp": 117,
     "videoId": null,
     "transcriptContext": "Das Café ist offen.",
-    "pronunciation": "Das Café ist offen.",
+    "pronunciation": "داس Café إِست أوفِن.",
     "words": [
       {
         "w": "das Café",
@@ -4281,7 +4281,7 @@
     "timestamp": 39,
     "videoId": null,
     "transcriptContext": "Heute ist es sonnig.",
-    "pronunciation": "Heute ist es sonnig.",
+    "pronunciation": "هويتِه إِست إِس زونيش.",
     "words": [
       {
         "w": "sonnig",
@@ -4313,7 +4313,7 @@
     "timestamp": 217,
     "videoId": null,
     "transcriptContext": "Wie viel kostet das?",
-    "pronunciation": "Wie viel kostet das?",
+    "pronunciation": "في فيل كوستِت داس؟",
     "words": [
       {
         "w": "kosten",
@@ -4345,7 +4345,7 @@
     "timestamp": 122,
     "videoId": null,
     "transcriptContext": "Das ist mein Bruder.",
-    "pronunciation": "Das ist mein Bruder.",
+    "pronunciation": "داس إِست ماين برودِر.",
     "words": [
       {
         "w": "der Bruder",
@@ -4382,7 +4382,7 @@
     "timestamp": 224,
     "videoId": null,
     "transcriptContext": "Wo ist die Toilette?",
-    "pronunciation": "Wo ist die Toilette?",
+    "pronunciation": "فو إِست دي توالِت؟",
     "words": [
       {
         "w": "die Toilette",
@@ -4424,7 +4424,7 @@
     "timestamp": 171,
     "videoId": null,
     "transcriptContext": "Ich habe keine Zeit.",
-    "pronunciation": "Ich habe keine Zeit.",
+    "pronunciation": "إِش هابِه كاينِه تسايت.",
     "words": [
       {
         "w": "keine",
@@ -4461,7 +4461,7 @@
     "timestamp": 188,
     "videoId": null,
     "transcriptContext": "Das ist nicht teuer.",
-    "pronunciation": "Das ist nicht teuer.",
+    "pronunciation": "داس إِست نيشت تويِر.",
     "words": [
       {
         "w": "teuer",
@@ -4498,7 +4498,7 @@
     "timestamp": 14,
     "videoId": null,
     "transcriptContext": "Ich suche ein Hotel.",
-    "pronunciation": "Ich suche ein Hotel.",
+    "pronunciation": "إِش زوخِه آين هوتِل.",
     "words": [
       {
         "w": "suchen",
@@ -4535,7 +4535,7 @@
     "timestamp": 48,
     "videoId": null,
     "transcriptContext": "Gehen Sie geradeaus.",
-    "pronunciation": "Gehen Sie geradeaus.",
+    "pronunciation": "غيهِن زي غيرادِه‌آوس.",
     "words": [
       {
         "w": "geradeaus",
@@ -4572,7 +4572,7 @@
     "timestamp": 82,
     "videoId": null,
     "transcriptContext": "Ich habe eine Frage.",
-    "pronunciation": "Ich habe eine Frage.",
+    "pronunciation": "إِش هابِه آينِه فراغِه.",
     "words": [
       {
         "w": "die Frage",
@@ -4609,7 +4609,7 @@
     "timestamp": 201,
     "videoId": null,
     "transcriptContext": "Du bist mein Freund.",
-    "pronunciation": "Du bist mein Freund.",
+    "pronunciation": "دو بِست ماين فرويند.",
     "words": [
       {
         "w": "du",
@@ -4646,7 +4646,7 @@
     "timestamp": 214,
     "videoId": null,
     "transcriptContext": "Ich bleibe zu Hause.",
-    "pronunciation": "Ich bleibe zu Hause.",
+    "pronunciation": "إِش بلايبِه تسو هاوزِه.",
     "words": [
       {
         "w": "bleiben",
@@ -4678,7 +4678,7 @@
     "timestamp": 178,
     "videoId": null,
     "transcriptContext": "Der Himmel ist blau.",
-    "pronunciation": "Der Himmel ist blau.",
+    "pronunciation": "دير هيمِل إِست بلاو.",
     "words": [
       {
         "w": "der Himmel",
@@ -4715,7 +4715,7 @@
     "timestamp": 212,
     "videoId": null,
     "transcriptContext": "Die Banane ist gelb.",
-    "pronunciation": "Die Banane ist gelb.",
+    "pronunciation": "دي بانانِه إِست غِلب.",
     "words": [
       {
         "w": "die Banane",
@@ -4752,7 +4752,7 @@
     "timestamp": 34,
     "videoId": null,
     "transcriptContext": "Meine Hand ist kalt.",
-    "pronunciation": "Meine Hand ist kalt.",
+    "pronunciation": "ماينِه هانت إِست كالت.",
     "words": [
       {
         "w": "die Hand",
@@ -4789,7 +4789,7 @@
     "timestamp": 51,
     "videoId": null,
     "transcriptContext": "Ich habe zwei Augen.",
-    "pronunciation": "Ich habe zwei Augen.",
+    "pronunciation": "إِش هابِه تسفاي آوغِن.",
     "words": [
       {
         "w": "das Auge",
@@ -4826,7 +4826,7 @@
     "timestamp": 85,
     "videoId": null,
     "transcriptContext": "Mein Rücken tut weh.",
-    "pronunciation": "Mein Rücken tut weh.",
+    "pronunciation": "ماين روكِن توت في.",
     "words": [
       {
         "w": "der Rücken",
@@ -4858,7 +4858,7 @@
     "timestamp": 238,
     "videoId": null,
     "transcriptContext": "Wo ist die Apotheke?",
-    "pronunciation": "Wo ist die Apotheke?",
+    "pronunciation": "فو إِست دي أبوتيكِه؟",
     "words": [
       {
         "w": "die Apotheke",
@@ -4890,7 +4890,7 @@
     "timestamp": 234,
     "videoId": null,
     "transcriptContext": "Das Wasser ist kalt.",
-    "pronunciation": "Das Wasser ist kalt.",
+    "pronunciation": "داس فاسِر إِست كالت.",
     "words": [
       {
         "w": "kalt",
@@ -4922,7 +4922,7 @@
     "timestamp": 198,
     "videoId": null,
     "transcriptContext": "Der Zug ist schnell.",
-    "pronunciation": "Der Zug ist schnell.",
+    "pronunciation": "دير تسوك إِست شنِل.",
     "words": [
       {
         "w": "schnell",
@@ -4954,7 +4954,7 @@
     "timestamp": 147,
     "videoId": null,
     "transcriptContext": "Mein Zimmer ist oben.",
-    "pronunciation": "Mein Zimmer ist oben.",
+    "pronunciation": "ماين تسيمِر إِست أوبِن.",
     "words": [
       {
         "w": "oben",
@@ -4986,7 +4986,7 @@
     "timestamp": 96,
     "videoId": null,
     "transcriptContext": "Ich habe zwei Kinder.",
-    "pronunciation": "Ich habe zwei Kinder.",
+    "pronunciation": "إِش هابِه تسفاي كيندِر.",
     "words": [
       {
         "w": "das Kind",
@@ -5018,7 +5018,7 @@
     "timestamp": 44,
     "videoId": null,
     "transcriptContext": "Ich frage den Lehrer.",
-    "pronunciation": "Ich frage den Lehrer.",
+    "pronunciation": "إِش فراغِه دِن ليرِر.",
     "words": [
       {
         "w": "fragen",
@@ -5055,7 +5055,7 @@
     "timestamp": 93,
     "videoId": null,
     "transcriptContext": "Ich habe zwei Katzen.",
-    "pronunciation": "Ich habe zwei Katzen.",
+    "pronunciation": "إِش هابِه تسفاي كاتسِن.",
     "words": [
       {
         "w": "die Katze",
@@ -5092,7 +5092,7 @@
     "timestamp": 110,
     "videoId": null,
     "transcriptContext": "Das kostet zehn Euro.",
-    "pronunciation": "Das kostet zehn Euro.",
+    "pronunciation": "داس كوستِت تسين أويرو.",
     "words": [
       {
         "w": "kosten",
@@ -5129,7 +5129,7 @@
     "timestamp": 210,
     "videoId": null,
     "transcriptContext": "Das ist meine Mutter.",
-    "pronunciation": "Das ist meine Mutter.",
+    "pronunciation": "داس إِست ماينِه موتِر.",
     "words": [
       {
         "w": "die Mutter",
@@ -5166,7 +5166,7 @@
     "timestamp": 174,
     "videoId": null,
     "transcriptContext": "Ich esse einen Apfel.",
-    "pronunciation": "Ich esse einen Apfel.",
+    "pronunciation": "إِش إِسِه آينِن أبفِل.",
     "words": [
       {
         "w": "der Apfel",
@@ -5203,7 +5203,7 @@
     "timestamp": 36,
     "videoId": null,
     "transcriptContext": "Der Fisch ist frisch.",
-    "pronunciation": "Der Fisch ist frisch.",
+    "pronunciation": "دير فيش إِست فريش.",
     "words": [
       {
         "w": "der Fisch",
@@ -5240,7 +5240,7 @@
     "timestamp": 155,
     "videoId": null,
     "transcriptContext": "Das Essen ist lecker.",
-    "pronunciation": "Das Essen ist lecker.",
+    "pronunciation": "داس إِسِن إِست لِكِر.",
     "words": [
       {
         "w": "das Essen",
@@ -5277,7 +5277,7 @@
     "timestamp": 136,
     "videoId": null,
     "transcriptContext": "Ich habe lange Haare.",
-    "pronunciation": "Ich habe lange Haare.",
+    "pronunciation": "إِش هابِه لانغِه هارِه.",
     "words": [
       {
         "w": "das Haar",
@@ -5314,7 +5314,7 @@
     "timestamp": 185,
     "videoId": null,
     "transcriptContext": "Ist der Bahnhof weit?",
-    "pronunciation": "Ist der Bahnhof weit?",
+    "pronunciation": "إِست دير بانهوف فايت؟",
     "words": [
       {
         "w": "weit",
@@ -14774,5 +14774,1766 @@
       }
     ],
     "similar": []
+  },
+  {
+    "id": 2217,
+    "text": "Ich brauche eine neue Jacke.",
+    "translation_ar": "أحتاج إلى سترة جديدة.",
+    "level": "A1",
+    "situation": "shopping",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 1,
+    "videoId": null,
+    "transcriptContext": "Ich brauche eine neue Jacke.",
+    "pronunciation": "إِش براوخِه آينِه نويِه ياكِه.",
+    "words": [
+      {
+        "w": "die Jacke",
+        "m_en": "jacket",
+        "m_ar": "السترة"
+      },
+      {
+        "w": "brauchen",
+        "m_en": "to need",
+        "m_ar": "يحتاج"
+      }
+    ],
+    "grammar_en": "brauchen + accusative noun expresses needing something.",
+    "grammar_ar": "brauchen + اسم بحالة النصب يعبّر عن الحاجة إلى شيء.",
+    "alternatives": [
+      {
+        "text": "Ich möchte eine neue Jacke kaufen.",
+        "note_en": "Alternative, more specific about buying",
+        "note_ar": "بديل، أكثر تحديدًا للشراء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2218,
+    "text": "Wie viel kostet dieses Hemd?",
+    "translation_ar": "كم ثمن هذا القميص؟",
+    "level": "A1",
+    "situation": "shopping",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 2,
+    "videoId": null,
+    "transcriptContext": "Wie viel kostet dieses Hemd?",
+    "pronunciation": "في فيل كوستِت ديزِس هِمت؟",
+    "words": [
+      {
+        "w": "das Hemd",
+        "m_en": "shirt",
+        "m_ar": "القميص"
+      },
+      {
+        "w": "kosten",
+        "m_en": "to cost",
+        "m_ar": "يكلّف"
+      }
+    ],
+    "grammar_en": "'Wie viel kostet...?' is the standard way to ask a price.",
+    "grammar_ar": "'Wie viel kostet...?' هي الصيغة المعتادة للسؤال عن السعر.",
+    "alternatives": [
+      {
+        "text": "Was kostet dieses Hemd?",
+        "note_en": "Shorter, equally common",
+        "note_ar": "أقصر وشائعة بالقدر نفسه"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2219,
+    "text": "Diese Hose ist mir zu eng.",
+    "translation_ar": "هذا البنطال ضيق جدًا عليّ.",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 3,
+    "videoId": null,
+    "transcriptContext": "Diese Hose ist mir zu eng.",
+    "pronunciation": "ديزِه هوزِه إِست ميا تسو إِنج.",
+    "words": [
+      {
+        "w": "die Hose",
+        "m_en": "pants/trousers",
+        "m_ar": "البنطال"
+      },
+      {
+        "w": "eng",
+        "m_en": "tight/narrow",
+        "m_ar": "ضيق"
+      }
+    ],
+    "grammar_en": "'zu' + adjective means 'too' (excessively).",
+    "grammar_ar": "'zu' + صفة تعني 'جدًا/أكثر من اللازم'.",
+    "alternatives": [
+      {
+        "text": "Diese Hose passt mir nicht.",
+        "note_en": "More general — it doesn't fit",
+        "note_ar": "أعم — لا تناسبني"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2220,
+    "text": "Haben Sie das in einer anderen Größe?",
+    "translation_ar": "هل لديكم هذا بمقاس آخر؟",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 4,
+    "videoId": null,
+    "transcriptContext": "Haben Sie das in einer anderen Größe?",
+    "pronunciation": "هابِن زي داس إِن آينِا أندِرِن غروسِه؟",
+    "words": [
+      {
+        "w": "die Größe",
+        "m_en": "size",
+        "m_ar": "المقاس"
+      },
+      {
+        "w": "anders",
+        "m_en": "different",
+        "m_ar": "آخر/مختلف"
+      }
+    ],
+    "grammar_en": "Polite question using formal 'Sie' + haben.",
+    "grammar_ar": "سؤال مهذّب باستخدام صيغة الاحترام 'Sie' مع الفعل haben.",
+    "alternatives": [
+      {
+        "text": "Gibt es das auch in Größe M?",
+        "note_en": "Asking for a specific size",
+        "note_ar": "سؤال عن مقاس محدد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2221,
+    "text": "Ich probiere diese Schuhe an.",
+    "translation_ar": "أجرّب هذا الحذاء.",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 5,
+    "videoId": null,
+    "transcriptContext": "Ich probiere diese Schuhe an.",
+    "pronunciation": "إِش بروبيرِه ديزِه شوهِه آن.",
+    "words": [
+      {
+        "w": "die Schuhe",
+        "m_en": "shoes",
+        "m_ar": "الحذاء"
+      },
+      {
+        "w": "anprobieren",
+        "m_en": "to try on",
+        "m_ar": "يجرّب (ملابس)"
+      }
+    ],
+    "grammar_en": "'anprobieren' is a separable verb: 'probiere ... an'.",
+    "grammar_ar": "'anprobieren' فعل قابل للانفصال: 'probiere ... an'.",
+    "alternatives": [
+      {
+        "text": "Kann ich diese Schuhe anprobieren?",
+        "note_en": "Polite request form",
+        "note_ar": "صيغة طلب مهذّبة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2222,
+    "text": "Der Rock passt mir perfekt.",
+    "translation_ar": "التنورة تناسبني تمامًا.",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 6,
+    "videoId": null,
+    "transcriptContext": "Der Rock passt mir perfekt.",
+    "pronunciation": "دير روك باست ميا بيرفِكت.",
+    "words": [
+      {
+        "w": "der Rock",
+        "m_en": "skirt",
+        "m_ar": "التنورة"
+      },
+      {
+        "w": "passen",
+        "m_en": "to fit",
+        "m_ar": "يناسب"
+      }
+    ],
+    "grammar_en": "'passen' + dative pronoun expresses fitting someone.",
+    "grammar_ar": "'passen' + ضمير بحالة الجر يعبّر عن ملاءمة الشيء لشخص.",
+    "alternatives": [
+      {
+        "text": "Der Rock sitzt gut.",
+        "note_en": "Slightly more casual",
+        "note_ar": "أكثر عامية قليلًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2223,
+    "text": "Kann ich mit Karte bezahlen?",
+    "translation_ar": "هل يمكنني الدفع بالبطاقة؟",
+    "level": "A1",
+    "situation": "shopping",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 7,
+    "videoId": null,
+    "transcriptContext": "Kann ich mit Karte bezahlen?",
+    "pronunciation": "كان إِش مِت كارتِه بِتسالِن؟",
+    "words": [
+      {
+        "w": "die Karte",
+        "m_en": "card",
+        "m_ar": "البطاقة"
+      },
+      {
+        "w": "bezahlen",
+        "m_en": "to pay",
+        "m_ar": "يدفع"
+      }
+    ],
+    "grammar_en": "'mit' + dative noun expresses the means of payment.",
+    "grammar_ar": "'mit' + اسم بحالة الجر يعبّر عن وسيلة الدفع.",
+    "alternatives": [
+      {
+        "text": "Akzeptieren Sie Kreditkarten?",
+        "note_en": "More formal, asking about acceptance",
+        "note_ar": "أكثر رسمية، سؤال عن القبول"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2224,
+    "text": "Ich suche einen warmen Mantel für den Winter.",
+    "translation_ar": "أبحث عن معطف دافئ للشتاء.",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 8,
+    "videoId": null,
+    "transcriptContext": "Ich suche einen warmen Mantel für den Winter.",
+    "pronunciation": "إِش زوخِه آينِن فارمِن مانتِل فور دين فينتِر.",
+    "words": [
+      {
+        "w": "der Mantel",
+        "m_en": "coat",
+        "m_ar": "المعطف"
+      },
+      {
+        "w": "warm",
+        "m_en": "warm",
+        "m_ar": "دافئ"
+      }
+    ],
+    "grammar_en": "Adjective endings change with case: 'einen warmen Mantel' (accusative).",
+    "grammar_ar": "نهايات الصفة تتغيّر حسب الحالة الإعرابية: 'einen warmen Mantel' (حالة النصب).",
+    "alternatives": [
+      {
+        "text": "Ich brauche einen dicken Wintermantel.",
+        "note_en": "Emphasizes thickness/warmth",
+        "note_ar": "يشدّد على السماكة/الدفء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2225,
+    "text": "Wie spät ist es?",
+    "translation_ar": "كم الساعة؟",
+    "level": "A1",
+    "situation": "time",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 9,
+    "videoId": null,
+    "transcriptContext": "Wie spät ist es?",
+    "pronunciation": "في شبيت إِست إِس؟",
+    "words": [
+      {
+        "w": "spät",
+        "m_en": "late",
+        "m_ar": "متأخر"
+      },
+      {
+        "w": "die Uhr",
+        "m_en": "the clock",
+        "m_ar": "الساعة"
+      }
+    ],
+    "grammar_en": "Standard question for asking the time.",
+    "grammar_ar": "السؤال المعتاد للاستفسار عن الوقت.",
+    "alternatives": [
+      {
+        "text": "Wie viel Uhr ist es?",
+        "note_en": "Equally common alternative",
+        "note_ar": "بديل شائع بالقدر نفسه"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2226,
+    "text": "Es ist Viertel nach drei.",
+    "translation_ar": "الساعة الثالثة والربع.",
+    "level": "A1",
+    "situation": "time",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 10,
+    "videoId": null,
+    "transcriptContext": "Es ist Viertel nach drei.",
+    "pronunciation": "إِس إِست فيرتِل ناخ دراي.",
+    "words": [
+      {
+        "w": "das Viertel",
+        "m_en": "quarter",
+        "m_ar": "الربع"
+      },
+      {
+        "w": "nach",
+        "m_en": "after/past",
+        "m_ar": "بعد"
+      }
+    ],
+    "grammar_en": "'Viertel nach X' = quarter past X o'clock.",
+    "grammar_ar": "'Viertel nach X' تعني الساعة X والربع.",
+    "alternatives": [
+      {
+        "text": "Es ist drei Uhr fünfzehn.",
+        "note_en": "Digital-style alternative",
+        "note_ar": "بديل بصيغة الوقت الرقمي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2227,
+    "text": "Es ist halb sieben.",
+    "translation_ar": "الساعة السادسة والنصف.",
+    "level": "A1",
+    "situation": "time",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 11,
+    "videoId": null,
+    "transcriptContext": "Es ist halb sieben.",
+    "pronunciation": "إِس إِست هالب زيبِن.",
+    "words": [
+      {
+        "w": "halb",
+        "m_en": "half",
+        "m_ar": "نصف"
+      }
+    ],
+    "grammar_en": "German 'halb sieben' literally means 'half TO seven', i.e. 6:30.",
+    "grammar_ar": "'halb sieben' تعني حرفيًا 'نصف الطريق إلى السابعة'، أي الساعة السادسة والنصف — عكس المنطق العربي.",
+    "alternatives": [
+      {
+        "text": "Es ist sechs Uhr dreißig.",
+        "note_en": "Digital-style, avoids confusion",
+        "note_ar": "بصيغة رقمية لتفادي الالتباس"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2228,
+    "text": "Der Zug fährt um Viertel vor acht.",
+    "translation_ar": "القطار يغادر الساعة الثامنة إلا ربعًا.",
+    "level": "A2",
+    "situation": "time",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 12,
+    "videoId": null,
+    "transcriptContext": "Der Zug fährt um Viertel vor acht.",
+    "pronunciation": "دير تسوك فيرت أوم فيرتِل فور آخت.",
+    "words": [
+      {
+        "w": "vor",
+        "m_en": "before/to",
+        "m_ar": "إلا/قبل"
+      },
+      {
+        "w": "der Zug",
+        "m_en": "the train",
+        "m_ar": "القطار"
+      }
+    ],
+    "grammar_en": "'Viertel vor X' = quarter to X o'clock.",
+    "grammar_ar": "'Viertel vor X' تعني الساعة X إلا ربعًا.",
+    "alternatives": [
+      {
+        "text": "Der Zug fährt um sieben Uhr fünfundvierzig.",
+        "note_en": "Digital-style alternative",
+        "note_ar": "بديل بصيغة الوقت الرقمي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2229,
+    "text": "Wir treffen uns Punkt neun Uhr.",
+    "translation_ar": "سنلتقي تمام الساعة التاسعة.",
+    "level": "A2",
+    "situation": "time",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 13,
+    "videoId": null,
+    "transcriptContext": "Wir treffen uns Punkt neun Uhr.",
+    "pronunciation": "فير تريفِن أونس بونكت نوين أور.",
+    "words": [
+      {
+        "w": "der Punkt",
+        "m_en": "point/dot",
+        "m_ar": "نقطة"
+      },
+      {
+        "w": "sich treffen",
+        "m_en": "to meet",
+        "m_ar": "يلتقي"
+      }
+    ],
+    "grammar_en": "'Punkt + time' emphasizes exact punctuality.",
+    "grammar_ar": "'Punkt + الوقت' تشدّد على الدقة التامة في الموعد.",
+    "alternatives": [
+      {
+        "text": "Wir treffen uns pünktlich um neun.",
+        "note_en": "Slightly more formal phrasing",
+        "note_ar": "صياغة أكثر رسمية قليلًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2230,
+    "text": "Das Meeting dauert eine halbe Stunde.",
+    "translation_ar": "يستمر الاجتماع نصف ساعة.",
+    "level": "A2",
+    "situation": "time",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 14,
+    "videoId": null,
+    "transcriptContext": "Das Meeting dauert eine halbe Stunde.",
+    "pronunciation": "داس ميتينغ داورت آينِه هالبِه شتوندِه.",
+    "words": [
+      {
+        "w": "dauern",
+        "m_en": "to last",
+        "m_ar": "يستمر"
+      },
+      {
+        "w": "die Stunde",
+        "m_en": "hour",
+        "m_ar": "الساعة (مدة)"
+      }
+    ],
+    "grammar_en": "'dauern' expresses duration of an event.",
+    "grammar_ar": "'dauern' يعبّر عن مدة استمرار حدث ما.",
+    "alternatives": [
+      {
+        "text": "Das Meeting geht dreißig Minuten.",
+        "note_en": "More casual phrasing",
+        "note_ar": "صياغة أكثر عامية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2231,
+    "text": "Ich stehe jeden Morgen um sechs Uhr auf.",
+    "translation_ar": "أستيقظ كل صباح الساعة السادسة.",
+    "level": "A2",
+    "situation": "time",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 15,
+    "videoId": null,
+    "transcriptContext": "Ich stehe jeden Morgen um sechs Uhr auf.",
+    "pronunciation": "إِش شتيهِه ييدِن مورغِن أوم زِكس أور آوف.",
+    "words": [
+      {
+        "w": "aufstehen",
+        "m_en": "to get up",
+        "m_ar": "يستيقظ/ينهض"
+      },
+      {
+        "w": "jeden Morgen",
+        "m_en": "every morning",
+        "m_ar": "كل صباح"
+      }
+    ],
+    "grammar_en": "'aufstehen' is separable: 'stehe ... auf'.",
+    "grammar_ar": "'aufstehen' فعل قابل للانفصال: 'stehe ... auf'.",
+    "alternatives": [
+      {
+        "text": "Ich wache jeden Morgen um sechs auf.",
+        "note_en": "'wach werden' = to wake up (vs. get out of bed)",
+        "note_ar": "'wach werden' تعني الاستيقاظ فقط (وليس النهوض من الفراش)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2232,
+    "text": "In fünf Minuten fängt der Film an.",
+    "translation_ar": "يبدأ الفيلم بعد خمس دقائق.",
+    "level": "A2",
+    "situation": "time",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 16,
+    "videoId": null,
+    "transcriptContext": "In fünf Minuten fängt der Film an.",
+    "pronunciation": "إِن فونف مينوتِن فِنغت دير فيلم آن.",
+    "words": [
+      {
+        "w": "die Minute",
+        "m_en": "minute",
+        "m_ar": "الدقيقة"
+      },
+      {
+        "w": "anfangen",
+        "m_en": "to begin",
+        "m_ar": "يبدأ"
+      }
+    ],
+    "grammar_en": "'in + time period' expresses 'in X time from now'.",
+    "grammar_ar": "'in + مدة زمنية' تعبّر عن 'بعد مدة من الآن'.",
+    "alternatives": [
+      {
+        "text": "Der Film beginnt gleich.",
+        "note_en": "Less precise, means 'very soon'",
+        "note_ar": "أقل دقة، تعني 'قريبًا جدًا'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2233,
+    "text": "Kann ich Ihre Telefonnummer haben?",
+    "translation_ar": "هل يمكنني الحصول على رقم هاتفك؟",
+    "level": "A2",
+    "situation": "phone-calls",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 17,
+    "videoId": null,
+    "transcriptContext": "Kann ich Ihre Telefonnummer haben?",
+    "pronunciation": "كان إِش إيرِه تيليفون-نومِر هابِن؟",
+    "words": [
+      {
+        "w": "die Telefonnummer",
+        "m_en": "phone number",
+        "m_ar": "رقم الهاتف"
+      }
+    ],
+    "grammar_en": "Polite request using formal 'Ihre' (your, formal).",
+    "grammar_ar": "طلب مهذّب باستخدام 'Ihre' (ضمير الاحترام).",
+    "alternatives": [
+      {
+        "text": "Wie ist Ihre Telefonnummer?",
+        "note_en": "Direct question form",
+        "note_ar": "صيغة سؤال مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2234,
+    "text": "Mein Akku ist fast leer.",
+    "translation_ar": "بطاريتي كادت تنفد.",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 18,
+    "videoId": null,
+    "transcriptContext": "Mein Akku ist fast leer.",
+    "pronunciation": "ماين آكو إِست فاست ليا.",
+    "words": [
+      {
+        "w": "der Akku",
+        "m_en": "battery",
+        "m_ar": "البطارية"
+      },
+      {
+        "w": "leer",
+        "m_en": "empty",
+        "m_ar": "فارغ"
+      }
+    ],
+    "grammar_en": "'fast' here means 'almost', not 'quick'.",
+    "grammar_ar": "'fast' هنا تعني 'تقريبًا/كادت' وليس 'سريع'.",
+    "alternatives": [
+      {
+        "text": "Mein Handy geht gleich aus.",
+        "note_en": "Focuses on the phone shutting off",
+        "note_ar": "يركز على انطفاء الهاتف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2235,
+    "text": "Ich habe kein Internet hier.",
+    "translation_ar": "ليس لدي إنترنت هنا.",
+    "level": "A1",
+    "situation": "technology",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 19,
+    "videoId": null,
+    "transcriptContext": "Ich habe kein Internet hier.",
+    "pronunciation": "إِش هابِه كاين إِنتِرنِت هيا.",
+    "words": [
+      {
+        "w": "kein",
+        "m_en": "no/not any",
+        "m_ar": "لا/ليس"
+      }
+    ],
+    "grammar_en": "'kein' negates a noun (instead of using 'nicht').",
+    "grammar_ar": "'kein' تُستخدم لنفي الأسماء (بدلًا من 'nicht').",
+    "alternatives": [
+      {
+        "text": "Hier gibt es keinen Empfang.",
+        "note_en": "Emphasizes lack of signal",
+        "note_ar": "يشدّد على انعدام الإشارة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2236,
+    "text": "Kannst du mir eine Nachricht schicken?",
+    "translation_ar": "هل يمكنك إرسال رسالة لي؟",
+    "level": "A2",
+    "situation": "phone-calls",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 20,
+    "videoId": null,
+    "transcriptContext": "Kannst du mir eine Nachricht schicken?",
+    "pronunciation": "كانست دو ميا آينِه ناخريشت شيكِن؟",
+    "words": [
+      {
+        "w": "die Nachricht",
+        "m_en": "message",
+        "m_ar": "الرسالة"
+      },
+      {
+        "w": "schicken",
+        "m_en": "to send",
+        "m_ar": "يرسل"
+      }
+    ],
+    "grammar_en": "'mir' (dative) shows the receiver of the action.",
+    "grammar_ar": "'mir' (حالة الجر) توضّح مستقبِل الفعل.",
+    "alternatives": [
+      {
+        "text": "Schreib mir bitte eine SMS.",
+        "note_en": "More specific — a text message",
+        "note_ar": "أكثر تحديدًا — رسالة نصية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2237,
+    "text": "Die Verbindung ist sehr schlecht.",
+    "translation_ar": "الاتصال سيء جدًا.",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 21,
+    "videoId": null,
+    "transcriptContext": "Die Verbindung ist sehr schlecht.",
+    "pronunciation": "دي فِربيندونغ إِست زيا شلِشت.",
+    "words": [
+      {
+        "w": "die Verbindung",
+        "m_en": "connection",
+        "m_ar": "الاتصال"
+      },
+      {
+        "w": "schlecht",
+        "m_en": "bad",
+        "m_ar": "سيء"
+      }
+    ],
+    "grammar_en": "'sehr' intensifies the adjective 'schlecht'.",
+    "grammar_ar": "'sehr' تُستخدم لتقوية الصفة 'schlecht'.",
+    "alternatives": [
+      {
+        "text": "Das Netz ist hier sehr schwach.",
+        "note_en": "Emphasizes weak signal specifically",
+        "note_ar": "يشدّد تحديدًا على ضعف الشبكة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2238,
+    "text": "Ich rufe dich später zurück.",
+    "translation_ar": "سأعاود الاتصال بك لاحقًا.",
+    "level": "A2",
+    "situation": "phone-calls",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 22,
+    "videoId": null,
+    "transcriptContext": "Ich rufe dich später zurück.",
+    "pronunciation": "إِش روفِه ديش شبيتِر تسوروك.",
+    "words": [
+      {
+        "w": "zurückrufen",
+        "m_en": "to call back",
+        "m_ar": "يعاود الاتصال"
+      },
+      {
+        "w": "später",
+        "m_en": "later",
+        "m_ar": "لاحقًا"
+      }
+    ],
+    "grammar_en": "'zurückrufen' is separable: 'rufe ... zurück'.",
+    "grammar_ar": "'zurückrufen' فعل قابل للانفصال: 'rufe ... zurück'.",
+    "alternatives": [
+      {
+        "text": "Ich melde mich später bei dir.",
+        "note_en": "More general — will get in touch later",
+        "note_ar": "أعم — سأتواصل معك لاحقًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2239,
+    "text": "Wie ist das WLAN-Passwort?",
+    "translation_ar": "ما هي كلمة مرور الواي فاي؟",
+    "level": "A1",
+    "situation": "technology",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 23,
+    "videoId": null,
+    "transcriptContext": "Wie ist das WLAN-Passwort?",
+    "pronunciation": "في إِست داس في-لان باسفورت؟",
+    "words": [
+      {
+        "w": "das Passwort",
+        "m_en": "password",
+        "m_ar": "كلمة المرور"
+      },
+      {
+        "w": "das WLAN",
+        "m_en": "wifi",
+        "m_ar": "الواي فاي"
+      }
+    ],
+    "grammar_en": "'WLAN' is the German term for wifi (pronounced 'vé-lan').",
+    "grammar_ar": "'WLAN' هو المصطلح الألماني للواي فاي (تُنطق 'في-لان').",
+    "alternatives": [
+      {
+        "text": "Habt ihr WLAN hier?",
+        "note_en": "Asking whether wifi exists at all",
+        "note_ar": "سؤال عن وجود واي فاي أصلًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2240,
+    "text": "Mein Handy ist kaputt gegangen.",
+    "translation_ar": "تعطّل هاتفي.",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 24,
+    "videoId": null,
+    "transcriptContext": "Mein Handy ist kaputt gegangen.",
+    "pronunciation": "ماين هِندي إِست كابوت غِغانغِن.",
+    "words": [
+      {
+        "w": "kaputt",
+        "m_en": "broken",
+        "m_ar": "معطّل"
+      },
+      {
+        "w": "das Handy",
+        "m_en": "mobile phone",
+        "m_ar": "الهاتف المحمول"
+      }
+    ],
+    "grammar_en": "'kaputtgehen' + Perfekt describes something breaking down.",
+    "grammar_ar": "'kaputtgehen' في زمن الماضي التام يصف تعطّل شيء ما.",
+    "alternatives": [
+      {
+        "text": "Mein Handy funktioniert nicht mehr.",
+        "note_en": "More neutral phrasing",
+        "note_ar": "صياغة أكثر حيادية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2241,
+    "text": "Ich habe einen Hund und zwei Katzen.",
+    "translation_ar": "لديّ كلب وقطتان.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 25,
+    "videoId": null,
+    "transcriptContext": "Ich habe einen Hund und zwei Katzen.",
+    "pronunciation": "إِش هابِه آينِن هونت أونت تسفاي كاتسِن.",
+    "words": [
+      {
+        "w": "der Hund",
+        "m_en": "dog",
+        "m_ar": "الكلب"
+      },
+      {
+        "w": "die Katze",
+        "m_en": "cat",
+        "m_ar": "القطة"
+      }
+    ],
+    "grammar_en": "'haben' + accusative expresses possession.",
+    "grammar_ar": "'haben' + حالة النصب تعبّر عن الملكية.",
+    "alternatives": [
+      {
+        "text": "Wir besitzen einen Hund und zwei Katzen.",
+        "note_en": "More formal 'besitzen' (to own)",
+        "note_ar": "أكثر رسمية باستخدام 'besitzen' (يملك)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2242,
+    "text": "Der Vogel singt jeden Morgen.",
+    "translation_ar": "يغرّد الطائر كل صباح.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 26,
+    "videoId": null,
+    "transcriptContext": "Der Vogel singt jeden Morgen.",
+    "pronunciation": "دير فوغِل زينغت ييدِن مورغِن.",
+    "words": [
+      {
+        "w": "der Vogel",
+        "m_en": "bird",
+        "m_ar": "الطائر"
+      },
+      {
+        "w": "singen",
+        "m_en": "to sing",
+        "m_ar": "يغنّي/يغرّد"
+      }
+    ],
+    "grammar_en": "Present tense for repeated/habitual actions.",
+    "grammar_ar": "المضارع البسيط يُستخدم للأفعال المتكررة أو المعتادة.",
+    "alternatives": [
+      {
+        "text": "Jeden Morgen hört man den Vogel singen.",
+        "note_en": "Passive/impersonal alternative",
+        "note_ar": "بديل غير مباشر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2243,
+    "text": "Pferde können sehr schnell laufen.",
+    "translation_ar": "يمكن للخيول الجري بسرعة كبيرة.",
+    "level": "A2",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 27,
+    "videoId": null,
+    "transcriptContext": "Pferde können sehr schnell laufen.",
+    "pronunciation": "فيردِه كونِن زيا شنِل لاوفِن.",
+    "words": [
+      {
+        "w": "das Pferd",
+        "m_en": "horse",
+        "m_ar": "الحصان"
+      },
+      {
+        "w": "laufen",
+        "m_en": "to run/walk",
+        "m_ar": "يجري/يمشي"
+      }
+    ],
+    "grammar_en": "'können' + infinitive expresses ability.",
+    "grammar_ar": "'können' + المصدر تعبّر عن القدرة على فعل شيء.",
+    "alternatives": [
+      {
+        "text": "Pferde rennen sehr schnell.",
+        "note_en": "'rennen' emphasizes fast running",
+        "note_ar": "'rennen' تشدّد على الجري السريع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2244,
+    "text": "Wir haben im Zoo Elefanten gesehen.",
+    "translation_ar": "رأينا فيلة في حديقة الحيوان.",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 28,
+    "videoId": null,
+    "transcriptContext": "Wir haben im Zoo Elefanten gesehen.",
+    "pronunciation": "فير هابِن إِم تسو إِليفانتِن غِزيهِن.",
+    "words": [
+      {
+        "w": "der Zoo",
+        "m_en": "zoo",
+        "m_ar": "حديقة الحيوان"
+      },
+      {
+        "w": "der Elefant",
+        "m_en": "elephant",
+        "m_ar": "الفيل"
+      }
+    ],
+    "grammar_en": "Perfekt tense: haben + past participle 'gesehen'.",
+    "grammar_ar": "زمن الماضي التام: haben + التصريف الثالث 'gesehen'.",
+    "alternatives": [
+      {
+        "text": "Im Zoo gab es viele Elefanten.",
+        "note_en": "Focuses on the zoo having elephants",
+        "note_ar": "يركّز على وجود الفيلة في الحديقة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2245,
+    "text": "Die Katze schläft auf dem Sofa.",
+    "translation_ar": "القطة نائمة على الأريكة.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 29,
+    "videoId": null,
+    "transcriptContext": "Die Katze schläft auf dem Sofa.",
+    "pronunciation": "دي كاتسِه شليفت آوف ديم زوفا.",
+    "words": [
+      {
+        "w": "schlafen",
+        "m_en": "to sleep",
+        "m_ar": "ينام"
+      },
+      {
+        "w": "das Sofa",
+        "m_en": "sofa",
+        "m_ar": "الأريكة"
+      }
+    ],
+    "grammar_en": "'auf + dative' describes a fixed location (on top of).",
+    "grammar_ar": "'auf + حالة الجر' تصف مكانًا ثابتًا (فوق شيء).",
+    "alternatives": [
+      {
+        "text": "Die Katze liegt auf dem Sofa.",
+        "note_en": "'liegen' emphasizes lying position",
+        "note_ar": "'liegen' تشدّد على وضعية الاستلقاء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2246,
+    "text": "Fische leben im Wasser.",
+    "translation_ar": "تعيش الأسماك في الماء.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 30,
+    "videoId": null,
+    "transcriptContext": "Fische leben im Wasser.",
+    "pronunciation": "فيشِه ليبِن إِم فاسِر.",
+    "words": [
+      {
+        "w": "der Fisch",
+        "m_en": "fish",
+        "m_ar": "السمكة"
+      },
+      {
+        "w": "das Wasser",
+        "m_en": "water",
+        "m_ar": "الماء"
+      }
+    ],
+    "grammar_en": "General/timeless facts use simple present tense.",
+    "grammar_ar": "الحقائق العامة تُستخدم فيها صيغة المضارع البسيط.",
+    "alternatives": [
+      {
+        "text": "Fische können nicht an Land leben.",
+        "note_en": "Negative framing of the same fact",
+        "note_ar": "صياغة معاكسة لنفس الحقيقة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2247,
+    "text": "Mein Kaninchen frisst gern Karotten.",
+    "translation_ar": "يحب أرنبي أكل الجزر.",
+    "level": "A2",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 31,
+    "videoId": null,
+    "transcriptContext": "Mein Kaninchen frisst gern Karotten.",
+    "pronunciation": "ماين كانينشِن فريست غيرن كاروتِن.",
+    "words": [
+      {
+        "w": "das Kaninchen",
+        "m_en": "rabbit",
+        "m_ar": "الأرنب"
+      },
+      {
+        "w": "fressen",
+        "m_en": "to eat (animals)",
+        "m_ar": "يأكل (للحيوانات)"
+      }
+    ],
+    "grammar_en": "'fressen' is used for animals eating, not 'essen' (for people).",
+    "grammar_ar": "'fressen' تُستخدم لأكل الحيوانات، بينما 'essen' للبشر.",
+    "alternatives": [
+      {
+        "text": "Mein Kaninchen liebt Karotten.",
+        "note_en": "Simpler phrasing with 'lieben'",
+        "note_ar": "صياغة أبسط باستخدام 'lieben'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2248,
+    "text": "Der Bauer hat Kühe und Schafe.",
+    "translation_ar": "لدى المزارع أبقار وأغنام.",
+    "level": "A2",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 32,
+    "videoId": null,
+    "transcriptContext": "Der Bauer hat Kühe und Schafe.",
+    "pronunciation": "دير باوِر هات كويِه أونت شافِه.",
+    "words": [
+      {
+        "w": "der Bauer",
+        "m_en": "farmer",
+        "m_ar": "المزارع"
+      },
+      {
+        "w": "die Kuh",
+        "m_en": "cow",
+        "m_ar": "البقرة"
+      }
+    ],
+    "grammar_en": "Plural nouns often change their form: die Kuh → die Kühe.",
+    "grammar_ar": "الأسماء الجمع غالبًا تتغيّر صيغتها: die Kuh → die Kühe.",
+    "alternatives": [
+      {
+        "text": "Auf dem Bauernhof gibt es Kühe und Schafe.",
+        "note_en": "Focuses on the farm rather than the farmer",
+        "note_ar": "يركّز على المزرعة بدلًا من المزارع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2249,
+    "text": "Ich lese gern Bücher am Abend.",
+    "translation_ar": "أحب قراءة الكتب في المساء.",
+    "level": "A1",
+    "situation": "leisure",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 33,
+    "videoId": null,
+    "transcriptContext": "Ich lese gern Bücher am Abend.",
+    "pronunciation": "إِش ليزِه غيرن بوشِر آم آبِنت.",
+    "words": [
+      {
+        "w": "lesen",
+        "m_en": "to read",
+        "m_ar": "يقرأ"
+      },
+      {
+        "w": "gern",
+        "m_en": "gladly/like to",
+        "m_ar": "يحب فعله"
+      }
+    ],
+    "grammar_en": "'gern' after a verb expresses liking that activity.",
+    "grammar_ar": "'gern' بعد الفعل تعبّر عن حب فعل ذلك الشيء.",
+    "alternatives": [
+      {
+        "text": "Abends lese ich gern.",
+        "note_en": "Time expression moved to the front",
+        "note_ar": "تقديم الظرف الزمني إلى بداية الجملة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2250,
+    "text": "Mein Hobby ist Fotografieren.",
+    "translation_ar": "هوايتي التصوير الفوتوغرافي.",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 34,
+    "videoId": null,
+    "transcriptContext": "Mein Hobby ist Fotografieren.",
+    "pronunciation": "ماين هوبي إِست فوتوغرافيرِن.",
+    "words": [
+      {
+        "w": "das Hobby",
+        "m_en": "hobby",
+        "m_ar": "الهواية"
+      },
+      {
+        "w": "fotografieren",
+        "m_en": "to photograph",
+        "m_ar": "يصوّر"
+      }
+    ],
+    "grammar_en": "Infinitives can function as nouns in German (capitalized).",
+    "grammar_ar": "يمكن للمصدر أن يعمل كاسم في الألمانية (يُكتب بحرف كبير).",
+    "alternatives": [
+      {
+        "text": "Ich fotografiere gern in meiner Freizeit.",
+        "note_en": "Verb form instead of noun",
+        "note_ar": "صيغة فعل بدلًا من اسم"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2251,
+    "text": "Wir spielen samstags Fußball.",
+    "translation_ar": "نلعب كرة القدم أيام السبت.",
+    "level": "A1",
+    "situation": "leisure",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 35,
+    "videoId": null,
+    "transcriptContext": "Wir spielen samstags Fußball.",
+    "pronunciation": "فير شبيلِن زامستاغز فوسبال.",
+    "words": [
+      {
+        "w": "der Fußball",
+        "m_en": "soccer/football",
+        "m_ar": "كرة القدم"
+      },
+      {
+        "w": "samstags",
+        "m_en": "on Saturdays",
+        "m_ar": "أيام السبت"
+      }
+    ],
+    "grammar_en": "Days of the week + 's' express repeated occurrence ('samstags' = every Saturday).",
+    "grammar_ar": "أيام الأسبوع + 's' تعبّر عن التكرار ('samstags' = كل سبت).",
+    "alternatives": [
+      {
+        "text": "Jeden Samstag spielen wir Fußball.",
+        "note_en": "Alternative word order, same meaning",
+        "note_ar": "ترتيب مختلف للجملة بنفس المعنى"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2252,
+    "text": "Sie malt in ihrer Freizeit gern Bilder.",
+    "translation_ar": "تحب رسم اللوحات في وقت فراغها.",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 36,
+    "videoId": null,
+    "transcriptContext": "Sie malt in ihrer Freizeit gern Bilder.",
+    "pronunciation": "زي مالت إِن إيرِر فرايتسايت غيرن بيلدِر.",
+    "words": [
+      {
+        "w": "malen",
+        "m_en": "to paint",
+        "m_ar": "يرسم"
+      },
+      {
+        "w": "die Freizeit",
+        "m_en": "free time",
+        "m_ar": "وقت الفراغ"
+      }
+    ],
+    "grammar_en": "'in ihrer Freizeit' (dative) expresses 'during her free time'.",
+    "grammar_ar": "'in ihrer Freizeit' (حالة الجر) تعبّر عن 'في وقت فراغها'.",
+    "alternatives": [
+      {
+        "text": "Malen ist ihr liebstes Hobby.",
+        "note_en": "Rephrased focusing on the hobby itself",
+        "note_ar": "إعادة صياغة تركّز على الهواية نفسها"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2253,
+    "text": "Ich sammle alte Briefmarken.",
+    "translation_ar": "أجمع الطوابع القديمة.",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 37,
+    "videoId": null,
+    "transcriptContext": "Ich sammle alte Briefmarken.",
+    "pronunciation": "إِش زامِله آلتِه بريفماركِن.",
+    "words": [
+      {
+        "w": "sammeln",
+        "m_en": "to collect",
+        "m_ar": "يجمع"
+      },
+      {
+        "w": "die Briefmarke",
+        "m_en": "stamp",
+        "m_ar": "الطابع البريدي"
+      }
+    ],
+    "grammar_en": "'sammeln' + accusative plural noun for collecting things.",
+    "grammar_ar": "'sammeln' + اسم جمع بحالة النصب لجمع الأشياء.",
+    "alternatives": [
+      {
+        "text": "Briefmarkensammeln ist mein Hobby.",
+        "note_en": "Compound noun as subject",
+        "note_ar": "اسم مركب كموضوع للجملة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2254,
+    "text": "Er spielt jeden Abend Gitarre.",
+    "translation_ar": "يعزف على الغيتار كل مساء.",
+    "level": "A1",
+    "situation": "leisure",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 38,
+    "videoId": null,
+    "transcriptContext": "Er spielt jeden Abend Gitarre.",
+    "pronunciation": "إير شبيلت ييدِن آبِنت غيتارِه.",
+    "words": [
+      {
+        "w": "die Gitarre",
+        "m_en": "guitar",
+        "m_ar": "الغيتار"
+      },
+      {
+        "w": "spielen",
+        "m_en": "to play",
+        "m_ar": "يعزف/يلعب"
+      }
+    ],
+    "grammar_en": "No article is used with instruments after 'spielen' in this pattern.",
+    "grammar_ar": "لا تُستخدم أداة تعريف مع الآلات الموسيقية بعد 'spielen' في هذا التركيب.",
+    "alternatives": [
+      {
+        "text": "Jeden Abend übt er Gitarre.",
+        "note_en": "'üben' emphasizes practicing",
+        "note_ar": "'üben' تشدّد على التدرّب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2255,
+    "text": "Wandern in den Bergen macht mir Spaß.",
+    "translation_ar": "المشي في الجبال ممتع بالنسبة لي.",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 39,
+    "videoId": null,
+    "transcriptContext": "Wandern in den Bergen macht mir Spaß.",
+    "pronunciation": "فاندِرن إِن دين بيرغِن ماخت ميا شباس.",
+    "words": [
+      {
+        "w": "wandern",
+        "m_en": "to hike",
+        "m_ar": "يتنزّه سيرًا"
+      },
+      {
+        "w": "der Spaß",
+        "m_en": "fun",
+        "m_ar": "المتعة"
+      }
+    ],
+    "grammar_en": "'X macht mir Spaß' = 'X is fun for me'.",
+    "grammar_ar": "'X macht mir Spaß' تعني 'X ممتع بالنسبة لي'.",
+    "alternatives": [
+      {
+        "text": "Ich wandere gern in den Bergen.",
+        "note_en": "Simpler verb-based phrasing",
+        "note_ar": "صياغة أبسط تعتمد على الفعل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2256,
+    "text": "Am Wochenende gehe ich gern schwimmen.",
+    "translation_ar": "في عطلة نهاية الأسبوع أحب الذهاب للسباحة.",
+    "level": "A1",
+    "situation": "leisure",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 40,
+    "videoId": null,
+    "transcriptContext": "Am Wochenende gehe ich gern schwimmen.",
+    "pronunciation": "آم فوخِنِندِه غيهِه إِش غيرن شفيمِن.",
+    "words": [
+      {
+        "w": "schwimmen",
+        "m_en": "to swim",
+        "m_ar": "يسبح"
+      },
+      {
+        "w": "das Wochenende",
+        "m_en": "weekend",
+        "m_ar": "عطلة نهاية الأسبوع"
+      }
+    ],
+    "grammar_en": "'gehen' + infinitive expresses going somewhere to do an activity.",
+    "grammar_ar": "'gehen' + المصدر تعبّر عن الذهاب للقيام بنشاط ما.",
+    "alternatives": [
+      {
+        "text": "Ich schwimme gern am Wochenende.",
+        "note_en": "Direct verb instead of 'gehen + infinitive'",
+        "note_ar": "فعل مباشر بدلًا من تركيب 'gehen + المصدر'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2257,
+    "text": "Bitte öffne das Fenster.",
+    "translation_ar": "من فضلك افتح النافذة.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 41,
+    "videoId": null,
+    "transcriptContext": "Bitte öffne das Fenster.",
+    "pronunciation": "بيتِه أوفنِه داس فِنستِر.",
+    "words": [
+      {
+        "w": "öffnen",
+        "m_en": "to open",
+        "m_ar": "يفتح"
+      },
+      {
+        "w": "das Fenster",
+        "m_en": "window",
+        "m_ar": "النافذة"
+      }
+    ],
+    "grammar_en": "Imperative (du-form) of 'öffnen': 'öffne'.",
+    "grammar_ar": "صيغة الأمر (لـ du) من 'öffnen': 'öffne'.",
+    "alternatives": [
+      {
+        "text": "Kannst du bitte das Fenster öffnen?",
+        "note_en": "Polite request form",
+        "note_ar": "صيغة طلب مهذّبة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2258,
+    "text": "Ich schließe die Tür jetzt.",
+    "translation_ar": "سأغلق الباب الآن.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 42,
+    "videoId": null,
+    "transcriptContext": "Ich schließe die Tür jetzt.",
+    "pronunciation": "إِش شليسِه دي تور يِتست.",
+    "words": [
+      {
+        "w": "schließen",
+        "m_en": "to close",
+        "m_ar": "يغلق"
+      },
+      {
+        "w": "die Tür",
+        "m_en": "door",
+        "m_ar": "الباب"
+      }
+    ],
+    "grammar_en": "'schließen' is the opposite (antonym) of 'öffnen'.",
+    "grammar_ar": "'schließen' هي عكس 'öffnen' (تضاد).",
+    "alternatives": [
+      {
+        "text": "Ich mache die Tür zu.",
+        "note_en": "Casual separable-verb alternative 'zumachen'",
+        "note_ar": "بديل عامي بفعل منفصل 'zumachen'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2259,
+    "text": "Die Kinder laufen im Park.",
+    "translation_ar": "يجري الأطفال في الحديقة.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 43,
+    "videoId": null,
+    "transcriptContext": "Die Kinder laufen im Park.",
+    "pronunciation": "دي كيندِر لاوفِن إِم بارك.",
+    "words": [
+      {
+        "w": "laufen",
+        "m_en": "to run/walk",
+        "m_ar": "يجري/يمشي"
+      },
+      {
+        "w": "der Park",
+        "m_en": "park",
+        "m_ar": "الحديقة"
+      }
+    ],
+    "grammar_en": "'laufen' can mean both 'to walk' and 'to run' depending on context.",
+    "grammar_ar": "'laufen' قد تعني 'يمشي' أو 'يجري' حسب السياق.",
+    "alternatives": [
+      {
+        "text": "Die Kinder rennen im Park.",
+        "note_en": "'rennen' specifically means 'to run'",
+        "note_ar": "'rennen' تعني تحديدًا 'يجري'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2260,
+    "text": "Setz dich bitte hier hin.",
+    "translation_ar": "من فضلك اجلس هنا.",
+    "level": "A2",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 44,
+    "videoId": null,
+    "transcriptContext": "Setz dich bitte hier hin.",
+    "pronunciation": "زِتس ديش بيتِه هيا هين.",
+    "words": [
+      {
+        "w": "sich hinsetzen",
+        "m_en": "to sit down",
+        "m_ar": "يجلس"
+      },
+      {
+        "w": "sitzen",
+        "m_en": "to sit",
+        "m_ar": "يجلس (حالة)"
+      }
+    ],
+    "grammar_en": "'sich hinsetzen' is the action of sitting down; 'sitzen' is the state of sitting.",
+    "grammar_ar": "'sich hinsetzen' فعل الجلوس (الحركة)، بينما 'sitzen' هي حالة الجلوس.",
+    "alternatives": [
+      {
+        "text": "Nimm bitte hier Platz.",
+        "note_en": "More formal/polite phrasing",
+        "note_ar": "صياغة أكثر رسمية وأدبًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2261,
+    "text": "Er trägt einen schweren Koffer.",
+    "translation_ar": "يحمل حقيبة ثقيلة.",
+    "level": "A2",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 45,
+    "videoId": null,
+    "transcriptContext": "Er trägt einen schweren Koffer.",
+    "pronunciation": "إير تريغت آينِن شفيرِن كوفِر.",
+    "words": [
+      {
+        "w": "tragen",
+        "m_en": "to carry/wear",
+        "m_ar": "يحمل/يرتدي"
+      },
+      {
+        "w": "der Koffer",
+        "m_en": "suitcase",
+        "m_ar": "الحقيبة"
+      }
+    ],
+    "grammar_en": "'tragen' means both 'to carry' and 'to wear' depending on context.",
+    "grammar_ar": "'tragen' تعني 'يحمل' أو 'يرتدي' حسب السياق.",
+    "alternatives": [
+      {
+        "text": "Er hebt einen schweren Koffer.",
+        "note_en": "'heben' emphasizes lifting",
+        "note_ar": "'heben' تشدّد على الرفع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2262,
+    "text": "Wir kaufen morgen frisches Brot.",
+    "translation_ar": "سنشتري غدًا خبزًا طازجًا.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 46,
+    "videoId": null,
+    "transcriptContext": "Wir kaufen morgen frisches Brot.",
+    "pronunciation": "فير كاوفِن مورغِن فريشِس بروت.",
+    "words": [
+      {
+        "w": "kaufen",
+        "m_en": "to buy",
+        "m_ar": "يشتري"
+      },
+      {
+        "w": "frisch",
+        "m_en": "fresh",
+        "m_ar": "طازج"
+      }
+    ],
+    "grammar_en": "Present tense can express future meaning with a time word like 'morgen'.",
+    "grammar_ar": "يمكن للمضارع أن يعبّر عن المستقبل عند وجود ظرف زمني مثل 'morgen'.",
+    "alternatives": [
+      {
+        "text": "Morgen kaufen wir frisches Brot.",
+        "note_en": "Time expression moved to front",
+        "note_ar": "تقديم الظرف الزمني إلى بداية الجملة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 2263,
+    "text": "Das Geschäft verkauft nur Bio-Produkte.",
+    "translation_ar": "يبيع المتجر منتجات عضوية فقط.",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 47,
+    "videoId": null,
+    "transcriptContext": "Das Geschäft verkauft nur Bio-Produkte.",
+    "pronunciation": "داس غِشِفت فِركاوفت نور بيو-برودوكتِه.",
+    "words": [
+      {
+        "w": "verkaufen",
+        "m_en": "to sell",
+        "m_ar": "يبيع"
+      },
+      {
+        "w": "das Geschäft",
+        "m_en": "store/shop",
+        "m_ar": "المتجر"
+      }
+    ],
+    "grammar_en": "'verkaufen' is the opposite of 'kaufen' (to sell vs. to buy).",
+    "grammar_ar": "'verkaufen' عكس 'kaufen' (يبيع مقابل يشتري).",
+    "alternatives": [
+      {
+        "text": "In diesem Geschäft gibt es nur Bio-Produkte.",
+        "note_en": "Impersonal phrasing with 'es gibt'",
+        "note_ar": "صياغة غير شخصية باستخدام 'es gibt'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 2264,
+    "text": "Ich stehe früh auf, um zu trainieren.",
+    "translation_ar": "أستيقظ باكرًا للتمرّن.",
+    "level": "B1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 48,
+    "videoId": null,
+    "transcriptContext": "Ich stehe früh auf, um zu trainieren.",
+    "pronunciation": "إِش شتيهِه فرو آوف أوم تسو ترينيرِن.",
+    "words": [
+      {
+        "w": "trainieren",
+        "m_en": "to train/exercise",
+        "m_ar": "يتمرّن"
+      },
+      {
+        "w": "früh",
+        "m_en": "early",
+        "m_ar": "باكرًا"
+      }
+    ],
+    "grammar_en": "'um ... zu' + infinitive expresses purpose ('in order to').",
+    "grammar_ar": "'um ... zu' + المصدر تعبّر عن الغرض ('من أجل أن').",
+    "alternatives": [
+      {
+        "text": "Ich stehe früh auf, weil ich trainieren möchte.",
+        "note_en": "Reason clause with 'weil' instead of purpose clause",
+        "note_ar": "جملة سببية بـ 'weil' بدلًا من جملة الغرض"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
   }
 ]
