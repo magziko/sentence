@@ -1810,7 +1810,7 @@ function renderResults(){
     const card = document.createElement('div');
     card.className = 'sentence-card';
     card.innerHTML = `
-      <div class="card-thumb" data-action="play" data-id="${s.id}" role="button" tabindex="0" aria-label="Play">
+      <div class="card-thumb" data-action="watch" data-id="${s.id}" role="button" tabindex="0" aria-label="Play">
         <span class="card-match">${pct}% ${t('matchLabel')}</span>
         <span class="play-glyph">▶</span>
       </div>
@@ -1837,6 +1837,7 @@ function renderResults(){
       const action = el.dataset.action;
       if(action==='save') saveFavorite(s);
       else if(action==='play') speak(s.text);
+      else if(action==='watch') openDetail(s, 'watch');
       else openDetail(s, 'practice');
     });
     el.addEventListener('keydown', (e)=>{ if(e.key==='Enter') el.click(); });
@@ -2030,14 +2031,12 @@ function openDetail(s, startTab){
 
   document.getElementById('detailSaveBtn').onclick = ()=>saveFavorite(s);
   const ytBtn = document.getElementById('detailYoutubeBtn');
+  ytBtn.disabled = false;
+  ytBtn.title = '';
   if(s.videoId){
-    ytBtn.disabled = false;
-    ytBtn.title = '';
     ytBtn.onclick = ()=>window.open(`https://www.youtube.com/watch?v=${s.videoId}&t=${s.timestamp}s`, '_blank');
   } else {
-    ytBtn.disabled = true;
-    ytBtn.title = t('demoNoVideoSub');
-    ytBtn.onclick = null;
+    ytBtn.onclick = ()=>window.open(`https://www.youtube.com/results?search_query=${encodeURIComponent(s.text)}`, '_blank');
   }
 
   // reset practice/listening sub-views
