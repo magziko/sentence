@@ -16535,5 +16535,4440 @@
     ],
     "similar": [],
     "difficulty": 3
+  },
+  {
+    "id": 3001,
+    "text": "Ich habe eine Schwester.",
+    "translation_ar": "عندي أخت.",
+    "level": "A1",
+    "situation": "family",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 137,
+    "videoId": null,
+    "transcriptContext": "Ich habe eine Schwester.",
+    "pronunciation": "إيش هابه آينه شفستر",
+    "words": [
+      {
+        "w": "die Schwester",
+        "m_en": "sister",
+        "m_ar": "أخت"
+      },
+      {
+        "w": "haben",
+        "m_en": "to have",
+        "m_ar": "يملك/عنده"
+      }
+    ],
+    "grammar_en": "haben (to have) conjugates as 'ich habe' in the present tense.",
+    "grammar_ar": "الفعل haben (يملك) يُصرَّف 'ich habe' في زمن المضارع.",
+    "alternatives": [
+      {
+        "text": "Ich habe einen Bruder.",
+        "note_en": "Same pattern with 'brother' instead",
+        "note_ar": "نفس النمط لكن بكلمة 'أخ'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3002,
+    "text": "Das ist mein Bruder.",
+    "translation_ar": "هذا أخي.",
+    "level": "A1",
+    "situation": "family",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 154,
+    "videoId": null,
+    "transcriptContext": "Das ist mein Bruder.",
+    "pronunciation": "داس إست ماين بروضر",
+    "words": [
+      {
+        "w": "der Bruder",
+        "m_en": "brother",
+        "m_ar": "أخ"
+      },
+      {
+        "w": "mein",
+        "m_en": "my",
+        "m_ar": "ملكي/بتاعي"
+      }
+    ],
+    "grammar_en": "'mein' (my) agrees with masculine nouns like 'der Bruder'.",
+    "grammar_ar": "الضمير 'mein' (بتاعي) يطابق الأسماء المذكرة مثل 'der Bruder'.",
+    "alternatives": [
+      {
+        "text": "Das ist meine Schwester.",
+        "note_en": "Feminine form of 'my'",
+        "note_ar": "الصيغة المؤنثة لـ 'بتاعي'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3003,
+    "text": "Meine Mutter kocht gern.",
+    "translation_ar": "أمي بتحب تطبخ.",
+    "level": "A1",
+    "situation": "family",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 171,
+    "videoId": null,
+    "transcriptContext": "Meine Mutter kocht gern.",
+    "pronunciation": "ماينه موتر كوخت غيرن",
+    "words": [
+      {
+        "w": "die Mutter",
+        "m_en": "mother",
+        "m_ar": "أم"
+      },
+      {
+        "w": "kochen",
+        "m_en": "to cook",
+        "m_ar": "يطبخ"
+      },
+      {
+        "w": "gern",
+        "m_en": "gladly / like to",
+        "m_ar": "بحب"
+      }
+    ],
+    "grammar_en": "'gern' after a verb means you enjoy doing that action.",
+    "grammar_ar": "كلمة 'gern' بعد الفعل معناها إنك بتحب تعمل الحاجة دي.",
+    "alternatives": [
+      {
+        "text": "Mein Vater kocht gern.",
+        "note_en": "Same structure for 'father'",
+        "note_ar": "نفس التركيب لكلمة 'أب'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3004,
+    "text": "Mein Vater arbeitet viel.",
+    "translation_ar": "أبويا بيشتغل كتير.",
+    "level": "A1",
+    "situation": "family",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 188,
+    "videoId": null,
+    "transcriptContext": "Mein Vater arbeitet viel.",
+    "pronunciation": "ماين فاتر أربايتِت فيل",
+    "words": [
+      {
+        "w": "der Vater",
+        "m_en": "father",
+        "m_ar": "أب"
+      },
+      {
+        "w": "arbeiten",
+        "m_en": "to work",
+        "m_ar": "يشتغل"
+      },
+      {
+        "w": "viel",
+        "m_en": "a lot",
+        "m_ar": "كتير"
+      }
+    ],
+    "grammar_en": "'arbeitet' is the 'er/sie/es' present-tense form of 'arbeiten'.",
+    "grammar_ar": "'arbeitet' هي صيغة الفعل 'arbeiten' مع هو/هي في المضارع.",
+    "alternatives": [
+      {
+        "text": "Mein Vater arbeitet viel zu viel.",
+        "note_en": "Adds emphasis — 'way too much'",
+        "note_ar": "بتضيف تأكيد إنه 'كتير أوي'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3005,
+    "text": "Der Himmel ist blau.",
+    "translation_ar": "السماء زرقاء.",
+    "level": "A1",
+    "situation": "weather",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 205,
+    "videoId": null,
+    "transcriptContext": "Der Himmel ist blau.",
+    "pronunciation": "دير هيمِل إست بلاو",
+    "words": [
+      {
+        "w": "der Himmel",
+        "m_en": "sky",
+        "m_ar": "السماء"
+      },
+      {
+        "w": "blau",
+        "m_en": "blue",
+        "m_ar": "أزرق"
+      }
+    ],
+    "grammar_en": "Adjectives after 'ist' (is) don't take an ending: 'ist blau', not 'ist blaue'.",
+    "grammar_ar": "الصفة بعد 'ist' (يكون) ما بتاخدش نهاية: 'ist blau' مش 'ist blaue'.",
+    "alternatives": [
+      {
+        "text": "Der Himmel ist grau.",
+        "note_en": "Overcast weather instead",
+        "note_ar": "طقس ملبّد بالغيوم بدلًا من صافي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3006,
+    "text": "Ich mag die Farbe Rot.",
+    "translation_ar": "بحب اللون الأحمر.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 222,
+    "videoId": null,
+    "transcriptContext": "Ich mag die Farbe Rot.",
+    "pronunciation": "إيش ماغ دي فاربه روت",
+    "words": [
+      {
+        "w": "die Farbe",
+        "m_en": "color",
+        "m_ar": "لون"
+      },
+      {
+        "w": "mögen",
+        "m_en": "to like",
+        "m_ar": "يحب/يعجبه"
+      },
+      {
+        "w": "rot",
+        "m_en": "red",
+        "m_ar": "أحمر"
+      }
+    ],
+    "grammar_en": "'mögen' (to like) is used with 'ich mag' for likes and preferences.",
+    "grammar_ar": "الفعل 'mögen' (يعجبه) بيتصرّف 'ich mag' للتعبير عن الحاجات اللي بتعجبك.",
+    "alternatives": [
+      {
+        "text": "Ich mag die Farbe Blau.",
+        "note_en": "Swap in another color",
+        "note_ar": "استبدال بلون تاني"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3007,
+    "text": "Das Auto ist schwarz.",
+    "translation_ar": "العربية لونها أسود.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 239,
+    "videoId": null,
+    "transcriptContext": "Das Auto ist schwarz.",
+    "pronunciation": "داس آوتو إست شفارتس",
+    "words": [
+      {
+        "w": "das Auto",
+        "m_en": "car",
+        "m_ar": "عربية"
+      },
+      {
+        "w": "schwarz",
+        "m_en": "black",
+        "m_ar": "أسود"
+      }
+    ],
+    "grammar_en": "Colors as predicate adjectives stay uninflected after 'sein' (to be).",
+    "grammar_ar": "الألوان كصفة بعد الفعل 'sein' (يكون) بتفضل زي ما هي من غير تغيير.",
+    "alternatives": [
+      {
+        "text": "Das Auto ist weiß.",
+        "note_en": "White instead of black",
+        "note_ar": "أبيض بدل أسود"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3008,
+    "text": "Ich habe zwei Kinder.",
+    "translation_ar": "عندي طفلين.",
+    "level": "A1",
+    "situation": "family",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 16,
+    "videoId": null,
+    "transcriptContext": "Ich habe zwei Kinder.",
+    "pronunciation": "إيش هابه تسفاي كيندر",
+    "words": [
+      {
+        "w": "das Kind",
+        "m_en": "child",
+        "m_ar": "طفل"
+      },
+      {
+        "w": "zwei",
+        "m_en": "two",
+        "m_ar": "اتنين"
+      }
+    ],
+    "grammar_en": "'Kinder' is the plural of 'das Kind' — many German plurals add '-er'.",
+    "grammar_ar": "'Kinder' هي جمع 'das Kind' — كتير من الجموع الألمانية بتضيف '-er'.",
+    "alternatives": [
+      {
+        "text": "Ich habe drei Kinder.",
+        "note_en": "Three children instead of two",
+        "note_ar": "تلات أطفال بدل اتنين"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3009,
+    "text": "Wie viele Geschwister hast du?",
+    "translation_ar": "عندك كام أخ وأخت؟",
+    "level": "A1",
+    "situation": "family",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 33,
+    "videoId": null,
+    "transcriptContext": "Wie viele Geschwister hast du?",
+    "pronunciation": "في فيله جشفستر هاست دو",
+    "words": [
+      {
+        "w": "die Geschwister",
+        "m_en": "siblings",
+        "m_ar": "إخوة"
+      },
+      {
+        "w": "wie viele",
+        "m_en": "how many",
+        "m_ar": "كام"
+      }
+    ],
+    "grammar_en": "'Geschwister' covers both brothers and sisters together — it's plural-only.",
+    "grammar_ar": "كلمة 'Geschwister' بتشمل الإخوة والأخوات مع بعض — وبتُستخدم بصيغة الجمع بس.",
+    "alternatives": [
+      {
+        "text": "Hast du Geschwister?",
+        "note_en": "Simpler yes/no version",
+        "note_ar": "نسخة أبسط بإجابة نعم/لا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3010,
+    "text": "Der Hund ist klein.",
+    "translation_ar": "الكلب صغير.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 50,
+    "videoId": null,
+    "transcriptContext": "Der Hund ist klein.",
+    "pronunciation": "دير هونت إست كلاين",
+    "words": [
+      {
+        "w": "der Hund",
+        "m_en": "dog",
+        "m_ar": "كلب"
+      },
+      {
+        "w": "klein",
+        "m_en": "small",
+        "m_ar": "صغير"
+      }
+    ],
+    "grammar_en": "'klein' (small) stays the same regardless of gender when used after 'ist'.",
+    "grammar_ar": "كلمة 'klein' (صغير) بتفضل زي ما هي بغض النظر عن الجنس لما تيجي بعد 'ist'.",
+    "alternatives": [
+      {
+        "text": "Der Hund ist sehr klein.",
+        "note_en": "Adds 'very' for emphasis",
+        "note_ar": "بتضيف 'جدًا' للتأكيد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3011,
+    "text": "Die Katze schläft viel.",
+    "translation_ar": "القطة بتنام كتير.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 67,
+    "videoId": null,
+    "transcriptContext": "Die Katze schläft viel.",
+    "pronunciation": "دي كاتسه شليفت فيل",
+    "words": [
+      {
+        "w": "die Katze",
+        "m_en": "cat",
+        "m_ar": "قطة"
+      },
+      {
+        "w": "schlafen",
+        "m_en": "to sleep",
+        "m_ar": "ينام"
+      }
+    ],
+    "grammar_en": "'schläft' is the irregular 'er/sie/es' form of 'schlafen' — the 'a' becomes 'ä'.",
+    "grammar_ar": "'schläft' صيغة شاذة للفعل 'schlafen' مع هو/هي — الحرف 'a' بيتحول لـ 'ä'.",
+    "alternatives": [
+      {
+        "text": "Die Katze schläft den ganzen Tag.",
+        "note_en": "Sleeps 'all day long'",
+        "note_ar": "بتنام 'طول اليوم'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3012,
+    "text": "Ich esse gern Äpfel.",
+    "translation_ar": "بحب آكل تفاح.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 84,
+    "videoId": null,
+    "transcriptContext": "Ich esse gern Äpfel.",
+    "pronunciation": "إيش إسه غيرن إبفل",
+    "words": [
+      {
+        "w": "essen",
+        "m_en": "to eat",
+        "m_ar": "ياكل"
+      },
+      {
+        "w": "der Apfel",
+        "m_en": "apple",
+        "m_ar": "تفاحة"
+      }
+    ],
+    "grammar_en": "'Äpfel' is the plural of 'der Apfel', formed with an umlaut.",
+    "grammar_ar": "'Äpfel' جمع كلمة 'der Apfel' (تفاحة)، وبيتكوّن بإضافة علامة الأمالوت.",
+    "alternatives": [
+      {
+        "text": "Ich esse gern Bananen.",
+        "note_en": "Bananas instead of apples",
+        "note_ar": "موز بدل التفاح"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3013,
+    "text": "Das Brot ist frisch.",
+    "translation_ar": "العيش طازة.",
+    "level": "A1",
+    "situation": "shopping",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 101,
+    "videoId": null,
+    "transcriptContext": "Das Brot ist frisch.",
+    "pronunciation": "داس بروت إست فريش",
+    "words": [
+      {
+        "w": "das Brot",
+        "m_en": "bread",
+        "m_ar": "عيش/خبز"
+      },
+      {
+        "w": "frisch",
+        "m_en": "fresh",
+        "m_ar": "طازة"
+      }
+    ],
+    "grammar_en": "'frisch' (fresh) is a common adjective used for food quality.",
+    "grammar_ar": "'frisch' (طازة) صفة شائعة بتتقال على جودة الأكل.",
+    "alternatives": [
+      {
+        "text": "Das Brot ist noch warm.",
+        "note_en": "'Still warm' instead of 'fresh'",
+        "note_ar": "'لسه سخن' بدل 'طازة'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3014,
+    "text": "Ich trinke Wasser.",
+    "translation_ar": "بشرب ميه.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 118,
+    "videoId": null,
+    "transcriptContext": "Ich trinke Wasser.",
+    "pronunciation": "إيش ترينكه فاسر",
+    "words": [
+      {
+        "w": "trinken",
+        "m_en": "to drink",
+        "m_ar": "يشرب"
+      },
+      {
+        "w": "das Wasser",
+        "m_en": "water",
+        "m_ar": "ميه"
+      }
+    ],
+    "grammar_en": "'trinke' is the 'ich' present-tense form of the regular verb 'trinken'.",
+    "grammar_ar": "'trinke' صيغة الفعل المنتظم 'trinken' مع أنا في المضارع.",
+    "alternatives": [
+      {
+        "text": "Ich trinke gern Tee.",
+        "note_en": "Adds a drink preference",
+        "note_ar": "بتضيف نوع مشروب مفضّل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3015,
+    "text": "Wo ist die Küche?",
+    "translation_ar": "المطبخ فين؟",
+    "level": "A1",
+    "situation": "home",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 135,
+    "videoId": null,
+    "transcriptContext": "Wo ist die Küche?",
+    "pronunciation": "فو إست دي كوخه",
+    "words": [
+      {
+        "w": "die Küche",
+        "m_en": "kitchen",
+        "m_ar": "مطبخ"
+      },
+      {
+        "w": "wo",
+        "m_en": "where",
+        "m_ar": "فين"
+      }
+    ],
+    "grammar_en": "'Wo' (where) starts a location question, followed by the verb 'ist'.",
+    "grammar_ar": "'Wo' (فين) بتبدأ سؤال عن مكان، وبعدها الفعل 'ist'.",
+    "alternatives": [
+      {
+        "text": "Wo ist das Badezimmer?",
+        "note_en": "Asking for the bathroom instead",
+        "note_ar": "السؤال عن الحمام بدل المطبخ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3016,
+    "text": "Das Zimmer ist groß.",
+    "translation_ar": "الأوضة كبيرة.",
+    "level": "A1",
+    "situation": "home",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 152,
+    "videoId": null,
+    "transcriptContext": "Das Zimmer ist groß.",
+    "pronunciation": "داس تسيمر إست غروس",
+    "words": [
+      {
+        "w": "das Zimmer",
+        "m_en": "room",
+        "m_ar": "أوضة"
+      },
+      {
+        "w": "groß",
+        "m_en": "big",
+        "m_ar": "كبير"
+      }
+    ],
+    "grammar_en": "'groß' (big) is the opposite of 'klein' (small) — both stay uninflected after 'ist'.",
+    "grammar_ar": "'groß' (كبير) عكس 'klein' (صغير) — الاتنين بيفضلوا زي ما هما بعد 'ist'.",
+    "alternatives": [
+      {
+        "text": "Das Zimmer ist ziemlich groß.",
+        "note_en": "'Quite big' instead of just 'big'",
+        "note_ar": "'كبير شوية' بدل 'كبير' بس"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3017,
+    "text": "Ich trage eine Jacke.",
+    "translation_ar": "لابس جاكيت.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 169,
+    "videoId": null,
+    "transcriptContext": "Ich trage eine Jacke.",
+    "pronunciation": "إيش تراغه آينه ياكه",
+    "words": [
+      {
+        "w": "tragen",
+        "m_en": "to wear",
+        "m_ar": "يلبس"
+      },
+      {
+        "w": "die Jacke",
+        "m_en": "jacket",
+        "m_ar": "جاكيت"
+      }
+    ],
+    "grammar_en": "'trage' is the 'ich' form of the irregular verb 'tragen' (to wear/carry).",
+    "grammar_ar": "'trage' صيغة الفعل الشاذ 'tragen' (يلبس/يحمل) مع أنا.",
+    "alternatives": [
+      {
+        "text": "Ich trage einen Mantel.",
+        "note_en": "Coat instead of jacket",
+        "note_ar": "معطف بدل جاكيت"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3018,
+    "text": "Die Schuhe sind neu.",
+    "translation_ar": "الجزمة جديدة.",
+    "level": "A1",
+    "situation": "shopping",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 186,
+    "videoId": null,
+    "transcriptContext": "Die Schuhe sind neu.",
+    "pronunciation": "دي شوه زيند نوي",
+    "words": [
+      {
+        "w": "die Schuhe",
+        "m_en": "shoes",
+        "m_ar": "جزمة"
+      },
+      {
+        "w": "neu",
+        "m_en": "new",
+        "m_ar": "جديد"
+      }
+    ],
+    "grammar_en": "'Schuhe' is plural, so the verb is 'sind' (are), not 'ist' (is).",
+    "grammar_ar": "'Schuhe' جمع، فبالتالي الفعل بيكون 'sind' مش 'ist'.",
+    "alternatives": [
+      {
+        "text": "Die Schuhe sind ziemlich teuer.",
+        "note_en": "Adds that they're expensive",
+        "note_ar": "بتضيف إنها غالية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3019,
+    "text": "Wie spät ist es?",
+    "translation_ar": "الساعة كام؟",
+    "level": "A1",
+    "situation": "time",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 203,
+    "videoId": null,
+    "transcriptContext": "Wie spät ist es?",
+    "pronunciation": "في شبيت إست إس",
+    "words": [
+      {
+        "w": "spät",
+        "m_en": "late",
+        "m_ar": "متأخر"
+      },
+      {
+        "w": "die Zeit",
+        "m_en": "time",
+        "m_ar": "وقت"
+      }
+    ],
+    "grammar_en": "'Wie spät ist es?' is the standard way to ask for the current time.",
+    "grammar_ar": "'Wie spät ist es?' هي الطريقة المعتادة للسؤال عن الوقت دلوقتي.",
+    "alternatives": [
+      {
+        "text": "Hast du die Uhrzeit?",
+        "note_en": "More casual alternative",
+        "note_ar": "بديل أكثر عامية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3020,
+    "text": "Es ist ein Uhr.",
+    "translation_ar": "الساعة واحدة.",
+    "level": "A1",
+    "situation": "time",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 220,
+    "videoId": null,
+    "transcriptContext": "Es ist ein Uhr.",
+    "pronunciation": "إس إست آين أور",
+    "words": [
+      {
+        "w": "die Uhr",
+        "m_en": "clock/o'clock",
+        "m_ar": "ساعة"
+      },
+      {
+        "w": "ein",
+        "m_en": "one",
+        "m_ar": "واحد"
+      }
+    ],
+    "grammar_en": "Telling time in German starts with 'Es ist' (it is) followed by the number.",
+    "grammar_ar": "قول الوقت بالألماني بيبدأ بـ 'Es ist' (الساعة/إنها) وبعدها الرقم.",
+    "alternatives": [
+      {
+        "text": "Es ist zwei Uhr.",
+        "note_en": "Two o'clock instead of one",
+        "note_ar": "الساعة اتنين بدل واحدة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3021,
+    "text": "Ich bin gestern ins Kino gegangen.",
+    "translation_ar": "روحت السينما إمبارح.",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 237,
+    "videoId": null,
+    "transcriptContext": "Ich bin gestern ins Kino gegangen.",
+    "pronunciation": "إيش بين غيستِرن إنس كينو غيغانغِن",
+    "words": [
+      {
+        "w": "gestern",
+        "m_en": "yesterday",
+        "m_ar": "إمبارح"
+      },
+      {
+        "w": "gehen",
+        "m_en": "to go",
+        "m_ar": "يروح"
+      }
+    ],
+    "grammar_en": "'bin ... gegangen' is the Perfekt (past tense) of 'gehen', formed with 'sein'.",
+    "grammar_ar": "'bin ... gegangen' هو الماضي (Perfekt) للفعل 'gehen'، ومتكوّن بمساعدة 'sein'.",
+    "alternatives": [
+      {
+        "text": "Ich war gestern im Kino.",
+        "note_en": "Simpler way using 'war' (was)",
+        "note_ar": "طريقة أبسط باستخدام 'war' (كان)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3022,
+    "text": "Wir haben ein neues Auto gekauft.",
+    "translation_ar": "اشترينا عربية جديدة.",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 14,
+    "videoId": null,
+    "transcriptContext": "Wir haben ein neues Auto gekauft.",
+    "pronunciation": "فير هابِن آين نويِس آوتو غِكاوفت",
+    "words": [
+      {
+        "w": "kaufen",
+        "m_en": "to buy",
+        "m_ar": "يشتري"
+      },
+      {
+        "w": "neu",
+        "m_en": "new",
+        "m_ar": "جديد"
+      }
+    ],
+    "grammar_en": "'haben ... gekauft' is the Perfekt of 'kaufen', a regular (weak) verb.",
+    "grammar_ar": "'haben ... gekauft' هو الماضي للفعل المنتظم 'kaufen'.",
+    "alternatives": [
+      {
+        "text": "Wir haben uns ein neues Auto gekauft.",
+        "note_en": "Adds a reflexive nuance ('for ourselves')",
+        "note_ar": "بتضيف معنى انعكاسي ('لنفسنا')"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3023,
+    "text": "Er hat den Bus verpasst.",
+    "translation_ar": "فاته الأتوبيس.",
+    "level": "A2",
+    "situation": "transport",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 31,
+    "videoId": null,
+    "transcriptContext": "Er hat den Bus verpasst.",
+    "pronunciation": "إير هات دين بوس فِرباست",
+    "words": [
+      {
+        "w": "verpassen",
+        "m_en": "to miss",
+        "m_ar": "يفوّت"
+      },
+      {
+        "w": "der Bus",
+        "m_en": "bus",
+        "m_ar": "أتوبيس"
+      }
+    ],
+    "grammar_en": "'verpasst' comes from 'verpassen' — a common verb for missing transport or deadlines.",
+    "grammar_ar": "'verpasst' من الفعل 'verpassen' — فعل شائع لتفويت مواصلات أو مواعيد.",
+    "alternatives": [
+      {
+        "text": "Er hat den Zug verpasst.",
+        "note_en": "Train instead of bus",
+        "note_ar": "قطر بدل أتوبيس"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3024,
+    "text": "Kannst du mir helfen?",
+    "translation_ar": "ممكن تساعدني؟",
+    "level": "A2",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 48,
+    "videoId": null,
+    "transcriptContext": "Kannst du mir helfen?",
+    "pronunciation": "كانست دو ميا هلفِن",
+    "words": [
+      {
+        "w": "helfen",
+        "m_en": "to help",
+        "m_ar": "يساعد"
+      },
+      {
+        "w": "können",
+        "m_en": "can/to be able to",
+        "m_ar": "يقدر"
+      }
+    ],
+    "grammar_en": "'helfen' takes the dative case: 'mir' (to me), not 'mich'.",
+    "grammar_ar": "الفعل 'helfen' بياخد حالة الجر (Dativ): 'mir' (لي) مش 'mich'.",
+    "alternatives": [
+      {
+        "text": "Kannst du mir bitte helfen?",
+        "note_en": "Adds 'please' for politeness",
+        "note_ar": "بتضيف 'من فضلك' للتهذيب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3025,
+    "text": "Ich muss noch einkaufen gehen.",
+    "translation_ar": "لازم أروح أتسوّق لسه.",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 65,
+    "videoId": null,
+    "transcriptContext": "Ich muss noch einkaufen gehen.",
+    "pronunciation": "إيش موس نوخ آينكاوفِن غيهِن",
+    "words": [
+      {
+        "w": "müssen",
+        "m_en": "must/to have to",
+        "m_ar": "لازم"
+      },
+      {
+        "w": "einkaufen",
+        "m_en": "to shop",
+        "m_ar": "يتسوّق"
+      }
+    ],
+    "grammar_en": "'müssen' (must) sends the second verb 'gehen' to the end of the sentence.",
+    "grammar_ar": "الفعل 'müssen' (لازم) بيبعت الفعل التاني 'gehen' لآخر الجملة.",
+    "alternatives": [
+      {
+        "text": "Ich muss noch schnell einkaufen.",
+        "note_en": "Adds 'quickly'",
+        "note_ar": "بتضيف كلمة 'بسرعة'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3026,
+    "text": "Wir treffen uns um sechs Uhr.",
+    "translation_ar": "هنتقابل الساعة ستة.",
+    "level": "A2",
+    "situation": "social",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 82,
+    "videoId": null,
+    "transcriptContext": "Wir treffen uns um sechs Uhr.",
+    "pronunciation": "فير تريفِن أونس أوم زيكس أور",
+    "words": [
+      {
+        "w": "sich treffen",
+        "m_en": "to meet up",
+        "m_ar": "يتقابل"
+      },
+      {
+        "w": "um",
+        "m_en": "at (time)",
+        "m_ar": "في الساعة"
+      }
+    ],
+    "grammar_en": "'um' is used with clock times: 'um sechs Uhr' (at six o'clock).",
+    "grammar_ar": "حرف الجر 'um' بيُستخدم مع الساعات: 'um sechs Uhr' (الساعة ستة).",
+    "alternatives": [
+      {
+        "text": "Wir sehen uns um sechs Uhr.",
+        "note_en": "'See each other' instead of 'meet'",
+        "note_ar": "'نشوف بعض' بدل 'نتقابل'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3027,
+    "text": "Das Wetter wird morgen besser.",
+    "translation_ar": "الجو هيبقى أحسن بكرة.",
+    "level": "A2",
+    "situation": "weather",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 99,
+    "videoId": null,
+    "transcriptContext": "Das Wetter wird morgen besser.",
+    "pronunciation": "داس فِتر ڤيرد مورغِن بِسِر",
+    "words": [
+      {
+        "w": "das Wetter",
+        "m_en": "weather",
+        "m_ar": "جو/طقس"
+      },
+      {
+        "w": "besser",
+        "m_en": "better",
+        "m_ar": "أحسن"
+      }
+    ],
+    "grammar_en": "'werden' + adjective describes a future change of state: 'wird besser' (will get better).",
+    "grammar_ar": "'werden' + صفة بتوصف تغيّر مستقبلي: 'wird besser' (هيبقى أحسن).",
+    "alternatives": [
+      {
+        "text": "Das Wetter soll morgen besser werden.",
+        "note_en": "Adds 'is supposed to' (based on forecast)",
+        "note_ar": "بتضيف 'المفروض' (حسب التوقعات)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3028,
+    "text": "Ich habe mein Handy vergessen.",
+    "translation_ar": "نسيت موبايلي.",
+    "level": "A2",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 116,
+    "videoId": null,
+    "transcriptContext": "Ich habe mein Handy vergessen.",
+    "pronunciation": "إيش هابه ماين هَندي فِرغِسِن",
+    "words": [
+      {
+        "w": "vergessen",
+        "m_en": "to forget",
+        "m_ar": "ينسى"
+      },
+      {
+        "w": "das Handy",
+        "m_en": "mobile phone",
+        "m_ar": "موبايل"
+      }
+    ],
+    "grammar_en": "'vergessen' is irregular: 'ich habe ... vergessen' in the Perfekt tense.",
+    "grammar_ar": "الفعل 'vergessen' شاذ: 'ich habe ... vergessen' في زمن الـ Perfekt.",
+    "alternatives": [
+      {
+        "text": "Ich habe meinen Schlüssel vergessen.",
+        "note_en": "Key instead of phone",
+        "note_ar": "المفتاح بدل الموبايل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3029,
+    "text": "Sie lernt seit einem Jahr Deutsch.",
+    "translation_ar": "بتتعلم ألماني من سنة.",
+    "level": "A2",
+    "situation": "education",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 133,
+    "videoId": null,
+    "transcriptContext": "Sie lernt seit einem Jahr Deutsch.",
+    "pronunciation": "زي ليرنت زايت آينِم يار دويتش",
+    "words": [
+      {
+        "w": "lernen",
+        "m_en": "to learn",
+        "m_ar": "يتعلم"
+      },
+      {
+        "w": "seit",
+        "m_en": "since/for",
+        "m_ar": "من (مدة)"
+      }
+    ],
+    "grammar_en": "'seit' + dative describes an action still ongoing: 'seit einem Jahr' (for a year now).",
+    "grammar_ar": "'seit' + حالة الجر بتوصف حاجة لسه مستمرة: 'seit einem Jahr' (من سنة لحد دلوقتي).",
+    "alternatives": [
+      {
+        "text": "Sie lernt schon seit einem Jahr Deutsch.",
+        "note_en": "Adds 'already' for emphasis",
+        "note_ar": "بتضيف 'بالفعل' للتأكيد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3030,
+    "text": "Wir sind mit dem Zug gefahren.",
+    "translation_ar": "رحنا بالقطر.",
+    "level": "A2",
+    "situation": "travel",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 150,
+    "videoId": null,
+    "transcriptContext": "Wir sind mit dem Zug gefahren.",
+    "pronunciation": "فير زيند ميت ديم تسوك غِفارِن",
+    "words": [
+      {
+        "w": "fahren",
+        "m_en": "to travel/drive",
+        "m_ar": "يسافر/يقود"
+      },
+      {
+        "w": "der Zug",
+        "m_en": "train",
+        "m_ar": "قطر"
+      }
+    ],
+    "grammar_en": "'mit dem Zug' (by train) uses 'mit' + dative for means of transport.",
+    "grammar_ar": "'mit dem Zug' (بالقطر) بتستخدم 'mit' + حالة الجر لوسيلة المواصلات.",
+    "alternatives": [
+      {
+        "text": "Wir sind mit dem Auto gefahren.",
+        "note_en": "By car instead of by train",
+        "note_ar": "بالعربية بدل القطر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3031,
+    "text": "Ich möchte einen Tisch reservieren.",
+    "translation_ar": "عايز أحجز ترابيزة.",
+    "level": "A2",
+    "situation": "restaurant",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 167,
+    "videoId": null,
+    "transcriptContext": "Ich möchte einen Tisch reservieren.",
+    "pronunciation": "إيش موشته آينِن تيش ريزِرفيرِن",
+    "words": [
+      {
+        "w": "möchten",
+        "m_en": "would like to",
+        "m_ar": "عايز"
+      },
+      {
+        "w": "reservieren",
+        "m_en": "to reserve",
+        "m_ar": "يحجز"
+      }
+    ],
+    "grammar_en": "'möchte' is the polite conditional form of 'mögen', used for requests.",
+    "grammar_ar": "'möchte' هي الصيغة المهذبة للفعل 'mögen'، بتُستخدم للطلبات.",
+    "alternatives": [
+      {
+        "text": "Ich möchte gern einen Tisch für zwei reservieren.",
+        "note_en": "Specifies 'for two people'",
+        "note_ar": "بتحدد 'لشخصين'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3032,
+    "text": "Der Laden schließt um acht Uhr.",
+    "translation_ar": "المحل بيقفل الساعة تمانية.",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 184,
+    "videoId": null,
+    "transcriptContext": "Der Laden schließt um acht Uhr.",
+    "pronunciation": "دير لادِن شليست أوم آخت أور",
+    "words": [
+      {
+        "w": "der Laden",
+        "m_en": "shop",
+        "m_ar": "محل"
+      },
+      {
+        "w": "schließen",
+        "m_en": "to close",
+        "m_ar": "يقفل"
+      }
+    ],
+    "grammar_en": "'schließen' is a regular verb; 'schließt' is its 'er/sie/es' present form.",
+    "grammar_ar": "'schließen' فعل منتظم؛ 'schließt' صيغته مع هو/هي في المضارع.",
+    "alternatives": [
+      {
+        "text": "Der Laden macht um acht Uhr zu.",
+        "note_en": "Colloquial alternative with 'zumachen'",
+        "note_ar": "بديل عامي بفعل 'zumachen'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3033,
+    "text": "Ich bin erkältet.",
+    "translation_ar": "عندي برد.",
+    "level": "A2",
+    "situation": "health",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 201,
+    "videoId": null,
+    "transcriptContext": "Ich bin erkältet.",
+    "pronunciation": "إيش بين إركِلتِت",
+    "words": [
+      {
+        "w": "erkältet sein",
+        "m_en": "to have a cold",
+        "m_ar": "عنده برد"
+      }
+    ],
+    "grammar_en": "'erkältet sein' is a fixed expression — literally 'to be cold-ed'.",
+    "grammar_ar": "'erkältet sein' تعبير ثابت — معناها الحرفي 'يكون متبرّد'.",
+    "alternatives": [
+      {
+        "text": "Ich habe eine Erkältung.",
+        "note_en": "Noun form of the same idea",
+        "note_ar": "نفس المعنى بصيغة الاسم"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3034,
+    "text": "Sie hat Fieber.",
+    "translation_ar": "عندها سخونية.",
+    "level": "A2",
+    "situation": "health",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 218,
+    "videoId": null,
+    "transcriptContext": "Sie hat Fieber.",
+    "pronunciation": "زي هات فيبر",
+    "words": [
+      {
+        "w": "das Fieber",
+        "m_en": "fever",
+        "m_ar": "سخونية/حرارة"
+      }
+    ],
+    "grammar_en": "'Fieber haben' (to have a fever) follows the same 'haben' pattern as other symptoms.",
+    "grammar_ar": "'Fieber haben' (عنده سخونية) بتتبع نفس نمط 'haben' زي الأعراض التانية.",
+    "alternatives": [
+      {
+        "text": "Sie hat hohes Fieber.",
+        "note_en": "'High fever' for emphasis",
+        "note_ar": "'سخونية عالية' للتأكيد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3035,
+    "text": "Ich brauche ein Rezept vom Arzt.",
+    "translation_ar": "محتاج روشتة من الدكتور.",
+    "level": "A2",
+    "situation": "health",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 235,
+    "videoId": null,
+    "transcriptContext": "Ich brauche ein Rezept vom Arzt.",
+    "pronunciation": "إيش براوخه آين رِتسِبت فوم آرتست",
+    "words": [
+      {
+        "w": "brauchen",
+        "m_en": "to need",
+        "m_ar": "محتاج"
+      },
+      {
+        "w": "das Rezept",
+        "m_en": "prescription",
+        "m_ar": "روشتة"
+      }
+    ],
+    "grammar_en": "'brauchen' (to need) is a regular verb taking a direct object.",
+    "grammar_ar": "'brauchen' (محتاج) فعل منتظم بياخد مفعول به مباشر.",
+    "alternatives": [
+      {
+        "text": "Ich brauche dringend ein Rezept.",
+        "note_en": "'Urgently' added for emphasis",
+        "note_ar": "بتضيف 'بشكل عاجل'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3036,
+    "text": "Wir haben die Wohnung renoviert.",
+    "translation_ar": "جدّدنا الشقة.",
+    "level": "A2",
+    "situation": "home",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 12,
+    "videoId": null,
+    "transcriptContext": "Wir haben die Wohnung renoviert.",
+    "pronunciation": "فير هابِن دي فونونغ رِنوفيرت",
+    "words": [
+      {
+        "w": "die Wohnung",
+        "m_en": "apartment",
+        "m_ar": "شقة"
+      },
+      {
+        "w": "renovieren",
+        "m_en": "to renovate",
+        "m_ar": "يجدد"
+      }
+    ],
+    "grammar_en": "'renoviert' is the past participle of 'renovieren', a loanword-based regular verb.",
+    "grammar_ar": "'renoviert' صيغة الماضي للفعل 'renovieren'، وهو فعل منتظم مأخوذ من كلمة أجنبية.",
+    "alternatives": [
+      {
+        "text": "Wir haben die ganze Wohnung renoviert.",
+        "note_en": "'The whole apartment' for emphasis",
+        "note_ar": "'الشقة كلها' للتأكيد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3037,
+    "text": "Ich habe meinen Schlüssel verloren.",
+    "translation_ar": "ضيعت مفتاحي.",
+    "level": "A2",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 29,
+    "videoId": null,
+    "transcriptContext": "Ich habe meinen Schlüssel verloren.",
+    "pronunciation": "إيش هابه ماينِن شلوسِل فِرلورِن",
+    "words": [
+      {
+        "w": "verlieren",
+        "m_en": "to lose",
+        "m_ar": "يضيّع"
+      },
+      {
+        "w": "der Schlüssel",
+        "m_en": "key",
+        "m_ar": "مفتاح"
+      }
+    ],
+    "grammar_en": "'verloren' is the irregular past participle of 'verlieren'.",
+    "grammar_ar": "'verloren' صيغة الماضي الشاذة للفعل 'verlieren'.",
+    "alternatives": [
+      {
+        "text": "Ich glaube, ich habe meinen Schlüssel verloren.",
+        "note_en": "Adds 'I think' for uncertainty",
+        "note_ar": "بتضيف 'أعتقد' للتعبير عن عدم التأكد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3038,
+    "text": "Kannst du das bitte wiederholen?",
+    "translation_ar": "ممكن تعيدها تاني من فضلك؟",
+    "level": "A2",
+    "situation": "communication",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 46,
+    "videoId": null,
+    "transcriptContext": "Kannst du das bitte wiederholen?",
+    "pronunciation": "كانست دو داس بيته فيدِرهولِن",
+    "words": [
+      {
+        "w": "wiederholen",
+        "m_en": "to repeat",
+        "m_ar": "يعيد"
+      },
+      {
+        "w": "bitte",
+        "m_en": "please",
+        "m_ar": "من فضلك"
+      }
+    ],
+    "grammar_en": "'wiederholen' is a separable-looking verb, but 'wieder-' is actually inseparable here.",
+    "grammar_ar": "'wiederholen' فعل بيبان إنه منفصل بس البادئة 'wieder-' غير منفصلة فعليًا.",
+    "alternatives": [
+      {
+        "text": "Kannst du das noch einmal sagen?",
+        "note_en": "'Say it again' as an alternative",
+        "note_ar": "'قولها تاني' كبديل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3039,
+    "text": "Ich bin mit der Arbeit fertig.",
+    "translation_ar": "خلصت شغلي.",
+    "level": "A2",
+    "situation": "workplace",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 63,
+    "videoId": null,
+    "transcriptContext": "Ich bin mit der Arbeit fertig.",
+    "pronunciation": "إيش بين ميت دِر آربايت فيرتيش",
+    "words": [
+      {
+        "w": "fertig sein",
+        "m_en": "to be finished",
+        "m_ar": "يكون خلّص"
+      },
+      {
+        "w": "die Arbeit",
+        "m_en": "work",
+        "m_ar": "شغل"
+      }
+    ],
+    "grammar_en": "'fertig sein mit' + dative means 'to be done with something'.",
+    "grammar_ar": "'fertig sein mit' + حالة الجر معناها 'يكون خلّص من حاجة'.",
+    "alternatives": [
+      {
+        "text": "Ich bin endlich mit der Arbeit fertig.",
+        "note_en": "Adds 'finally' for relief",
+        "note_ar": "بتضيف 'أخيرًا' للتعبير عن الراحة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3040,
+    "text": "Wir planen eine Reise nach Italien.",
+    "translation_ar": "بنخطط لرحلة إيطاليا.",
+    "level": "A2",
+    "situation": "travel",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 80,
+    "videoId": null,
+    "transcriptContext": "Wir planen eine Reise nach Italien.",
+    "pronunciation": "فير بلانِن آينه رايزه ناخ إيتاليِن",
+    "words": [
+      {
+        "w": "planen",
+        "m_en": "to plan",
+        "m_ar": "يخطط"
+      },
+      {
+        "w": "die Reise",
+        "m_en": "trip/journey",
+        "m_ar": "رحلة"
+      }
+    ],
+    "grammar_en": "'nach' is used with countries (no article) to mean 'to': 'nach Italien' (to Italy).",
+    "grammar_ar": "حرف الجر 'nach' بيُستخدم مع أسماء الدول (بدون أداة تعريف) بمعنى 'إلى': 'nach Italien' (لإيطاليا).",
+    "alternatives": [
+      {
+        "text": "Wir planen eine große Reise nach Italien.",
+        "note_en": "'A big trip' for emphasis",
+        "note_ar": "'رحلة كبيرة' للتأكيد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3041,
+    "text": "Ich würde gern mehr Zeit mit meiner Familie verbringen.",
+    "translation_ar": "حابب أقضي وقت أكتر مع عيلتي.",
+    "level": "B1",
+    "situation": "family",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 97,
+    "videoId": null,
+    "transcriptContext": "Ich würde gern mehr Zeit mit meiner Familie verbringen.",
+    "pronunciation": "إيش ڤِردِه غيرن مير تسايت ميت ماينِر فاميليه فِربرينغِن",
+    "words": [
+      {
+        "w": "verbringen",
+        "m_en": "to spend (time)",
+        "m_ar": "يقضي (وقت)"
+      },
+      {
+        "w": "die Familie",
+        "m_en": "family",
+        "m_ar": "عيلة"
+      }
+    ],
+    "grammar_en": "'würde gern' + infinitive expresses a polite wish (Konjunktiv II).",
+    "grammar_ar": "'würde gern' + المصدر بتعبّر عن أمنية مهذبة (صيغة الـ Konjunktiv II).",
+    "alternatives": [
+      {
+        "text": "Ich wünschte, ich hätte mehr Zeit für meine Familie.",
+        "note_en": "More wistful/regretful tone",
+        "note_ar": "نبرة أكتر حسرة وتمني"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3042,
+    "text": "Es kommt darauf an, wie viel Zeit wir haben.",
+    "translation_ar": "ده حسب الوقت اللي هيبقى عندنا.",
+    "level": "B1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 114,
+    "videoId": null,
+    "transcriptContext": "Es kommt darauf an, wie viel Zeit wir haben.",
+    "pronunciation": "إس كومت داراوف آن في فيل تسايت فير هابِن",
+    "words": [
+      {
+        "w": "ankommen auf",
+        "m_en": "to depend on",
+        "m_ar": "يعتمد على"
+      }
+    ],
+    "grammar_en": "'es kommt darauf an' is a fixed idiom meaning 'it depends'.",
+    "grammar_ar": "'es kommt darauf an' تعبير ثابت معناه 'ده حسب/يعتمد على'.",
+    "alternatives": [
+      {
+        "text": "Das hängt davon ab, wie viel Zeit wir haben.",
+        "note_en": "Synonymous idiom with 'abhängen von'",
+        "note_ar": "تعبير مرادف بفعل 'abhängen von'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3043,
+    "text": "Ich bin der Meinung, dass wir früher anfangen sollten.",
+    "translation_ar": "أنا رأيي إننا نبدأ بدري.",
+    "level": "B1",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 131,
+    "videoId": null,
+    "transcriptContext": "Ich bin der Meinung, dass wir früher anfangen sollten.",
+    "pronunciation": "إيش بين دِر ماينونغ داس فير فروير آنفانغِن زولتِن",
+    "words": [
+      {
+        "w": "die Meinung",
+        "m_en": "opinion",
+        "m_ar": "رأي"
+      },
+      {
+        "w": "anfangen",
+        "m_en": "to begin",
+        "m_ar": "يبدأ"
+      }
+    ],
+    "grammar_en": "'ich bin der Meinung, dass ...' is a formal way to introduce an opinion.",
+    "grammar_ar": "'ich bin der Meinung, dass ...' طريقة رسمية لعرض رأي.",
+    "alternatives": [
+      {
+        "text": "Meiner Meinung nach sollten wir früher anfangen.",
+        "note_en": "Shorter, equally common phrasing",
+        "note_ar": "صياغة أقصر وشائعة برضه"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3044,
+    "text": "Trotz des Regens sind wir spazieren gegangen.",
+    "translation_ar": "رحنا نتمشى برغم المطر.",
+    "level": "B1",
+    "situation": "leisure",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 148,
+    "videoId": null,
+    "transcriptContext": "Trotz des Regens sind wir spazieren gegangen.",
+    "pronunciation": "تروتس ديس ريغِنس زيند فير شپاتسيرِن غِغانغِن",
+    "words": [
+      {
+        "w": "trotz",
+        "m_en": "despite",
+        "m_ar": "برغم"
+      },
+      {
+        "w": "der Regen",
+        "m_en": "rain",
+        "m_ar": "مطر"
+      }
+    ],
+    "grammar_en": "'trotz' takes the genitive case: 'trotz des Regens' (despite the rain).",
+    "grammar_ar": "حرف الجر 'trotz' بياخد حالة الملكية (Genitiv): 'trotz des Regens' (برغم المطر).",
+    "alternatives": [
+      {
+        "text": "Obwohl es geregnet hat, sind wir spazieren gegangen.",
+        "note_en": "Same idea with a subordinate clause instead",
+        "note_ar": "نفس المعنى بجملة فرعية بدل حرف الجر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 3045,
+    "text": "Er hat sich entschieden, den Job zu wechseln.",
+    "translation_ar": "قرر يغيّر شغلانته.",
+    "level": "B1",
+    "situation": "career",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 165,
+    "videoId": null,
+    "transcriptContext": "Er hat sich entschieden, den Job zu wechseln.",
+    "pronunciation": "إير هات زيش إنتشيدِن دين جوب تسو فِكسلِن",
+    "words": [
+      {
+        "w": "sich entscheiden",
+        "m_en": "to decide",
+        "m_ar": "يقرر"
+      },
+      {
+        "w": "wechseln",
+        "m_en": "to change/switch",
+        "m_ar": "يغيّر"
+      }
+    ],
+    "grammar_en": "'sich entscheiden, ... zu ...' introduces an infinitive clause after a decision.",
+    "grammar_ar": "'sich entscheiden, ... zu ...' بتقدّم جملة مصدرية بعد اتخاذ قرار.",
+    "alternatives": [
+      {
+        "text": "Er hat beschlossen, den Job zu wechseln.",
+        "note_en": "'beschließen' as a slightly more formal synonym",
+        "note_ar": "'beschließen' كمرادف أكثر رسمية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3046,
+    "text": "Wenn ich mehr Geld hätte, würde ich reisen.",
+    "translation_ar": "لو كان عندي فلوس أكتر كنت هسافر.",
+    "level": "B1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 182,
+    "videoId": null,
+    "transcriptContext": "Wenn ich mehr Geld hätte, würde ich reisen.",
+    "pronunciation": "ڤِن إيش مير غِلد هِتِه ڤِردِه إيش رايزِن",
+    "words": [
+      {
+        "w": "das Geld",
+        "m_en": "money",
+        "m_ar": "فلوس"
+      },
+      {
+        "w": "reisen",
+        "m_en": "to travel",
+        "m_ar": "يسافر"
+      }
+    ],
+    "grammar_en": "This is a Konjunktiv II conditional — a hypothetical 'if' clause.",
+    "grammar_ar": "دي جملة شرطية بصيغة Konjunktiv II — شرط افتراضي غير واقعي.",
+    "alternatives": [
+      {
+        "text": "Wenn ich reich wäre, würde ich viel reisen.",
+        "note_en": "'If I were rich' instead of 'had more money'",
+        "note_ar": "'لو كنت غني' بدل 'لو كان عندي فلوس أكتر'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 3047,
+    "text": "Das hängt von den Umständen ab.",
+    "translation_ar": "ده بيعتمد على الظروف.",
+    "level": "B1",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 199,
+    "videoId": null,
+    "transcriptContext": "Das hängt von den Umständen ab.",
+    "pronunciation": "داس هِنغت فون دين أومشتِندِن آب",
+    "words": [
+      {
+        "w": "abhängen von",
+        "m_en": "to depend on",
+        "m_ar": "يعتمد على"
+      },
+      {
+        "w": "die Umstände",
+        "m_en": "circumstances",
+        "m_ar": "ظروف"
+      }
+    ],
+    "grammar_en": "'abhängen von' + dative is the standard verb for 'to depend on'.",
+    "grammar_ar": "الفعل 'abhängen von' + حالة الجر هو الفعل المعتاد للتعبير عن 'يعتمد على'.",
+    "alternatives": [
+      {
+        "text": "Es kommt auf die Umstände an.",
+        "note_en": "Alternative idiom, same meaning",
+        "note_ar": "تعبير بديل بنفس المعنى"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3048,
+    "text": "Ich habe den Eindruck, dass etwas nicht stimmt.",
+    "translation_ar": "حاسس إن فيه حاجة مش مظبوطة.",
+    "level": "B1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 216,
+    "videoId": null,
+    "transcriptContext": "Ich habe den Eindruck, dass etwas nicht stimmt.",
+    "pronunciation": "إيش هابه دين آيندروك داس إتفاس نيشت شتيمت",
+    "words": [
+      {
+        "w": "der Eindruck",
+        "m_en": "impression",
+        "m_ar": "انطباع"
+      },
+      {
+        "w": "stimmen",
+        "m_en": "to be correct",
+        "m_ar": "يكون صحيح"
+      }
+    ],
+    "grammar_en": "'den Eindruck haben, dass ...' expresses a subjective impression or feeling.",
+    "grammar_ar": "'den Eindruck haben, dass ...' بتعبّر عن انطباع أو إحساس شخصي.",
+    "alternatives": [
+      {
+        "text": "Ich habe das Gefühl, dass etwas nicht stimmt.",
+        "note_en": "'Gefühl' (feeling) as a near-synonym",
+        "note_ar": "'Gefühl' (إحساس) كمرادف قريب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3049,
+    "text": "Wir sollten die Angebote vergleichen.",
+    "translation_ar": "لازم نقارن العروض.",
+    "level": "B1",
+    "situation": "shopping",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 233,
+    "videoId": null,
+    "transcriptContext": "Wir sollten die Angebote vergleichen.",
+    "pronunciation": "فير زولتِن دي آنغِبوته فِرگلايشِن",
+    "words": [
+      {
+        "w": "vergleichen",
+        "m_en": "to compare",
+        "m_ar": "يقارن"
+      },
+      {
+        "w": "das Angebot",
+        "m_en": "offer",
+        "m_ar": "عرض"
+      }
+    ],
+    "grammar_en": "'sollten' (should) softens a suggestion — more polite than 'müssen' (must).",
+    "grammar_ar": "'sollten' (لازم/يُفضّل) بتخفف من قوة الاقتراح — أكتر تهذيبًا من 'müssen'.",
+    "alternatives": [
+      {
+        "text": "Wir sollten die Preise vergleichen.",
+        "note_en": "Compare prices instead of offers",
+        "note_ar": "مقارنة الأسعار بدل العروض"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3050,
+    "text": "Es wäre besser, wenn wir zusammenarbeiten würden.",
+    "translation_ar": "هيبقى أحسن لو اشتغلنا مع بعض.",
+    "level": "B1",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 10,
+    "videoId": null,
+    "transcriptContext": "Es wäre besser, wenn wir zusammenarbeiten würden.",
+    "pronunciation": "إس ڤِره بِسِر ڤِن فير تسوزامِنآربايتِن ڤوردِن",
+    "words": [
+      {
+        "w": "zusammenarbeiten",
+        "m_en": "to work together",
+        "m_ar": "يشتغلوا مع بعض"
+      }
+    ],
+    "grammar_en": "'es wäre besser, wenn ...' is a polite Konjunktiv II suggestion.",
+    "grammar_ar": "'es wäre besser, wenn ...' اقتراح مهذّب بصيغة Konjunktiv II.",
+    "alternatives": [
+      {
+        "text": "Es wäre gut, enger zusammenzuarbeiten.",
+        "note_en": "'Closer collaboration' phrasing",
+        "note_ar": "صياغة بمعنى 'تعاون أوثق'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 3051,
+    "text": "Ich habe vor, nächstes Jahr umzuziehen.",
+    "translation_ar": "ناوي أنقل السنة الجاية.",
+    "level": "B1",
+    "situation": "home",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 27,
+    "videoId": null,
+    "transcriptContext": "Ich habe vor, nächstes Jahr umzuziehen.",
+    "pronunciation": "إيش هابه فور نِكستِس يار أومتسوتسيهِن",
+    "words": [
+      {
+        "w": "vorhaben",
+        "m_en": "to plan/intend",
+        "m_ar": "ينوي"
+      },
+      {
+        "w": "umziehen",
+        "m_en": "to move (house)",
+        "m_ar": "ينقل"
+      }
+    ],
+    "grammar_en": "'vorhaben' is separable; the infinitive 'umzuziehen' inserts 'zu' between the prefix and stem.",
+    "grammar_ar": "الفعل 'vorhaben' منفصل؛ والمصدر 'umzuziehen' بيحط 'zu' بين البادئة والجذر.",
+    "alternatives": [
+      {
+        "text": "Ich plane, nächstes Jahr umzuziehen.",
+        "note_en": "'planen' as a synonym for 'vorhaben'",
+        "note_ar": "الفعل 'planen' كمرادف لـ 'vorhaben'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 3052,
+    "text": "Das Projekt wurde erfolgreich abgeschlossen.",
+    "translation_ar": "المشروع اتقفل بنجاح.",
+    "level": "B1",
+    "situation": "workplace",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 44,
+    "videoId": null,
+    "transcriptContext": "Das Projekt wurde erfolgreich abgeschlossen.",
+    "pronunciation": "داس پروژكت فوردِه إرفولغرايش آبگِشلوسِن",
+    "words": [
+      {
+        "w": "abschließen",
+        "m_en": "to complete/finish",
+        "m_ar": "يقفل/ينهي"
+      },
+      {
+        "w": "erfolgreich",
+        "m_en": "successful",
+        "m_ar": "ناجح"
+      }
+    ],
+    "grammar_en": "This is a passive-voice sentence: 'wurde ... abgeschlossen' (was completed).",
+    "grammar_ar": "دي جملة مبنية للمجهول: 'wurde ... abgeschlossen' (اتقفل/اتنجز).",
+    "alternatives": [
+      {
+        "text": "Wir haben das Projekt erfolgreich abgeschlossen.",
+        "note_en": "Active voice version",
+        "note_ar": "نفس الجملة بصيغة معلومة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 3053,
+    "text": "Ich bin mir nicht sicher, ob das richtig ist.",
+    "translation_ar": "مش متأكد إن ده صح.",
+    "level": "B1",
+    "situation": "daily",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 61,
+    "videoId": null,
+    "transcriptContext": "Ich bin mir nicht sicher, ob das richtig ist.",
+    "pronunciation": "إيش بين مير نيشت زيشِر أوب داس ريشتيش إست",
+    "words": [
+      {
+        "w": "sicher",
+        "m_en": "sure/certain",
+        "m_ar": "متأكد"
+      },
+      {
+        "w": "richtig",
+        "m_en": "correct",
+        "m_ar": "صح"
+      }
+    ],
+    "grammar_en": "'ob' introduces an indirect yes/no question, sending the verb to the end.",
+    "grammar_ar": "أداة 'ob' بتقدّم سؤال غير مباشر بنعم/لا، وبتبعت الفعل لآخر الجملة.",
+    "alternatives": [
+      {
+        "text": "Ich weiß nicht genau, ob das richtig ist.",
+        "note_en": "'I don't know exactly' phrasing",
+        "note_ar": "صياغة 'مش عارف بالظبط'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3054,
+    "text": "Wir müssen die Situation genauer analysieren.",
+    "translation_ar": "لازم نحلل الموقف بشكل أدق.",
+    "level": "B1",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 78,
+    "videoId": null,
+    "transcriptContext": "Wir müssen die Situation genauer analysieren.",
+    "pronunciation": "فير موسِن دي زيتواتسيون گِناور آنالوزيرِن",
+    "words": [
+      {
+        "w": "analysieren",
+        "m_en": "to analyze",
+        "m_ar": "يحلل"
+      },
+      {
+        "w": "genauer",
+        "m_en": "more precisely",
+        "m_ar": "بشكل أدق"
+      }
+    ],
+    "grammar_en": "'genauer' is the comparative of 'genau' (precise), used here as an adverb.",
+    "grammar_ar": "'genauer' صيغة المقارنة للصفة 'genau' (دقيق)، وبتُستخدم هنا كظرف.",
+    "alternatives": [
+      {
+        "text": "Wir sollten die Situation gründlicher analysieren.",
+        "note_en": "'More thoroughly' instead of 'more precisely'",
+        "note_ar": "'بشكل أعمق' بدل 'بشكل أدق'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 3055,
+    "text": "Sie hat sich sehr über das Geschenk gefreut.",
+    "translation_ar": "فرحت جدًا بالهدية.",
+    "level": "B1",
+    "situation": "celebrations",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 95,
+    "videoId": null,
+    "transcriptContext": "Sie hat sich sehr über das Geschenk gefreut.",
+    "pronunciation": "زي هات زيش زير أوبِر داس گِشِنك گِفرويت",
+    "words": [
+      {
+        "w": "sich freuen über",
+        "m_en": "to be happy about",
+        "m_ar": "يفرح بـ"
+      },
+      {
+        "w": "das Geschenk",
+        "m_en": "gift",
+        "m_ar": "هدية"
+      }
+    ],
+    "grammar_en": "'sich freuen über' + accusative expresses being pleased about something.",
+    "grammar_ar": "'sich freuen über' + حالة النصب بتعبّر عن الفرح بحاجة معينة.",
+    "alternatives": [
+      {
+        "text": "Sie war total begeistert von dem Geschenk.",
+        "note_en": "'Thrilled' as a stronger alternative",
+        "note_ar": "'متحمسة جدًا' كتعبير أقوى"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 3056,
+    "text": "Ich habe das Gefühl, dass wir auf dem richtigen Weg sind.",
+    "translation_ar": "حاسس إننا ماشيين صح.",
+    "level": "B1",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 112,
+    "videoId": null,
+    "transcriptContext": "Ich habe das Gefühl, dass wir auf dem richtigen Weg sind.",
+    "pronunciation": "إيش هابه داس گِفول داس فير آوف ديم ريشتيگِن ڤيگ زيند",
+    "words": [
+      {
+        "w": "das Gefühl",
+        "m_en": "feeling",
+        "m_ar": "إحساس"
+      },
+      {
+        "w": "der Weg",
+        "m_en": "way/path",
+        "m_ar": "طريق"
+      }
+    ],
+    "grammar_en": "'auf dem richtigen Weg sein' is an idiom meaning 'to be on the right track'.",
+    "grammar_ar": "'auf dem richtigen Weg sein' تعبير اصطلاحي معناه 'يكون ماشي صح'.",
+    "alternatives": [
+      {
+        "text": "Ich glaube, wir sind auf dem richtigen Weg.",
+        "note_en": "'I believe' instead of 'I feel'",
+        "note_ar": "'أعتقد' بدل 'حاسس'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3057,
+    "text": "Das Ergebnis hat uns alle überrascht.",
+    "translation_ar": "النتيجة فاجأتنا كلنا.",
+    "level": "B1",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 129,
+    "videoId": null,
+    "transcriptContext": "Das Ergebnis hat uns alle überrascht.",
+    "pronunciation": "داس إرگيبنيس هات أونس الِه أوبِرراشت",
+    "words": [
+      {
+        "w": "das Ergebnis",
+        "m_en": "result",
+        "m_ar": "نتيجة"
+      },
+      {
+        "w": "überraschen",
+        "m_en": "to surprise",
+        "m_ar": "يفاجئ"
+      }
+    ],
+    "grammar_en": "'uns alle' (all of us) intensifies the direct object 'uns'.",
+    "grammar_ar": "'uns alle' (كلنا) بتقوّي المفعول به 'uns'.",
+    "alternatives": [
+      {
+        "text": "Das Ergebnis war für uns alle überraschend.",
+        "note_en": "Adjective form instead of the verb",
+        "note_ar": "صيغة صفة بدل الفعل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 3058,
+    "text": "Wir haben lange über die Lösung diskutiert.",
+    "translation_ar": "اتناقشنا كتير في الحل.",
+    "level": "B1",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 146,
+    "videoId": null,
+    "transcriptContext": "Wir haben lange über die Lösung diskutiert.",
+    "pronunciation": "فير هابِن لانغه أوبِر دي لوزونگ ديسكوتيرت",
+    "words": [
+      {
+        "w": "diskutieren",
+        "m_en": "to discuss",
+        "m_ar": "يناقش"
+      },
+      {
+        "w": "die Lösung",
+        "m_en": "solution",
+        "m_ar": "حل"
+      }
+    ],
+    "grammar_en": "'über' + accusative is used with 'diskutieren' to mean 'discuss about'.",
+    "grammar_ar": "حرف الجر 'über' + حالة النصب بيتستخدم مع الفعل 'diskutieren' بمعنى 'يناقش في'.",
+    "alternatives": [
+      {
+        "text": "Wir haben ausführlich über die Lösung gesprochen.",
+        "note_en": "'Talked in detail' as an alternative",
+        "note_ar": "'اتكلمنا بالتفصيل' كبديل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 3059,
+    "text": "Ich würde vorschlagen, das Meeting zu verschieben.",
+    "translation_ar": "أنا هقترح إننا نأجل الاجتماع.",
+    "level": "B1",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 163,
+    "videoId": null,
+    "transcriptContext": "Ich würde vorschlagen, das Meeting zu verschieben.",
+    "pronunciation": "إيش ڤِردِه فورشلاگِن داس ميتينگ تسو فِرشيبِن",
+    "words": [
+      {
+        "w": "vorschlagen",
+        "m_en": "to suggest",
+        "m_ar": "يقترح"
+      },
+      {
+        "w": "verschieben",
+        "m_en": "to postpone",
+        "m_ar": "يأجل"
+      }
+    ],
+    "grammar_en": "'würde vorschlagen' softens a suggestion in formal contexts (Konjunktiv II).",
+    "grammar_ar": "'würde vorschlagen' بتخفف من قوة الاقتراح في السياقات الرسمية (Konjunktiv II).",
+    "alternatives": [
+      {
+        "text": "Ich schlage vor, das Meeting zu verschieben.",
+        "note_en": "More direct, present-tense phrasing",
+        "note_ar": "صياغة أكثر مباشرة بالمضارع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 3060,
+    "text": "Es ist wichtig, realistische Ziele zu setzen.",
+    "translation_ar": "من المهم إننا نحط أهداف واقعية.",
+    "level": "B1",
+    "situation": "career",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 180,
+    "videoId": null,
+    "transcriptContext": "Es ist wichtig, realistische Ziele zu setzen.",
+    "pronunciation": "إس إست ڤيشتيش رياليستيشه تسيله تسو زِتسِن",
+    "words": [
+      {
+        "w": "wichtig",
+        "m_en": "important",
+        "m_ar": "مهم"
+      },
+      {
+        "w": "das Ziel",
+        "m_en": "goal",
+        "m_ar": "هدف"
+      }
+    ],
+    "grammar_en": "'es ist wichtig, ... zu ...' is a common way to state general importance.",
+    "grammar_ar": "'es ist wichtig, ... zu ...' طريقة شائعة للتعبير عن أهمية عامة لحاجة.",
+    "alternatives": [
+      {
+        "text": "Es ist entscheidend, sich realistische Ziele zu setzen.",
+        "note_en": "'Crucial' for stronger emphasis",
+        "note_ar": "'حاسم/بالغ الأهمية' لتأكيد أقوى"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 3061,
+    "text": "Die Entscheidung wurde nach reiflicher Überlegung getroffen.",
+    "translation_ar": "القرار اتاخد بعد تفكير عميق.",
+    "level": "B2",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 197,
+    "videoId": null,
+    "transcriptContext": "Die Entscheidung wurde nach reiflicher Überlegung getroffen.",
+    "pronunciation": "دي إنتشايدونگ فوردِه ناخ رايفليشِر أوبِرليگونگ گِتروفِن",
+    "words": [
+      {
+        "w": "die Entscheidung",
+        "m_en": "decision",
+        "m_ar": "قرار"
+      },
+      {
+        "w": "reiflich",
+        "m_en": "careful/thorough",
+        "m_ar": "متأني"
+      }
+    ],
+    "grammar_en": "'nach reiflicher Überlegung' is a set formal phrase meaning 'after careful consideration'.",
+    "grammar_ar": "'nach reiflicher Überlegung' عبارة رسمية ثابتة معناها 'بعد تفكير متأني'.",
+    "alternatives": [
+      {
+        "text": "Die Entscheidung fiel nach langem Nachdenken.",
+        "note_en": "'fiel' (fell) as an idiomatic alternative for a decision being made",
+        "note_ar": "فعل 'fiel' (وقع) كتعبير اصطلاحي بديل لاتخاذ القرار"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3062,
+    "text": "Man sollte die langfristigen Folgen bedenken.",
+    "translation_ar": "لازم نفكر في العواقب البعيدة المدى.",
+    "level": "B2",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 214,
+    "videoId": null,
+    "transcriptContext": "Man sollte die langfristigen Folgen bedenken.",
+    "pronunciation": "مان زولته دي لانگفريستيگِن فولگِن بِدِنكِن",
+    "words": [
+      {
+        "w": "bedenken",
+        "m_en": "to consider",
+        "m_ar": "يأخذ بعين الاعتبار"
+      },
+      {
+        "w": "langfristig",
+        "m_en": "long-term",
+        "m_ar": "بعيد المدى"
+      }
+    ],
+    "grammar_en": "'man' is an impersonal subject pronoun meaning 'one/people in general'.",
+    "grammar_ar": "'man' ضمير غير شخصي بمعنى 'الإنسان/الناس عمومًا'.",
+    "alternatives": [
+      {
+        "text": "Man sollte die Konsequenzen langfristig betrachten.",
+        "note_en": "'Consequences' as a near-synonym for 'Folgen'",
+        "note_ar": "'Konsequenzen' كمرادف قريب لـ 'Folgen'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3063,
+    "text": "Es lässt sich nicht leugnen, dass sich vieles verändert hat.",
+    "translation_ar": "مفيش شك إن حاجات كتير اتغيرت.",
+    "level": "B2",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 231,
+    "videoId": null,
+    "transcriptContext": "Es lässt sich nicht leugnen, dass sich vieles verändert hat.",
+    "pronunciation": "إس لِست زيش نيشت لويگنِن داس زيش فيلِس فِرِندِرت هات",
+    "words": [
+      {
+        "w": "leugnen",
+        "m_en": "to deny",
+        "m_ar": "ينكر"
+      },
+      {
+        "w": "sich verändern",
+        "m_en": "to change",
+        "m_ar": "يتغير"
+      }
+    ],
+    "grammar_en": "'es lässt sich nicht leugnen, dass ...' is a formal way to state an undeniable fact.",
+    "grammar_ar": "'es lässt sich nicht leugnen, dass ...' طريقة رسمية للتعبير عن حقيقة لا يمكن إنكارها.",
+    "alternatives": [
+      {
+        "text": "Es ist unbestreitbar, dass sich vieles verändert hat.",
+        "note_en": "'unbestreitbar' (undeniable) as an adjective alternative",
+        "note_ar": "'unbestreitbar' (لا يُنكر) كصفة بديلة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3064,
+    "text": "Die Maßnahmen wurden aufgrund der neuen Vorschriften angepasst.",
+    "translation_ar": "الإجراءات اتعدّلت بسبب اللوائح الجديدة.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 8,
+    "videoId": null,
+    "transcriptContext": "Die Maßnahmen wurden aufgrund der neuen Vorschriften angepasst.",
+    "pronunciation": "دي ماسنامِن فوردِن آوفگروند دِر نويِن فورشريفتِن آنگِپاست",
+    "words": [
+      {
+        "w": "die Maßnahme",
+        "m_en": "measure",
+        "m_ar": "إجراء"
+      },
+      {
+        "w": "die Vorschrift",
+        "m_en": "regulation",
+        "m_ar": "لائحة"
+      }
+    ],
+    "grammar_en": "'aufgrund' + genitive introduces the formal reason behind an action.",
+    "grammar_ar": "حرف الجر 'aufgrund' + حالة الملكية بيقدّم السبب الرسمي وراء إجراء معين.",
+    "alternatives": [
+      {
+        "text": "Die Maßnahmen wurden an die neuen Vorschriften angepasst.",
+        "note_en": "Same meaning with 'an ... angepasst'",
+        "note_ar": "نفس المعنى بتركيب 'an ... angepasst'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3065,
+    "text": "Ungeachtet der Kritik hält das Unternehmen an seinem Kurs fest.",
+    "translation_ar": "برغم الانتقادات، الشركة متمسّكة بمسارها.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 25,
+    "videoId": null,
+    "transcriptContext": "Ungeachtet der Kritik hält das Unternehmen an seinem Kurs fest.",
+    "pronunciation": "أونگِآختِت دِر كريتيك هِلت داس أونتِرنيمِن آن زايِنِم كورس فِست",
+    "words": [
+      {
+        "w": "ungeachtet",
+        "m_en": "regardless of",
+        "m_ar": "بغض النظر عن"
+      },
+      {
+        "w": "festhalten an",
+        "m_en": "to stick to",
+        "m_ar": "يتمسك بـ"
+      }
+    ],
+    "grammar_en": "'ungeachtet' + genitive is a formal synonym for 'trotz' (despite).",
+    "grammar_ar": "حرف الجر 'ungeachtet' + حالة الملكية مرادف رسمي لـ 'trotz' (برغم).",
+    "alternatives": [
+      {
+        "text": "Trotz der Kritik hält das Unternehmen an seinem Kurs fest.",
+        "note_en": "'trotz' as the more common everyday alternative",
+        "note_ar": "'trotz' كبديل أكثر شيوعًا في الاستخدام اليومي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3066,
+    "text": "Es bleibt abzuwarten, wie sich die Lage entwickelt.",
+    "translation_ar": "لسه هنستنى نشوف الموقف هيتطور إزاي.",
+    "level": "B2",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 42,
+    "videoId": null,
+    "transcriptContext": "Es bleibt abzuwarten, wie sich die Lage entwickelt.",
+    "pronunciation": "إس بلايبت آبتسوفارتِن في زيش دي لاگه إنتفيكِلت",
+    "words": [
+      {
+        "w": "abwarten",
+        "m_en": "to wait and see",
+        "m_ar": "ينتظر ليرى"
+      },
+      {
+        "w": "sich entwickeln",
+        "m_en": "to develop",
+        "m_ar": "يتطور"
+      }
+    ],
+    "grammar_en": "'es bleibt abzuwarten, ob/wie ...' is a formal phrase for 'it remains to be seen'.",
+    "grammar_ar": "'es bleibt abzuwarten, ob/wie ...' عبارة رسمية بمعنى 'هنستنى ونشوف'.",
+    "alternatives": [
+      {
+        "text": "Wie sich die Lage weiterentwickelt, ist noch offen.",
+        "note_en": "'Still open/unclear' as an alternative framing",
+        "note_ar": "'لسه مش واضح' كصياغة بديلة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3067,
+    "text": "Die Ergebnisse lassen sich unterschiedlich interpretieren.",
+    "translation_ar": "النتائج ممكن تتفسّر بأكتر من طريقة.",
+    "level": "B2",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 59,
+    "videoId": null,
+    "transcriptContext": "Die Ergebnisse lassen sich unterschiedlich interpretieren.",
+    "pronunciation": "دي إرگيبنيسه لاسِن زيش أونتِرشيدليش إنتِربرِتيرِن",
+    "words": [
+      {
+        "w": "interpretieren",
+        "m_en": "to interpret",
+        "m_ar": "يفسر"
+      },
+      {
+        "w": "unterschiedlich",
+        "m_en": "differently",
+        "m_ar": "بشكل مختلف"
+      }
+    ],
+    "grammar_en": "'lassen sich + infinitive' is a passive-like construction meaning 'can be done'.",
+    "grammar_ar": "تركيب 'lassen sich + مصدر' زي صيغة المبني للمجهول ومعناه 'يمكن إنه يتعمل'.",
+    "alternatives": [
+      {
+        "text": "Man kann die Ergebnisse unterschiedlich deuten.",
+        "note_en": "'deuten' as a synonym for 'interpretieren'",
+        "note_ar": "الفعل 'deuten' كمرادف لـ 'interpretieren'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3068,
+    "text": "Ich bin davon überzeugt, dass sich der Aufwand lohnt.",
+    "translation_ar": "أنا مقتنع إن المجهود يستاهل.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 76,
+    "videoId": null,
+    "transcriptContext": "Ich bin davon überzeugt, dass sich der Aufwand lohnt.",
+    "pronunciation": "إيش بين دافون أوبِرتسويگت داس زيش دِر آوففاند لونت",
+    "words": [
+      {
+        "w": "überzeugt sein",
+        "m_en": "to be convinced",
+        "m_ar": "يكون مقتنع"
+      },
+      {
+        "w": "sich lohnen",
+        "m_en": "to be worth it",
+        "m_ar": "يستاهل"
+      }
+    ],
+    "grammar_en": "'überzeugt sein von' + dative expresses strong conviction.",
+    "grammar_ar": "'überzeugt sein von' + حالة الجر بتعبّر عن اقتناع قوي.",
+    "alternatives": [
+      {
+        "text": "Ich glaube fest daran, dass sich der Aufwand lohnt.",
+        "note_en": "'glaube fest daran' as a more emphatic version",
+        "note_ar": "'glaube fest daran' كصيغة أكثر تأكيدًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3069,
+    "text": "Das Vorhaben wurde aus finanziellen Gründen verschoben.",
+    "translation_ar": "المشروع اتأجل لأسباب مالية.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 93,
+    "videoId": null,
+    "transcriptContext": "Das Vorhaben wurde aus finanziellen Gründen verschoben.",
+    "pronunciation": "داس فورهابِن فوردِه آوس فينانتسيِلِن گروندِن فِرشوبِن",
+    "words": [
+      {
+        "w": "das Vorhaben",
+        "m_en": "project/plan",
+        "m_ar": "مشروع"
+      },
+      {
+        "w": "finanziell",
+        "m_en": "financial",
+        "m_ar": "مالي"
+      }
+    ],
+    "grammar_en": "'aus ... Gründen' is a formal way to give a reason: 'for ... reasons'.",
+    "grammar_ar": "'aus ... Gründen' طريقة رسمية لذكر سبب: 'لأسباب ...'.",
+    "alternatives": [
+      {
+        "text": "Das Projekt wurde aus Kostengründen verschoben.",
+        "note_en": "'For cost reasons' as a more specific phrasing",
+        "note_ar": "'لأسباب متعلقة بالتكلفة' كصياغة أكثر تحديدًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3070,
+    "text": "Es empfiehlt sich, frühzeitig zu planen.",
+    "translation_ar": "يُفضَّل إننا نخطط بدري.",
+    "level": "B2",
+    "situation": "career",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 110,
+    "videoId": null,
+    "transcriptContext": "Es empfiehlt sich, frühzeitig zu planen.",
+    "pronunciation": "إس إمپفيلت زيش فرويتسايتيش تسو بلانِن",
+    "words": [
+      {
+        "w": "sich empfehlen",
+        "m_en": "to be advisable",
+        "m_ar": "يُستحسن"
+      },
+      {
+        "w": "frühzeitig",
+        "m_en": "early/in good time",
+        "m_ar": "بدري"
+      }
+    ],
+    "grammar_en": "'es empfiehlt sich, ... zu ...' is a formal recommendation structure.",
+    "grammar_ar": "'es empfiehlt sich, ... zu ...' تركيب رسمي لتقديم توصية.",
+    "alternatives": [
+      {
+        "text": "Es ist ratsam, frühzeitig zu planen.",
+        "note_en": "'ratsam' as a formal adjective synonym",
+        "note_ar": "'ratsam' (مستحسن) كصفة رسمية مرادفة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3071,
+    "text": "Die Vorgehensweise wurde grundlegend überarbeitet.",
+    "translation_ar": "طريقة العمل اتعدّلت بشكل جذري.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 127,
+    "videoId": null,
+    "transcriptContext": "Die Vorgehensweise wurde grundlegend überarbeitet.",
+    "pronunciation": "دي فورگيهِنسڤايزه فوردِه گروندليگِند أوبِرآربايتِت",
+    "words": [
+      {
+        "w": "die Vorgehensweise",
+        "m_en": "approach/procedure",
+        "m_ar": "طريقة عمل"
+      },
+      {
+        "w": "grundlegend",
+        "m_en": "fundamentally",
+        "m_ar": "بشكل جذري"
+      }
+    ],
+    "grammar_en": "'grundlegend' as an adverb intensifies the verb 'überarbeitet' (revised).",
+    "grammar_ar": "'grundlegend' كظرف بيقوّي معنى الفعل 'überarbeitet' (اتعدّل).",
+    "alternatives": [
+      {
+        "text": "Die Methode wurde von Grund auf überarbeitet.",
+        "note_en": "'von Grund auf' (from scratch) as an idiomatic alternative",
+        "note_ar": "'von Grund auf' (من الصفر) كتعبير اصطلاحي بديل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3072,
+    "text": "Trotz gründlicher Vorbereitung lief nicht alles wie geplant.",
+    "translation_ar": "برغم التحضير الدقيق، مشيش كل حاجة زي ما اتخطط.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 144,
+    "videoId": null,
+    "transcriptContext": "Trotz gründlicher Vorbereitung lief nicht alles wie geplant.",
+    "pronunciation": "تروتس گروندليشِر فوربِرايتونگ ليف نيشت الِس في گِبلانت",
+    "words": [
+      {
+        "w": "gründlich",
+        "m_en": "thorough",
+        "m_ar": "دقيق/شامل"
+      },
+      {
+        "w": "die Vorbereitung",
+        "m_en": "preparation",
+        "m_ar": "تحضير"
+      }
+    ],
+    "grammar_en": "'wie geplant' (as planned) is a common set phrase for expectations vs. reality.",
+    "grammar_ar": "'wie geplant' (زي المخطط) عبارة شائعة للمقارنة بين التوقع والواقع.",
+    "alternatives": [
+      {
+        "text": "Trotz sorgfältiger Planung gab es Probleme.",
+        "note_en": "'sorgfältig' (careful) as a synonym for 'gründlich'",
+        "note_ar": "'sorgfältig' (دقيق/حريص) كمرادف لـ 'gründlich'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3073,
+    "text": "Es steht außer Frage, dass wir handeln müssen.",
+    "translation_ar": "مفيش شك إننا لازم نتصرف.",
+    "level": "B2",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 161,
+    "videoId": null,
+    "transcriptContext": "Es steht außer Frage, dass wir handeln müssen.",
+    "pronunciation": "إس شتيت آوسِر فراگِه داس فير هاندِلن موسِن",
+    "words": [
+      {
+        "w": "außer Frage stehen",
+        "m_en": "to be beyond question",
+        "m_ar": "يكون فوق الشك"
+      },
+      {
+        "w": "handeln",
+        "m_en": "to act",
+        "m_ar": "يتصرف"
+      }
+    ],
+    "grammar_en": "'es steht außer Frage, dass ...' is a formal idiom for absolute certainty.",
+    "grammar_ar": "'es steht außer Frage, dass ...' تعبير اصطلاحي رسمي لتأكيد مطلق.",
+    "alternatives": [
+      {
+        "text": "Es ist unbestritten, dass wir handeln müssen.",
+        "note_en": "'unbestritten' (undisputed) as an alternative",
+        "note_ar": "'unbestritten' (غير منازع فيه) كبديل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3074,
+    "text": "Die Zusammenarbeit hat sich als äußerst wertvoll erwiesen.",
+    "translation_ar": "التعاون ده أثبت إنه قيّم جدًا.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 178,
+    "videoId": null,
+    "transcriptContext": "Die Zusammenarbeit hat sich als äußerst wertvoll erwiesen.",
+    "pronunciation": "دي تسوزامِنآربايت هات زيش الس أويسِرست ڤِرتفول إرفيزِن",
+    "words": [
+      {
+        "w": "sich erweisen als",
+        "m_en": "to prove to be",
+        "m_ar": "يثبت إنه"
+      },
+      {
+        "w": "wertvoll",
+        "m_en": "valuable",
+        "m_ar": "قيّم"
+      }
+    ],
+    "grammar_en": "'sich erweisen als' + nominative means 'to prove to be' — a formal verb.",
+    "grammar_ar": "'sich erweisen als' + حالة الرفع معناها 'يثبت إنه' — فعل رسمي.",
+    "alternatives": [
+      {
+        "text": "Die Zusammenarbeit war äußerst wertvoll.",
+        "note_en": "Simpler statement without 'erweisen'",
+        "note_ar": "جملة أبسط من غير فعل 'erweisen'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3075,
+    "text": "Man muss zwischen kurzfristigen und langfristigen Zielen unterscheiden.",
+    "translation_ar": "لازم نفرّق بين الأهداف القريبة والبعيدة المدى.",
+    "level": "B2",
+    "situation": "career",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 195,
+    "videoId": null,
+    "transcriptContext": "Man muss zwischen kurzfristigen und langfristigen Zielen unterscheiden.",
+    "pronunciation": "مان موس تسفيشِن كورتسفريستيگِن أونت لانگفريستيگِن تسيلِن أونتِرشايدِن",
+    "words": [
+      {
+        "w": "unterscheiden zwischen",
+        "m_en": "to distinguish between",
+        "m_ar": "يفرّق بين"
+      },
+      {
+        "w": "kurzfristig",
+        "m_en": "short-term",
+        "m_ar": "قريب المدى"
+      }
+    ],
+    "grammar_en": "'zwischen ... und ...' (between ... and ...) always takes the dative case here.",
+    "grammar_ar": "'zwischen ... und ...' (بين ... و ...) بتاخد حالة الجر دايمًا هنا.",
+    "alternatives": [
+      {
+        "text": "Man sollte kurzfristige von langfristigen Zielen trennen.",
+        "note_en": "'trennen' (separate) as a near-synonym",
+        "note_ar": "الفعل 'trennen' (يفصل) كمرادف قريب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3076,
+    "text": "Die Situation erfordert ein rasches Handeln.",
+    "translation_ar": "الموقف محتاج تصرف سريع.",
+    "level": "B2",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 212,
+    "videoId": null,
+    "transcriptContext": "Die Situation erfordert ein rasches Handeln.",
+    "pronunciation": "دي زيتواتسيون إرفوردِرت آين راشِس هاندِلن",
+    "words": [
+      {
+        "w": "erfordern",
+        "m_en": "to require",
+        "m_ar": "يتطلب"
+      },
+      {
+        "w": "rasch",
+        "m_en": "swift/quick",
+        "m_ar": "سريع"
+      }
+    ],
+    "grammar_en": "'erfordern' is a formal transitive verb meaning 'to require/demand'.",
+    "grammar_ar": "'erfordern' فعل رسمي متعدٍّ معناه 'يتطلب/يستدعي'.",
+    "alternatives": [
+      {
+        "text": "Die Lage verlangt schnelles Handeln.",
+        "note_en": "'verlangen' as a formal synonym for 'erfordern'",
+        "note_ar": "الفعل 'verlangen' كمرادف رسمي لـ 'erfordern'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3077,
+    "text": "Es wurde beschlossen, das Budget zu erhöhen.",
+    "translation_ar": "اتقرر إن الميزانية تتزود.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 229,
+    "videoId": null,
+    "transcriptContext": "Es wurde beschlossen, das Budget zu erhöhen.",
+    "pronunciation": "إس فوردِه بِشلوسِن داس بودژِت تسو إرهوهِن",
+    "words": [
+      {
+        "w": "beschließen",
+        "m_en": "to resolve/decide (formally)",
+        "m_ar": "يقرر رسميًا"
+      },
+      {
+        "w": "erhöhen",
+        "m_en": "to increase",
+        "m_ar": "يزود"
+      }
+    ],
+    "grammar_en": "'es wurde beschlossen, ... zu ...' is a formal passive structure for official decisions.",
+    "grammar_ar": "'es wurde beschlossen, ... zu ...' تركيب رسمي مبني للمجهول للقرارات الرسمية.",
+    "alternatives": [
+      {
+        "text": "Man hat entschieden, das Budget aufzustocken.",
+        "note_en": "'aufstocken' (to top up) as a nuanced alternative",
+        "note_ar": "الفعل 'aufstocken' (يزيد/يدعّم) كبديل بمعنى أدق"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3078,
+    "text": "Die Erwartungen wurden bei Weitem übertroffen.",
+    "translation_ar": "التوقعات اتفاقت بكتير.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 6,
+    "videoId": null,
+    "transcriptContext": "Die Erwartungen wurden bei Weitem übertroffen.",
+    "pronunciation": "دي إرڤارتونگِن فوردِن باي فايتِن أوبِرتروفِن",
+    "words": [
+      {
+        "w": "übertreffen",
+        "m_en": "to exceed",
+        "m_ar": "يفوق/يتخطى"
+      },
+      {
+        "w": "bei Weitem",
+        "m_en": "by far",
+        "m_ar": "بكتير"
+      }
+    ],
+    "grammar_en": "'bei Weitem' intensifies a comparison, similar to 'by far' in English.",
+    "grammar_ar": "'bei Weitem' بتقوّي المقارنة، شبه 'بكتير' في العربي.",
+    "alternatives": [
+      {
+        "text": "Die Erwartungen wurden deutlich übertroffen.",
+        "note_en": "'deutlich' (clearly) as a milder intensifier",
+        "note_ar": "'deutlich' (بشكل واضح) كتعبير أخف شوية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3079,
+    "text": "Angesichts der begrenzten Ressourcen mussten wir Prioritäten setzen.",
+    "translation_ar": "بسبب الموارد المحدودة، اضطرينا نحدد أولويات.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 23,
+    "videoId": null,
+    "transcriptContext": "Angesichts der begrenzten Ressourcen mussten wir Prioritäten setzen.",
+    "pronunciation": "آنگِزيشتِس دِر بِگرِنتستِن رِسورتسِن موستِن فير پريوريتِتِن زِتسِن",
+    "words": [
+      {
+        "w": "angesichts",
+        "m_en": "in view of/given",
+        "m_ar": "بالنظر إلى"
+      },
+      {
+        "w": "begrenzt",
+        "m_en": "limited",
+        "m_ar": "محدود"
+      }
+    ],
+    "grammar_en": "'angesichts' + genitive introduces the formal context or reason for a situation.",
+    "grammar_ar": "حرف الجر 'angesichts' + حالة الملكية بيقدّم السياق أو السبب الرسمي لموقف معين.",
+    "alternatives": [
+      {
+        "text": "Wegen der begrenzten Ressourcen mussten wir Prioritäten setzen.",
+        "note_en": "'wegen' as a more everyday alternative to 'angesichts'",
+        "note_ar": "'wegen' كبديل أكثر شيوعًا في الاستخدام اليومي لـ 'angesichts'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3080,
+    "text": "Es bedarf weiterer Untersuchungen, um Klarheit zu schaffen.",
+    "translation_ar": "الأمر محتاج دراسات إضافية عشان نوصل لوضوح.",
+    "level": "B2",
+    "situation": "meetings",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 40,
+    "videoId": null,
+    "transcriptContext": "Es bedarf weiterer Untersuchungen, um Klarheit zu schaffen.",
+    "pronunciation": "إس بِدارف فايتِرِر أونتِرزوخونگِن أوم كلارهايت تسو شافِن",
+    "words": [
+      {
+        "w": "bedürfen",
+        "m_en": "to require",
+        "m_ar": "يستلزم"
+      },
+      {
+        "w": "die Untersuchung",
+        "m_en": "investigation/study",
+        "m_ar": "دراسة/تحقيق"
+      }
+    ],
+    "grammar_en": "'bedürfen' is a formal genitive-taking verb, rarely used in everyday speech.",
+    "grammar_ar": "'bedürfen' فعل رسمي بياخد حالة الملكية، نادرًا ما بيُستخدم في الكلام اليومي.",
+    "alternatives": [
+      {
+        "text": "Weitere Untersuchungen sind notwendig, um Klarheit zu schaffen.",
+        "note_en": "'sind notwendig' as a simpler, common alternative",
+        "note_ar": "'sind notwendig' (ضرورية) كبديل أبسط وأكثر شيوعًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3081,
+    "text": "Die Debatte offenbart tiefgreifende Meinungsverschiedenheiten innerhalb der Gesellschaft.",
+    "translation_ar": "النقاش بيكشف خلافات جذرية جوه المجتمع.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 57,
+    "videoId": null,
+    "transcriptContext": "Die Debatte offenbart tiefgreifende Meinungsverschiedenheiten innerhalb der Gesellschaft.",
+    "pronunciation": "دي ديباتِه أوفِنبارت تيفگرايفِنده ماينونگسفِرشيدِنهايتِن إنِرهالب دِر گِزِلشافت",
+    "words": [
+      {
+        "w": "offenbaren",
+        "m_en": "to reveal",
+        "m_ar": "يكشف"
+      },
+      {
+        "w": "tiefgreifend",
+        "m_en": "profound/far-reaching",
+        "m_ar": "جذري/عميق"
+      }
+    ],
+    "grammar_en": "'innerhalb' + genitive means 'within' — common in formal/academic writing.",
+    "grammar_ar": "حرف الجر 'innerhalb' + حالة الملكية معناه 'داخل/في إطار' — شائع في الكتابة الرسمية والأكاديمية.",
+    "alternatives": [
+      {
+        "text": "Die Diskussion zeigt tiefe Gräben in der Gesellschaft.",
+        "note_en": "'Gräben' (trenches) as a vivid metaphor for division",
+        "note_ar": "'Gräben' (خنادق) كاستعارة قوية للانقسام"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3082,
+    "text": "Es wäre vermessen zu behaupten, das Problem sei bereits gelöst.",
+    "translation_ar": "هيبقى غرور إننا نقول إن المشكلة اتحلت خلاص.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 74,
+    "videoId": null,
+    "transcriptContext": "Es wäre vermessen zu behaupten, das Problem sei bereits gelöst.",
+    "pronunciation": "إس ڤِره فِرمِسِن تسو بِهاوپتِن داس پروبليم زاي بِرايتس گِلوست",
+    "words": [
+      {
+        "w": "vermessen",
+        "m_en": "presumptuous",
+        "m_ar": "متغطرس/متجاسر"
+      },
+      {
+        "w": "behaupten",
+        "m_en": "to claim",
+        "m_ar": "يدّعي"
+      }
+    ],
+    "grammar_en": "'sei' here is Konjunktiv I, used in formal indirect/reported speech.",
+    "grammar_ar": "'sei' هنا صيغة Konjunktiv I، بتُستخدم في الكلام المنقول أو غير المباشر الرسمي.",
+    "alternatives": [
+      {
+        "text": "Es wäre anmaßend zu behaupten, das Problem sei gelöst.",
+        "note_en": "'anmaßend' as a near-synonym for 'vermessen'",
+        "note_ar": "'anmaßend' كمرادف قريب لـ 'vermessen'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3083,
+    "text": "Die Argumentation krankt an mangelnder Kohärenz.",
+    "translation_ar": "الحجة بتعاني من ضعف في الترابط.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 91,
+    "videoId": null,
+    "transcriptContext": "Die Argumentation krankt an mangelnder Kohärenz.",
+    "pronunciation": "دي آرگومِنتاتسيون كرانكت آن مانگِلندِر كوهِرِنتس",
+    "words": [
+      {
+        "w": "kranken an",
+        "m_en": "to suffer from (a flaw)",
+        "m_ar": "بيعاني من عيب"
+      },
+      {
+        "w": "die Kohärenz",
+        "m_en": "coherence",
+        "m_ar": "ترابط/تماسك"
+      }
+    ],
+    "grammar_en": "'kranken an' + dative is a literary idiom meaning a flawed argument or system.",
+    "grammar_ar": "'kranken an' + حالة الجر تعبير أدبي معناه إن الحجة أو النظام فيه عيب أساسي.",
+    "alternatives": [
+      {
+        "text": "Der Argumentation fehlt es an innerer Logik.",
+        "note_en": "'fehlt es an' (lacking in) as an alternative construction",
+        "note_ar": "تركيب 'fehlt es an' (ناقصها) كبديل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3084,
+    "text": "Ohne nachhaltige Reformen wird sich an der Lage kaum etwas ändern.",
+    "translation_ar": "من غير إصلاحات مستدامة، الوضع مش هيتغير كتير.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 108,
+    "videoId": null,
+    "transcriptContext": "Ohne nachhaltige Reformen wird sich an der Lage kaum etwas ändern.",
+    "pronunciation": "أونه ناخهالتيگِه رِفورمِن ڤيرد زيش آن دِر لاگه كاوم إتفاس إندِرن",
+    "words": [
+      {
+        "w": "nachhaltig",
+        "m_en": "sustainable",
+        "m_ar": "مستدام"
+      },
+      {
+        "w": "die Reform",
+        "m_en": "reform",
+        "m_ar": "إصلاح"
+      }
+    ],
+    "grammar_en": "'kaum' (hardly) softens a negative claim without fully negating it.",
+    "grammar_ar": "كلمة 'kaum' (بالكاد) بتخفف من قوة النفي من غير ما تنفي الجملة تمامًا.",
+    "alternatives": [
+      {
+        "text": "Ohne grundlegende Reformen wird sich wenig ändern.",
+        "note_en": "'grundlegend' (fundamental) instead of 'nachhaltig'",
+        "note_ar": "'grundlegend' (جذري) بدل 'nachhaltig'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3085,
+    "text": "Der Vorschlag stößt auf geteiltes Echo.",
+    "translation_ar": "الاقتراح لاقى ردود فعل متباينة.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 125,
+    "videoId": null,
+    "transcriptContext": "Der Vorschlag stößt auf geteiltes Echo.",
+    "pronunciation": "دير فورشلاگ شتوست آوف گِتايلتِس إيشو",
+    "words": [
+      {
+        "w": "stoßen auf",
+        "m_en": "to meet with (a reaction)",
+        "m_ar": "يقابل (رد فعل)"
+      },
+      {
+        "w": "geteilt",
+        "m_en": "divided/mixed",
+        "m_ar": "متباين"
+      }
+    ],
+    "grammar_en": "'auf geteiltes Echo stoßen' is an idiom meaning to receive mixed reactions.",
+    "grammar_ar": "'auf geteiltes Echo stoßen' تعبير اصطلاحي معناه يلاقي ردود فعل متباينة.",
+    "alternatives": [
+      {
+        "text": "Der Vorschlag wird kontrovers diskutiert.",
+        "note_en": "'wird kontrovers diskutiert' as a plainer alternative",
+        "note_ar": "'wird kontrovers diskutiert' كبديل أوضح وأبسط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3086,
+    "text": "Es gilt, die Weichen für die Zukunft rechtzeitig zu stellen.",
+    "translation_ar": "لازم نحدد مسار المستقبل في الوقت المناسب.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 142,
+    "videoId": null,
+    "transcriptContext": "Es gilt, die Weichen für die Zukunft rechtzeitig zu stellen.",
+    "pronunciation": "إس گيلت دي فايشِن فور دي تسوكونفت ريشتسايتيگ تسو شتِلِن",
+    "words": [
+      {
+        "w": "die Weichen stellen",
+        "m_en": "to set the course",
+        "m_ar": "يحدد المسار"
+      },
+      {
+        "w": "rechtzeitig",
+        "m_en": "timely/in time",
+        "m_ar": "في الوقت المناسب"
+      }
+    ],
+    "grammar_en": "'die Weichen stellen' is a railway metaphor for 'setting the direction/course'.",
+    "grammar_ar": "'die Weichen stellen' استعارة من عالم السكك الحديدية بمعنى 'تحديد الاتجاه/المسار'.",
+    "alternatives": [
+      {
+        "text": "Man muss frühzeitig die richtigen Entscheidungen treffen.",
+        "note_en": "Plainer phrasing without the railway metaphor",
+        "note_ar": "صياغة أبسط من غير الاستعارة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3087,
+    "text": "Die Kluft zwischen Anspruch und Wirklichkeit wird zunehmend deutlich.",
+    "translation_ar": "الفجوة بين الطموح والواقع بتبان أكتر وأكتر.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 159,
+    "videoId": null,
+    "transcriptContext": "Die Kluft zwischen Anspruch und Wirklichkeit wird zunehmend deutlich.",
+    "pronunciation": "دي كلوفت تسفيشِن آنشپروخ أونت فيركليشكايت ڤيرد تسونيمِنت دويتليش",
+    "words": [
+      {
+        "w": "die Kluft",
+        "m_en": "gap/divide",
+        "m_ar": "فجوة"
+      },
+      {
+        "w": "der Anspruch",
+        "m_en": "aspiration/claim",
+        "m_ar": "طموح"
+      }
+    ],
+    "grammar_en": "'Anspruch und Wirklichkeit' (aspiration and reality) is a common contrastive pairing in formal German.",
+    "grammar_ar": "'Anspruch und Wirklichkeit' (الطموح والواقع) ثنائية تقابلية شائعة في الألماني الرسمي.",
+    "alternatives": [
+      {
+        "text": "Die Lücke zwischen Theorie und Praxis wird immer größer.",
+        "note_en": "'Theorie und Praxis' (theory and practice) as a parallel contrast",
+        "note_ar": "'Theorie und Praxis' (النظرية والتطبيق) كتقابل مواز"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3088,
+    "text": "Man kann sich des Eindrucks kaum erwehren, dass hier Interessen kollidieren.",
+    "translation_ar": "بالكاد نقدر نمنع نفسنا من الإحساس إن فيه مصالح متصادمة هنا.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 176,
+    "videoId": null,
+    "transcriptContext": "Man kann sich des Eindrucks kaum erwehren, dass hier Interessen kollidieren.",
+    "pronunciation": "مان كان زيش دِس آيندروكس كاوم إرڤيرِن داس هيا إنتِرِسِن كوليديرِن",
+    "words": [
+      {
+        "w": "sich erwehren",
+        "m_en": "to resist/fend off",
+        "m_ar": "يقاوم/يمتنع"
+      },
+      {
+        "w": "kollidieren",
+        "m_en": "to collide/clash",
+        "m_ar": "يتصادم"
+      }
+    ],
+    "grammar_en": "'sich des Eindrucks erwehren' is a genitive-based literary idiom for 'can't help feeling'.",
+    "grammar_ar": "'sich des Eindrucks erwehren' تعبير أدبي بحالة الملكية معناه 'مش قادر يمنع نفسه من الإحساس بـ'.",
+    "alternatives": [
+      {
+        "text": "Man hat unweigerlich den Eindruck, dass Interessen kollidieren.",
+        "note_en": "'unweigerlich' (inevitably) as a plainer alternative",
+        "note_ar": "'unweigerlich' (حتمًا) كبديل أبسط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3089,
+    "text": "Die Tragweite der Entscheidung wurde offenbar unterschätzt.",
+    "translation_ar": "أهمية القرار الظاهر إنها اتقيّمت بأقل من قيمتها.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 193,
+    "videoId": null,
+    "transcriptContext": "Die Tragweite der Entscheidung wurde offenbar unterschätzt.",
+    "pronunciation": "دي تراگفايته دِر إنتشايدونگ فوردِه أوفِنبار أونتِرشِتست",
+    "words": [
+      {
+        "w": "die Tragweite",
+        "m_en": "significance/scope",
+        "m_ar": "أهمية/مدى تأثير"
+      },
+      {
+        "w": "unterschätzen",
+        "m_en": "to underestimate",
+        "m_ar": "يقلل من شأنه"
+      }
+    ],
+    "grammar_en": "'offenbar' (apparently) signals the speaker's inference rather than a certain fact.",
+    "grammar_ar": "'offenbar' (على ما يبدو) بتدل على استنتاج المتحدث مش حقيقة مؤكدة.",
+    "alternatives": [
+      {
+        "text": "Die Bedeutung der Entscheidung wurde offensichtlich verkannt.",
+        "note_en": "'verkannt' (misjudged) as a more literary verb",
+        "note_ar": "'verkannt' (لم يُقدَّر حق قدره) كفعل أكثر أدبية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3090,
+    "text": "Es bedarf eines Umdenkens, um die Herausforderungen zu bewältigen.",
+    "translation_ar": "الأمر محتاج تغيير جذري في التفكير عشان نتغلب على التحديات.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 210,
+    "videoId": null,
+    "transcriptContext": "Es bedarf eines Umdenkens, um die Herausforderungen zu bewältigen.",
+    "pronunciation": "إس بِدارف آينِس أومدِنكِنس أوم دي هِراوسفوردِرونگِن تسو بِڤِلتيگِن",
+    "words": [
+      {
+        "w": "das Umdenken",
+        "m_en": "rethink/paradigm shift",
+        "m_ar": "تغيير في التفكير"
+      },
+      {
+        "w": "bewältigen",
+        "m_en": "to overcome/manage",
+        "m_ar": "يتغلب على"
+      }
+    ],
+    "grammar_en": "'bedarf eines' + genitive noun formally means 'requires a ...'.",
+    "grammar_ar": "'bedarf eines' + اسم بحالة الملكية معناها رسميًا 'محتاج/يستلزم ...'.",
+    "alternatives": [
+      {
+        "text": "Um die Herausforderungen zu bewältigen, braucht es ein Umdenken.",
+        "note_en": "Reordered clause for the same meaning",
+        "note_ar": "نفس المعنى بترتيب مختلف للجملة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3091,
+    "text": "Der Vorfall wirft ein bezeichnendes Licht auf strukturelle Missstände.",
+    "translation_ar": "الحادثة دي بتكشف بوضوح عن خلل هيكلي.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 227,
+    "videoId": null,
+    "transcriptContext": "Der Vorfall wirft ein bezeichnendes Licht auf strukturelle Missstände.",
+    "pronunciation": "دير فورفال ڤيرفت آين بِتسايشِنِندِس ليشت آوف شتروكتوريِله ميستِندِه",
+    "words": [
+      {
+        "w": "bezeichnend",
+        "m_en": "telling/revealing",
+        "m_ar": "دال/كاشف"
+      },
+      {
+        "w": "der Missstand",
+        "m_en": "grievance/malaise",
+        "m_ar": "خلل/تجاوز"
+      }
+    ],
+    "grammar_en": "'ein Licht werfen auf' is an idiom meaning 'to shed light on'.",
+    "grammar_ar": "'ein Licht werfen auf' تعبير اصطلاحي معناه 'يسلط الضوء على'.",
+    "alternatives": [
+      {
+        "text": "Der Vorfall macht strukturelle Probleme sichtbar.",
+        "note_en": "Plainer verb 'macht sichtbar' instead of the idiom",
+        "note_ar": "فعل أبسط 'macht sichtbar' (بيوضح) بدل التعبير الاصطلاحي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3092,
+    "text": "Die Argumente beider Seiten sind nicht von der Hand zu weisen.",
+    "translation_ar": "حجج الطرفين مش سهل نرفضها.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 4,
+    "videoId": null,
+    "transcriptContext": "Die Argumente beider Seiten sind nicht von der Hand zu weisen.",
+    "pronunciation": "دي آرگومِنته بايدِر زايتِن زيند نيشت فون دِر هانت تسو ڤايزِن",
+    "words": [
+      {
+        "w": "von der Hand weisen",
+        "m_en": "to dismiss",
+        "m_ar": "يرفض/يستبعد"
+      },
+      {
+        "w": "beide Seiten",
+        "m_en": "both sides",
+        "m_ar": "الطرفين"
+      }
+    ],
+    "grammar_en": "'nicht von der Hand zu weisen sein' is an idiom for 'cannot be dismissed'.",
+    "grammar_ar": "'nicht von der Hand zu weisen sein' تعبير اصطلاحي معناه 'مش سهل رفضه'.",
+    "alternatives": [
+      {
+        "text": "Beide Seiten bringen stichhaltige Argumente vor.",
+        "note_en": "'stichhaltig' (valid/solid) as a plainer alternative",
+        "note_ar": "'stichhaltig' (وجيه/قوي) كبديل أوضح"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3093,
+    "text": "Angesichts der Komplexität lässt sich keine pauschale Antwort geben.",
+    "translation_ar": "بالنظر لتعقيد الموضوع، مفيش إجابة عامة شاملة.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 21,
+    "videoId": null,
+    "transcriptContext": "Angesichts der Komplexität lässt sich keine pauschale Antwort geben.",
+    "pronunciation": "آنگِزيشتِس دِر كومپلِكسيتِت لِست زيش كاينه پاوشالِه آنتفورت گيبِن",
+    "words": [
+      {
+        "w": "die Komplexität",
+        "m_en": "complexity",
+        "m_ar": "تعقيد"
+      },
+      {
+        "w": "pauschal",
+        "m_en": "blanket/general",
+        "m_ar": "عام/شامل"
+      }
+    ],
+    "grammar_en": "'pauschal' describes an answer that oversimplifies a nuanced issue.",
+    "grammar_ar": "'pauschal' بتوصف إجابة بتبسّط قضية معقدة أكتر من اللازم.",
+    "alternatives": [
+      {
+        "text": "Angesichts der Komplexität gibt es keine einfache Lösung.",
+        "note_en": "'einfache Lösung' (simple solution) as a plainer phrasing",
+        "note_ar": "'einfache Lösung' (حل بسيط) كصياغة أبسط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3094,
+    "text": "Die Reform zielt darauf ab, bestehende Ungleichheiten abzubauen.",
+    "translation_ar": "الإصلاح بيهدف لتقليل التفاوتات القائمة.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 38,
+    "videoId": null,
+    "transcriptContext": "Die Reform zielt darauf ab, bestehende Ungleichheiten abzubauen.",
+    "pronunciation": "دي رِفورم تسيلت داراوف آب بِشتيهِنده أونگلايشهايتِن آبتسوباوِن",
+    "words": [
+      {
+        "w": "abzielen auf",
+        "m_en": "to aim at",
+        "m_ar": "يهدف إلى"
+      },
+      {
+        "w": "die Ungleichheit",
+        "m_en": "inequality",
+        "m_ar": "تفاوت/عدم مساواة"
+      }
+    ],
+    "grammar_en": "'abzielen auf' + accusative describes the intended goal of a policy or plan.",
+    "grammar_ar": "'abzielen auf' + حالة النصب بتوصف الهدف المقصود من سياسة أو خطة معينة.",
+    "alternatives": [
+      {
+        "text": "Die Reform soll bestehende Ungleichheiten verringern.",
+        "note_en": "'verringern' (reduce) as a plainer verb",
+        "note_ar": "الفعل 'verringern' (يقلل) كبديل أبسط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3095,
+    "text": "Es steht zu befürchten, dass die Kosten weiter steigen werden.",
+    "translation_ar": "المتوقع إن التكاليف هتفضل تزيد.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 55,
+    "videoId": null,
+    "transcriptContext": "Es steht zu befürchten, dass die Kosten weiter steigen werden.",
+    "pronunciation": "إس شتيت تسو بِفورشتِن داس دي كوستِن فايتِر شتايگِن ڤِردِن",
+    "words": [
+      {
+        "w": "befürchten",
+        "m_en": "to fear/be concerned",
+        "m_ar": "يخشى"
+      },
+      {
+        "w": "die Kosten",
+        "m_en": "costs",
+        "m_ar": "تكاليف"
+      }
+    ],
+    "grammar_en": "'es steht zu befürchten, dass ...' is a formal way to express a negative expectation.",
+    "grammar_ar": "'es steht zu befürchten, dass ...' طريقة رسمية للتعبير عن توقع سلبي.",
+    "alternatives": [
+      {
+        "text": "Es ist zu erwarten, dass die Kosten weiter steigen.",
+        "note_en": "'zu erwarten' (to be expected) as a neutral alternative",
+        "note_ar": "'zu erwarten' (متوقّع) كصياغة أكثر حيادية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3096,
+    "text": "Die Kritik entbehrt nicht einer gewissen Berechtigung.",
+    "translation_ar": "الانتقاد مش خالي من شيء من الصحة.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 72,
+    "videoId": null,
+    "transcriptContext": "Die Kritik entbehrt nicht einer gewissen Berechtigung.",
+    "pronunciation": "دي كريتيك إنتبيرت نيشت آينِر گِفيسِن بِرِشتيگونگ",
+    "words": [
+      {
+        "w": "entbehren",
+        "m_en": "to lack",
+        "m_ar": "يفتقر إلى"
+      },
+      {
+        "w": "die Berechtigung",
+        "m_en": "justification/validity",
+        "m_ar": "مشروعية/صحة"
+      }
+    ],
+    "grammar_en": "'nicht entbehren' with genitive is a litotes (understated double negative) common in formal writing.",
+    "grammar_ar": "'nicht entbehren' مع حالة الملكية أسلوب تلطيف بنفي مزدوج شائع في الكتابة الرسمية.",
+    "alternatives": [
+      {
+        "text": "Die Kritik ist nicht ganz unberechtigt.",
+        "note_en": "Simpler double-negative phrasing",
+        "note_ar": "صياغة أبسط بنفي مزدوج"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3097,
+    "text": "Das Dilemma lässt sich nicht ohne Weiteres auflösen.",
+    "translation_ar": "المأزق مش سهل حله بسهولة.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 89,
+    "videoId": null,
+    "transcriptContext": "Das Dilemma lässt sich nicht ohne Weiteres auflösen.",
+    "pronunciation": "داس ديليما لِست زيش نيشت أونه فايتِرِس آوفلوزِن",
+    "words": [
+      {
+        "w": "das Dilemma",
+        "m_en": "dilemma",
+        "m_ar": "مأزق"
+      },
+      {
+        "w": "ohne Weiteres",
+        "m_en": "without further ado/easily",
+        "m_ar": "بسهولة"
+      }
+    ],
+    "grammar_en": "'ohne Weiteres' is a common idiom meaning 'easily/without complication'.",
+    "grammar_ar": "'ohne Weiteres' تعبير شائع معناه 'بسهولة/من غير تعقيد'.",
+    "alternatives": [
+      {
+        "text": "Das Dilemma ist nicht leicht zu lösen.",
+        "note_en": "Plainer phrasing with 'nicht leicht'",
+        "note_ar": "صياغة أبسط بـ 'nicht leicht' (مش سهل)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3098,
+    "text": "Es liegt nahe, die Ursachen genauer zu untersuchen.",
+    "translation_ar": "من المنطقي إننا ندرس الأسباب بدقة أكتر.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 106,
+    "videoId": null,
+    "transcriptContext": "Es liegt nahe, die Ursachen genauer zu untersuchen.",
+    "pronunciation": "إس ليگت ناهه دي أورزاخِن گِناور تسو أونتِرزوخِن",
+    "words": [
+      {
+        "w": "nahe liegen",
+        "m_en": "to make sense/be obvious",
+        "m_ar": "يكون منطقي"
+      },
+      {
+        "w": "die Ursache",
+        "m_en": "cause",
+        "m_ar": "سبب"
+      }
+    ],
+    "grammar_en": "'es liegt nahe, ... zu ...' means 'it makes sense to ...' or 'it stands to reason'.",
+    "grammar_ar": "'es liegt nahe, ... zu ...' معناها 'من المنطقي إن ...' أو 'من البديهي إن ...'.",
+    "alternatives": [
+      {
+        "text": "Es wäre sinnvoll, die Ursachen genauer zu untersuchen.",
+        "note_en": "'sinnvoll' (sensible) as a plainer alternative",
+        "note_ar": "'sinnvoll' (منطقي/مفيد) كبديل أبسط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3099,
+    "text": "Die Entwicklung verläuft keineswegs geradlinig.",
+    "translation_ar": "التطور بيسير مش بشكل مستقيم خالص.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 123,
+    "videoId": null,
+    "transcriptContext": "Die Entwicklung verläuft keineswegs geradlinig.",
+    "pronunciation": "دي إنتفيكلونگ فِرلويفت كاينِسڤِگس گِرادليني",
+    "words": [
+      {
+        "w": "verlaufen",
+        "m_en": "to proceed/unfold",
+        "m_ar": "يسير/يتطور"
+      },
+      {
+        "w": "keineswegs",
+        "m_en": "by no means",
+        "m_ar": "إطلاقًا/مش خالص"
+      }
+    ],
+    "grammar_en": "'keineswegs' is a strong formal negation, stronger than plain 'nicht'.",
+    "grammar_ar": "'keineswegs' أداة نفي رسمية قوية، أقوى من 'nicht' العادية.",
+    "alternatives": [
+      {
+        "text": "Die Entwicklung ist alles andere als geradlinig.",
+        "note_en": "'alles andere als' (anything but) as an idiomatic alternative",
+        "note_ar": "'alles andere als' (كل شيء إلا) كتعبير اصطلاحي بديل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3100,
+    "text": "Ein Kompromiss zeichnet sich derzeit nicht ab.",
+    "translation_ar": "مفيش حل وسط بايظهر في الأفق دلوقتي.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 140,
+    "videoId": null,
+    "transcriptContext": "Ein Kompromiss zeichnet sich derzeit nicht ab.",
+    "pronunciation": "آين كومپروميس تسايشنِت زيش دِرتسايت نيشت آب",
+    "words": [
+      {
+        "w": "sich abzeichnen",
+        "m_en": "to become apparent/emerge",
+        "m_ar": "يلوح في الأفق"
+      },
+      {
+        "w": "der Kompromiss",
+        "m_en": "compromise",
+        "m_ar": "حل وسط"
+      }
+    ],
+    "grammar_en": "'sich abzeichnen' describes something becoming visible or likely on the horizon.",
+    "grammar_ar": "'sich abzeichnen' بتوصف حاجة بتبدأ تبان أو تلوح في الأفق.",
+    "alternatives": [
+      {
+        "text": "Ein Kompromiss ist derzeit nicht in Sicht.",
+        "note_en": "'in Sicht sein' (to be in sight) as a plainer idiom",
+        "note_ar": "'in Sicht sein' (يكون في الأفق) كتعبير أبسط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3101,
+    "text": "Die Rhetorik des Redners changierte gekonnt zwischen Pathos und Ironie.",
+    "translation_ar": "بلاغة الخطيب اتنقلت بمهارة بين الحماس والسخرية.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 157,
+    "videoId": null,
+    "transcriptContext": "Die Rhetorik des Redners changierte gekonnt zwischen Pathos und Ironie.",
+    "pronunciation": "دي ريتوريك دِس ريدنِرس شانژيرته گِكونت تسفيشِن پاتوس أونت إيروني",
+    "words": [
+      {
+        "w": "changieren",
+        "m_en": "to shift/vary subtly",
+        "m_ar": "يتنقل بتدرج"
+      },
+      {
+        "w": "gekonnt",
+        "m_en": "skillfully",
+        "m_ar": "بمهارة"
+      }
+    ],
+    "grammar_en": "'changieren' is a rare, literary loanword from French describing subtle shifting.",
+    "grammar_ar": "'changieren' كلمة أدبية نادرة مأخوذة من الفرنسية بتوصف تحول تدريجي دقيق.",
+    "alternatives": [
+      {
+        "text": "Der Redner wechselte gekonnt zwischen Pathos und Ironie.",
+        "note_en": "'wechseln' as a plainer verb for 'changieren'",
+        "note_ar": "الفعل 'wechseln' كبديل أبسط لـ 'changieren'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3102,
+    "text": "Es mutet paradox an, dass gerade in Krisenzeiten Solidarität aufblüht.",
+    "translation_ar": "غريب إن التضامن بالذات بيزدهر في أوقات الأزمات.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 174,
+    "videoId": null,
+    "transcriptContext": "Es mutet paradox an, dass gerade in Krisenzeiten Solidarität aufblüht.",
+    "pronunciation": "إس موتِت پارادوكس آن داس گِرادِه إن كريزنتسايتِن زوليدارتِت آوفبلوهت",
+    "words": [
+      {
+        "w": "anmuten",
+        "m_en": "to seem/appear",
+        "m_ar": "يبدو"
+      },
+      {
+        "w": "paradox",
+        "m_en": "paradoxical",
+        "m_ar": "متناقض ظاهريًا"
+      }
+    ],
+    "grammar_en": "'anmuten' is a literary verb meaning 'to appear/seem', more formal than 'scheinen'.",
+    "grammar_ar": "'anmuten' فعل أدبي معناه 'يبدو'، أكتر رسمية من 'scheinen'.",
+    "alternatives": [
+      {
+        "text": "Es erscheint paradox, dass in Krisenzeiten Solidarität wächst.",
+        "note_en": "'erscheinen' as a more common alternative to 'anmuten'",
+        "note_ar": "الفعل 'erscheinen' كبديل أكثر شيوعًا لـ 'anmuten'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3103,
+    "text": "Die Analyse fördert Widersprüche zutage, die bislang unbeachtet blieben.",
+    "translation_ar": "التحليل بيكشف تناقضات فضلت من غير اهتمام لحد دلوقتي.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 191,
+    "videoId": null,
+    "transcriptContext": "Die Analyse fördert Widersprüche zutage, die bislang unbeachtet blieben.",
+    "pronunciation": "دي آنالوزه فوردِرت فيدِرشپروخه تسوتاگِه دي بيسلانگ أونبِآختِت بليبِن",
+    "words": [
+      {
+        "w": "zutage fördern",
+        "m_en": "to bring to light",
+        "m_ar": "يكشف/يُظهر"
+      },
+      {
+        "w": "der Widerspruch",
+        "m_en": "contradiction",
+        "m_ar": "تناقض"
+      }
+    ],
+    "grammar_en": "'zutage fördern' is a formal, almost mining-related metaphor for 'to bring to light'.",
+    "grammar_ar": "'zutage fördern' تعبير رسمي شبه استعارة من التعدين بمعنى 'يكشف/يُظهر للسطح'.",
+    "alternatives": [
+      {
+        "text": "Die Analyse deckt bislang unbeachtete Widersprüche auf.",
+        "note_en": "'aufdecken' as a plainer verb for 'zutage fördern'",
+        "note_ar": "الفعل 'aufdecken' (يكشف) كبديل أبسط لـ 'zutage fördern'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3104,
+    "text": "Sein Werk entzieht sich einer eindeutigen Kategorisierung.",
+    "translation_ar": "عمله بيستعصي على أي تصنيف واضح.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 208,
+    "videoId": null,
+    "transcriptContext": "Sein Werk entzieht sich einer eindeutigen Kategorisierung.",
+    "pronunciation": "زاين ڤِرك إنتسيهت زيش آينِر آيندويتيگِن كاتِگوريزيرونگ",
+    "words": [
+      {
+        "w": "sich entziehen",
+        "m_en": "to elude/defy",
+        "m_ar": "يستعصي على/يفلت من"
+      },
+      {
+        "w": "die Kategorisierung",
+        "m_en": "categorization",
+        "m_ar": "تصنيف"
+      }
+    ],
+    "grammar_en": "'sich entziehen' + dative is a literary verb meaning 'to elude' or 'defy classification'.",
+    "grammar_ar": "'sich entziehen' + حالة الجر فعل أدبي معناه 'يفلت من/يستعصي على' التصنيف.",
+    "alternatives": [
+      {
+        "text": "Sein Werk lässt sich nicht eindeutig einordnen.",
+        "note_en": "Plainer phrasing with 'einordnen' (to classify)",
+        "note_ar": "صياغة أبسط بفعل 'einordnen' (يصنّف)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3105,
+    "text": "Die Debatte krankt weniger an fehlenden Fakten als an mangelndem Willen zum Dialog.",
+    "translation_ar": "النقاش مشكلته مش قلة الحقائق قد ما هي غياب الرغبة في الحوار.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 225,
+    "videoId": null,
+    "transcriptContext": "Die Debatte krankt weniger an fehlenden Fakten als an mangelndem Willen zum Dialog.",
+    "pronunciation": "دي ديباتِه كرانكت ڤِنيگِر آن فيلِندِن فاكتِن الس آن مانگِلندِم ڤيلِن تسوم ديالوگ",
+    "words": [
+      {
+        "w": "weniger ... als ...",
+        "m_en": "less ... than ...",
+        "m_ar": "أقل ... من ..."
+      },
+      {
+        "w": "der Wille",
+        "m_en": "will/willingness",
+        "m_ar": "إرادة/رغبة"
+      }
+    ],
+    "grammar_en": "'weniger ... als ...' constructs a nuanced comparative contrast between two causes.",
+    "grammar_ar": "تركيب 'weniger ... als ...' بيبني مقارنة دقيقة بين سببين.",
+    "alternatives": [
+      {
+        "text": "Das Problem liegt weniger an den Fakten als am fehlenden Dialog.",
+        "note_en": "Reworded with 'das Problem liegt an' (the problem lies in)",
+        "note_ar": "معاد صياغتها بتعبير 'das Problem liegt an' (المشكلة تكمن في)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3106,
+    "text": "Es wäre naiv, die geopolitischen Verwerfungen zu unterschätzen.",
+    "translation_ar": "هيبقى سذاجة إننا نستهين بالتصدعات الجيوسياسية.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 2,
+    "videoId": null,
+    "transcriptContext": "Es wäre naiv, die geopolitischen Verwerfungen zu unterschätzen.",
+    "pronunciation": "إس ڤِره نايف دي گِوپوليتيشِن فِرڤِرفونگِن تسو أونتِرشِتسِن",
+    "words": [
+      {
+        "w": "naiv",
+        "m_en": "naive",
+        "m_ar": "ساذج"
+      },
+      {
+        "w": "die Verwerfung",
+        "m_en": "upheaval/rift",
+        "m_ar": "تصدّع/اضطراب"
+      }
+    ],
+    "grammar_en": "'geopolitische Verwerfungen' is a high-register term for major geopolitical shifts or tensions.",
+    "grammar_ar": "'geopolitische Verwerfungen' مصطلح رفيع المستوى للتحولات أو التوترات الجيوسياسية الكبرى.",
+    "alternatives": [
+      {
+        "text": "Es wäre kurzsichtig, die geopolitischen Spannungen zu ignorieren.",
+        "note_en": "'kurzsichtig' (shortsighted) and 'Spannungen' (tensions) as alternatives",
+        "note_ar": "'kurzsichtig' (قصير النظر) و'Spannungen' (توترات) كبدائل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3107,
+    "text": "Die Grenze zwischen Fakt und Fiktion verschwimmt zusehends.",
+    "translation_ar": "الخط الفاصل بين الحقيقة والخيال بيتلاشى أكتر فأكتر.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 19,
+    "videoId": null,
+    "transcriptContext": "Die Grenze zwischen Fakt und Fiktion verschwimmt zusehends.",
+    "pronunciation": "دي گرِنتسه تسفيشِن فاكت أونت فيكتسيون فِرشفيمت تسوزيهِندس",
+    "words": [
+      {
+        "w": "verschwimmen",
+        "m_en": "to blur",
+        "m_ar": "يتلاشى/يصبح غير واضح"
+      },
+      {
+        "w": "zusehends",
+        "m_en": "increasingly/visibly",
+        "m_ar": "بشكل متزايد وملحوظ"
+      }
+    ],
+    "grammar_en": "'zusehends' is a formal adverb meaning a change is happening visibly over time.",
+    "grammar_ar": "'zusehends' ظرف رسمي معناه إن التغيير بيحصل بشكل ملحوظ مع الوقت.",
+    "alternatives": [
+      {
+        "text": "Die Grenze zwischen Fakt und Fiktion wird zunehmend unklar.",
+        "note_en": "'zunehmend unklar' as a plainer phrasing",
+        "note_ar": "'zunehmend unklar' (بيصبح مش واضح أكتر فأكتر) كصياغة أبسط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3108,
+    "text": "Der Essay besticht durch eine seltene Klarheit des Gedankens.",
+    "translation_ar": "المقال بيلفت الانتباه بوضوح نادر في الفكر.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 36,
+    "videoId": null,
+    "transcriptContext": "Der Essay besticht durch eine seltene Klarheit des Gedankens.",
+    "pronunciation": "دِر إسِه بِشتيشت دورش آينِه زِلتِنِه كلارهايت دِس گِدانكِنس",
+    "words": [
+      {
+        "w": "bestechen durch",
+        "m_en": "to captivate through",
+        "m_ar": "يبهر بـ/يلفت الانتباه بـ"
+      },
+      {
+        "w": "der Gedanke",
+        "m_en": "thought/idea",
+        "m_ar": "فكرة"
+      }
+    ],
+    "grammar_en": "'bestechen durch' (to captivate through) is a literary-critical verb used in reviews.",
+    "grammar_ar": "'bestechen durch' (يبهر بـ) فعل نقدي أدبي بيُستخدم في المراجعات والنقد.",
+    "alternatives": [
+      {
+        "text": "Der Essay zeichnet sich durch große gedankliche Klarheit aus.",
+        "note_en": "'sich auszeichnen durch' as a common alternative",
+        "note_ar": "'sich auszeichnen durch' (يتميز بـ) كبديل شائع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3109,
+    "text": "Man tut gut daran, vorschnelle Urteile zu vermeiden.",
+    "translation_ar": "من الحكمة إننا نتجنب الأحكام المتسرعة.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 53,
+    "videoId": null,
+    "transcriptContext": "Man tut gut daran, vorschnelle Urteile zu vermeiden.",
+    "pronunciation": "مان توت گوت داران فورشنِله أورتايله تسو فِرمايدِن",
+    "words": [
+      {
+        "w": "gut daran tun",
+        "m_en": "to be well advised to",
+        "m_ar": "يكون من الحكمة أن"
+      },
+      {
+        "w": "vorschnell",
+        "m_en": "hasty/premature",
+        "m_ar": "متسرّع"
+      }
+    ],
+    "grammar_en": "'man tut gut daran, ... zu ...' is an elevated idiom for 'one would be wise to ...'.",
+    "grammar_ar": "'man tut gut daran, ... zu ...' تعبير راقٍ معناه 'من الحكمة إن الواحد ...'.",
+    "alternatives": [
+      {
+        "text": "Es ist ratsam, vorschnelle Urteile zu vermeiden.",
+        "note_en": "'es ist ratsam' as a more common alternative",
+        "note_ar": "'es ist ratsam' (يُستحسن) كبديل أكثر شيوعًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3110,
+    "text": "Die Erzählung entfaltet sich in einer fast meditativen Langsamkeit.",
+    "translation_ar": "السرد بيتكشّف بتؤدة أقرب للتأمل.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 70,
+    "videoId": null,
+    "transcriptContext": "Die Erzählung entfaltet sich in einer fast meditativen Langsamkeit.",
+    "pronunciation": "دي إرتسِلونگ إنتفالتِت زيش إن آينِر فاست ميديتاتيفِن لانگزامكايت",
+    "words": [
+      {
+        "w": "sich entfalten",
+        "m_en": "to unfold",
+        "m_ar": "يتكشّف/يتفتّح"
+      },
+      {
+        "w": "meditativ",
+        "m_en": "meditative",
+        "m_ar": "تأملي"
+      }
+    ],
+    "grammar_en": "'sich entfalten' is a literary verb evoking gradual, organic unfolding, often used in literary criticism.",
+    "grammar_ar": "'sich entfalten' فعل أدبي بيستحضر صورة التكشّف التدريجي العضوي، شائع في النقد الأدبي.",
+    "alternatives": [
+      {
+        "text": "Die Handlung entwickelt sich in einem fast meditativen Tempo.",
+        "note_en": "'sich entwickeln' as a more neutral verb",
+        "note_ar": "الفعل 'sich entwickeln' كفعل أكثر حيادية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3111,
+    "text": "Es bleibt ein Rätsel, weshalb die Warnungen so lange ungehört blieben.",
+    "translation_ar": "لسه سر ليه التحذيرات فضلت متجاهلة لمدة طويلة.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 87,
+    "videoId": null,
+    "transcriptContext": "Es bleibt ein Rätsel, weshalb die Warnungen so lange ungehört blieben.",
+    "pronunciation": "إس بلايبت آين رِتسِل ڤِسهالب دي فارنونگِن زو لانگه أونگِهورت بليبِن",
+    "words": [
+      {
+        "w": "das Rätsel",
+        "m_en": "mystery/riddle",
+        "m_ar": "لغز"
+      },
+      {
+        "w": "ungehört",
+        "m_en": "unheeded",
+        "m_ar": "متجاهل/غير مسموع"
+      }
+    ],
+    "grammar_en": "'weshalb' is a formal synonym for 'warum' (why), common in written/literary style.",
+    "grammar_ar": "'weshalb' مرادف رسمي لـ 'warum' (ليه)، شائع في الأسلوب المكتوب والأدبي.",
+    "alternatives": [
+      {
+        "text": "Es ist unklar, warum die Warnungen so lange ignoriert wurden.",
+        "note_en": "Plainer phrasing with 'ignoriert' and 'warum'",
+        "note_ar": "صياغة أبسط بفعل 'ignoriert' وأداة 'warum'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3112,
+    "text": "Die Kontroverse legt tief verwurzelte Ressentiments offen.",
+    "translation_ar": "الجدل بيكشف عن استياءات متجذرة بعمق.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 104,
+    "videoId": null,
+    "transcriptContext": "Die Kontroverse legt tief verwurzelte Ressentiments offen.",
+    "pronunciation": "دي كونتروفِرزه ليگت تيف فِرفورتسِلته رِسِنتيمِنتس أوفِن",
+    "words": [
+      {
+        "w": "offenlegen",
+        "m_en": "to expose/reveal",
+        "m_ar": "يكشف عن"
+      },
+      {
+        "w": "das Ressentiment",
+        "m_en": "resentment",
+        "m_ar": "استياء/ضغينة"
+      }
+    ],
+    "grammar_en": "'tief verwurzelt' (deeply rooted) is a common collocation for entrenched attitudes.",
+    "grammar_ar": "'tief verwurzelt' (متجذر بعمق) تعبير شائع للمواقف الراسخة.",
+    "alternatives": [
+      {
+        "text": "Die Kontroverse zeigt tief sitzende Ressentiments.",
+        "note_en": "'tief sitzend' as an equally vivid alternative",
+        "note_ar": "'tief sitzend' (راسخ بعمق) كبديل حيوي بنفس القدر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3113,
+    "text": "Sein Standpunkt lässt sich kaum mit den vorliegenden Fakten in Einklang bringen.",
+    "translation_ar": "موقفه بالكاد يتماشى مع الحقائق المتاحة.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 121,
+    "videoId": null,
+    "transcriptContext": "Sein Standpunkt lässt sich kaum mit den vorliegenden Fakten in Einklang bringen.",
+    "pronunciation": "زاين شتاندپونكت لِست زيش كاوم ميت دين فورليگِندِن فاكتِن إن آينكلانگ برينگِن",
+    "words": [
+      {
+        "w": "in Einklang bringen",
+        "m_en": "to reconcile/align",
+        "m_ar": "يوفّق بين"
+      },
+      {
+        "w": "vorliegend",
+        "m_en": "available/at hand",
+        "m_ar": "متاح/موجود حاليًا"
+      }
+    ],
+    "grammar_en": "'in Einklang bringen mit' is a formal idiom meaning 'to reconcile with'.",
+    "grammar_ar": "'in Einklang bringen mit' تعبير اصطلاحي رسمي معناه 'يوفّق بين شيء وآخر'.",
+    "alternatives": [
+      {
+        "text": "Sein Standpunkt passt kaum zu den vorliegenden Fakten.",
+        "note_en": "Simpler verb 'passen zu' instead of the idiom",
+        "note_ar": "فعل أبسط 'passen zu' (يتناسب مع) بدل التعبير الاصطلاحي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3114,
+    "text": "Die Ambivalenz der Figur macht den Roman so vielschichtig.",
+    "translation_ar": "ازدواجية الشخصية هي اللي بتخلي الرواية معقدة ومتعددة الطبقات.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 138,
+    "videoId": null,
+    "transcriptContext": "Die Ambivalenz der Figur macht den Roman so vielschichtig.",
+    "pronunciation": "دي آمبيفالِنتس دِر فيگور ماخت دين رومان زو فيلشيشتيگ",
+    "words": [
+      {
+        "w": "die Ambivalenz",
+        "m_en": "ambivalence",
+        "m_ar": "ازدواجية/تناقض داخلي"
+      },
+      {
+        "w": "vielschichtig",
+        "m_en": "multi-layered",
+        "m_ar": "متعدد الطبقات"
+      }
+    ],
+    "grammar_en": "'vielschichtig' is a compound adjective ('viel' + 'schichtig') common in literary criticism.",
+    "grammar_ar": "'vielschichtig' صفة مركبة ('viel' + 'schichtig') شائعة في النقد الأدبي.",
+    "alternatives": [
+      {
+        "text": "Die Ambivalenz der Figur verleiht dem Roman Tiefe.",
+        "note_en": "'verleiht Tiefe' (lends depth) as an alternative phrasing",
+        "note_ar": "'verleiht Tiefe' (يمنح عمقًا) كصياغة بديلة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3115,
+    "text": "Es entbehrt nicht einer gewissen Ironie, dass ausgerechnet er diese Frage aufwirft.",
+    "translation_ar": "فيه سخرية معينة في إن هو بالذات اللي بيثير السؤال ده.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 155,
+    "videoId": null,
+    "transcriptContext": "Es entbehrt nicht einer gewissen Ironie, dass ausgerechnet er diese Frage aufwirft.",
+    "pronunciation": "إس إنتبيرت نيشت آينِر گِفيسِن إيروني داس آوسگِرِشنِت إير ديزِه فراگِه آوففيرفت",
+    "words": [
+      {
+        "w": "ausgerechnet",
+        "m_en": "of all people/things",
+        "m_ar": "بالذات/تحديدًا"
+      },
+      {
+        "w": "aufwerfen",
+        "m_en": "to raise (a question)",
+        "m_ar": "يثير"
+      }
+    ],
+    "grammar_en": "'ausgerechnet' emphasizes irony by singling someone/something out unexpectedly.",
+    "grammar_ar": "'ausgerechnet' بتأكد على السخرية من خلال تحديد شخص أو شيء بشكل غير متوقع.",
+    "alternatives": [
+      {
+        "text": "Es ist schon ironisch, dass gerade er diese Frage stellt.",
+        "note_en": "Plainer phrasing with 'ironisch' and 'gerade'",
+        "note_ar": "صياغة أبسط بكلمة 'ironisch' وأداة 'gerade'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3116,
+    "text": "Die Zäsur markiert einen Wendepunkt in der politischen Landschaft.",
+    "translation_ar": "الفاصلة التاريخية دي بتمثل نقطة تحول في المشهد السياسي.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 172,
+    "videoId": null,
+    "transcriptContext": "Die Zäsur markiert einen Wendepunkt in der politischen Landschaft.",
+    "pronunciation": "دي تسِزور ماركيرت آينِن ڤِندِپونكت إن دِر پوليتيشِن لانتشافت",
+    "words": [
+      {
+        "w": "die Zäsur",
+        "m_en": "turning point/caesura",
+        "m_ar": "فاصلة/نقطة فارقة"
+      },
+      {
+        "w": "die politische Landschaft",
+        "m_en": "the political landscape",
+        "m_ar": "المشهد السياسي"
+      }
+    ],
+    "grammar_en": "'Zäsur' is a high-register literary/historical term for a decisive break or turning point.",
+    "grammar_ar": "'Zäsur' مصطلح أدبي/تاريخي رفيع المستوى لنقطة فاصلة أو تحول حاسم.",
+    "alternatives": [
+      {
+        "text": "Dieses Ereignis markiert einen Wendepunkt in der Politik.",
+        "note_en": "'Ereignis' (event) as a plainer alternative to 'Zäsur'",
+        "note_ar": "'Ereignis' (حدث) كبديل أبسط لكلمة 'Zäsur'"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3117,
+    "text": "Der Diskurs oszilliert zwischen akademischer Distanz und persönlichem Engagement.",
+    "translation_ar": "الخطاب بيتأرجح بين المسافة الأكاديمية والانخراط الشخصي.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 189,
+    "videoId": null,
+    "transcriptContext": "Der Diskurs oszilliert zwischen akademischer Distanz und persönlichem Engagement.",
+    "pronunciation": "دِر ديسكورس أوسيليرت تسفيشِن آكادِميشِر ديستانس أونت پِرزونليشِم إنگاژِمِنت",
+    "words": [
+      {
+        "w": "oszillieren",
+        "m_en": "to oscillate",
+        "m_ar": "يتأرجح"
+      },
+      {
+        "w": "das Engagement",
+        "m_en": "engagement/commitment",
+        "m_ar": "انخراط/التزام"
+      }
+    ],
+    "grammar_en": "'oszillieren' is a loanword from physics used metaphorically in academic/literary discourse.",
+    "grammar_ar": "'oszillieren' كلمة مأخوذة من الفيزياء بتُستخدم مجازيًا في الخطاب الأكاديمي والأدبي.",
+    "alternatives": [
+      {
+        "text": "Der Diskurs schwankt zwischen akademischer Distanz und persönlichem Engagement.",
+        "note_en": "'schwanken' (to waver) as a slightly plainer verb",
+        "note_ar": "الفعل 'schwanken' (يتذبذب) كفعل أبسط شوية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3118,
+    "text": "Es fällt schwer, sich der Sogwirkung dieser Erzählung zu entziehen.",
+    "translation_ar": "صعب إن الواحد يفلت من قوة جذب السرد ده.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 206,
+    "videoId": null,
+    "transcriptContext": "Es fällt schwer, sich der Sogwirkung dieser Erzählung zu entziehen.",
+    "pronunciation": "إس فِلت شفير زيش دِر زوگفيركونگ ديزِر إرتسِلونگ تسو إنتسيهِن",
+    "words": [
+      {
+        "w": "die Sogwirkung",
+        "m_en": "pull/magnetic effect",
+        "m_ar": "قوة جذب"
+      },
+      {
+        "w": "sich entziehen",
+        "m_en": "to escape/evade",
+        "m_ar": "يفلت من"
+      }
+    ],
+    "grammar_en": "'die Sogwirkung' is a vivid metaphor comparing narrative pull to a physical undertow.",
+    "grammar_ar": "'die Sogwirkung' استعارة قوية بتشبّه جاذبية السرد بتيار مائي جارف.",
+    "alternatives": [
+      {
+        "text": "Es ist schwer, sich dem Bann dieser Geschichte zu entziehen.",
+        "note_en": "'der Bann' (spell/enchantment) as an alternative metaphor",
+        "note_ar": "'der Bann' (السحر/التأثير الآسر) كاستعارة بديلة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3119,
+    "text": "Die Argumentationslinie erweist sich bei genauerem Hinsehen als brüchig.",
+    "translation_ar": "خط الحجة بيتضح إنه هش لما نبص عليه بدقة أكتر.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 223,
+    "videoId": null,
+    "transcriptContext": "Die Argumentationslinie erweist sich bei genauerem Hinsehen als brüchig.",
+    "pronunciation": "دي آرگومِنتاتسيونسلينيه إرفايست زيش باي گِناوِرِم هينزيهِن الس بروشيگ",
+    "words": [
+      {
+        "w": "die Argumentationslinie",
+        "m_en": "line of argument",
+        "m_ar": "خط الحجة"
+      },
+      {
+        "w": "brüchig",
+        "m_en": "fragile/shaky",
+        "m_ar": "هش"
+      }
+    ],
+    "grammar_en": "'bei genauerem Hinsehen' (upon closer inspection) introduces a critical re-evaluation.",
+    "grammar_ar": "'bei genauerem Hinsehen' (عند النظر بدقة أكتر) بتقدّم إعادة تقييم نقدية.",
+    "alternatives": [
+      {
+        "text": "Bei näherer Betrachtung zeigt sich die Argumentation als schwach.",
+        "note_en": "'bei näherer Betrachtung' as a near-synonym opening",
+        "note_ar": "'bei näherer Betrachtung' (عند التمعن) كمرادف قريب للبداية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 3120,
+    "text": "Ein nüchterner Blick auf die Fakten relativiert die anfängliche Euphorie.",
+    "translation_ar": "نظرة واقعية للحقائق بتخفف من الحماس المبدئي.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "DE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (DE)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Ein nüchterner Blick auf die Fakten relativiert die anfängliche Euphorie.",
+    "pronunciation": "آين نوشتِرنِر بليك آوف دي فاكتِن رِلاتيفيرت دي آنفِنگليشِه أويفوريه",
+    "words": [
+      {
+        "w": "nüchtern",
+        "m_en": "sober/realistic",
+        "m_ar": "واقعي/رصين"
+      },
+      {
+        "w": "relativieren",
+        "m_en": "to put into perspective",
+        "m_ar": "يخفف من/يضع في سياقه"
+      }
+    ],
+    "grammar_en": "'relativieren' is a formal verb meaning to qualify or temper an initial impression.",
+    "grammar_ar": "'relativieren' فعل رسمي معناه 'يخفف من/يضع في منظوره الصحيح'.",
+    "alternatives": [
+      {
+        "text": "Ein realistischer Blick dämpft die anfängliche Begeisterung.",
+        "note_en": "'dämpfen' (to dampen) as a vivid alternative verb",
+        "note_ar": "الفعل 'dämpfen' (يخمد/يخفف) كبديل حيوي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
   }
 ]
