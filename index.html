@@ -1836,7 +1836,8 @@ function renderResults(){
       if(!s) return;
       const action = el.dataset.action;
       if(action==='save') saveFavorite(s);
-      else openDetail(s, action==='practice' ? 'practice' : 'watch');
+      else if(action==='play') speak(s.text);
+      else openDetail(s, 'practice');
     });
     el.addEventListener('keydown', (e)=>{ if(e.key==='Enter') el.click(); });
   });
@@ -1864,7 +1865,8 @@ function renderSimilar(){
       if(!s) return;
       const action = el.dataset.action;
       if(action==='save') saveFavorite(s);
-      else openDetail(s, action==='practice' ? 'practice' : 'watch');
+      else if(action==='play') speak(s.text);
+      else openDetail(s, 'practice');
     });
   });
 }
@@ -1889,7 +1891,9 @@ function renderFavorites(){
       const id = Number(el.dataset.id);
       if(el.dataset.action==='remove'){ removeFavorite(id); return; }
       const s = DEMO_SENTENCES.find(x=>x.id === id);
-      if(s) openDetail(s, el.dataset.action==='practice' ? 'practice' : 'watch');
+      if(!s) return;
+      if(el.dataset.action==='play'){ speak(s.text); return; }
+      openDetail(s, 'practice');
     });
   });
 }
