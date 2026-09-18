@@ -341,6 +341,12 @@ section{padding:36px 0;}
 .audio-wave span:nth-child(4n){animation-delay:.36s;}
 @keyframes waveBounce{0%,100%{height:7px;} 50%{height:26px;}}
 .audio-caption{color:#C9CFDA; font-size:.76rem; margin-top:12px; text-align:center;}
+.audio-repeat-controls{display:flex; align-items:center; gap:14px; margin-top:16px; flex-wrap:wrap; justify-content:center;}
+.audio-repeat-field{display:flex; align-items:center; gap:6px; font-size:.76rem; color:#C9CFDA;}
+.audio-repeat-field select{
+  background:rgba(255,255,255,.08); color:inherit; border:1px solid rgba(255,255,255,.18);
+  border-radius:6px; padding:3px 6px; font-size:.78rem; cursor:pointer;
+}
 .timestamp-line{display:flex; align-items:center; gap:10px; font-size:.85rem; color:var(--ink-soft); margin-top:6px;}
 .timestamp-line .time{font-family:monospace; background:var(--surface-alt); padding:2px 7px; border-radius:4px; font-size:.78rem;}
 
@@ -740,6 +746,7 @@ const I18N = {
     speechNotSupported:"Speech recognition isn't supported in this browser.",
     reSearch:"Search again", removeHistory:"Remove", removeFav:"Remove",
     matchLabel:"Match", secBefore:"starts 2–3s before the sentence for context",
+    repeatCountLabel:"Repeat", repeatGapLabel:"Gap", timesUnit:"×", secUnit:"s", speedLabel:"Speed",
   },
   ar: {
     logoAria:"الصفحة الرئيسية لسنتنس-جليش",
@@ -784,6 +791,7 @@ const I18N = {
     speechNotSupported:"التعرف على الصوت غير مدعوم في هذا المتصفح.",
     reSearch:"ابحث مرة أخرى", removeHistory:"حذف", removeFav:"حذف",
     matchLabel:"تطابق", secBefore:"يبدأ قبل الجملة بـ ٢-٣ ثوانٍ ليعطيك السياق",
+    repeatCountLabel:"التكرار", repeatGapLabel:"الفاصل الزمني", timesUnit:"مرة", secUnit:"ث", speedLabel:"السرعة",
   }
   ,de: {
     "logoAria":"SentenceGlish Startseite",
@@ -868,7 +876,12 @@ const I18N = {
     "removeHistory":"Entfernen",
     "removeFav":"Entfernen",
     "matchLabel":"Übereinstimmung",
-    "secBefore":"beginnt 2–3s vor dem Satz für Kontext"
+    "secBefore":"beginnt 2–3s vor dem Satz für Kontext",
+    "repeatCountLabel":"Wiederholen",
+    "repeatGapLabel":"Pause",
+    "timesUnit":"×",
+    "secUnit":"s",
+    "speedLabel":"Tempo"
   }
 };
 
@@ -1975,11 +1988,44 @@ function hideSuggestions(){ document.getElementById('suggestionsBox').classList.
 /* DETAIL PANEL / PLAYER                                                   */
 /* ---------------------------------------------------------------------- */
 function buildAudioStageHtml(s){
+  const counts = [1,2,3,5];
+  const gaps = [0,1,2,3,5];
+  const speeds = [0.75,1,1.25];
   return `<div class="audio-stage">
       <button type="button" class="audio-play-btn" aria-label="${t('play')}">▶</button>
       <div class="audio-wave">${'<span></span>'.repeat(9)}</div>
       <div class="audio-caption">${escapeHtml(s.speaker)} · ${escapeHtml(s.channel)}</div>
+      <div class="audio-repeat-controls">
+        <label class="audio-repeat-field">
+          <span>${t('repeatCountLabel')}</span>
+          <select class="audio-repeat-count">
+            ${counts.map(c=>`<option value="${c}">${c}${t('timesUnit')}</option>`).join('')}
+          </select>
+        </label>
+        <label class="audio-repeat-field">
+          <span>${t('repeatGapLabel')}</span>
+          <select class="audio-repeat-gap">
+            ${gaps.map(g=>`<option value="${g}">${g}${t('secUnit')}</option>`).join('')}
+          </select>
+        </label>
+        <label class="audio-repeat-field">
+          <span>${t('speedLabel')}</span>
+          <select class="audio-speed">
+            ${speeds.map(sp=>`<option value="${sp}">${sp}×</option>`).join('')}
+          </select>
+        </label>
+      </div>
     </div>`;
+}
+// Persisted playback settings (repeat count, gap, speed) shared across every
+// audio stage in the app, stored in localStorage under sg_audio_settings.
+function loadAudioSettings(){
+  try{
+    return Object.assign({count:1, gap:1, speed:1}, JSON.parse(localStorage.getItem('sg_audio_settings') || '{}'));
+  } catch(e){ return {count:1, gap:1, speed:1}; }
+}
+function saveAudioSettings(settings){
+  try{ localStorage.setItem('sg_audio_settings', JSON.stringify(settings)); } catch(e){}
 }
 // Renders a working audio player into containerEl. Uses speech synthesis today;
 // swap the utterance below for a real <audio> element pointing at a licensed
@@ -1993,20 +2039,55 @@ function renderAudioStage(containerEl, s, textToSpeak){
   containerEl.innerHTML = buildAudioStageHtml(s);
   const btn = containerEl.querySelector('.audio-play-btn');
   const stage = containerEl.querySelector('.audio-stage');
+  const countSel = containerEl.querySelector('.audio-repeat-count');
+  const gapSel = containerEl.querySelector('.audio-repeat-gap');
+  const speedSel = containerEl.querySelector('.audio-speed');
+
+  const settings = loadAudioSettings();
+  countSel.value = String(settings.count);
+  gapSel.value = String(settings.gap);
+  speedSel.value = String(settings.speed);
+  [countSel, gapSel, speedSel].forEach(sel=>{
+    sel.addEventListener('change', ()=>{
+      saveAudioSettings({ count:Number(countSel.value), gap:Number(gapSel.value), speed:Number(speedSel.value) });
+    });
+  });
+
+  let stopped = true;
+  let gapTimer = null;
+
+  function stopPlayback(){
+    stopped = true;
+    if(gapTimer){ clearTimeout(gapTimer); gapTimer = null; }
+    window.speechSynthesis.cancel();
+    stage.classList.remove('playing'); btn.classList.remove('playing'); btn.textContent='▶';
+  }
+
+  function playOnce(remaining){
+    if(stopped) return;
+    const u = new SpeechSynthesisUtterance(textToSpeak);
+    u.lang=targetLangCode(); u.rate=Number(speedSel.value) || 1;
+    u.onstart = ()=>{ stage.classList.add('playing'); btn.classList.add('playing'); btn.textContent='❚❚'; };
+    u.onend = ()=>{
+      if(stopped) return;
+      if(remaining > 1){
+        const gapMs = Number(gapSel.value) * 1000;
+        stage.classList.remove('playing'); btn.classList.remove('playing');
+        gapTimer = setTimeout(()=>{ if(!stopped) playOnce(remaining - 1); }, gapMs);
+      } else {
+        stopPlayback();
+      }
+    };
+    u.onerror = ()=>{ stopPlayback(); };
+    window.speechSynthesis.speak(u);
+  }
+
   btn.addEventListener('click', ()=>{
     if(!('speechSynthesis' in window)){ showToast(t('speechNotSupported')); return; }
-    if(window.speechSynthesis.speaking){
-      window.speechSynthesis.cancel();
-      stage.classList.remove('playing'); btn.classList.remove('playing'); btn.textContent='▶';
-      return;
-    }
-    const u = new SpeechSynthesisUtterance(textToSpeak);
-    u.lang=targetLangCode(); u.rate=0.95;
-    u.onstart = ()=>{ stage.classList.add('playing'); btn.classList.add('playing'); btn.textContent='❚❚'; };
-    u.onend = ()=>{ stage.classList.remove('playing'); btn.classList.remove('playing'); btn.textContent='▶'; };
-    u.onerror = ()=>{ stage.classList.remove('playing'); btn.classList.remove('playing'); btn.textContent='▶'; };
+    if(!stopped){ stopPlayback(); return; }
+    stopped = false;
     window.speechSynthesis.cancel();
-    window.speechSynthesis.speak(u);
+    playOnce(Number(countSel.value));
   });
 }
 
@@ -2305,6 +2386,47 @@ document.getElementById('learnToggle').addEventListener('click', ()=>{
   State.learnLang = otherLearnLang(State.learnLang);
   localStorage.setItem('sg_learn', State.learnLang);
   applyLearnLang();
+});
+
+/* ---------------------------------------------------------------------- */
+/* KEYBOARD SHORTCUTS — Space: play/pause current audio, Left/Right:       */
+/* previous/next sentence. Active only while the detail modal is open,     */
+/* and ignored while the user is typing in an input/textarea.              */
+/* ---------------------------------------------------------------------- */
+function currentAudioPlayBtn(){
+  const activeTab = document.querySelector('.mode-tab.active');
+  const mode = activeTab ? activeTab.dataset.mode : 'watch';
+  const containerId = mode === 'listening' ? 'listeningStage' : 'videoStage';
+  const container = document.getElementById(containerId);
+  return container ? container.querySelector('.audio-play-btn') : null;
+}
+function navigateSentence(direction){
+  const s = State.activeSentence;
+  if(!s) return;
+  const list = (State.currentResults && State.currentResults.length)
+    ? State.currentResults.map(r=>r.sentence)
+    : DEMO_SENTENCES;
+  if(!list.length) return;
+  const idx = list.findIndex(x=>x.id === s.id);
+  if(idx === -1) return;
+  const nextIdx = (idx + direction + list.length) % list.length;
+  const activeTab = document.querySelector('.mode-tab.active');
+  openDetail(list[nextIdx], activeTab ? activeTab.dataset.mode : 'watch');
+}
+document.addEventListener('keydown', (e)=>{
+  const tag = document.activeElement ? document.activeElement.tagName : '';
+  if(tag === 'INPUT' || tag === 'TEXTAREA') return;
+  if(!document.getElementById('detailOverlay').classList.contains('show')) return;
+  if(e.code === 'Space'){
+    const btn = currentAudioPlayBtn();
+    if(btn){ e.preventDefault(); btn.click(); }
+  } else if(e.key === 'ArrowRight' || e.key === 'ArrowLeft'){
+    e.preventDefault();
+    const isRtl = document.documentElement.dir === 'rtl';
+    let direction = e.key === 'ArrowRight' ? 1 : -1;
+    if(isRtl) direction *= -1; // arrows follow reading direction in RTL
+    navigateSentence(direction);
+  }
 });
 
 /* ---------------------------------------------------------------------- */
