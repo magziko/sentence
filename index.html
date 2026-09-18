@@ -173,6 +173,8 @@ section{padding:36px 0;}
 .section-head{display:flex; align-items:baseline; justify-content:space-between; gap:12px; margin-bottom:18px;}
 .section-head h2{font-size:1.3rem; font-weight:600; margin:0; letter-spacing:-.01em;}
 .section-head .sub{color:var(--ink-faint); font-size:.85rem;}
+#youglishHomeLink{text-decoration:none;}
+#youglishHomeLink:hover{text-decoration:underline;}
 
 /* ---------- Sentence of the Day ---------- */
 .sotd-card{
@@ -505,7 +507,7 @@ footer .wrap{display:flex; flex-wrap:wrap; gap:10px; justify-content:space-betwe
 
     <div class="section-head">
       <h2 data-i18n="realVideoExamples">Real Video Examples</h2>
-      <span class="sub" data-i18n="poweredByYouglish">Powered by YouGlish.com</span>
+      <a class="sub" id="youglishHomeLink" data-i18n="poweredByYouglish" href="https://youglish.com/" target="_blank" rel="noopener">Powered by YouGlish.com</a>
     </div>
     <div class="youglish-panel">
       <div class="youglish-mount" id="youglishMount"></div>
@@ -1420,6 +1422,20 @@ let ygWidget = null;
 const VARIETY_TO_ACCENT = { US:'us', GB:'uk', AU:'aus', CA:'ca' };
 function targetLangCode(){ return State.learnLang==='de' ? 'de-DE' : 'en-US'; }
 
+/* Builds the link to the real YouGlish website that matches both the UI
+   language (subdomain, e.g. ar./de.) and the language being learned
+   (path, e.g. /german — English lives at the root path). */
+const YG_UI_PREFIX = { en:'', ar:'ar.', de:'de.' };
+function youglishHomeUrl(){
+  const prefix = YG_UI_PREFIX[State.lang] || '';
+  const path = State.learnLang==='de' ? 'german' : '';
+  return `https://${prefix}youglish.com/${path}`;
+}
+function updateYouglishHomeLink(){
+  const a = document.getElementById('youglishHomeLink');
+  if(a) a.href = youglishHomeUrl();
+}
+
 function whenYouglishReady(cb){
   if(window.YG && window.YG.Widget){ cb(); return; }
   const prevCb = window.onYouglishAPIReady;
@@ -2217,6 +2233,7 @@ function applyLanguage(){
     el.setAttribute('placeholder', t(el.dataset.i18nPlaceholder));
   });
   document.getElementById('searchInput').placeholder = LEARN_PLACEHOLDERS[State.learnLang];
+  updateYouglishHomeLink();
   renderExamples();
   renderSituations();
   renderSotd();
@@ -2242,6 +2259,7 @@ function applyLearnLang(){
   document.getElementById('learnToggle').textContent = LEARN_LABELS[otherLearnLang(State.learnLang)];
   document.getElementById('searchInput').placeholder = LEARN_PLACEHOLDERS[State.learnLang];
   document.getElementById('searchInput').value = '';
+  updateYouglishHomeLink();
   State.favorites = JSON.parse(localStorage.getItem('sg_favorites_' + State.learnLang) || '[]');
   State.history = JSON.parse(localStorage.getItem('sg_history_' + State.learnLang) || '[]');
   State.currentQuery=''; State.currentResults=[]; State.currentSimilar=[]; State.activeSentence=null;
