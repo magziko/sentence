@@ -868,91 +868,6 @@ const I18N = {
     "matchLabel":"Übereinstimmung",
     "secBefore":"beginnt 2–3s vor dem Satz für Kontext"
   }
-  ,fr: {
-    "logoAria":"Accueil SentenceGlish",
-    "heroTitle":"Apprends l'anglais avec de vraies phrases",
-    "heroTagline":"Cherche une phrase complète et écoute comment de vraies personnes l'utilisent.",
-    "searchPlaceholder":"I wanted to let you know that we have a problem with the system.",
-    "searchBtn":"Rechercher",
-    "tryExamples":"Essaie ces exemples :",
-    "yourSentence":"Ta phrase",
-    "level":"Niveau",
-    "variety":"Variante",
-    "noResultsHeadline":"Nous n'avons pas trouvé cette phrase exacte.",
-    "noResultsSub":"Voici les phrases les plus proches que nous avons trouvées.",
-    "realExamples":"Phrases d'entraînement",
-    "realVideoExamples":"Vrais exemples vidéo",
-    "poweredByYouglish":"Propulsé par YouGlish.com",
-    "youglishLegal":"Ce panneau intègre YouGlish, qui utilise de vraies vidéos YouTube. Lire une vidéo peut déposer des cookies de YouGlish et de YouTube/Google.",
-    "youglishNoResults":"YouGlish n'a pas trouvé de vraie vidéo pour cette phrase exacte — essaie une expression plus courte.",
-    "similarSentences":"Phrases similaires",
-    "sotdTitle":"Phrase du jour",
-    "sotdEyebrow":"Phrase d'aujourd'hui",
-    "listen":"Écouter",
-    "practice":"S'entraîner",
-    "save":"Enregistrer",
-    "repeat":"Répéter",
-    "situationsTitle":"S'entraîner par situation",
-    "situationsSub":"Choisis un contexte réel",
-    "mySentences":"Mes phrases",
-    "recentSearches":"Recherches récentes",
-    "footerTag":"apprends l'anglais une vraie phrase à la fois",
-    "footerDemo":"Version de démonstration · données d'exemple",
-    "sentenceDetails":"Détails de la phrase",
-    "tabWatch":"Regarder",
-    "tabPractice":"S'entraîner",
-    "tabListening":"Compréhension orale",
-    "transcript":"Transcription",
-    "meaning":"Signification",
-    "naturalPronunciation":"Prononciation naturelle",
-    "importantWords":"Mots importants",
-    "grammar":"Grammaire",
-    "alternatives":"Formulations alternatives",
-    "openYoutube":"Ouvrir sur YouTube",
-    "hideSentence":"Masquer la phrase",
-    "showSentence":"Afficher la phrase",
-    "speakNow":"Parle maintenant...",
-    "matchCaveat":"Ceci est une vérification approximative, pas une évaluation officielle de prononciation.",
-    "whatDidYouHear":"Qu'as-tu entendu ?",
-    "typeWhatYouHeard":"Tape la phrase que tu as entendue...",
-    "play":"Lire",
-    "checkAnswer":"Vérifier la réponse",
-    "emptyFavorites":"Aucune phrase enregistrée pour l'instant. Appuie sur ⭐ Enregistrer sur une phrase pour la garder ici.",
-    "emptyHistory":"Tes recherches récentes apparaîtront ici.",
-    "goodMatch":"Bonne correspondance",
-    "tryAgain":"Réessayer",
-    "correct":"Correct",
-    "notQuite":"Pas tout à fait — compare les deux phrases ci-dessous.",
-    "allLevels":"Tous les niveaux",
-    "allVarieties":"Tous",
-    "quizTitle":"Quiz interactif",
-    "quizSub":"Teste ta compréhension par niveau",
-    "quizLevelLabel":"Choisis un niveau",
-    "startQuiz":"Démarrer le quiz",
-    "quizIntro":"Choisis un niveau et lance un quiz de cinq questions.",
-    "quizAllLevels":"Tous les niveaux",
-    "quizQuestion":"Que signifie cette phrase ?",
-    "quizQuestionCount":"Question",
-    "quizNext":"Question suivante",
-    "quizRestart":"Recommencer",
-    "quizScore":"Ton score",
-    "quizCorrect":"Correct !",
-    "quizWrong":"Pas tout à fait.",
-    "quizResult":"Tu as terminé le quiz.",
-    "quizNoData":"Il n'y a pas encore assez de phrases pour ce niveau.",
-    "us":"Américain",
-    "gb":"Britannique",
-    "au":"Australien",
-    "ca":"Canadien",
-    "demoNoVideo":"Mode démo — pas encore de vidéo autorisée pour cette phrase.",
-    "demoNoVideoSub":"Connecte l'API YouTube Data dans searchYouTubeSentences() pour lire de vrais extraits ici.",
-    "speechNotSupported":"La reconnaissance vocale n'est pas prise en charge par ce navigateur.",
-    "reSearch":"Rechercher à nouveau",
-    "removeHistory":"Retirer",
-    "removeFav":"Retirer",
-    "matchLabel":"Correspondance",
-    "secBefore":"commence 2–3s avant la phrase pour le contexte"
-  }
 };
 
 /* ---------------------------------------------------------------------- */
@@ -1004,7 +919,6 @@ const ADVANCED_SITUATION_ITEMS = {"cooking":[{"en":"B1 · Asking about a topic i
 let DEMO_SENTENCES = [];
 let DEMO_SENTENCES_EN = [];
 let DEMO_SENTENCES_DE = [];
-let DEMO_SENTENCES_FR = [];
 async function fetchJson(url){
   try{
     const res = await fetch(url);
@@ -1015,27 +929,19 @@ async function fetchJson(url){
     return [];
   }
 }
-function datasetForLearnLang(lang){
-  if(lang==='de') return DEMO_SENTENCES_DE;
-  if(lang==='fr') return DEMO_SENTENCES_FR;
-  return DEMO_SENTENCES_EN;
-}
 async function loadSentences(){
-  [DEMO_SENTENCES_EN, DEMO_SENTENCES_DE, DEMO_SENTENCES_FR] = await Promise.all([
+  [DEMO_SENTENCES_EN, DEMO_SENTENCES_DE] = await Promise.all([
     fetchJson('sentences.json'),
-    fetchJson('sentences_de.json'),
-    fetchJson('sentences_fr.json')
+    fetchJson('sentences_de.json')
   ]);
-  DEMO_SENTENCES = datasetForLearnLang(State.learnLang);
+  DEMO_SENTENCES = State.learnLang==='de' ? DEMO_SENTENCES_DE : DEMO_SENTENCES_EN;
 }
-/* Looks up the target-language search text for a situation prompt, provided
-   directly on each item as q_de / q_fr (see the DE_SITUATIONS / FR_SITUATIONS
-   merges below). Falls back to the English prompt when a prompt has no
-   version yet in that language (coverage is still growing). */
+/* Looks up the German search text for a situation prompt, now provided directly
+   on each item as q_de (see the DE_SITUATIONS merge below). Falls back to the
+   English prompt only in the rare case a prompt has no German version. */
 function situationQuery(item){
-  if(State.learnLang==='de') return item.q_de || item.q;
-  if(State.learnLang==='fr') return item.q_fr || item.q;
-  return item.q;
+  if(State.learnLang!=='de') return item.q;
+  return item.q_de || item.q;
 }
 
 const SITUATIONS = {
@@ -1514,11 +1420,7 @@ function findSimilarSentences(query, pool, limit){
 /* ---------------------------------------------------------------------- */
 let ygWidget = null;
 const VARIETY_TO_ACCENT = { US:'us', GB:'uk', AU:'aus', CA:'ca' };
-function targetLangCode(){
-  if(State.learnLang==='de') return 'de-DE';
-  if(State.learnLang==='fr') return 'fr-FR';
-  return 'en-US';
-}
+function targetLangCode(){ return State.learnLang==='de' ? 'de-DE' : 'en-US'; }
 
 function whenYouglishReady(cb){
   if(window.YG && window.YG.Widget){ cb(); return; }
@@ -1557,9 +1459,8 @@ function initYouglishWidget(){
 function fetchYouglish(query){
   document.getElementById('youglishNote').textContent = '';
   if(!ygWidget){ initYouglishWidget(); return; } // will auto-fetch once ready
-  const YG_LANG = { de:'german', fr:'french' };
-  const ygLang = YG_LANG[State.learnLang] || 'english';
-  const accent = State.learnLang==='en' ? VARIETY_TO_ACCENT[State.variety] : null;
+  const ygLang = State.learnLang==='de' ? 'german' : 'english';
+  const accent = State.learnLang==='de' ? null : VARIETY_TO_ACCENT[State.variety];
   if(accent) ygWidget.fetch(query, ygLang, accent);
   else ygWidget.fetch(query, ygLang);
 }
@@ -1757,54 +1658,14 @@ const EXAMPLES_DE = [
   "Lass mich das für dich überprüfen.",
   "Können wir für morgen ein Meeting ansetzen?"
 ];
-const EXAMPLES_FR = [
-  "Pourriez-vous m'envoyer le rapport, s'il vous plaît ?",
-  "Je vous recontacterai dès que possible.",
-  "Je comprends tout à fait votre inquiétude.",
-  "Laissez-moi vérifier cela pour vous.",
-  "Pouvons-nous organiser une réunion pour demain ?"
-];
 const LEARN_PLACEHOLDERS = {
   en: "I wanted to let you know that we have a problem with the system.",
-  de: "Ich habe mich gefragt, ob du mir die aktualisierten Zahlen schicken könntest.",
-  fr: "Je voulais vous informer que nous avons un problème avec le système."
+  de: "Ich habe mich gefragt, ob du mir die aktualisierten Zahlen schicken könntest."
 };
-/* Name of the language being learned, worded correctly (with article, where
-   needed) in each interface language — used to keep heroTitle/footerTag
-   truthful when learnLang isn't English. */
-const LEARN_LANG_NAME = {
-  en: { en:'English', ar:'الإنجليزية', de:'Englisch', fr:"l'anglais" },
-  de: { en:'German',  ar:'الألمانية',  de:'Deutsch',  fr:"l'allemand" },
-  fr: { en:'French',  ar:'الفرنسية',  de:'Französisch', fr:'le français' }
-};
-const HERO_TITLE_TMPL = {
-  en:"Learn {LANG} from Real Sentences",
-  ar:"تعلّم {LANG} من جُمل حقيقية",
-  de:"Lerne {LANG} mit echten Sätzen",
-  fr:"Apprends {LANG} avec de vraies phrases"
-};
-const FOOTER_TAG_TMPL = {
-  en:"learn {LANG} one real sentence at a time",
-  ar:"تعلّم {LANG} جملة حقيقية في كل مرة",
-  de:"lerne {LANG} einen echten Satz nach dem anderen",
-  fr:"apprends {LANG} une vraie phrase à la fois"
-};
-/* Re-applies heroTitle/footerTag with the correct learnLang name substituted
-   in. Called whenever the UI language OR the learning language changes. */
-function updateLearnLangText(){
-  const langName = (LEARN_LANG_NAME[State.learnLang] && LEARN_LANG_NAME[State.learnLang][State.lang]) || LEARN_LANG_NAME.en[State.lang] || LEARN_LANG_NAME.en.en;
-  const titleTmpl = HERO_TITLE_TMPL[State.lang] || HERO_TITLE_TMPL.en;
-  const footerTmpl = FOOTER_TAG_TMPL[State.lang] || FOOTER_TAG_TMPL.en;
-  const titleEl = document.querySelector('[data-i18n="heroTitle"]');
-  const footerEl = document.querySelector('[data-i18n="footerTag"]');
-  if(titleEl) titleEl.textContent = titleTmpl.replace('{LANG}', langName);
-  if(footerEl) footerEl.textContent = footerTmpl.replace('{LANG}', langName);
-}
 
 function renderExamples(){
   const box = document.getElementById('exampleChips');
-  const EX_LISTS = { en: EXAMPLES_EN, de: EXAMPLES_DE, fr: EXAMPLES_FR };
-  const list = EX_LISTS[State.learnLang] || EXAMPLES_EN;
+  const list = State.learnLang==='de' ? EXAMPLES_DE : EXAMPLES_EN;
   box.innerHTML = list.map(ex=>`<button type="button" class="chip" data-ex="${escapeHtml(ex)}">${escapeHtml(ex)}</button>`).join('');
   box.querySelectorAll('.chip').forEach(btn=>{
     btn.addEventListener('click', ()=>{
@@ -1903,12 +1764,9 @@ function browseByLevel(level){
   window.scrollTo({top: document.getElementById('results-section').offsetTop - 70, behavior:'smooth'});
 }
 function renderVarietyPills(){
-  const VARIETY_SETS = {
-    de: [['all', t('allVarieties'),'🌍'],['DE','Deutschland','🇩🇪']],
-    fr: [['all', t('allVarieties'),'🌍'],['FR','France','🇫🇷']],
-    en: [['all', t('allVarieties'),'🌍'],['US', t('us'),'🇺🇸'],['GB', t('gb'),'🇬🇧'],['AU', t('au'),'🇦🇺'],['CA', t('ca'),'🇨🇦']]
-  };
-  const varieties = VARIETY_SETS[State.learnLang] || VARIETY_SETS.en;
+  const varieties = State.learnLang==='de'
+    ? [['all', t('allVarieties'),'🌍'],['DE','Deutschland','🇩🇪']]
+    : [['all', t('allVarieties'),'🌍'],['US', t('us'),'🇺🇸'],['GB', t('gb'),'🇬🇧'],['AU', t('au'),'🇦🇺'],['CA', t('ca'),'🇨🇦']];
   const box = document.getElementById('varietyPills');
   box.innerHTML = varieties.map(([code,label,flag])=>
     `<button type="button" class="pill ${State.variety===code?'active':''}" data-variety="${code}">${flag} ${label}</button>`
@@ -2346,8 +2204,8 @@ document.getElementById('themeToggle').addEventListener('click', ()=>{
 });
 
 /* Language toggle */
-const LANG_CYCLE = ['en','ar','de','fr'];
-const LANG_LABELS = {en:'English', ar:'العربية', de:'Deutsch', fr:'Français'};
+const LANG_CYCLE = ['en','ar','de'];
+const LANG_LABELS = {en:'English', ar:'العربية', de:'Deutsch'};
 function nextLang(l){ return LANG_CYCLE[(LANG_CYCLE.indexOf(l)+1)%LANG_CYCLE.length]; }
 function applyLanguage(){
   const isAr = State.lang==='ar';
@@ -2357,7 +2215,6 @@ function applyLanguage(){
   document.querySelectorAll('[data-i18n]').forEach(el=>{
     el.textContent = t(el.dataset.i18n);
   });
-  updateLearnLangText();
   document.querySelectorAll('[data-i18n-placeholder]').forEach(el=>{
     el.setAttribute('placeholder', t(el.dataset.i18nPlaceholder));
   });
@@ -2378,16 +2235,14 @@ document.getElementById('langToggle').addEventListener('click', ()=>{
   applyLanguage();
 });
 
-/* Learning-language toggle — switches which sentence set (English, German
-   or French) the whole app searches, quizzes and speaks. */
-const LEARN_CYCLE = ['en','de','fr'];
-const LEARN_LABELS = { en: '🇬🇧 English', de: '🇩🇪 Deutsch', fr: '🇫🇷 Français' };
-function otherLearnLang(l){ return LEARN_CYCLE[(LEARN_CYCLE.indexOf(l)+1)%LEARN_CYCLE.length]; }
+/* Learning-language toggle — switches which sentence set (English or
+   German) the whole app searches, quizzes and speaks. */
+const LEARN_LABELS = { en: '🇬🇧 English', de: '🇩🇪 Deutsch' };
+function otherLearnLang(l){ return l==='de' ? 'en' : 'de'; }
 function applyLearnLang(){
-  DEMO_SENTENCES = datasetForLearnLang(State.learnLang);
+  DEMO_SENTENCES = State.learnLang==='de' ? DEMO_SENTENCES_DE : DEMO_SENTENCES_EN;
   document.getElementById('learnToggle').textContent = LEARN_LABELS[otherLearnLang(State.learnLang)];
   document.getElementById('searchInput').placeholder = LEARN_PLACEHOLDERS[State.learnLang];
-  updateLearnLangText();
   document.getElementById('searchInput').value = '';
   State.favorites = JSON.parse(localStorage.getItem('sg_favorites_' + State.learnLang) || '[]');
   State.history = JSON.parse(localStorage.getItem('sg_history_' + State.learnLang) || '[]');
