@@ -119,6 +119,20 @@ header.site-header{
   height:38px; padding:0 12px; border-radius:var(--radius-s); font-size:.85rem; font-weight:600;
 }
 .lang-toggle:hover{border-color:var(--accent);}
+select.lang-toggle{
+  -webkit-appearance:none; -moz-appearance:none; appearance:none; cursor:pointer;
+  font-family:inherit; line-height:1;
+  padding-inline:12px 30px;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'><path d='M1 1l4 4 4-4' fill='none' stroke='%23888' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/></svg>");
+  background-repeat:no-repeat; background-position:right 11px center; background-size:10px 6px;
+}
+[dir="rtl"] select.lang-toggle{ padding-inline:12px 30px; background-position:left 11px center; }
+.lang-field{display:flex; align-items:center; gap:6px; margin:0;}
+.lang-cap{display:inline-flex; align-items:center; gap:4px; font-size:.74rem; color:var(--ink-soft); font-weight:600; white-space:nowrap;}
+.lang-cap-ico{font-size:.95rem;}
+@media (max-width:760px){ .lang-cap-txt{display:none;} }
+select.lang-toggle:focus-visible{ outline:2px solid var(--accent); outline-offset:2px; }
+select.lang-toggle option{ background:var(--surface); color:var(--ink); }
 
 /* ---------- Hero / Search ---------- */
 .hero{padding:56px 0 28px; text-align:center;}
@@ -454,8 +468,26 @@ footer .wrap{display:flex; flex-wrap:wrap; gap:10px; justify-content:space-betwe
   <div class="header-inner">
     <a href="#top" class="logo" data-i18n-aria="logoAria" aria-label="SentenceGlish home">SentenceGlish<span class="dot">.</span></a>
     <div class="header-controls">
-      <button class="lang-toggle" id="learnToggle" type="button" title="Switch the language you're learning">🇩🇪 Deutsch</button>
-      <button class="lang-toggle" id="langToggle" type="button">العربية</button>
+      <label class="lang-field" for="learnToggle">
+        <span class="lang-cap"><span class="lang-cap-ico" aria-hidden="true">📖</span><span class="lang-cap-txt" data-i18n="learnLangLabel">I'm learning</span></span>
+      <select class="lang-toggle" id="learnToggle">
+        <option value="en">🇬🇧 English</option>
+        <option value="de">🇩🇪 Deutsch</option>
+        <option value="fr">🇫🇷 Français</option>
+        <option value="ru">🇷🇺 Русский</option>
+        <option value="it">🇮🇹 Italiano</option>
+        <option value="es">🇪🇸 Español</option>
+      </select>
+      </label>
+      <label class="lang-field" for="langToggle">
+        <span class="lang-cap"><span class="lang-cap-ico" aria-hidden="true">🌐</span><span class="lang-cap-txt" data-i18n="uiLangLabel">Site language</span></span>
+      <select class="lang-toggle" id="langToggle">
+        <option value="en">English</option>
+        <option value="ar">العربية</option>
+        <option value="de">Deutsch</option>
+        <option value="fr">Français</option>
+      </select>
+      </label>
       <button class="icon-btn" id="themeToggle" type="button" aria-label="Toggle dark mode">🌙</button>
     </div>
   </div>
@@ -724,7 +756,7 @@ const I18N = {
     listen:"Listen", practice:"Practice", save:"Save", repeat:"Repeat",
     situationsTitle:"Practice by Situation", situationsSub:"Pick a real-world context",
     mySentences:"My Sentences", recentSearches:"Recent Searches",
-    footerTag:"learn English one real sentence at a time", footerDemo:"Demo build · sample data",
+    learnLangLabel:"I'm learning", uiLangLabel:"Site language", footerTag:"learn English one real sentence at a time", footerDemo:"Demo build · sample data",
     sentenceDetails:"Sentence Details",
     tabWatch:"Watch", tabPractice:"Practice", tabListening:"Listening",
     transcript:"Transcript", meaning:"Meaning", naturalPronunciation:"Natural pronunciation",
@@ -769,7 +801,7 @@ const I18N = {
     listen:"استماع", practice:"تدريب", save:"حفظ", repeat:"كرّر",
     situationsTitle:"تدرّب حسب الموقف", situationsSub:"اختر سياقًا واقعيًا",
     mySentences:"جملي المحفوظة", recentSearches:"عمليات البحث الأخيرة",
-    footerTag:"تعلّم الإنجليزية جملة حقيقية في كل مرة", footerDemo:"نسخة تجريبية · بيانات نموذجية",
+    learnLangLabel:"أتعلّم", uiLangLabel:"لغة الموقع", footerTag:"تعلّم الإنجليزية جملة حقيقية في كل مرة", footerDemo:"نسخة تجريبية · بيانات نموذجية",
     sentenceDetails:"تفاصيل الجملة",
     tabWatch:"مشاهدة", tabPractice:"تدريب", tabListening:"استماع",
     transcript:"النص المكتوب", meaning:"المعنى", naturalPronunciation:"النطق الطبيعي",
@@ -821,6 +853,7 @@ const I18N = {
     "situationsSub":"Wähle einen realen Kontext",
     "mySentences":"Meine Sätze",
     "recentSearches":"Letzte Suchanfragen",
+    "learnLangLabel":"Ich lerne", "uiLangLabel":"Seitensprache",
     "footerTag":"lerne Englisch einen echten Satz nach dem anderen",
     "footerDemo":"Demo-Version · Beispieldaten",
     "sentenceDetails":"Satzdetails",
@@ -911,6 +944,7 @@ const I18N = {
     "situationsSub":"Choisis un contexte réel",
     "mySentences":"Mes phrases",
     "recentSearches":"Recherches récentes",
+    "learnLangLabel":"J'apprends", "uiLangLabel":"Langue du site",
     "footerTag":"apprends l'anglais une vraie phrase à la fois",
     "footerDemo":"Version de démonstration · données d'exemple",
     "sentenceDetails":"Détails de la phrase",
@@ -1025,6 +1059,9 @@ let DEMO_SENTENCES = [];
 let DEMO_SENTENCES_EN = [];
 let DEMO_SENTENCES_DE = [];
 let DEMO_SENTENCES_FR = [];
+let DEMO_SENTENCES_RU = [];
+let DEMO_SENTENCES_IT = [];
+let DEMO_SENTENCES_ES = [];
 async function fetchJson(url){
   try{
     const res = await fetch(url);
@@ -1038,13 +1075,19 @@ async function fetchJson(url){
 function datasetForLearnLang(lang){
   if(lang==='de') return DEMO_SENTENCES_DE;
   if(lang==='fr') return DEMO_SENTENCES_FR;
+  if(lang==='ru') return DEMO_SENTENCES_RU;
+  if(lang==='it') return DEMO_SENTENCES_IT;
+  if(lang==='es') return DEMO_SENTENCES_ES;
   return DEMO_SENTENCES_EN;
 }
 async function loadSentences(){
-  [DEMO_SENTENCES_EN, DEMO_SENTENCES_DE, DEMO_SENTENCES_FR] = await Promise.all([
+  [DEMO_SENTENCES_EN, DEMO_SENTENCES_DE, DEMO_SENTENCES_FR, DEMO_SENTENCES_RU, DEMO_SENTENCES_IT, DEMO_SENTENCES_ES] = await Promise.all([
     fetchJson('sentences.json'),
     fetchJson('sentences_de.json'),
-    fetchJson('sentences_fr.json')
+    fetchJson('sentences_fr.json'),
+    fetchJson('sentences_ru.json'),
+    fetchJson('sentences_it.json'),
+    fetchJson('sentences_es.json')
   ]);
   DEMO_SENTENCES = datasetForLearnLang(State.learnLang);
 }
@@ -1534,6 +1577,9 @@ const VARIETY_TO_ACCENT = { US:'us', GB:'uk', AU:'aus', CA:'ca' };
 function targetLangCode(){
   if(State.learnLang==='de') return 'de-DE';
   if(State.learnLang==='fr') return 'fr-FR';
+  if(State.learnLang==='ru') return 'ru-RU';
+  if(State.learnLang==='it') return 'it-IT';
+  if(State.learnLang==='es') return 'es-ES';
   return 'en-US';
 }
 
@@ -1541,7 +1587,7 @@ function targetLangCode(){
    language (subdomain, e.g. ar./de.) and the language being learned
    (path, e.g. /german — English lives at the root path). */
 const YG_UI_PREFIX = { en:'', ar:'ar.', de:'de.', fr:'fr.' };
-const YG_LEARN_PATH = { de:'german', fr:'french' };
+const YG_LEARN_PATH = { de:'german', fr:'french', ru:'russian', it:'italian', es:'spanish' };
 function youglishHomeUrl(){
   const prefix = YG_UI_PREFIX[State.lang] || '';
   const path = YG_LEARN_PATH[State.learnLang] || '';
@@ -1589,7 +1635,7 @@ function initYouglishWidget(){
 function fetchYouglish(query){
   document.getElementById('youglishNote').textContent = '';
   if(!ygWidget){ initYouglishWidget(); return; } // will auto-fetch once ready
-  const YG_LANG = { de:'german', fr:'french' };
+  const YG_LANG = { de:'german', fr:'french', ru:'russian', it:'italian', es:'spanish' };
   const ygLang = YG_LANG[State.learnLang] || 'english';
   const accent = State.learnLang==='en' ? VARIETY_TO_ACCENT[State.variety] : null;
   if(accent) ygWidget.fetch(query, ygLang, accent);
@@ -1796,15 +1842,39 @@ const EXAMPLES_FR = [
   "Laissez-moi vérifier cela pour vous.",
   "Pouvons-nous organiser une réunion pour demain ?"
 ];
+const EXAMPLES_RU = [
+  "Не могли бы вы отправить мне отчёт, пожалуйста?",
+  "Я свяжусь с вами как можно скорее.",
+  "Я полностью понимаю ваше беспокойство.",
+  "Позвольте мне проверить это для вас.",
+  "Можем ли мы назначить встречу на завтра?"
+];
+const EXAMPLES_IT = [
+  "Potrebbe inviarmi il rapporto, per favore?",
+  "La ricontatterò il prima possibile.",
+  "Capisco perfettamente la sua preoccupazione.",
+  "Mi lasci verificare per Lei.",
+  "Possiamo fissare una riunione per domani?"
+];
+const EXAMPLES_ES = [
+  "¿Podría enviarme el informe, por favor?",
+  "Me pondré en contacto con usted lo antes posible.",
+  "Entiendo perfectamente su preocupación.",
+  "Permítame comprobarlo por usted.",
+  "¿Podemos programar una reunión para mañana?"
+];
 const LEARN_PLACEHOLDERS = {
   en: "I wanted to let you know that we have a problem with the system.",
   de: "Ich habe mich gefragt, ob du mir die aktualisierten Zahlen schicken könntest.",
-  fr: "Je voulais vous informer que nous avons un problème avec le système."
+  fr: "Je voulais vous informer que nous avons un problème avec le système.",
+  ru: "Я хотел сообщить вам, что у нас проблема с системой.",
+  it: "Volevo informarla che abbiamo un problema con il sistema.",
+  es: "Quería informarle de que tenemos un problema con el sistema."
 };
 
 function renderExamples(){
   const box = document.getElementById('exampleChips');
-  const EX_LISTS = { en: EXAMPLES_EN, de: EXAMPLES_DE, fr: EXAMPLES_FR };
+  const EX_LISTS = { en: EXAMPLES_EN, de: EXAMPLES_DE, fr: EXAMPLES_FR, ru: EXAMPLES_RU, it: EXAMPLES_IT, es: EXAMPLES_ES };
   const list = EX_LISTS[State.learnLang] || EXAMPLES_EN;
   box.innerHTML = list.map(ex=>`<button type="button" class="chip" data-ex="${escapeHtml(ex)}">${escapeHtml(ex)}</button>`).join('');
   box.querySelectorAll('.chip').forEach(btn=>{
@@ -1907,6 +1977,9 @@ function renderVarietyPills(){
   const VARIETY_SETS = {
     de: [['all', t('allVarieties'),'🌍'],['DE','Deutschland','🇩🇪']],
     fr: [['all', t('allVarieties'),'🌍'],['FR','France','🇫🇷']],
+    ru: [['all', t('allVarieties'),'🌍'],['RU','Россия','🇷🇺']],
+    it: [['all', t('allVarieties'),'🌍'],['IT','Italia','🇮🇹']],
+    es: [['all', t('allVarieties'),'🌍'],['ES','España','🇪🇸']],
     en: [['all', t('allVarieties'),'🌍'],['US', t('us'),'🇺🇸'],['GB', t('gb'),'🇬🇧'],['AU', t('au'),'🇦🇺'],['CA', t('ca'),'🇨🇦']]
   };
   const varieties = VARIETY_SETS[State.learnLang] || VARIETY_SETS.en;
@@ -2425,7 +2498,12 @@ function applyLanguage(){
   const isAr = State.lang==='ar';
   document.documentElement.lang = State.lang;
   document.documentElement.dir = isAr ? 'rtl' : 'ltr';
-  document.getElementById('langToggle').textContent = LANG_LABELS[nextLang(State.lang)];
+  document.getElementById('langToggle').value = State.lang;
+  ['learnToggle','langToggle'].forEach((id,i)=>{
+    const el = document.getElementById(id);
+    const txt = t(i===0 ? 'learnLangLabel' : 'uiLangLabel');
+    el.title = txt; el.setAttribute('aria-label', txt);
+  });
   document.querySelectorAll('[data-i18n]').forEach(el=>{
     el.textContent = t(el.dataset.i18n);
   });
@@ -2445,26 +2523,26 @@ function applyLanguage(){
   renderHistory();
   if(State.currentQuery){ renderResults(); renderSimilar(); }
 }
-document.getElementById('langToggle').addEventListener('click', ()=>{
-  State.lang = nextLang(State.lang);
+document.getElementById('langToggle').addEventListener('change', (e)=>{
+  State.lang = e.target.value;
   localStorage.setItem('sg_lang', State.lang);
   applyLanguage();
 });
 
 /* Learning-language toggle — switches which sentence set (English or
    German) the whole app searches, quizzes and speaks. */
-const LEARN_CYCLE = ['en','de','fr'];
-const LEARN_LABELS = { en: '🇬🇧 English', de: '🇩🇪 Deutsch', fr: '🇫🇷 Français' };
+const LEARN_CYCLE = ['en','de','fr','ru','it','es'];
+const LEARN_LABELS = { en: '🇬🇧 English', de: '🇩🇪 Deutsch', fr: '🇫🇷 Français', ru: '🇷🇺 Русский', it: '🇮🇹 Italiano', es: '🇪🇸 Español' };
 function otherLearnLang(l){ return LEARN_CYCLE[(LEARN_CYCLE.indexOf(l)+1)%LEARN_CYCLE.length]; }
 
 /* Name of the language being learned, translated into the current UI
    language — used to keep the hero title and footer tag in sync with
    State.learnLang instead of always saying "English". */
 const LEARN_LANG_NAME = {
-  en: { en:'English', de:'German', fr:'French' },
-  ar: { en:'الإنجليزية', de:'الألمانية', fr:'الفرنسية' },
-  de: { en:'Englisch', de:'Deutsch', fr:'Französisch' },
-  fr: { en:"l'anglais", de:"l'allemand", fr:'le français' }
+  en: { en:'English', de:'German', fr:'French', ru:'Russian', it:'Italian', es:'Spanish' },
+  ar: { en:'الإنجليزية', de:'الألمانية', fr:'الفرنسية', ru:'الروسية', it:'الإيطالية', es:'الإسبانية' },
+  de: { en:'Englisch', de:'Deutsch', fr:'Französisch', ru:'Russisch', it:'Italienisch', es:'Spanisch' },
+  fr: { en:"l'anglais", de:"l'allemand", fr:'le français', ru:'le russe', it:"l'italien", es:"l'espagnol" }
 };
 function heroTitleText(){
   const learnName = (LEARN_LANG_NAME[State.lang] || LEARN_LANG_NAME.en)[State.learnLang];
@@ -2491,7 +2569,7 @@ function updateFooterTag(){
 
 function applyLearnLang(){
   DEMO_SENTENCES = datasetForLearnLang(State.learnLang);
-  document.getElementById('learnToggle').textContent = LEARN_LABELS[otherLearnLang(State.learnLang)];
+  document.getElementById('learnToggle').value = State.learnLang;
   document.getElementById('searchInput').placeholder = LEARN_PLACEHOLDERS[State.learnLang];
   document.getElementById('searchInput').value = '';
   updateYouglishHomeLink();
@@ -2514,8 +2592,8 @@ function applyLearnLang(){
   renderHistory();
   if(document.getElementById('quizLevel')) startQuiz();
 }
-document.getElementById('learnToggle').addEventListener('click', ()=>{
-  State.learnLang = otherLearnLang(State.learnLang);
+document.getElementById('learnToggle').addEventListener('change', (e)=>{
+  State.learnLang = e.target.value;
   localStorage.setItem('sg_learn', State.learnLang);
   applyLearnLang();
 });
@@ -2566,7 +2644,7 @@ document.addEventListener('keydown', (e)=>{
 /* ---------------------------------------------------------------------- */
 function init(){
   applyTheme();
-  document.getElementById('learnToggle').textContent = LEARN_LABELS[otherLearnLang(State.learnLang)];
+  document.getElementById('learnToggle').value = State.learnLang;
   document.getElementById('searchInput').placeholder = LEARN_PLACEHOLDERS[State.learnLang];
   applyLanguage(); // also renders examples/situations/sotd/pills/favorites/history
 }
