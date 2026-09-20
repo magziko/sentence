@@ -173,6 +173,8 @@ section{padding:36px 0;}
 .section-head{display:flex; align-items:baseline; justify-content:space-between; gap:12px; margin-bottom:18px;}
 .section-head h2{font-size:1.3rem; font-weight:600; margin:0; letter-spacing:-.01em;}
 .section-head .sub{color:var(--ink-faint); font-size:.85rem;}
+#youglishHomeLink{text-decoration:none;}
+#youglishHomeLink:hover{text-decoration:underline;}
 
 /* ---------- Sentence of the Day ---------- */
 .sotd-card{
@@ -339,6 +341,12 @@ section{padding:36px 0;}
 .audio-wave span:nth-child(4n){animation-delay:.36s;}
 @keyframes waveBounce{0%,100%{height:7px;} 50%{height:26px;}}
 .audio-caption{color:#C9CFDA; font-size:.76rem; margin-top:12px; text-align:center;}
+.audio-repeat-controls{display:flex; align-items:center; gap:14px; margin-top:16px; flex-wrap:wrap; justify-content:center;}
+.audio-repeat-field{display:flex; align-items:center; gap:6px; font-size:.76rem; color:#C9CFDA;}
+.audio-repeat-field select{
+  background:rgba(255,255,255,.08); color:inherit; border:1px solid rgba(255,255,255,.18);
+  border-radius:6px; padding:3px 6px; font-size:.78rem; cursor:pointer;
+}
 .timestamp-line{display:flex; align-items:center; gap:10px; font-size:.85rem; color:var(--ink-soft); margin-top:6px;}
 .timestamp-line .time{font-family:monospace; background:var(--surface-alt); padding:2px 7px; border-radius:4px; font-size:.78rem;}
 
@@ -457,7 +465,7 @@ footer .wrap{display:flex; flex-wrap:wrap; gap:10px; justify-content:space-betwe
 
   <!-- ===================== HERO / SEARCH ===================== -->
   <section class="hero wrap">
-    <h1 data-i18n="heroTitle">Learn English from Real Sentences</h1>
+    <h1 id="heroTitle">Learn English from Real Sentences</h1>
     <p class="tagline" data-i18n="heroTagline">Search a complete sentence and hear how real people use it.</p>
 
     <form class="search-form" id="searchForm" role="search">
@@ -505,7 +513,7 @@ footer .wrap{display:flex; flex-wrap:wrap; gap:10px; justify-content:space-betwe
 
     <div class="section-head">
       <h2 data-i18n="realVideoExamples">Real Video Examples</h2>
-      <span class="sub" data-i18n="poweredByYouglish">Powered by YouGlish.com</span>
+      <a class="sub" id="youglishHomeLink" data-i18n="poweredByYouglish" href="https://youglish.com/" target="_blank" rel="noopener">Powered by YouGlish.com</a>
     </div>
     <div class="youglish-panel">
       <div class="youglish-mount" id="youglishMount"></div>
@@ -738,6 +746,7 @@ const I18N = {
     speechNotSupported:"Speech recognition isn't supported in this browser.",
     reSearch:"Search again", removeHistory:"Remove", removeFav:"Remove",
     matchLabel:"Match", secBefore:"starts 2–3s before the sentence for context",
+    repeatCountLabel:"Repeat", repeatGapLabel:"Gap", timesUnit:"×", secUnit:"s", speedLabel:"Speed",
   },
   ar: {
     logoAria:"الصفحة الرئيسية لسنتنس-جليش",
@@ -782,6 +791,7 @@ const I18N = {
     speechNotSupported:"التعرف على الصوت غير مدعوم في هذا المتصفح.",
     reSearch:"ابحث مرة أخرى", removeHistory:"حذف", removeFav:"حذف",
     matchLabel:"تطابق", secBefore:"يبدأ قبل الجملة بـ ٢-٣ ثوانٍ ليعطيك السياق",
+    repeatCountLabel:"التكرار", repeatGapLabel:"الفاصل الزمني", timesUnit:"مرة", secUnit:"ث", speedLabel:"السرعة",
   }
   ,de: {
     "logoAria":"SentenceGlish Startseite",
@@ -866,7 +876,12 @@ const I18N = {
     "removeHistory":"Entfernen",
     "removeFav":"Entfernen",
     "matchLabel":"Übereinstimmung",
-    "secBefore":"beginnt 2–3s vor dem Satz für Kontext"
+    "secBefore":"beginnt 2–3s vor dem Satz für Kontext",
+    "repeatCountLabel":"Wiederholen",
+    "repeatGapLabel":"Pause",
+    "timesUnit":"×",
+    "secUnit":"s",
+    "speedLabel":"Tempo"
   }
 };
 
@@ -936,12 +951,13 @@ async function loadSentences(){
   ]);
   DEMO_SENTENCES = State.learnLang==='de' ? DEMO_SENTENCES_DE : DEMO_SENTENCES_EN;
 }
-/* Looks up the German search text for a situation prompt, now provided directly
-   on each item as q_de (see the DE_SITUATIONS merge below). Falls back to the
-   English prompt only in the rare case a prompt has no German version. */
+/* Looks up the German search text for a situation prompt. Falls back to the
+   English prompt when this sentence hasn't been translated into the German
+   learning set yet (coverage is still growing — see sentences_de.json). */
 function situationQuery(item){
   if(State.learnLang!=='de') return item.q;
-  return item.q_de || item.q;
+  const match = DEMO_SENTENCES_EN.find(s=>s.text===item.q);
+  return (match && match.translation_de) ? match.translation_de : item.q;
 }
 
 const SITUATIONS = {
@@ -1324,54 +1340,51 @@ const SITUATIONS = {
   }
 };
 
-/* German (de) labels + search prompts for SITUATIONS, merged in so the English/Arabic literal above stays untouched. */
+/* German (de) labels for SITUATIONS, merged in so the English/Arabic literal above stays untouched. */
 const DE_SITUATIONS = {
-  "meetings": { cat: "Meetings", items: [{"label": "Ein Meeting beginnen", "q": "Fangen wir an, oder?"}, {"label": "Eine Meinung äußern", "q": "Meiner Meinung nach sollten wir warten."}, {"label": "Zustimmen", "q": "Das ist ein guter Punkt."}, {"label": "Widersprechen", "q": "Ich sehe das etwas anders."}, {"label": "Um Klärung bitten", "q": "Könntest du klarstellen, was du meinst?"}, {"label": "Eine Idee vorstellen", "q": "Können wir für morgen ein Meeting ansetzen?"}, {"label": "Ein Meeting beenden", "q": "Kommen wir zum nächsten Thema."}] },
-  "cooking": { cat: "Kochen", items: [{"label": "Nach einer Zutat fragen", "q": "Kannst du mir bitte das Salz reichen?"}, {"label": "Schritte beschreiben", "q": "Ich schneide normalerweise zuerst die Zwiebeln."}, {"label": "Kochanweisungen geben", "q": "Lass es etwa zwanzig Minuten köcheln."}, {"label": "Über Ersatzzutaten sprechen", "q": "Dieses Rezept verlangt frisches Basilikum, aber getrocknetes funktioniert auch."}, {"label": "Einen Rat geben", "q": "An deiner Stelle würde ich den Fisch nicht zu lange braten."}, {"label": "Eine Technik erklären", "q": "Das Anbraten des Fleisches zuerst schließt den Geschmack ein."}, {"label": "Über Kochgeschirr sprechen", "q": "Würdest du dafür Gusseisen statt beschichtetem Geschirr empfehlen?"}] },
-  "sports": { cat: "Sport & Fitness", items: [{"label": "Über eine Routine sprechen", "q": "Ich gehe dreimal die Woche ins Fitnessstudio."}, {"label": "Nach einem Spiel fragen", "q": "Wer hat das Spiel gestern Abend gewonnen?"}, {"label": "Über Training sprechen", "q": "Ich trainiere für einen Halbmarathon im nächsten Monat."}, {"label": "Fitness-Ratschläge geben", "q": "Versuch dich richtig aufzuwärmen, bevor du mit dem Gewichtheben anfängst."}, {"label": "Über Leistung sprechen", "q": "Sie war zwei Saisons in Folge die beste Torschützin der Liga."}, {"label": "Über die Einstellung sprechen", "q": "Es geht nicht nur um körperliche Stärke — mentale Konzentration ist genauso wichtig."}, {"label": "Ein Team analysieren", "q": "Die Form des Teams hat sich seit der Verletzung ihres Kapitäns merklich verschlechtert."}] },
-  "environment": { cat: "Umwelt", items: [{"label": "Energie sparen", "q": "Bitte schalten Sie das Licht aus, wenn Sie gehen."}, {"label": "Recycling", "q": "Wir versuchen, zu Hause so viel wie möglich zu recyceln."}, {"label": "Über Plastiknutzung sprechen", "q": "Plastiktüten werden hier nicht mehr kostenlos ausgegeben."}, {"label": "Über öffentliche Verkehrsmittel sprechen", "q": "Die Stadt investiert in mehr öffentliche Verkehrsmittel, um Emissionen zu senken."}, {"label": "Umweltauswirkungen abwägen", "q": "Wir sollten die langfristigen Auswirkungen von Einwegplastik bedenken."}, {"label": "Über Nachhaltigkeitstrends sprechen", "q": "Immer mehr Unternehmen setzen auf nachhaltige Verpackungen."}, {"label": "Politik diskutieren", "q": "Ohne strengere Regulierung wird der Plastikmüll wahrscheinlich weiter zunehmen."}] },
-  "social-media": { cat: "Soziale Medien", items: [{"label": "Einen Beitrag teilen", "q": "Ich habe gestern ein Foto von unserer Reise gepostet."}, {"label": "Um Markierung bitten", "q": "Könntest du mich auf diesem Foto markieren?"}, {"label": "Über Bildschirmzeit sprechen", "q": "Ich versuche, abends nicht zu viel Zeit mit Scrollen zu verbringen."}, {"label": "Über einen viralen Beitrag sprechen", "q": "Dieser Beitrag ist in den letzten Tagen viral gegangen."}, {"label": "Über Interaktion sprechen", "q": "Wir sehen viel Interaktion bei der neuen Kampagne."}, {"label": "Über Privatsphäre sprechen", "q": "Es lohnt sich, vorsichtig zu sein, was man öffentlich teilt."}, {"label": "Algorithmen diskutieren", "q": "Algorithmen sind so konzipiert, dass sie Nutzer länger bei der Stange halten."}] },
-  "job-interview": { cat: "Vorstellungsgespräche", items: [{"label": "Sich vorstellen", "q": "Könnten Sie mir ein bisschen über sich erzählen?"}, {"label": "Über Erfahrung sprechen", "q": "Ich habe zwei Jahre Erfahrung in diesem Bereich."}, {"label": "Die eigene Motivation erklären", "q": "Was hat Sie dazu bewogen, sich auf diese Stelle zu bewerben?"}, {"label": "Über Stärken sprechen", "q": "Ich würde sagen, meine größte Stärke ist die Problemlösung."}, {"label": "Über Schwächen sprechen", "q": "Ein Bereich, an dem ich arbeite, ist das freie Sprechen vor Publikum."}, {"label": "Über Ziele sprechen", "q": "Wo sehen Sie sich in fünf Jahren?"}, {"label": "Fragen stellen", "q": "Haben Sie noch Fragen an uns?"}, {"label": "Über das Gehalt verhandeln", "q": "Ich würde die Gelegenheit begrüßen, über die Gehaltsspanne zu sprechen."}, {"label": "Das Gespräch beenden", "q": "Vielen Dank, dass Sie meine Bewerbung berücksichtigen."}] },
-  "support": { cat: "Vertrieb", items: [{"label": "Sich vorstellen", "q": "Könntest du mir bitte den Bericht schicken?"}, {"label": "Kundenbedürfnisse verstehen", "q": "Ich verstehe deine Sorge vollkommen."}, {"label": "Ein Produkt erklären", "q": "Lass mich das für dich überprüfen."}, {"label": "Mit Einwänden umgehen", "q": "Ich verstehe deinen Punkt, aber hier ist eine andere Sichtweise."}, {"label": "Verhandlung", "q": "Würde es dir etwas ausmachen, mir den Bericht zu schicken?"}, {"label": "Einen Verkauf abschließen", "q": "Ich melde mich so schnell wie möglich bei dir."}] },
-  "technical-support": { cat: "Technischer Support", items: [{"label": "Das Problem verstehen", "q": "Ich wollte dir Bescheid geben, dass wir ein Problem mit dem System haben."}, {"label": "Nach Informationen fragen", "q": "Könntest du klarstellen, was du meinst?"}, {"label": "Fehlersuche", "q": "Ich kümmere mich darum und melde mich bei dir."}, {"label": "Eine Lösung erklären", "q": "Lass mich das für dich überprüfen."}, {"label": "Nachfassen", "q": "Ich melde mich so schnell wie möglich bei dir."}, {"label": "Einen Support-Anruf beenden", "q": "Kommen wir zum nächsten Thema."}] },
-  "customer-service": { cat: "Kundenservice", items: [{"label": "Begrüßung", "q": "Lass mich das für dich überprüfen."}, {"label": "Sich entschuldigen", "q": "Ich verstehe deine Sorge vollkommen."}, {"label": "Mit Beschwerden umgehen", "q": "Ich verstehe deine Sorge vollkommen."}, {"label": "Nach Details fragen", "q": "Könntest du klarstellen, was du meinst?"}, {"label": "Eine Lösung anbieten", "q": "Ich melde mich so schnell wie möglich bei dir."}] },
-  "emergency": { cat: "Notfälle", items: [{"label": "Um Hilfe rufen", "q": "Bitte rufen Sie einen Krankenwagen."}, {"label": "Ein Krankenhaus finden", "q": "Wo ist das nächste Krankenhaus?"}, {"label": "Einen verlorenen Pass melden", "q": "Ich möchte einen verlorenen Pass melden."}, {"label": "Formelle Notfallanweisung", "q": "Bleiben Sie im Notfall ruhig und befolgen Sie die ausgehängten Anweisungen."}] },
-  "customer-help": { cat: "Kundenhilfe", items: [{"label": "Um Hilfe bitten", "q": "Können Sie mir bitte helfen?"}, {"label": "Einen Artikel zurückgeben", "q": "Ich möchte diesen Artikel zurückgeben."}, {"label": "Mit Empathie antworten", "q": "Ich verstehe Ihren Frust, und ich schaue, was ich tun kann."}, {"label": "Eine Lösung bewerten", "q": "Die vorgeschlagene Lösung geht nicht ausreichend auf die Unannehmlichkeiten für die Kunden ein."}] },
-  "career": { cat: "Karriere & Beruf", items: [{"label": "Den Arbeitsplatz beschreiben", "q": "Ich arbeite in einem Büro."}, {"label": "Nach einem Job suchen", "q": "Ich suche einen Teilzeitjob."}, {"label": "Erfahrung beschreiben", "q": "Ich habe wertvolle Erfahrung in der Arbeit mit internationalen Kunden gesammelt."}, {"label": "Die eigene Eignung erklären", "q": "Die Stelle würde mir die Möglichkeit bieten, meine analytischen und kommunikativen Fähigkeiten einzusetzen."}] },
-  "returns": { cat: "Rückgaben", items: [{"label": "Kleidung kaufen", "q": "Ich muss eine neue Jacke kaufen."}, {"label": "Eine andere Größe finden", "q": "Haben Sie dieses Hemd in einer größeren Größe?"}, {"label": "Einen Ersatz anfordern", "q": "Der Artikel kam beschädigt an, deshalb möchte ich einen Ersatz beantragen."}, {"label": "Eine formelle Rückerstattung anfordern", "q": "Ich wäre für eine vollständige Rückerstattung dankbar, da das Produkt die beworbenen Spezifikationen nicht erfüllt hat."}] },
-  "directions": { cat: "Nach dem Weg fragen", items: [{"label": "Eine Bushaltestelle finden", "q": "Wo ist die Bushaltestelle?"}, {"label": "Einfache Wegbeschreibung geben", "q": "Geh geradeaus und bieg bei der Bank links ab."}, {"label": "Entfernung beschreiben", "q": "Das Museum liegt in fußläufiger Entfernung zum Hauptplatz."}, {"label": "Eine Route erklären", "q": "Die schnellste Route scheint über eine weniger befahrene Nebenstraße zu führen."}] },
-  "celebrations": { cat: "Feiern", items: [{"label": "Geburtstagsgruß", "q": "Alles Gute zum Geburtstag!"}, {"label": "Jemanden einladen", "q": "Möchtest du am Samstag zu meiner Party kommen?"}, {"label": "Erfolg verkünden", "q": "Wir freuen uns, bekannt zu geben, dass das Projekt erfolgreich abgeschlossen wurde."}, {"label": "Einen Meilenstein beschreiben", "q": "Der Anlass markierte einen bedeutenden Meilenstein in der Geschichte der Organisation."}] },
-  "appointments": { cat: "Termine", items: [{"label": "Nach der Uhrzeit fragen", "q": "Um wie viel Uhr ist der Termin?"}, {"label": "Einen Termin buchen", "q": "Ich möchte gerne einen Termin für nächste Woche buchen."}, {"label": "Umbuchen", "q": "Ich muss den Termin eventuell verschieben, weil sich etwas mit meinem Kalender überschneidet."}, {"label": "Formelle Empfehlung", "q": "Angesichts der Umstände wäre es das Sinnvollste, die Beratung zu verschieben."}] },
-  "weather": { cat: "Wetter", items: [{"label": "Das Wetter beschreiben", "q": "Heute ist es sonnig."}, {"label": "Eine Vorhersage prüfen", "q": "Denkst du, dass es später regnen wird?"}, {"label": "Die Prognose weitergeben", "q": "Der Wetterbericht deutet darauf hin, dass die Temperaturen über Nacht sinken werden."}, {"label": "Veranstaltung bei schwierigem Wetter", "q": "Trotz der widrigen Bedingungen fand die Veranstaltung im Freien wie geplant statt."}] },
-  "phone-calls": { cat: "Telefonate", items: [{"label": "Die Verbindung prüfen", "q": "Kannst du mich hören?"}, {"label": "Zurückrufen", "q": "Ich rufe dich in fünf Minuten zurück."}, {"label": "Nachfassen", "q": "Ich wollte nur unser Gespräch von gestern nachfassen."}, {"label": "Um Klärung bitten", "q": "Ich wäre dankbar, wenn Sie die nächsten Schritte baldmöglichst klären könnten."}] },
-  "family": { cat: "Familienleben", items: [{"label": "Über die Familie sprechen", "q": "Meine Familie wohnt in der Nähe des Parks."}, {"label": "Familienroutine", "q": "Wir essen freitags meistens zusammen zu Abend."}, {"label": "Familiennachrichten teilen", "q": "Mein Bruder hat vor Kurzem angefangen, in einer anderen Stadt zu arbeiten."}, {"label": "Beziehungen pflegen", "q": "Enge familiäre Bindungen zu pflegen kann schwierig sein, wenn alle ein zunehmend geschäftiges Leben führen."}] },
-  "community": { cat: "Gemeinschaft", items: [{"label": "Einen Bibliotheksausweis besorgen", "q": "Ich brauche einen neuen Bibliotheksausweis."}, {"label": "Einen Supermarkt finden", "q": "Gibt es hier in der Nähe einen Supermarkt?"}, {"label": "Veränderung der Nachbarschaft beschreiben", "q": "Die Nachbarschaft ist in den letzten zehn Jahren spürbar vielfältiger geworden."}, {"label": "Gemeinschaftsinitiative", "q": "Die Initiative will ein stärkeres Zugehörigkeitsgefühl in der lokalen Gemeinschaft fördern."}] },
-  "leisure": { cat: "Hobbys & Freizeit", items: [{"label": "Über ein Hobby sprechen", "q": "Ich schaue gerne Filme."}, {"label": "Jemanden einladen", "q": "Möchtest du mit uns spazieren gehen?"}, {"label": "Eine Absicht beschreiben", "q": "Ich wollte dieses Restaurant schon immer ausprobieren, habe aber nie Zeit gefunden."}, {"label": "Eine Dokumentation bewerten", "q": "Die Dokumentation bietet eine zum Nachdenken anregende Untersuchung darüber, wie Kreativität kollektive Identität prägt."}] },
-  "shopping": { cat: "Einkaufen", items: [{"label": "Nach dem Preis fragen", "q": "Wie viel kostet dieses Hemd?"}, {"label": "Ein Produkt finden", "q": "Ich suche ein Paar bequeme Schuhe."}, {"label": "Über einen Rabatt verhandeln", "q": "Wären Sie bereit, einen kleinen Rabatt anzubieten?"}, {"label": "Ein Produkt beschreiben", "q": "Der Reiz des Produkts liegt in der Kombination aus Praktikabilität und dezentem Design."}] },
-  "banking": { cat: "Bank & Geld", items: [{"label": "Geld überweisen", "q": "Ich muss etwas Geld an meine Familie schicken."}, {"label": "Bargeld abheben", "q": "Könnte ich bitte etwas Bargeld abheben?"}, {"label": "Eine Transaktion hinterfragen", "q": "Mir ist eine Transaktion aufgefallen, die ich nicht wiedererkenne."}, {"label": "Eine Unstimmigkeit erklären", "q": "Die Abweichung scheint eher auf einen Verarbeitungsfehler zurückzugehen als auf eine fehlende Zahlung."}] },
-  "workplace": { cat: "Arbeitsplatz", items: [{"label": "Über ein Meeting sprechen", "q": "Ich habe um zehn Uhr ein Meeting."}, {"label": "Eine Datei anfordern", "q": "Könntest du mir die Datei vor dem Mittagessen schicken?"}, {"label": "Nach Updates fragen", "q": "Ich wäre dankbar, wenn du mich über den Fortschritt des Projekts auf dem Laufenden halten könntest."}, {"label": "Belastbarkeit loben", "q": "Das Team zeigte bemerkenswerte Widerstandsfähigkeit angesichts wachsenden Drucks."}] },
-  "technology": { cat: "Technologie", items: [{"label": "Ein Telefonproblem melden", "q": "Mein Handy funktioniert nicht."}, {"label": "Sich mit WLAN verbinden", "q": "Kannst du mir zeigen, wie ich mich mit dem WLAN verbinde?"}, {"label": "Ein Update beschreiben", "q": "Das Update scheint das Problem behoben zu haben, ohne die gespeicherten Einstellungen zu beeinflussen."}, {"label": "Die Systemarchitektur beschreiben", "q": "Die Architektur der Plattform ist ausreichend modular, um zukünftige Integrationen zu ermöglichen."}] },
-  "transport": { cat: "Öffentlicher Verkehr", items: [{"label": "Einen verspäteten Bus melden", "q": "Der Bus hat Verspätung."}, {"label": "Einen Bahnsteig finden", "q": "Von welchem Gleis fährt der Zug ab?"}, {"label": "Betriebsunterbrechung", "q": "Der Service wurde wegen schweren Unwetters eingestellt."}, {"label": "Verspätungen ankündigen", "q": "Fahrgästen wird empfohlen, wegen erheblicher Verspätungen zusätzliche Zeit einzuplanen."}] },
-  "events": { cat: "Veranstaltungen & Tickets", items: [{"label": "Die Startzeit nennen", "q": "Die Veranstaltung beginnt um sieben."}, {"label": "Nach einem Ticket fragen", "q": "Muss ich ein Ticket mitbringen?"}, {"label": "Barrierefreiheit beschreiben", "q": "Die Organisatoren haben alles getan, um sicherzustellen, dass der Veranstaltungsort barrierefrei ist."}, {"label": "Eine Ausstellung bewerten", "q": "Die Ausstellung bietet eine fesselnde Untersuchung darüber, wie Erinnerung unsere Wahrnehmung von Orten prägt."}] },
-  "travel": { cat: "Reisen", items: [{"label": "Den Bahnhof finden", "q": "Wo ist der nächste Bahnhof?"}, {"label": "Einchecken", "q": "Ich möchte bitte einchecken."}, {"label": "Eine Reservierung ändern", "q": "Wäre es möglich, meine Reservierung zu ändern?"}, {"label": "Flugausfall", "q": "Sollte unser Flug gestrichen werden, bräuchten wir eine alternative Route."}] },
-  "restaurant": { cat: "Restaurant", items: [{"label": "Nach der Speisekarte fragen", "q": "Kann ich bitte die Speisekarte haben?"}, {"label": "Einen Tisch bekommen", "q": "Ich hätte gerne einen Tisch für zwei."}, {"label": "Fragen zu Zutaten", "q": "Könnten Sie mir sagen, welche Gerichte vegetarisch sind?"}, {"label": "Eine Bewertung schreiben", "q": "Das Essen war tadellos angerichtet, allerdings war der Service unbeständig."}] },
-  "health": { cat: "Gesundheit", items: [{"label": "Ein Symptom beschreiben", "q": "Ich habe Kopfschmerzen."}, {"label": "Einen Termin buchen", "q": "Ich muss einen Termin beim Arzt vereinbaren."}, {"label": "Besserung melden", "q": "Die Symptome scheinen sich seit gestern gebessert zu haben."}, {"label": "Ärztlichen Rat einholen", "q": "Anhaltende Symptome rechtfertigen fachärztlichen Rat."}] },
-  "education": { cat: "Bildung", items: [{"label": "Über den Unterricht sprechen", "q": "Ich habe montags Englischunterricht."}, {"label": "Um eine Erklärung bitten", "q": "Könnten Sie dieses Wort bitte erklären?"}, {"label": "Über Lernschwierigkeiten sprechen", "q": "Ich hatte Mühe, mit den Leseaufgaben Schritt zu halten."}, {"label": "Einen Kurs beschreiben", "q": "Der Kurs soll unabhängiges kritisches Denken fördern."}] },
-  "home": { cat: "Zuhause & Wohnen", items: [{"label": "Einen Raum beschreiben", "q": "Mein Zimmer ist oben."}, {"label": "Das Haus vorbereiten", "q": "Ich muss aufräumen, bevor die Gäste kommen."}, {"label": "Eine Reparatur melden", "q": "Die Heizung scheint nicht richtig zu funktionieren."}, {"label": "Eine Renovierung beschreiben", "q": "Die Renovierung hat aus dem einst engen Wohnraum etwas völlig Neues gemacht."}] },
-  "social": { cat: "Gespräche im Alltag", items: [{"label": "Sich vorstellen", "q": "Wie heißt du?"}, {"label": "Ein Gespräch beenden", "q": "Es war nett, mit dir zu reden."}, {"label": "Höflich widersprechen", "q": "Ich verstehe deinen Standpunkt, aber ich sehe das etwas anders."}, {"label": "Ein tiefgehendes Gespräch", "q": "Das Gespräch wandelte sich allmählich von Small Talk zu einem überraschend offenen Austausch."}] },
-  "daily": { cat: "Alltagsenglisch", items: [{"label": "Einkaufen", "q": "Könntest du mir bitte den Bericht schicken?"}, {"label": "Reisen", "q": "Können wir für morgen ein Meeting ansetzen?"}, {"label": "Restaurant", "q": "Das ist ein guter Punkt."}, {"label": "Telefonate", "q": "Ich melde mich so schnell wie möglich bei dir."}, {"label": "Small Talk", "q": "Das ist ein guter Punkt."}] },
-  "hotel": { cat: "Hotel", items: [{"label": "Eine Reservierung prüfen", "q": "Ich habe eine Reservierung."}, {"label": "Einen Service anfordern", "q": "Könnte ich bitte einen Weckruf um sieben bekommen?"}, {"label": "Nach dem Frühstück fragen", "q": "Ist das Frühstück im Preis inbegriffen?"}, {"label": "Einen Zimmertyp anfordern", "q": "Wäre es möglich, ein Zimmer mit Meerblick zu bekommen?"}, {"label": "Ein Problem melden", "q": "Die Klimaanlage in meinem Zimmer funktioniert nicht."}, {"label": "Den Aufenthalt verlängern", "q": "Ich möchte meinen Aufenthalt gerne um zwei weitere Nächte verlängern."}, {"label": "Eine Bewertung schreiben", "q": "Die Annehmlichkeiten des Hotels übertrafen unsere Erwartungen, besonders das Spa."}] },
-  "airport": { cat: "Flughafen", items: [{"label": "Den Schalter finden", "q": "Wo ist der Check-in-Schalter?"}, {"label": "Eine Verspätung melden", "q": "Mein Flug hat Verspätung."}, {"label": "Nach dem Gepäck fragen", "q": "Wie viele Taschen kann ich aufgeben?"}, {"label": "Das Gate finden", "q": "Wo ist das Gate für Flug 204?"}, {"label": "Mit einem verpassten Flug umgehen", "q": "Ich habe meinen Anschlussflug verpasst."}, {"label": "Eine Durchsage machen", "q": "Passagieren mit Anschlussflügen wird empfohlen, ihre Bordkarten griffbereit zu halten."}] },
-  "finance": { cat: "Finanzen", items: [{"label": "Über Budgetierung sprechen", "q": "Ich plane, für nächsten Monat ein Budget zu erstellen."}, {"label": "Nach Sparen und Investieren fragen", "q": "Was ist der Unterschied zwischen Sparen und Investieren?"}, {"label": "Einen Kredit beantragen", "q": "Ich möchte gerne einen kleinen Kredit aufnehmen."}, {"label": "Über Zinssätze sprechen", "q": "Die Zinssätze sind dieses Quartal erneut gestiegen."}, {"label": "Anlageberatung geben", "q": "Es ist klug, seine Investitionen zu streuen, statt sich auf eine einzige Quelle zu verlassen."}, {"label": "Gewinne analysieren", "q": "Die Quartalsgewinne des Unternehmens blieben hinter den Erwartungen der Analysten zurück."}] },
-  "real-estate": { cat: "Immobilien", items: [{"label": "Nach einer Mietwohnung suchen", "q": "Ich suche eine Zweizimmerwohnung zur Miete."}, {"label": "Nach der Miete fragen", "q": "Wie hoch ist die monatliche Miete inklusive Nebenkosten?"}, {"label": "Nach der Möblierung fragen", "q": "Ist die Wohnung möbliert oder unmöbliert?"}, {"label": "Einen Kauf erwägen", "q": "Wir überlegen, ein Haus näher am Stadtzentrum zu kaufen."}, {"label": "Reparaturen besprechen", "q": "Der Vermieter hat zugestimmt, die Sanitärinstallation vor unserem Einzug zu reparieren."}, {"label": "Den Markt analysieren", "q": "Die Immobilienpreise in dieser Gegend sind im letzten Jahr stark gestiegen."}] }
+  "meetings": { cat: "Meetings", items: ["Ein Meeting beginnen", "Eine Meinung äußern", "Zustimmen", "Widersprechen", "Um Klärung bitten", "Eine Idee vorstellen", "Ein Meeting beenden"] },
+  "cooking": { cat: "Kochen", items: ["Nach einer Zutat fragen", "Schritte beschreiben", "Kochanweisungen geben", "Über Ersatzzutaten sprechen", "Einen Rat geben", "Eine Technik erklären", "Über Kochgeschirr sprechen"] },
+  "sports": { cat: "Sport & Fitness", items: ["Über eine Routine sprechen", "Nach einem Spiel fragen", "Über Training sprechen", "Fitness-Ratschläge geben", "Über Leistung sprechen", "Über die Einstellung sprechen", "Ein Team analysieren"] },
+  "environment": { cat: "Umwelt", items: ["Energie sparen", "Recycling", "Über Plastiknutzung sprechen", "Über öffentliche Verkehrsmittel sprechen", "Umweltauswirkungen abwägen", "Über Nachhaltigkeitstrends sprechen", "Politik diskutieren"] },
+  "social-media": { cat: "Soziale Medien", items: ["Einen Beitrag teilen", "Um Markierung bitten", "Über Bildschirmzeit sprechen", "Über einen viralen Beitrag sprechen", "Über Interaktion sprechen", "Über Privatsphäre sprechen", "Algorithmen diskutieren"] },
+  "job-interview": { cat: "Vorstellungsgespräche", items: ["Sich vorstellen", "Über Erfahrung sprechen", "Die eigene Motivation erklären", "Über Stärken sprechen", "Über Schwächen sprechen", "Über Ziele sprechen", "Fragen stellen", "Über das Gehalt verhandeln", "Das Gespräch beenden"] },
+  "support": { cat: "Vertrieb", items: ["Sich vorstellen", "Kundenbedürfnisse verstehen", "Ein Produkt erklären", "Mit Einwänden umgehen", "Verhandlung", "Einen Verkauf abschließen"] },
+  "technical-support": { cat: "Technischer Support", items: ["Das Problem verstehen", "Nach Informationen fragen", "Fehlersuche", "Eine Lösung erklären", "Nachfassen", "Einen Support-Anruf beenden"] },
+  "customer-service": { cat: "Kundenservice", items: ["Begrüßung", "Sich entschuldigen", "Mit Beschwerden umgehen", "Nach Details fragen", "Eine Lösung anbieten"] },
+  "emergency": { cat: "Notfälle", items: ["Um Hilfe rufen", "Ein Krankenhaus finden", "Einen verlorenen Pass melden", "Formelle Notfallanweisung"] },
+  "customer-help": { cat: "Kundenhilfe", items: ["Um Hilfe bitten", "Einen Artikel zurückgeben", "Mit Empathie antworten", "Eine Lösung bewerten"] },
+  "career": { cat: "Karriere & Beruf", items: ["Den Arbeitsplatz beschreiben", "Nach einem Job suchen", "Erfahrung beschreiben", "Die eigene Eignung erklären"] },
+  "returns": { cat: "Rückgaben", items: ["Kleidung kaufen", "Eine andere Größe finden", "Einen Ersatz anfordern", "Eine formelle Rückerstattung anfordern"] },
+  "directions": { cat: "Nach dem Weg fragen", items: ["Eine Bushaltestelle finden", "Einfache Wegbeschreibung geben", "Entfernung beschreiben", "Eine Route erklären"] },
+  "celebrations": { cat: "Feiern", items: ["Geburtstagsgruß", "Jemanden einladen", "Erfolg verkünden", "Einen Meilenstein beschreiben"] },
+  "appointments": { cat: "Termine", items: ["Nach der Uhrzeit fragen", "Einen Termin buchen", "Umbuchen", "Formelle Empfehlung"] },
+  "weather": { cat: "Wetter", items: ["Das Wetter beschreiben", "Eine Vorhersage prüfen", "Die Prognose weitergeben", "Veranstaltung bei schwierigem Wetter"] },
+  "phone-calls": { cat: "Telefonate", items: ["Die Verbindung prüfen", "Zurückrufen", "Nachfassen", "Um Klärung bitten"] },
+  "family": { cat: "Familienleben", items: ["Über die Familie sprechen", "Familienroutine", "Familiennachrichten teilen", "Beziehungen pflegen"] },
+  "community": { cat: "Gemeinschaft", items: ["Einen Bibliotheksausweis besorgen", "Einen Supermarkt finden", "Veränderung der Nachbarschaft beschreiben", "Gemeinschaftsinitiative"] },
+  "leisure": { cat: "Hobbys & Freizeit", items: ["Über ein Hobby sprechen", "Jemanden einladen", "Eine Absicht beschreiben", "Eine Dokumentation bewerten"] },
+  "shopping": { cat: "Einkaufen", items: ["Nach dem Preis fragen", "Ein Produkt finden", "Über einen Rabatt verhandeln", "Ein Produkt beschreiben"] },
+  "banking": { cat: "Bank & Geld", items: ["Geld überweisen", "Bargeld abheben", "Eine Transaktion hinterfragen", "Eine Unstimmigkeit erklären"] },
+  "workplace": { cat: "Arbeitsplatz", items: ["Über ein Meeting sprechen", "Eine Datei anfordern", "Nach Updates fragen", "Belastbarkeit loben"] },
+  "technology": { cat: "Technologie", items: ["Ein Telefonproblem melden", "Sich mit WLAN verbinden", "Ein Update beschreiben", "Die Systemarchitektur beschreiben"] },
+  "transport": { cat: "Öffentlicher Verkehr", items: ["Einen verspäteten Bus melden", "Einen Bahnsteig finden", "Betriebsunterbrechung", "Verspätungen ankündigen"] },
+  "events": { cat: "Veranstaltungen & Tickets", items: ["Die Startzeit nennen", "Nach einem Ticket fragen", "Barrierefreiheit beschreiben", "Eine Ausstellung bewerten"] },
+  "travel": { cat: "Reisen", items: ["Den Bahnhof finden", "Einchecken", "Eine Reservierung ändern", "Flugausfall"] },
+  "restaurant": { cat: "Restaurant", items: ["Nach der Speisekarte fragen", "Einen Tisch bekommen", "Fragen zu Zutaten", "Eine Bewertung schreiben"] },
+  "health": { cat: "Gesundheit", items: ["Ein Symptom beschreiben", "Einen Termin buchen", "Besserung melden", "Ärztlichen Rat einholen"] },
+  "education": { cat: "Bildung", items: ["Über den Unterricht sprechen", "Um eine Erklärung bitten", "Über Lernschwierigkeiten sprechen", "Einen Kurs beschreiben"] },
+  "home": { cat: "Zuhause & Wohnen", items: ["Einen Raum beschreiben", "Das Haus vorbereiten", "Eine Reparatur melden", "Eine Renovierung beschreiben"] },
+  "social": { cat: "Gespräche im Alltag", items: ["Sich vorstellen", "Ein Gespräch beenden", "Höflich widersprechen", "Ein tiefgehendes Gespräch"] },
+  "daily": { cat: "Alltagsenglisch", items: ["Einkaufen", "Reisen", "Restaurant", "Telefonate", "Small Talk"] },
+  "hotel": { cat: "Hotel", items: ["Eine Reservierung prüfen", "Einen Service anfordern", "Nach dem Frühstück fragen", "Einen Zimmertyp anfordern", "Ein Problem melden", "Den Aufenthalt verlängern", "Eine Bewertung schreiben"] },
+  "airport": { cat: "Flughafen", items: ["Den Schalter finden", "Eine Verspätung melden", "Nach dem Gepäck fragen", "Das Gate finden", "Mit einem verpassten Flug umgehen", "Eine Durchsage machen"] },
+  "finance": { cat: "Finanzen", items: ["Über Budgetierung sprechen", "Nach Sparen und Investieren fragen", "Einen Kredit beantragen", "Über Zinssätze sprechen", "Anlageberatung geben", "Gewinne analysieren"] },
+  "real-estate": { cat: "Immobilien", items: ["Nach einer Mietwohnung suchen", "Nach der Miete fragen", "Nach der Möblierung fragen", "Einen Kauf erwägen", "Reparaturen besprechen", "Den Markt analysieren"] }
 };
 Object.keys(DE_SITUATIONS).forEach(key=>{
   if(SITUATIONS[key]){
     SITUATIONS[key].de = DE_SITUATIONS[key].cat;
-    SITUATIONS[key].items.forEach((item,i)=>{
-      const deItem = DE_SITUATIONS[key].items[i];
-      if(deItem){ item.de = deItem.label; item.q_de = deItem.q; }
-    });
+    SITUATIONS[key].items.forEach((item,i)=>{ if(DE_SITUATIONS[key].items[i]) item.de = DE_SITUATIONS[key].items[i]; });
   }
 });
 
@@ -1421,6 +1434,20 @@ function findSimilarSentences(query, pool, limit){
 let ygWidget = null;
 const VARIETY_TO_ACCENT = { US:'us', GB:'uk', AU:'aus', CA:'ca' };
 function targetLangCode(){ return State.learnLang==='de' ? 'de-DE' : 'en-US'; }
+
+/* Builds the link to the real YouGlish website that matches both the UI
+   language (subdomain, e.g. ar./de.) and the language being learned
+   (path, e.g. /german — English lives at the root path). */
+const YG_UI_PREFIX = { en:'', ar:'ar.', de:'de.' };
+function youglishHomeUrl(){
+  const prefix = YG_UI_PREFIX[State.lang] || '';
+  const path = State.learnLang==='de' ? 'german' : '';
+  return `https://${prefix}youglish.com/${path}`;
+}
+function updateYouglishHomeLink(){
+  const a = document.getElementById('youglishHomeLink');
+  if(a) a.href = youglishHomeUrl();
+}
 
 function whenYouglishReady(cb){
   if(window.YG && window.YG.Widget){ cb(); return; }
@@ -1796,7 +1823,7 @@ function renderResults(){
     const card = document.createElement('div');
     card.className = 'sentence-card';
     card.innerHTML = `
-      <div class="card-thumb" data-action="play" data-id="${s.id}" role="button" tabindex="0" aria-label="Play">
+      <div class="card-thumb" data-action="watch" data-id="${s.id}" role="button" tabindex="0" aria-label="Play">
         <span class="card-match">${pct}% ${t('matchLabel')}</span>
         <span class="play-glyph">▶</span>
       </div>
@@ -1822,7 +1849,9 @@ function renderResults(){
       if(!s) return;
       const action = el.dataset.action;
       if(action==='save') saveFavorite(s);
-      else openDetail(s, action==='practice' ? 'practice' : 'watch');
+      else if(action==='play') speak(s.text);
+      else if(action==='watch') openDetail(s, 'watch');
+      else openDetail(s, 'practice');
     });
     el.addEventListener('keydown', (e)=>{ if(e.key==='Enter') el.click(); });
   });
@@ -1850,7 +1879,8 @@ function renderSimilar(){
       if(!s) return;
       const action = el.dataset.action;
       if(action==='save') saveFavorite(s);
-      else openDetail(s, action==='practice' ? 'practice' : 'watch');
+      else if(action==='play') speak(s.text);
+      else openDetail(s, 'practice');
     });
   });
 }
@@ -1875,7 +1905,9 @@ function renderFavorites(){
       const id = Number(el.dataset.id);
       if(el.dataset.action==='remove'){ removeFavorite(id); return; }
       const s = DEMO_SENTENCES.find(x=>x.id === id);
-      if(s) openDetail(s, el.dataset.action==='practice' ? 'practice' : 'watch');
+      if(!s) return;
+      if(el.dataset.action==='play'){ speak(s.text); return; }
+      openDetail(s, 'practice');
     });
   });
 }
@@ -1956,11 +1988,44 @@ function hideSuggestions(){ document.getElementById('suggestionsBox').classList.
 /* DETAIL PANEL / PLAYER                                                   */
 /* ---------------------------------------------------------------------- */
 function buildAudioStageHtml(s){
+  const counts = [1,2,3,5];
+  const gaps = [0,1,2,3,5];
+  const speeds = [0.75,1,1.25];
   return `<div class="audio-stage">
       <button type="button" class="audio-play-btn" aria-label="${t('play')}">▶</button>
       <div class="audio-wave">${'<span></span>'.repeat(9)}</div>
       <div class="audio-caption">${escapeHtml(s.speaker)} · ${escapeHtml(s.channel)}</div>
+      <div class="audio-repeat-controls">
+        <label class="audio-repeat-field">
+          <span>${t('repeatCountLabel')}</span>
+          <select class="audio-repeat-count">
+            ${counts.map(c=>`<option value="${c}">${c}${t('timesUnit')}</option>`).join('')}
+          </select>
+        </label>
+        <label class="audio-repeat-field">
+          <span>${t('repeatGapLabel')}</span>
+          <select class="audio-repeat-gap">
+            ${gaps.map(g=>`<option value="${g}">${g}${t('secUnit')}</option>`).join('')}
+          </select>
+        </label>
+        <label class="audio-repeat-field">
+          <span>${t('speedLabel')}</span>
+          <select class="audio-speed">
+            ${speeds.map(sp=>`<option value="${sp}">${sp}×</option>`).join('')}
+          </select>
+        </label>
+      </div>
     </div>`;
+}
+// Persisted playback settings (repeat count, gap, speed) shared across every
+// audio stage in the app, stored in localStorage under sg_audio_settings.
+function loadAudioSettings(){
+  try{
+    return Object.assign({count:1, gap:1, speed:1}, JSON.parse(localStorage.getItem('sg_audio_settings') || '{}'));
+  } catch(e){ return {count:1, gap:1, speed:1}; }
+}
+function saveAudioSettings(settings){
+  try{ localStorage.setItem('sg_audio_settings', JSON.stringify(settings)); } catch(e){}
 }
 // Renders a working audio player into containerEl. Uses speech synthesis today;
 // swap the utterance below for a real <audio> element pointing at a licensed
@@ -1974,20 +2039,55 @@ function renderAudioStage(containerEl, s, textToSpeak){
   containerEl.innerHTML = buildAudioStageHtml(s);
   const btn = containerEl.querySelector('.audio-play-btn');
   const stage = containerEl.querySelector('.audio-stage');
+  const countSel = containerEl.querySelector('.audio-repeat-count');
+  const gapSel = containerEl.querySelector('.audio-repeat-gap');
+  const speedSel = containerEl.querySelector('.audio-speed');
+
+  const settings = loadAudioSettings();
+  countSel.value = String(settings.count);
+  gapSel.value = String(settings.gap);
+  speedSel.value = String(settings.speed);
+  [countSel, gapSel, speedSel].forEach(sel=>{
+    sel.addEventListener('change', ()=>{
+      saveAudioSettings({ count:Number(countSel.value), gap:Number(gapSel.value), speed:Number(speedSel.value) });
+    });
+  });
+
+  let stopped = true;
+  let gapTimer = null;
+
+  function stopPlayback(){
+    stopped = true;
+    if(gapTimer){ clearTimeout(gapTimer); gapTimer = null; }
+    window.speechSynthesis.cancel();
+    stage.classList.remove('playing'); btn.classList.remove('playing'); btn.textContent='▶';
+  }
+
+  function playOnce(remaining){
+    if(stopped) return;
+    const u = new SpeechSynthesisUtterance(textToSpeak);
+    u.lang=targetLangCode(); u.rate=Number(speedSel.value) || 1;
+    u.onstart = ()=>{ stage.classList.add('playing'); btn.classList.add('playing'); btn.textContent='❚❚'; };
+    u.onend = ()=>{
+      if(stopped) return;
+      if(remaining > 1){
+        const gapMs = Number(gapSel.value) * 1000;
+        stage.classList.remove('playing'); btn.classList.remove('playing');
+        gapTimer = setTimeout(()=>{ if(!stopped) playOnce(remaining - 1); }, gapMs);
+      } else {
+        stopPlayback();
+      }
+    };
+    u.onerror = ()=>{ stopPlayback(); };
+    window.speechSynthesis.speak(u);
+  }
+
   btn.addEventListener('click', ()=>{
     if(!('speechSynthesis' in window)){ showToast(t('speechNotSupported')); return; }
-    if(window.speechSynthesis.speaking){
-      window.speechSynthesis.cancel();
-      stage.classList.remove('playing'); btn.classList.remove('playing'); btn.textContent='▶';
-      return;
-    }
-    const u = new SpeechSynthesisUtterance(textToSpeak);
-    u.lang=targetLangCode(); u.rate=0.95;
-    u.onstart = ()=>{ stage.classList.add('playing'); btn.classList.add('playing'); btn.textContent='❚❚'; };
-    u.onend = ()=>{ stage.classList.remove('playing'); btn.classList.remove('playing'); btn.textContent='▶'; };
-    u.onerror = ()=>{ stage.classList.remove('playing'); btn.classList.remove('playing'); btn.textContent='▶'; };
+    if(!stopped){ stopPlayback(); return; }
+    stopped = false;
     window.speechSynthesis.cancel();
-    window.speechSynthesis.speak(u);
+    playOnce(Number(countSel.value));
   });
 }
 
@@ -2012,14 +2112,12 @@ function openDetail(s, startTab){
 
   document.getElementById('detailSaveBtn').onclick = ()=>saveFavorite(s);
   const ytBtn = document.getElementById('detailYoutubeBtn');
+  ytBtn.disabled = false;
+  ytBtn.title = '';
   if(s.videoId){
-    ytBtn.disabled = false;
-    ytBtn.title = '';
     ytBtn.onclick = ()=>window.open(`https://www.youtube.com/watch?v=${s.videoId}&t=${s.timestamp}s`, '_blank');
   } else {
-    ytBtn.disabled = true;
-    ytBtn.title = t('demoNoVideoSub');
-    ytBtn.onclick = null;
+    ytBtn.onclick = ()=>window.open(`https://www.youtube.com/results?search_query=${encodeURIComponent(s.text)}`, '_blank');
   }
 
   // reset practice/listening sub-views
@@ -2219,7 +2317,8 @@ function applyLanguage(){
     el.setAttribute('placeholder', t(el.dataset.i18nPlaceholder));
   });
   document.getElementById('searchInput').placeholder = LEARN_PLACEHOLDERS[State.learnLang];
-  renderExamples();
+  updateYouglishHomeLink();
+  updateHeroTitle();
   renderSituations();
   renderSotd();
   renderLevelPills();
@@ -2239,11 +2338,33 @@ document.getElementById('langToggle').addEventListener('click', ()=>{
    German) the whole app searches, quizzes and speaks. */
 const LEARN_LABELS = { en: '🇬🇧 English', de: '🇩🇪 Deutsch' };
 function otherLearnLang(l){ return l==='de' ? 'en' : 'de'; }
+
+/* Name of the language being learned, translated into the current UI
+   language — used to keep the hero title in sync with State.learnLang
+   instead of always saying "English". */
+const LEARN_LANG_NAME = {
+  en: { en:'English', de:'German' },
+  ar: { en:'الإنجليزية', de:'الألمانية' },
+  de: { en:'Englisch', de:'Deutsch' }
+};
+function heroTitleText(){
+  const learnName = (LEARN_LANG_NAME[State.lang] || LEARN_LANG_NAME.en)[State.learnLang];
+  if(State.lang==='ar') return `تعلّم ${learnName} من جُمل حقيقية`;
+  if(State.lang==='de') return `Lerne ${learnName} mit echten Sätzen`;
+  return `Learn ${learnName} from Real Sentences`;
+}
+function updateHeroTitle(){
+  const el = document.getElementById('heroTitle');
+  if(el) el.textContent = heroTitleText();
+}
+
 function applyLearnLang(){
   DEMO_SENTENCES = State.learnLang==='de' ? DEMO_SENTENCES_DE : DEMO_SENTENCES_EN;
   document.getElementById('learnToggle').textContent = LEARN_LABELS[otherLearnLang(State.learnLang)];
   document.getElementById('searchInput').placeholder = LEARN_PLACEHOLDERS[State.learnLang];
   document.getElementById('searchInput').value = '';
+  updateYouglishHomeLink();
+  updateHeroTitle();
   State.favorites = JSON.parse(localStorage.getItem('sg_favorites_' + State.learnLang) || '[]');
   State.history = JSON.parse(localStorage.getItem('sg_history_' + State.learnLang) || '[]');
   State.currentQuery=''; State.currentResults=[]; State.currentSimilar=[]; State.activeSentence=null;
@@ -2265,6 +2386,47 @@ document.getElementById('learnToggle').addEventListener('click', ()=>{
   State.learnLang = otherLearnLang(State.learnLang);
   localStorage.setItem('sg_learn', State.learnLang);
   applyLearnLang();
+});
+
+/* ---------------------------------------------------------------------- */
+/* KEYBOARD SHORTCUTS — Space: play/pause current audio, Left/Right:       */
+/* previous/next sentence. Active only while the detail modal is open,     */
+/* and ignored while the user is typing in an input/textarea.              */
+/* ---------------------------------------------------------------------- */
+function currentAudioPlayBtn(){
+  const activeTab = document.querySelector('.mode-tab.active');
+  const mode = activeTab ? activeTab.dataset.mode : 'watch';
+  const containerId = mode === 'listening' ? 'listeningStage' : 'videoStage';
+  const container = document.getElementById(containerId);
+  return container ? container.querySelector('.audio-play-btn') : null;
+}
+function navigateSentence(direction){
+  const s = State.activeSentence;
+  if(!s) return;
+  const list = (State.currentResults && State.currentResults.length)
+    ? State.currentResults.map(r=>r.sentence)
+    : DEMO_SENTENCES;
+  if(!list.length) return;
+  const idx = list.findIndex(x=>x.id === s.id);
+  if(idx === -1) return;
+  const nextIdx = (idx + direction + list.length) % list.length;
+  const activeTab = document.querySelector('.mode-tab.active');
+  openDetail(list[nextIdx], activeTab ? activeTab.dataset.mode : 'watch');
+}
+document.addEventListener('keydown', (e)=>{
+  const tag = document.activeElement ? document.activeElement.tagName : '';
+  if(tag === 'INPUT' || tag === 'TEXTAREA') return;
+  if(!document.getElementById('detailOverlay').classList.contains('show')) return;
+  if(e.code === 'Space'){
+    const btn = currentAudioPlayBtn();
+    if(btn){ e.preventDefault(); btn.click(); }
+  } else if(e.key === 'ArrowRight' || e.key === 'ArrowLeft'){
+    e.preventDefault();
+    const isRtl = document.documentElement.dir === 'rtl';
+    let direction = e.key === 'ArrowRight' ? 1 : -1;
+    if(isRtl) direction *= -1; // arrows follow reading direction in RTL
+    navigateSentence(direction);
+  }
 });
 
 /* ---------------------------------------------------------------------- */
