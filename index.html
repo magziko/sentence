@@ -883,6 +883,96 @@ const I18N = {
     "secUnit":"s",
     "speedLabel":"Tempo"
   }
+  ,fr: {
+    "logoAria":"Accueil SentenceGlish",
+    "heroTitle":"Apprends l'anglais avec de vraies phrases",
+    "heroTagline":"Cherche une phrase complète et écoute comment de vraies personnes l'utilisent.",
+    "searchPlaceholder":"I wanted to let you know that we have a problem with the system.",
+    "searchBtn":"Rechercher",
+    "tryExamples":"Essaie ces exemples :",
+    "yourSentence":"Ta phrase",
+    "level":"Niveau",
+    "variety":"Variante",
+    "noResultsHeadline":"Nous n'avons pas trouvé cette phrase exacte.",
+    "noResultsSub":"Voici les phrases les plus proches que nous avons trouvées.",
+    "realExamples":"Phrases d'entraînement",
+    "realVideoExamples":"Vrais exemples vidéo",
+    "poweredByYouglish":"Propulsé par YouGlish.com",
+    "youglishLegal":"Ce panneau intègre YouGlish, qui utilise de vraies vidéos YouTube. Lire une vidéo peut déposer des cookies de YouGlish et de YouTube/Google.",
+    "youglishNoResults":"YouGlish n'a pas trouvé de vraie vidéo pour cette phrase exacte — essaie une expression plus courte.",
+    "similarSentences":"Phrases similaires",
+    "sotdTitle":"Phrase du jour",
+    "sotdEyebrow":"Phrase d'aujourd'hui",
+    "listen":"Écouter",
+    "practice":"S'entraîner",
+    "save":"Enregistrer",
+    "repeat":"Répéter",
+    "situationsTitle":"S'entraîner par situation",
+    "situationsSub":"Choisis un contexte réel",
+    "mySentences":"Mes phrases",
+    "recentSearches":"Recherches récentes",
+    "footerTag":"apprends l'anglais une vraie phrase à la fois",
+    "footerDemo":"Version de démonstration · données d'exemple",
+    "sentenceDetails":"Détails de la phrase",
+    "tabWatch":"Regarder",
+    "tabPractice":"S'entraîner",
+    "tabListening":"Compréhension orale",
+    "transcript":"Transcription",
+    "meaning":"Signification",
+    "naturalPronunciation":"Prononciation naturelle",
+    "importantWords":"Mots importants",
+    "grammar":"Grammaire",
+    "alternatives":"Formulations alternatives",
+    "openYoutube":"Ouvrir sur YouTube",
+    "hideSentence":"Masquer la phrase",
+    "showSentence":"Afficher la phrase",
+    "speakNow":"Parle maintenant...",
+    "matchCaveat":"Ceci est une vérification approximative, pas une évaluation officielle de prononciation.",
+    "whatDidYouHear":"Qu'as-tu entendu ?",
+    "typeWhatYouHeard":"Tape la phrase que tu as entendue...",
+    "play":"Lire",
+    "checkAnswer":"Vérifier la réponse",
+    "emptyFavorites":"Aucune phrase enregistrée pour l'instant. Appuie sur ⭐ Enregistrer sur une phrase pour la garder ici.",
+    "emptyHistory":"Tes recherches récentes apparaîtront ici.",
+    "goodMatch":"Bonne correspondance",
+    "tryAgain":"Réessayer",
+    "correct":"Correct",
+    "notQuite":"Pas tout à fait — compare les deux phrases ci-dessous.",
+    "allLevels":"Tous les niveaux",
+    "allVarieties":"Tous",
+    "quizTitle":"Quiz interactif",
+    "quizSub":"Teste ta compréhension par niveau",
+    "quizLevelLabel":"Choisis un niveau",
+    "startQuiz":"Démarrer le quiz",
+    "quizIntro":"Choisis un niveau et lance un quiz de cinq questions.",
+    "quizAllLevels":"Tous les niveaux",
+    "quizQuestion":"Que signifie cette phrase ?",
+    "quizQuestionCount":"Question",
+    "quizNext":"Question suivante",
+    "quizRestart":"Recommencer",
+    "quizScore":"Ton score",
+    "quizCorrect":"Correct !",
+    "quizWrong":"Pas tout à fait.",
+    "quizResult":"Tu as terminé le quiz.",
+    "quizNoData":"Il n'y a pas encore assez de phrases pour ce niveau.",
+    "us":"Américain",
+    "gb":"Britannique",
+    "au":"Australien",
+    "ca":"Canadien",
+    "demoNoVideo":"Mode démo — pas encore de vidéo autorisée pour cette phrase.",
+    "demoNoVideoSub":"Connecte l'API YouTube Data dans searchYouTubeSentences() pour lire de vrais extraits ici.",
+    "speechNotSupported":"La reconnaissance vocale n'est pas prise en charge par ce navigateur.",
+    "reSearch":"Rechercher à nouveau",
+    "removeHistory":"Retirer",
+    "removeFav":"Retirer",
+    "matchLabel":"Correspondance",
+    "secBefore":"commence 2–3s avant la phrase pour le contexte",
+    "repeatCountLabel":"Répéter",
+    "repeatGapLabel":"Pause",
+    "timesUnit":"×",
+    "secUnit":"s",
+    "speedLabel":"Vitesse"
+  }
 };
 
 /* ---------------------------------------------------------------------- */
@@ -934,6 +1024,7 @@ const ADVANCED_SITUATION_ITEMS = {"cooking":[{"en":"B1 · Asking about a topic i
 let DEMO_SENTENCES = [];
 let DEMO_SENTENCES_EN = [];
 let DEMO_SENTENCES_DE = [];
+let DEMO_SENTENCES_FR = [];
 async function fetchJson(url){
   try{
     const res = await fetch(url);
@@ -944,16 +1035,23 @@ async function fetchJson(url){
     return [];
   }
 }
+function datasetForLearnLang(lang){
+  if(lang==='de') return DEMO_SENTENCES_DE;
+  if(lang==='fr') return DEMO_SENTENCES_FR;
+  return DEMO_SENTENCES_EN;
+}
 async function loadSentences(){
-  [DEMO_SENTENCES_EN, DEMO_SENTENCES_DE] = await Promise.all([
+  [DEMO_SENTENCES_EN, DEMO_SENTENCES_DE, DEMO_SENTENCES_FR] = await Promise.all([
     fetchJson('sentences.json'),
-    fetchJson('sentences_de.json')
+    fetchJson('sentences_de.json'),
+    fetchJson('sentences_fr.json')
   ]);
-  DEMO_SENTENCES = State.learnLang==='de' ? DEMO_SENTENCES_DE : DEMO_SENTENCES_EN;
+  DEMO_SENTENCES = datasetForLearnLang(State.learnLang);
 }
 /* Looks up the German search text for a situation prompt. Falls back to the
    English prompt when this sentence hasn't been translated into the German
-   learning set yet (coverage is still growing — see sentences_de.json). */
+   (or French) learning set yet (coverage is still growing — see
+   sentences_de.json / sentences_fr.json). */
 function situationQuery(item){
   if(State.learnLang!=='de') return item.q;
   const match = DEMO_SENTENCES_EN.find(s=>s.text===item.q);
@@ -1433,15 +1531,20 @@ function findSimilarSentences(query, pool, limit){
 /* ---------------------------------------------------------------------- */
 let ygWidget = null;
 const VARIETY_TO_ACCENT = { US:'us', GB:'uk', AU:'aus', CA:'ca' };
-function targetLangCode(){ return State.learnLang==='de' ? 'de-DE' : 'en-US'; }
+function targetLangCode(){
+  if(State.learnLang==='de') return 'de-DE';
+  if(State.learnLang==='fr') return 'fr-FR';
+  return 'en-US';
+}
 
 /* Builds the link to the real YouGlish website that matches both the UI
    language (subdomain, e.g. ar./de.) and the language being learned
    (path, e.g. /german — English lives at the root path). */
-const YG_UI_PREFIX = { en:'', ar:'ar.', de:'de.' };
+const YG_UI_PREFIX = { en:'', ar:'ar.', de:'de.', fr:'fr.' };
+const YG_LEARN_PATH = { de:'german', fr:'french' };
 function youglishHomeUrl(){
   const prefix = YG_UI_PREFIX[State.lang] || '';
-  const path = State.learnLang==='de' ? 'german' : '';
+  const path = YG_LEARN_PATH[State.learnLang] || '';
   return `https://${prefix}youglish.com/${path}`;
 }
 function updateYouglishHomeLink(){
@@ -1486,8 +1589,9 @@ function initYouglishWidget(){
 function fetchYouglish(query){
   document.getElementById('youglishNote').textContent = '';
   if(!ygWidget){ initYouglishWidget(); return; } // will auto-fetch once ready
-  const ygLang = State.learnLang==='de' ? 'german' : 'english';
-  const accent = State.learnLang==='de' ? null : VARIETY_TO_ACCENT[State.variety];
+  const YG_LANG = { de:'german', fr:'french' };
+  const ygLang = YG_LANG[State.learnLang] || 'english';
+  const accent = State.learnLang==='en' ? VARIETY_TO_ACCENT[State.variety] : null;
   if(accent) ygWidget.fetch(query, ygLang, accent);
   else ygWidget.fetch(query, ygLang);
 }
@@ -1685,14 +1789,23 @@ const EXAMPLES_DE = [
   "Lass mich das für dich überprüfen.",
   "Können wir für morgen ein Meeting ansetzen?"
 ];
+const EXAMPLES_FR = [
+  "Pourriez-vous m'envoyer le rapport, s'il vous plaît ?",
+  "Je vous recontacterai dès que possible.",
+  "Je comprends tout à fait votre inquiétude.",
+  "Laissez-moi vérifier cela pour vous.",
+  "Pouvons-nous organiser une réunion pour demain ?"
+];
 const LEARN_PLACEHOLDERS = {
   en: "I wanted to let you know that we have a problem with the system.",
-  de: "Ich habe mich gefragt, ob du mir die aktualisierten Zahlen schicken könntest."
+  de: "Ich habe mich gefragt, ob du mir die aktualisierten Zahlen schicken könntest.",
+  fr: "Je voulais vous informer que nous avons un problème avec le système."
 };
 
 function renderExamples(){
   const box = document.getElementById('exampleChips');
-  const list = State.learnLang==='de' ? EXAMPLES_DE : EXAMPLES_EN;
+  const EX_LISTS = { en: EXAMPLES_EN, de: EXAMPLES_DE, fr: EXAMPLES_FR };
+  const list = EX_LISTS[State.learnLang] || EXAMPLES_EN;
   box.innerHTML = list.map(ex=>`<button type="button" class="chip" data-ex="${escapeHtml(ex)}">${escapeHtml(ex)}</button>`).join('');
   box.querySelectorAll('.chip').forEach(btn=>{
     btn.addEventListener('click', ()=>{
@@ -1791,9 +1904,12 @@ function browseByLevel(level){
   window.scrollTo({top: document.getElementById('results-section').offsetTop - 70, behavior:'smooth'});
 }
 function renderVarietyPills(){
-  const varieties = State.learnLang==='de'
-    ? [['all', t('allVarieties'),'🌍'],['DE','Deutschland','🇩🇪']]
-    : [['all', t('allVarieties'),'🌍'],['US', t('us'),'🇺🇸'],['GB', t('gb'),'🇬🇧'],['AU', t('au'),'🇦🇺'],['CA', t('ca'),'🇨🇦']];
+  const VARIETY_SETS = {
+    de: [['all', t('allVarieties'),'🌍'],['DE','Deutschland','🇩🇪']],
+    fr: [['all', t('allVarieties'),'🌍'],['FR','France','🇫🇷']],
+    en: [['all', t('allVarieties'),'🌍'],['US', t('us'),'🇺🇸'],['GB', t('gb'),'🇬🇧'],['AU', t('au'),'🇦🇺'],['CA', t('ca'),'🇨🇦']]
+  };
+  const varieties = VARIETY_SETS[State.learnLang] || VARIETY_SETS.en;
   const box = document.getElementById('varietyPills');
   box.innerHTML = varieties.map(([code,label,flag])=>
     `<button type="button" class="pill ${State.variety===code?'active':''}" data-variety="${code}">${flag} ${label}</button>`
@@ -2302,8 +2418,8 @@ document.getElementById('themeToggle').addEventListener('click', ()=>{
 });
 
 /* Language toggle */
-const LANG_CYCLE = ['en','ar','de'];
-const LANG_LABELS = {en:'English', ar:'العربية', de:'Deutsch'};
+const LANG_CYCLE = ['en','ar','de','fr'];
+const LANG_LABELS = {en:'English', ar:'العربية', de:'Deutsch', fr:'Français'};
 function nextLang(l){ return LANG_CYCLE[(LANG_CYCLE.indexOf(l)+1)%LANG_CYCLE.length]; }
 function applyLanguage(){
   const isAr = State.lang==='ar';
@@ -2319,6 +2435,7 @@ function applyLanguage(){
   document.getElementById('searchInput').placeholder = LEARN_PLACEHOLDERS[State.learnLang];
   updateYouglishHomeLink();
   updateHeroTitle();
+  updateFooterTag();
   renderSituations();
   renderSotd();
   renderLevelPills();
@@ -2336,35 +2453,50 @@ document.getElementById('langToggle').addEventListener('click', ()=>{
 
 /* Learning-language toggle — switches which sentence set (English or
    German) the whole app searches, quizzes and speaks. */
-const LEARN_LABELS = { en: '🇬🇧 English', de: '🇩🇪 Deutsch' };
-function otherLearnLang(l){ return l==='de' ? 'en' : 'de'; }
+const LEARN_CYCLE = ['en','de','fr'];
+const LEARN_LABELS = { en: '🇬🇧 English', de: '🇩🇪 Deutsch', fr: '🇫🇷 Français' };
+function otherLearnLang(l){ return LEARN_CYCLE[(LEARN_CYCLE.indexOf(l)+1)%LEARN_CYCLE.length]; }
 
 /* Name of the language being learned, translated into the current UI
-   language — used to keep the hero title in sync with State.learnLang
-   instead of always saying "English". */
+   language — used to keep the hero title and footer tag in sync with
+   State.learnLang instead of always saying "English". */
 const LEARN_LANG_NAME = {
-  en: { en:'English', de:'German' },
-  ar: { en:'الإنجليزية', de:'الألمانية' },
-  de: { en:'Englisch', de:'Deutsch' }
+  en: { en:'English', de:'German', fr:'French' },
+  ar: { en:'الإنجليزية', de:'الألمانية', fr:'الفرنسية' },
+  de: { en:'Englisch', de:'Deutsch', fr:'Französisch' },
+  fr: { en:"l'anglais", de:"l'allemand", fr:'le français' }
 };
 function heroTitleText(){
   const learnName = (LEARN_LANG_NAME[State.lang] || LEARN_LANG_NAME.en)[State.learnLang];
   if(State.lang==='ar') return `تعلّم ${learnName} من جُمل حقيقية`;
   if(State.lang==='de') return `Lerne ${learnName} mit echten Sätzen`;
+  if(State.lang==='fr') return `Apprends ${learnName} avec de vraies phrases`;
   return `Learn ${learnName} from Real Sentences`;
 }
 function updateHeroTitle(){
   const el = document.getElementById('heroTitle');
   if(el) el.textContent = heroTitleText();
 }
+function footerTagText(){
+  const learnName = (LEARN_LANG_NAME[State.lang] || LEARN_LANG_NAME.en)[State.learnLang];
+  if(State.lang==='ar') return `تعلّم ${learnName} جملة حقيقية في كل مرة`;
+  if(State.lang==='de') return `lerne ${learnName} einen echten Satz nach dem anderen`;
+  if(State.lang==='fr') return `apprends ${learnName} une vraie phrase à la fois`;
+  return `learn ${learnName} one real sentence at a time`;
+}
+function updateFooterTag(){
+  const el = document.querySelector('[data-i18n="footerTag"]');
+  if(el) el.textContent = footerTagText();
+}
 
 function applyLearnLang(){
-  DEMO_SENTENCES = State.learnLang==='de' ? DEMO_SENTENCES_DE : DEMO_SENTENCES_EN;
+  DEMO_SENTENCES = datasetForLearnLang(State.learnLang);
   document.getElementById('learnToggle').textContent = LEARN_LABELS[otherLearnLang(State.learnLang)];
   document.getElementById('searchInput').placeholder = LEARN_PLACEHOLDERS[State.learnLang];
   document.getElementById('searchInput').value = '';
   updateYouglishHomeLink();
   updateHeroTitle();
+  updateFooterTag();
   State.favorites = JSON.parse(localStorage.getItem('sg_favorites_' + State.learnLang) || '[]');
   State.history = JSON.parse(localStorage.getItem('sg_history_' + State.learnLang) || '[]');
   State.currentQuery=''; State.currentResults=[]; State.currentSimilar=[]; State.activeSentence=null;
