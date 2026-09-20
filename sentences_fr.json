@@ -1,0 +1,1552 @@
+[
+  {
+    "id": 4001,
+    "text": "Bonjour !",
+    "translation_ar": "مرحبًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Bonjour !",
+    "pronunciation": "بونجور!",
+    "words": [
+      {
+        "w": "bonjour",
+        "m_en": "hello, good day",
+        "m_ar": "تحية صباحية أو عامة تعني 'مرحبًا/صباح الخير'"
+      }
+    ],
+    "grammar_en": "A fixed greeting used at almost any time of day.",
+    "grammar_ar": "تحية ثابتة تُستخدم في أي وقت من النهار تقريبًا.",
+    "alternatives": [
+      {
+        "text": "Salut !",
+        "note_en": "More casual and friendly",
+        "note_ar": "أكثر عامية وودّية"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4002,
+    "text": "Bonsoir !",
+    "translation_ar": "مساء الخير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Bonsoir !",
+    "pronunciation": "بونسوار!",
+    "words": [
+      {
+        "w": "bonsoir",
+        "m_en": "good evening",
+        "m_ar": "مساء الخير"
+      }
+    ],
+    "grammar_en": "Used instead of bonjour after roughly 6 pm.",
+    "grammar_ar": "تُستخدم بدل bonjour بعد حوالي الساعة السادسة مساءً.",
+    "alternatives": [
+      {
+        "text": "Bonne soirée !",
+        "note_en": "Means 'have a nice evening' when leaving",
+        "note_ar": "تعني 'أمسية سعيدة' عند المغادرة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4003,
+    "text": "Bonne nuit !",
+    "translation_ar": "تصبح على خير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Bonne nuit !",
+    "pronunciation": "بون نوي!",
+    "words": [
+      {
+        "w": "la nuit",
+        "m_en": "night",
+        "m_ar": "الليل"
+      }
+    ],
+    "grammar_en": "Said only before going to sleep, not a general evening greeting.",
+    "grammar_ar": "تُقال فقط قبل النوم، وليست تحية مساء عادية.",
+    "alternatives": [
+      {
+        "text": "Fais de beaux rêves.",
+        "note_en": "Sweet dreams",
+        "note_ar": "أحلام سعيدة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4004,
+    "text": "Merci !",
+    "translation_ar": "شكرًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Merci !",
+    "pronunciation": "مِرسي!",
+    "words": [
+      {
+        "w": "merci",
+        "m_en": "thank you",
+        "m_ar": "شكرًا"
+      }
+    ],
+    "grammar_en": "A simple, fixed word of thanks.",
+    "grammar_ar": "كلمة شكر بسيطة وثابتة.",
+    "alternatives": [
+      {
+        "text": "Merci beaucoup.",
+        "note_en": "Thank you very much",
+        "note_ar": "شكرًا جزيلًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4005,
+    "text": "S'il vous plaît.",
+    "translation_ar": "من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "S'il vous plaît.",
+    "pronunciation": "سيل ڤو پلِه.",
+    "words": [
+      {
+        "w": "s'il vous plaît",
+        "m_en": "please (formal/plural)",
+        "m_ar": "من فضلك (رسمي/جمع)"
+      }
+    ],
+    "grammar_en": "The formal way to say 'please'; the informal form is s'il te plaît.",
+    "grammar_ar": "صيغة رسمية لـ 'من فضلك'؛ الصيغة غير الرسمية s'il te plaît.",
+    "alternatives": [
+      {
+        "text": "S'il te plaît.",
+        "note_en": "Informal form (with a friend)",
+        "note_ar": "صيغة غير رسمية (مع صديق)"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4006,
+    "text": "Oui, s'il vous plaît.",
+    "translation_ar": "نعم، من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Oui, s'il vous plaît.",
+    "pronunciation": "وي، سيل ڤو پلِه.",
+    "words": [
+      {
+        "w": "oui",
+        "m_en": "yes",
+        "m_ar": "نعم"
+      }
+    ],
+    "grammar_en": "A simple positive answer combined with a polite phrase.",
+    "grammar_ar": "إجابة إيجابية بسيطة مع صيغة تهذيب.",
+    "alternatives": [
+      {
+        "text": "Avec plaisir.",
+        "note_en": "With pleasure",
+        "note_ar": "بكل سرور"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4007,
+    "text": "Non, merci.",
+    "translation_ar": "لا، شكرًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Non, merci.",
+    "pronunciation": "نون، مِرسي.",
+    "words": [
+      {
+        "w": "non",
+        "m_en": "no",
+        "m_ar": "لا"
+      }
+    ],
+    "grammar_en": "A short, polite refusal.",
+    "grammar_ar": "رفض مهذب وقصير.",
+    "alternatives": [
+      {
+        "text": "Non merci, ça va.",
+        "note_en": "No thanks, that's fine",
+        "note_ar": "لا شكرًا، لا داعي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4008,
+    "text": "Excusez-moi !",
+    "translation_ar": "المعذرة!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Excusez-moi !",
+    "pronunciation": "إكسكوزيه-موا!",
+    "words": [
+      {
+        "w": "excuser",
+        "m_en": "to excuse",
+        "m_ar": "يعذر / يسامح"
+      }
+    ],
+    "grammar_en": "Formal (vous) imperative used to get attention or apologize briefly.",
+    "grammar_ar": "صيغة أمر رسمية (vous) تُستخدم لجذب الانتباه أو الاعتذار البسيط.",
+    "alternatives": [
+      {
+        "text": "Pardon !",
+        "note_en": "Shorter and more general",
+        "note_ar": "عفوًا! أقصر وأعم"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4009,
+    "text": "Au revoir !",
+    "translation_ar": "مع السلامة!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Au revoir !",
+    "pronunciation": "أو روڤوار!",
+    "words": [
+      {
+        "w": "au revoir",
+        "m_en": "goodbye",
+        "m_ar": "مع السلامة"
+      }
+    ],
+    "grammar_en": "A fixed farewell expression, literally 'until we see each other again'.",
+    "grammar_ar": "تعبير ثابت للوداع، حرفيًا 'حتى نلتقي مجددًا'.",
+    "alternatives": [
+      {
+        "text": "À bientôt !",
+        "note_en": "See you soon",
+        "note_ar": "أراك قريبًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4010,
+    "text": "À demain !",
+    "translation_ar": "أراك غدًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "À demain !",
+    "pronunciation": "آ دومان!",
+    "words": [
+      {
+        "w": "demain",
+        "m_en": "tomorrow",
+        "m_ar": "غدًا"
+      }
+    ],
+    "grammar_en": "'À' + a time word is a common farewell that names the next meeting.",
+    "grammar_ar": "À + ظرف زمن تعبير وداع شائع يحدد موعد اللقاء القادم.",
+    "alternatives": [
+      {
+        "text": "À plus tard !",
+        "note_en": "See you later",
+        "note_ar": "أراك لاحقًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4011,
+    "text": "Comment allez-vous ?",
+    "translation_ar": "كيف حالك؟ (رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Comment allez-vous ?",
+    "pronunciation": "كومون تاليه-ڤو؟",
+    "words": [
+      {
+        "w": "aller",
+        "m_en": "to go / to be (doing)",
+        "m_ar": "يذهب / يكون بحال (في هذا السياق)"
+      }
+    ],
+    "grammar_en": "The verb aller is used to ask how someone is doing; vous is the formal form.",
+    "grammar_ar": "فعل aller يُستخدم للسؤال عن الحال؛ vous صيغة رسمية.",
+    "alternatives": [
+      {
+        "text": "Comment ça va ?",
+        "note_en": "Less formal",
+        "note_ar": "أقل رسمية"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4012,
+    "text": "Ça va bien, merci.",
+    "translation_ar": "أنا بخير، شكرًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Ça va bien, merci.",
+    "pronunciation": "سا ڤا بيان، مِرسي.",
+    "words": [
+      {
+        "w": "ça va",
+        "m_en": "it's going well",
+        "m_ar": "الحال تمام / بخير"
+      }
+    ],
+    "grammar_en": "A very common reply to 'how are you?'.",
+    "grammar_ar": "تعبير شائع جدًا للرد على 'كيف حالك؟'.",
+    "alternatives": [
+      {
+        "text": "Je vais bien, merci.",
+        "note_en": "Slightly more formal",
+        "note_ar": "أكثر رسمية قليلًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4013,
+    "text": "Comment tu t'appelles ?",
+    "translation_ar": "ما اسمك؟ (غير رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Comment tu t'appelles ?",
+    "pronunciation": "كومون تو تاپِل؟",
+    "words": [
+      {
+        "w": "s'appeler",
+        "m_en": "to be called (name)",
+        "m_ar": "يُدعى / اسمه"
+      }
+    ],
+    "grammar_en": "Reflexive verb s'appeler to ask someone's name, informal (tu).",
+    "grammar_ar": "فعل انعكاسي s'appeler للسؤال عن الاسم بصيغة غير رسمية (tu).",
+    "alternatives": [
+      {
+        "text": "Tu t'appelles comment ?",
+        "note_en": "Same meaning, casual word order",
+        "note_ar": "نفس المعنى بترتيب عامي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4014,
+    "text": "Je m'appelle Sarah.",
+    "translation_ar": "اسمي سارة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Je m'appelle Sarah.",
+    "pronunciation": "جو ماپِل سارا.",
+    "words": [
+      {
+        "w": "je m'appelle",
+        "m_en": "my name is",
+        "m_ar": "اسمي"
+      }
+    ],
+    "grammar_en": "The first-person form of the reflexive verb s'appeler.",
+    "grammar_ar": "صيغة المتكلم من الفعل الانعكاسي s'appeler.",
+    "alternatives": [
+      {
+        "text": "Mon nom est Sarah.",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسمية"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4015,
+    "text": "Enchanté !",
+    "translation_ar": "سعدت بلقائك!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Enchanté !",
+    "pronunciation": "أونشونتيه!",
+    "words": [
+      {
+        "w": "enchanté",
+        "m_en": "pleased to meet you",
+        "m_ar": "سعدت بلقائك"
+      }
+    ],
+    "grammar_en": "An adjective that changes with gender (enchantée for feminine); said when meeting someone.",
+    "grammar_ar": "صفة تتغير حسب الجنس (enchantée للمؤنث)؛ تُقال عند التعارف.",
+    "alternatives": [
+      {
+        "text": "Ravi de vous rencontrer.",
+        "note_en": "Longer and more formal",
+        "note_ar": "أطول وأكثر رسمية"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4016,
+    "text": "D'où venez-vous ?",
+    "translation_ar": "من أين أنت؟ (رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "D'où venez-vous ?",
+    "pronunciation": "دو ڤونيه-ڤو؟",
+    "words": [
+      {
+        "w": "venir de",
+        "m_en": "to come from",
+        "m_ar": "يأتي من"
+      }
+    ],
+    "grammar_en": "'venir de' + country asks about origin; vous is formal.",
+    "grammar_ar": "venir de + بلد للسؤال عن الأصل؛ vous صيغة رسمية.",
+    "alternatives": [
+      {
+        "text": "Vous venez d'où ?",
+        "note_en": "Same meaning, casual word order",
+        "note_ar": "نفس المعنى بترتيب عامي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4017,
+    "text": "Je viens d'Égypte.",
+    "translation_ar": "أنا من مصر.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Je viens d'Égypte.",
+    "pronunciation": "جو ڤيان ديجيپت.",
+    "words": [
+      {
+        "w": "l'Égypte",
+        "m_en": "Egypt",
+        "m_ar": "مصر"
+      }
+    ],
+    "grammar_en": "venir de + a feminine country name (d' before a vowel).",
+    "grammar_ar": "venir de + اسم بلد مؤنث (d' قبل حرف علة).",
+    "alternatives": [
+      {
+        "text": "Je suis égyptien.",
+        "note_en": "I am Egyptian (adjective)",
+        "note_ar": "أنا مصري (صفة)"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4018,
+    "text": "Quelle heure est-il ?",
+    "translation_ar": "كم الساعة؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Quelle heure est-il ?",
+    "pronunciation": "كِل أور إتيل؟",
+    "words": [
+      {
+        "w": "l'heure",
+        "m_en": "the time, the hour",
+        "m_ar": "الساعة / الوقت"
+      }
+    ],
+    "grammar_en": "A fixed question pattern for the time, using the impersonal subject il.",
+    "grammar_ar": "صيغة سؤال ثابتة عن الوقت باستخدام il الفاعل غير الشخصي.",
+    "alternatives": [
+      {
+        "text": "Vous avez l'heure ?",
+        "note_en": "Do you have the time? (casual)",
+        "note_ar": "عندك الوقت؟ (أقل رسمية)"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4019,
+    "text": "Je ne comprends pas.",
+    "translation_ar": "لا أفهم.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Je ne comprends pas.",
+    "pronunciation": "جو نو كومپرون پا.",
+    "words": [
+      {
+        "w": "comprendre",
+        "m_en": "to understand",
+        "m_ar": "يفهم"
+      }
+    ],
+    "grammar_en": "ne...pas surrounds the verb to negate it in the present tense.",
+    "grammar_ar": "ne...pas تُحيط بالفعل للنفي في المضارع.",
+    "alternatives": [
+      {
+        "text": "Je ne comprends pas bien.",
+        "note_en": "I don't understand well",
+        "note_ar": "لا أفهم جيدًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4020,
+    "text": "Pouvez-vous répéter, s'il vous plaît ?",
+    "translation_ar": "هل يمكنك أن تكرر من فضلك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Pouvez-vous répéter, s'il vous plaît ?",
+    "pronunciation": "پوڤيه-ڤو ريپيتيه، سيل ڤو پلِه؟",
+    "words": [
+      {
+        "w": "répéter",
+        "m_en": "to repeat",
+        "m_ar": "يكرر"
+      }
+    ],
+    "grammar_en": "Pouvez-vous + infinitive is a polite, formal request.",
+    "grammar_ar": "Pouvez-vous + مصدر طلب مهذب رسمي.",
+    "alternatives": [
+      {
+        "text": "Vous pouvez répéter ?",
+        "note_en": "Same meaning, less formal",
+        "note_ar": "نفس المعنى أقل رسمية"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4021,
+    "text": "Je voudrais un café, s'il vous plaît.",
+    "translation_ar": "أريد قهوة من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Je voudrais un café, s'il vous plaît.",
+    "pronunciation": "جو ڤودريه آن كافيه، سيل ڤو پلِه.",
+    "words": [
+      {
+        "w": "je voudrais",
+        "m_en": "I would like",
+        "m_ar": "أريد (صيغة مهذبة)"
+      }
+    ],
+    "grammar_en": "The present conditional (voudrais) of vouloir makes a polite request.",
+    "grammar_ar": "Conditionnel présent (voudrais) من vouloir لطلب مهذب.",
+    "alternatives": [
+      {
+        "text": "Un café, s'il vous plaît.",
+        "note_en": "Simpler and shorter",
+        "note_ar": "أبسط وأقصر"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4022,
+    "text": "Combien ça coûte ?",
+    "translation_ar": "كم سعر هذا؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Combien ça coûte ?",
+    "pronunciation": "كومبيان سا كوت؟",
+    "words": [
+      {
+        "w": "coûter",
+        "m_en": "to cost",
+        "m_ar": "يكلّف / سعره"
+      }
+    ],
+    "grammar_en": "'Combien' + verb is a simple question about price.",
+    "grammar_ar": "Combien + فعل سؤال بسيط عن السعر.",
+    "alternatives": [
+      {
+        "text": "C'est combien ?",
+        "note_en": "Same meaning, different order",
+        "note_ar": "نفس المعنى بترتيب مختلف"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4023,
+    "text": "Où sont les toilettes ?",
+    "translation_ar": "أين دورة المياه؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Où sont les toilettes ?",
+    "pronunciation": "او سون لِه توآلِت؟",
+    "words": [
+      {
+        "w": "les toilettes",
+        "m_en": "the restroom",
+        "m_ar": "دورة المياه"
+      }
+    ],
+    "grammar_en": "'Où sont' + plural noun asks for a location.",
+    "grammar_ar": "Où sont + اسم جمع تسأل عن موقع.",
+    "alternatives": [
+      {
+        "text": "Les toilettes sont où ?",
+        "note_en": "Same meaning, casual word order",
+        "note_ar": "نفس المعنى بترتيب عامي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4024,
+    "text": "Je suis désolé.",
+    "translation_ar": "أنا آسف.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Je suis désolé.",
+    "pronunciation": "جو سوي ديزوليه.",
+    "words": [
+      {
+        "w": "désolé",
+        "m_en": "sorry",
+        "m_ar": "آسف"
+      }
+    ],
+    "grammar_en": "An adjective that changes with gender (désolée for feminine); être + adjective.",
+    "grammar_ar": "صفة تتغير حسب الجنس (désolée للمؤنث)؛ être + صفة.",
+    "alternatives": [
+      {
+        "text": "Je m'excuse.",
+        "note_en": "I apologize",
+        "note_ar": "أعتذر"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4025,
+    "text": "Ce n'est pas grave.",
+    "translation_ar": "لا بأس، ليس مهمًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Ce n'est pas grave.",
+    "pronunciation": "سو نه پا گراڤ.",
+    "words": [
+      {
+        "w": "grave",
+        "m_en": "serious",
+        "m_ar": "خطير / جسيم"
+      }
+    ],
+    "grammar_en": "A fixed expression meaning 'it's okay' or 'no big deal'.",
+    "grammar_ar": "تعبير ثابت يعني 'لا بأس' أو 'ليس مهمًا'.",
+    "alternatives": [
+      {
+        "text": "Pas de problème.",
+        "note_en": "No problem",
+        "note_ar": "لا توجد مشكلة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4026,
+    "text": "J'ai faim.",
+    "translation_ar": "أنا جائع.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "J'ai faim.",
+    "pronunciation": "جيه فان.",
+    "words": [
+      {
+        "w": "avoir faim",
+        "m_en": "to be hungry",
+        "m_ar": "يشعر بالجوع"
+      }
+    ],
+    "grammar_en": "avoir + noun (faim), unlike English 'to be hungry' with être + adjective.",
+    "grammar_ar": "avoir + اسم (faim) بدل être + صفة، خلافًا للإنجليزية.",
+    "alternatives": [
+      {
+        "text": "Je meurs de faim.",
+        "note_en": "I'm starving (exaggeration)",
+        "note_ar": "أموت من الجوع (مبالغة)"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4027,
+    "text": "J'ai soif.",
+    "translation_ar": "أنا عطشان.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "J'ai soif.",
+    "pronunciation": "جيه سوآف.",
+    "words": [
+      {
+        "w": "avoir soif",
+        "m_en": "to be thirsty",
+        "m_ar": "يشعر بالعطش"
+      }
+    ],
+    "grammar_en": "avoir + soif, same structure as avoir faim.",
+    "grammar_ar": "avoir + soif نفس بنية avoir faim.",
+    "alternatives": [
+      {
+        "text": "J'aimerais boire quelque chose.",
+        "note_en": "I'd like to drink something",
+        "note_ar": "أود أن أشرب شيئًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4028,
+    "text": "J'ai besoin d'aide.",
+    "translation_ar": "أحتاج مساعدة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "J'ai besoin d'aide.",
+    "pronunciation": "جيه بوزوان دِد.",
+    "words": [
+      {
+        "w": "avoir besoin de",
+        "m_en": "to need",
+        "m_ar": "يحتاج إلى"
+      }
+    ],
+    "grammar_en": "'avoir besoin de' + noun is a fixed expression for need.",
+    "grammar_ar": "avoir besoin de + اسم تعبير ثابت عن الحاجة.",
+    "alternatives": [
+      {
+        "text": "Pouvez-vous m'aider ?",
+        "note_en": "Can you help me?",
+        "note_ar": "هل يمكنك مساعدتي؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4029,
+    "text": "Je ne sais pas.",
+    "translation_ar": "لا أعرف.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Je ne sais pas.",
+    "pronunciation": "جو نو سِه پا.",
+    "words": [
+      {
+        "w": "savoir",
+        "m_en": "to know",
+        "m_ar": "يعرف"
+      }
+    ],
+    "grammar_en": "savoir (to know facts) differs from connaître (to know a person/place).",
+    "grammar_ar": "savoir (المعرفة) يختلف عن connaître (التعرف على شخص/مكان).",
+    "alternatives": [
+      {
+        "text": "Aucune idée.",
+        "note_en": "No idea",
+        "note_ar": "لا فكرة عندي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4030,
+    "text": "Parlez-vous anglais ?",
+    "translation_ar": "هل تتحدث الإنجليزية؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Parlez-vous anglais ?",
+    "pronunciation": "پارليه-ڤو أونگليه؟",
+    "words": [
+      {
+        "w": "parler",
+        "m_en": "to speak",
+        "m_ar": "يتكلم"
+      }
+    ],
+    "grammar_en": "Parlez-vous + language is a formal question.",
+    "grammar_ar": "Parlez-vous + لغة سؤال بصيغة رسمية.",
+    "alternatives": [
+      {
+        "text": "Tu parles anglais ?",
+        "note_en": "Same meaning, informal",
+        "note_ar": "نفس المعنى غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4031,
+    "text": "Je parle un peu français.",
+    "translation_ar": "أتحدث الفرنسية قليلًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Je parle un peu français.",
+    "pronunciation": "جو پارل آن پو فرونسِه.",
+    "words": [
+      {
+        "w": "un peu",
+        "m_en": "a little",
+        "m_ar": "قليلًا"
+      }
+    ],
+    "grammar_en": "'un peu' softens the degree of the verb.",
+    "grammar_ar": "un peu + صفة أو ظرف يقلل من درجة الفعل.",
+    "alternatives": [
+      {
+        "text": "Je parle un petit peu français.",
+        "note_en": "Same meaning, extra emphasis on 'a little'",
+        "note_ar": "نفس المعنى بتأكيد أكبر على القلة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4032,
+    "text": "Quel âge avez-vous ?",
+    "translation_ar": "كم عمرك؟ (رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Quel âge avez-vous ?",
+    "pronunciation": "كِل آج آڤيه-ڤو؟",
+    "words": [
+      {
+        "w": "avoir ... ans",
+        "m_en": "to be ... years old",
+        "m_ar": "يبلغ من العمر (avoir + سنوات)"
+      }
+    ],
+    "grammar_en": "avoir is used for age instead of être, unlike English.",
+    "grammar_ar": "avoir تُستخدم للعمر بدل être، خلافًا للإنجليزية.",
+    "alternatives": [
+      {
+        "text": "Vous avez quel âge ?",
+        "note_en": "Same meaning, casual word order",
+        "note_ar": "نفس المعنى بترتيب عامي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4033,
+    "text": "J'ai vingt-cinq ans.",
+    "translation_ar": "عمري خمسة وعشرون عامًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "J'ai vingt-cinq ans.",
+    "pronunciation": "جيه ڤان-سانك آن.",
+    "words": [
+      {
+        "w": "vingt-cinq",
+        "m_en": "twenty-five",
+        "m_ar": "خمسة وعشرون"
+      }
+    ],
+    "grammar_en": "avoir + number + ans is the fixed pattern for stating age.",
+    "grammar_ar": "avoir + رقم + ans صيغة ثابتة للتعبير عن العمر.",
+    "alternatives": [
+      {
+        "text": "J'ai vingt-cinq ans, et vous ?",
+        "note_en": "Same meaning, with a question back",
+        "note_ar": "نفس المعنى مع سؤال مقابل"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4034,
+    "text": "Quel temps fait-il ?",
+    "translation_ar": "كيف الطقس؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Quel temps fait-il ?",
+    "pronunciation": "كِل تون فِه-تيل؟",
+    "words": [
+      {
+        "w": "il fait",
+        "m_en": "it is (weather)",
+        "m_ar": "الجو (في وصف الطقس)"
+      }
+    ],
+    "grammar_en": "'il fait' + adjective/noun is the fixed pattern for describing weather.",
+    "grammar_ar": "il fait + صفة/اسم صيغة ثابتة لوصف الطقس.",
+    "alternatives": [
+      {
+        "text": "Quel temps il fait aujourd'hui ?",
+        "note_en": "Same meaning, adding 'today'",
+        "note_ar": "نفس المعنى بإضافة اليوم"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4035,
+    "text": "Il fait beau aujourd'hui.",
+    "translation_ar": "الطقس جميل اليوم.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Il fait beau aujourd'hui.",
+    "pronunciation": "إيل فِه بو أوجوردوي.",
+    "words": [
+      {
+        "w": "il fait beau",
+        "m_en": "the weather is nice",
+        "m_ar": "الجو جميل / صحو"
+      }
+    ],
+    "grammar_en": "'il fait beau' is a very fixed expression for nice weather.",
+    "grammar_ar": "il fait beau تعبير ثابت جدًا لوصف طقس جميل.",
+    "alternatives": [
+      {
+        "text": "Il fait très beau aujourd'hui.",
+        "note_en": "The weather is very nice today",
+        "note_ar": "الجو جميل جدًا اليوم"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4036,
+    "text": "J'habite à Paris.",
+    "translation_ar": "أسكن في باريس.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "J'habite à Paris.",
+    "pronunciation": "جابيت آ پاري.",
+    "words": [
+      {
+        "w": "habiter à",
+        "m_en": "to live in",
+        "m_ar": "يسكن في"
+      }
+    ],
+    "grammar_en": "'habiter à' + city states where you live; no extra preposition needed.",
+    "grammar_ar": "habiter à + مدينة يصف مكان السكن؛ لا يوجد حرف جر إضافي.",
+    "alternatives": [
+      {
+        "text": "Je vis à Paris.",
+        "note_en": "Alternative with the verb vivre",
+        "note_ar": "بديل بفعل vivre"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4037,
+    "text": "Qu'est-ce que vous faites dans la vie ?",
+    "translation_ar": "ما هي مهنتك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Qu'est-ce que vous faites dans la vie ?",
+    "pronunciation": "كِسكو ڤو فِت دون لا ڤي؟",
+    "words": [
+      {
+        "w": "faire",
+        "m_en": "to do / for work",
+        "m_ar": "يفعل / يعمل (في هذا السياق)"
+      }
+    ],
+    "grammar_en": "'Qu'est-ce que' + faire is a common way to ask about someone's job.",
+    "grammar_ar": "Qu'est-ce que + فعل faire صيغة شائعة للسؤال عن المهنة.",
+    "alternatives": [
+      {
+        "text": "Vous travaillez dans quoi ?",
+        "note_en": "What do you do for work? (broader)",
+        "note_ar": "تشتغل في إيه؟ (أعم)"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4038,
+    "text": "Je suis étudiant.",
+    "translation_ar": "أنا طالب.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Je suis étudiant.",
+    "pronunciation": "جو سوي إتوديون.",
+    "words": [
+      {
+        "w": "étudiant",
+        "m_en": "student",
+        "m_ar": "طالب"
+      }
+    ],
+    "grammar_en": "être + profession/status with no article in French.",
+    "grammar_ar": "être + مهنة/صفة بدون أداة تعريف في الفرنسية.",
+    "alternatives": [
+      {
+        "text": "Je suis étudiante.",
+        "note_en": "Feminine form",
+        "note_ar": "للمؤنث"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4039,
+    "text": "Pouvez-vous m'aider, s'il vous plaît ?",
+    "translation_ar": "هل يمكنك مساعدتي من فضلك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Pouvez-vous m'aider, s'il vous plaît ?",
+    "pronunciation": "پوڤيه-ڤو مِديه، سيل ڤو پلِه؟",
+    "words": [
+      {
+        "w": "aider",
+        "m_en": "to help",
+        "m_ar": "يساعد"
+      }
+    ],
+    "grammar_en": "Pouvez-vous + infinitive is a polite, formal request.",
+    "grammar_ar": "Pouvez-vous + مصدر طلب مهذب رسمي.",
+    "alternatives": [
+      {
+        "text": "Tu peux m'aider ?",
+        "note_en": "Same meaning, informal",
+        "note_ar": "نفس المعنى غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4040,
+    "text": "Où est la gare ?",
+    "translation_ar": "أين محطة القطار؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Où est la gare ?",
+    "pronunciation": "او إه لا گار؟",
+    "words": [
+      {
+        "w": "la gare",
+        "m_en": "train station",
+        "m_ar": "محطة القطار"
+      }
+    ],
+    "grammar_en": "'Où est' + singular noun asks for a location.",
+    "grammar_ar": "Où est + اسم مفرد سؤال عن موقع.",
+    "alternatives": [
+      {
+        "text": "Comment aller à la gare ?",
+        "note_en": "How do I get to the station?",
+        "note_ar": "كيف أروح للمحطة؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4041,
+    "text": "C'est à gauche.",
+    "translation_ar": "إنه على اليسار.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "C'est à gauche.",
+    "pronunciation": "سِه تا گوش.",
+    "words": [
+      {
+        "w": "à gauche",
+        "m_en": "on the left",
+        "m_ar": "على اليسار"
+      }
+    ],
+    "grammar_en": "'c'est' + place adverb is a simple way to give directions.",
+    "grammar_ar": "c'est + ظرف مكان صيغة بسيطة لإعطاء اتجاه.",
+    "alternatives": [
+      {
+        "text": "C'est sur votre gauche.",
+        "note_en": "On your left (more formal)",
+        "note_ar": "على يسارك (أرسمي)"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4042,
+    "text": "C'est à droite.",
+    "translation_ar": "إنه على اليمين.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "C'est à droite.",
+    "pronunciation": "سِه تا دروات.",
+    "words": [
+      {
+        "w": "à droite",
+        "m_en": "on the right",
+        "m_ar": "على اليمين"
+      }
+    ],
+    "grammar_en": "Same structure as à gauche.",
+    "grammar_ar": "نفس بنية à gauche.",
+    "alternatives": [
+      {
+        "text": "C'est sur votre droite.",
+        "note_en": "On your right (more formal)",
+        "note_ar": "على يمينك (أرسمي)"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4043,
+    "text": "Tout droit.",
+    "translation_ar": "على طول.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Tout droit.",
+    "pronunciation": "تو دروا.",
+    "words": [
+      {
+        "w": "tout droit",
+        "m_en": "straight ahead",
+        "m_ar": "على طول / مباشرة"
+      }
+    ],
+    "grammar_en": "A very short phrase, common when giving directions.",
+    "grammar_ar": "عبارة قصيرة جدًا شائعة في إعطاء الاتجاهات.",
+    "alternatives": [
+      {
+        "text": "Continuez tout droit.",
+        "note_en": "Keep going straight",
+        "note_ar": "استمر على طول"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4044,
+    "text": "Je voudrais réserver une table.",
+    "translation_ar": "أريد حجز طاولة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Je voudrais réserver une table.",
+    "pronunciation": "جو ڤودريه ريزيرڤيه أون تابل.",
+    "words": [
+      {
+        "w": "réserver",
+        "m_en": "to reserve, book",
+        "m_ar": "يحجز"
+      }
+    ],
+    "grammar_en": "'je voudrais' + infinitive is a polite ordering/booking pattern.",
+    "grammar_ar": "je voudrais + مصدر صيغة مهذبة للطلب في المطعم.",
+    "alternatives": [
+      {
+        "text": "Je voudrais faire une réservation.",
+        "note_en": "Same meaning, longer phrasing",
+        "note_ar": "نفس المعنى بصياغة أطول"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4045,
+    "text": "L'addition, s'il vous plaît.",
+    "translation_ar": "الفاتورة من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "L'addition, s'il vous plaît.",
+    "pronunciation": "لاديسيون، سيل ڤو پلِه.",
+    "words": [
+      {
+        "w": "l'addition",
+        "m_en": "the bill, the check",
+        "m_ar": "الفاتورة (في المطعم)"
+      }
+    ],
+    "grammar_en": "A very fixed phrase for asking for the bill at a restaurant.",
+    "grammar_ar": "عبارة ثابتة جدًا لطلب الحساب في مطعم.",
+    "alternatives": [
+      {
+        "text": "Je peux avoir l'addition ?",
+        "note_en": "Can I have the bill?",
+        "note_ar": "ممكن آخد الفاتورة؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4046,
+    "text": "C'est délicieux !",
+    "translation_ar": "هذا لذيذ!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "C'est délicieux !",
+    "pronunciation": "سِه ديليسيو!",
+    "words": [
+      {
+        "w": "délicieux",
+        "m_en": "delicious",
+        "m_ar": "لذيذ"
+      }
+    ],
+    "grammar_en": "An adjective that changes with gender (délicieuse for feminine).",
+    "grammar_ar": "صفة تتغير حسب الجنس (délicieuse للمؤنث).",
+    "alternatives": [
+      {
+        "text": "C'est très bon !",
+        "note_en": "This is very good!",
+        "note_ar": "ده كويس جدًا!"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4047,
+    "text": "Je suis fatigué.",
+    "translation_ar": "أنا متعب.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Je suis fatigué.",
+    "pronunciation": "جو سوي فاتيگيه.",
+    "words": [
+      {
+        "w": "fatigué",
+        "m_en": "tired",
+        "m_ar": "متعب"
+      }
+    ],
+    "grammar_en": "être + adjective changing with gender (fatiguée for feminine).",
+    "grammar_ar": "être + صفة تتغير حسب الجنس (fatiguée للمؤنث).",
+    "alternatives": [
+      {
+        "text": "Je suis épuisé.",
+        "note_en": "Completely exhausted",
+        "note_ar": "منهك تمامًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4048,
+    "text": "J'ai mal à la tête.",
+    "translation_ar": "أشعر بألم في رأسي.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "J'ai mal à la tête.",
+    "pronunciation": "جيه مال آ لا تِت.",
+    "words": [
+      {
+        "w": "avoir mal à",
+        "m_en": "to have a pain in",
+        "m_ar": "يؤلمه / لديه ألم في"
+      }
+    ],
+    "grammar_en": "'avoir mal à' + body part is the fixed pattern for pain.",
+    "grammar_ar": "avoir mal à + جزء من الجسم تعبير ثابت للألم.",
+    "alternatives": [
+      {
+        "text": "Ma tête me fait mal.",
+        "note_en": "Alternative word order",
+        "note_ar": "بديل بترتيب مختلف"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4049,
+    "text": "Appelez un médecin, s'il vous plaît !",
+    "translation_ar": "اتصل بطبيب من فضلك!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Appelez un médecin, s'il vous plaît !",
+    "pronunciation": "آپليه آن ميدسان، سيل ڤو پلِه!",
+    "words": [
+      {
+        "w": "le médecin",
+        "m_en": "doctor",
+        "m_ar": "الطبيب"
+      }
+    ],
+    "grammar_en": "Formal (vous) imperative for an emergency.",
+    "grammar_ar": "صيغة أمر رسمية (vous) في حالة طارئة.",
+    "alternatives": [
+      {
+        "text": "Il me faut un médecin !",
+        "note_en": "I need a doctor!",
+        "note_ar": "أحتاج طبيبًا!"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 4050,
+    "text": "Bonne journée !",
+    "translation_ar": "يومًا سعيدًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FR",
+    "channel": "demo",
+    "speaker": "Native speaker (FR)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Bonne journée !",
+    "pronunciation": "بون جورنيه!",
+    "words": [
+      {
+        "w": "la journée",
+        "m_en": "the day",
+        "m_ar": "اليوم (بمدته)"
+      }
+    ],
+    "grammar_en": "A common farewell meaning 'have a nice day'.",
+    "grammar_ar": "تعبير وداع شائع يعني 'يومًا سعيدًا'.",
+    "alternatives": [
+      {
+        "text": "Passe une bonne journée !",
+        "note_en": "Same meaning, informal",
+        "note_ar": "نفس المعنى غير رسمي"
+      }
+    ],
+    "similar": []
+  }
+]
