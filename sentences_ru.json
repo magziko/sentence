@@ -1,0 +1,1552 @@
+[
+  {
+    "id": 5001,
+    "text": "Здравствуйте!",
+    "translation_ar": "مرحبًا! (رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Здравствуйте!",
+    "pronunciation": "زدراستفويتيه!",
+    "words": [
+      {
+        "w": "здравствуйте",
+        "m_en": "hello (formal)",
+        "m_ar": "مرحبًا (رسمي)"
+      }
+    ],
+    "grammar_en": "The standard formal greeting, usable at any time of day.",
+    "grammar_ar": "التحية الرسمية القياسية، وتصلح في أي وقت من اليوم.",
+    "alternatives": [
+      {
+        "text": "Привет!",
+        "note_en": "Informal, among friends",
+        "note_ar": "غير رسمي بين الأصدقاء"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5002,
+    "text": "Добрый вечер!",
+    "translation_ar": "مساء الخير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Добрый вечер!",
+    "pronunciation": "دوبري ڤيتشير!",
+    "words": [
+      {
+        "w": "вечер",
+        "m_en": "evening",
+        "m_ar": "مساء"
+      }
+    ],
+    "grammar_en": "Used in the evening; \"добрый\" literally means \"kind\".",
+    "grammar_ar": "تُقال في المساء؛ و\"добрый\" تعني حرفيًا \"طيّب\".",
+    "alternatives": [
+      {
+        "text": "Хорошего вечера!",
+        "note_en": "Said when parting",
+        "note_ar": "تُقال عند الوداع"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5003,
+    "text": "Спокойной ночи!",
+    "translation_ar": "تصبح على خير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Спокойной ночи!",
+    "pronunciation": "سپاكويناي نوتشي!",
+    "words": [
+      {
+        "w": "ночь",
+        "m_en": "night",
+        "m_ar": "ليل"
+      }
+    ],
+    "grammar_en": "Literally \"calm night\"; it is a wish in the genitive case.",
+    "grammar_ar": "حرفيًا \"ليلة هادئة\"؛ وهي أمنية بصيغة المضاف إليه.",
+    "alternatives": [
+      {
+        "text": "Приятных снов!",
+        "note_en": "Sweet dreams",
+        "note_ar": "أحلامًا سعيدة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5004,
+    "text": "Спасибо!",
+    "translation_ar": "شكرًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Спасибо!",
+    "pronunciation": "سپاسيبا!",
+    "words": [
+      {
+        "w": "спасибо",
+        "m_en": "thank you",
+        "m_ar": "شكرًا"
+      }
+    ],
+    "grammar_en": "The basic \"thank you\"; it never changes with gender or formality.",
+    "grammar_ar": "كلمة الشكر الأساسية، ولا تتغير بحسب الجنس أو الرسمية.",
+    "alternatives": [
+      {
+        "text": "Большое спасибо.",
+        "note_en": "Thank you very much",
+        "note_ar": "شكرًا جزيلًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5005,
+    "text": "Пожалуйста.",
+    "translation_ar": "من فضلك. / عفوًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Пожалуйста.",
+    "pronunciation": "پاجالوستا.",
+    "words": [
+      {
+        "w": "пожалуйста",
+        "m_en": "please / you're welcome",
+        "m_ar": "من فضلك / عفوًا"
+      }
+    ],
+    "grammar_en": "It means both \"please\" and \"you're welcome\".",
+    "grammar_ar": "تعني \"من فضلك\" و\"عفوًا\" معًا.",
+    "alternatives": [
+      {
+        "text": "Будьте добры.",
+        "note_en": "A polite request",
+        "note_ar": "طلب مهذب"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5006,
+    "text": "Да, пожалуйста.",
+    "translation_ar": "نعم، من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Да, пожалуйста.",
+    "pronunciation": "دا، پاجالوستا.",
+    "words": [
+      {
+        "w": "да",
+        "m_en": "yes",
+        "m_ar": "نعم"
+      }
+    ],
+    "grammar_en": "Used to accept an offer politely.",
+    "grammar_ar": "تُستخدم لقبول عرض بأدب.",
+    "alternatives": [
+      {
+        "text": "Да, с удовольствием.",
+        "note_en": "Yes, with pleasure",
+        "note_ar": "نعم، بكل سرور"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5007,
+    "text": "Нет, спасибо.",
+    "translation_ar": "لا، شكرًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Нет, спасибо.",
+    "pronunciation": "نيت، سپاسيبا.",
+    "words": [
+      {
+        "w": "нет",
+        "m_en": "no",
+        "m_ar": "لا"
+      }
+    ],
+    "grammar_en": "A polite way to decline an offer.",
+    "grammar_ar": "طريقة مهذبة لرفض عرض.",
+    "alternatives": [
+      {
+        "text": "Нет, не надо.",
+        "note_en": "More direct",
+        "note_ar": "أكثر مباشرة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5008,
+    "text": "Извините!",
+    "translation_ar": "المعذرة!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Извините!",
+    "pronunciation": "إزڤينيتيه!",
+    "words": [
+      {
+        "w": "извинить",
+        "m_en": "to excuse",
+        "m_ar": "يعذر"
+      }
+    ],
+    "grammar_en": "The formal imperative; informally you say \"извини\".",
+    "grammar_ar": "صيغة الأمر الرسمية؛ وغير الرسمية \"извини\".",
+    "alternatives": [
+      {
+        "text": "Простите!",
+        "note_en": "Slightly more formal",
+        "note_ar": "أكثر رسمية قليلًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5009,
+    "text": "До свидания!",
+    "translation_ar": "مع السلامة!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "До свидания!",
+    "pronunciation": "دا سڤيدانيا!",
+    "words": [
+      {
+        "w": "свидание",
+        "m_en": "meeting",
+        "m_ar": "لقاء"
+      }
+    ],
+    "grammar_en": "Literally \"until meeting\"; the standard goodbye.",
+    "grammar_ar": "حرفيًا \"حتى اللقاء\"؛ وداع قياسي.",
+    "alternatives": [
+      {
+        "text": "Пока!",
+        "note_en": "Casual bye",
+        "note_ar": "وداع عامي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5010,
+    "text": "До завтра!",
+    "translation_ar": "أراك غدًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "До завтра!",
+    "pronunciation": "دا زافترا!",
+    "words": [
+      {
+        "w": "завтра",
+        "m_en": "tomorrow",
+        "m_ar": "غدًا"
+      }
+    ],
+    "grammar_en": "\"До\" + genitive means \"until\".",
+    "grammar_ar": "\"До\" + المضاف إليه تعني \"حتى\".",
+    "alternatives": [
+      {
+        "text": "До скорого!",
+        "note_en": "See you soon",
+        "note_ar": "أراك قريبًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5011,
+    "text": "Как вы поживаете?",
+    "translation_ar": "كيف حالك؟ (رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Как вы поживаете?",
+    "pronunciation": "كاك ڤي پاجيڤايتيه؟",
+    "words": [
+      {
+        "w": "поживать",
+        "m_en": "to get along, to fare",
+        "m_ar": "يكون حاله"
+      }
+    ],
+    "grammar_en": "\"Вы\" is the formal \"you\".",
+    "grammar_ar": "\"Вы\" هو ضمير المخاطب الرسمي.",
+    "alternatives": [
+      {
+        "text": "Как дела?",
+        "note_en": "How are things?",
+        "note_ar": "كيف الأحوال؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5012,
+    "text": "У меня всё хорошо, спасибо.",
+    "translation_ar": "أنا بخير، شكرًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "У меня всё хорошо, спасибо.",
+    "pronunciation": "أو مينيا ڤسيو خاراشو، سپاسيبا.",
+    "words": [
+      {
+        "w": "хорошо",
+        "m_en": "well, good",
+        "m_ar": "جيد"
+      }
+    ],
+    "grammar_en": "\"У меня\" literally means \"at me\", used for \"I have\".",
+    "grammar_ar": "\"У меня\" تعني حرفيًا \"عندي\" وتُستخدم للدلالة على الملكية.",
+    "alternatives": [
+      {
+        "text": "Всё нормально.",
+        "note_en": "Everything is fine",
+        "note_ar": "كل شيء على ما يرام"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5013,
+    "text": "Как тебя зовут?",
+    "translation_ar": "ما اسمك؟ (غير رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Как тебя зовут?",
+    "pronunciation": "كاك تيبيا زاڤوت؟",
+    "words": [
+      {
+        "w": "звать",
+        "m_en": "to call",
+        "m_ar": "يُنادي، يُسمّي"
+      }
+    ],
+    "grammar_en": "Literally \"how do they call you?\".",
+    "grammar_ar": "حرفيًا \"كيف يُنادونك؟\".",
+    "alternatives": [
+      {
+        "text": "Как твоё имя?",
+        "note_en": "What is your name?",
+        "note_ar": "ما اسمك؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5014,
+    "text": "Меня зовут Сара.",
+    "translation_ar": "اسمي سارة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Меня зовут Сара.",
+    "pronunciation": "مينيا زاڤوت سارا.",
+    "words": [
+      {
+        "w": "меня зовут",
+        "m_en": "my name is",
+        "m_ar": "اسمي"
+      }
+    ],
+    "grammar_en": "Literally \"they call me Sara\".",
+    "grammar_ar": "حرفيًا \"يُنادونني سارة\".",
+    "alternatives": [
+      {
+        "text": "Я Сара.",
+        "note_en": "I am Sara",
+        "note_ar": "أنا سارة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5015,
+    "text": "Очень приятно!",
+    "translation_ar": "سعدت بلقائك!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Очень приятно!",
+    "pronunciation": "أوتشين پريياتنا!",
+    "words": [
+      {
+        "w": "приятно",
+        "m_en": "pleasant, nice",
+        "m_ar": "لطيف، سار"
+      }
+    ],
+    "grammar_en": "Short for \"very pleasant to meet you\".",
+    "grammar_ar": "اختصار لـ\"سعيد جدًا بلقائك\".",
+    "alternatives": [
+      {
+        "text": "Рад познакомиться.",
+        "note_en": "Glad to meet you (male)",
+        "note_ar": "سعيد بلقائك"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5016,
+    "text": "Откуда вы?",
+    "translation_ar": "من أين أنت؟ (رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Откуда вы?",
+    "pronunciation": "أتكودا ڤي؟",
+    "words": [
+      {
+        "w": "откуда",
+        "m_en": "from where",
+        "m_ar": "من أين"
+      }
+    ],
+    "grammar_en": "\"Откуда\" asks about origin.",
+    "grammar_ar": "\"Откуда\" تسأل عن الأصل.",
+    "alternatives": [
+      {
+        "text": "Откуда вы родом?",
+        "note_en": "Where are you originally from?",
+        "note_ar": "من أي بلد أنت أصلًا؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5017,
+    "text": "Я из Египта.",
+    "translation_ar": "أنا من مصر.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Я из Египта.",
+    "pronunciation": "يا إز إيجيپتا.",
+    "words": [
+      {
+        "w": "из",
+        "m_en": "from",
+        "m_ar": "من"
+      }
+    ],
+    "grammar_en": "\"Из\" + genitive shows origin.",
+    "grammar_ar": "\"Из\" + المضاف إليه تدل على الأصل.",
+    "alternatives": [
+      {
+        "text": "Я египтянин.",
+        "note_en": "I'm Egyptian (male)",
+        "note_ar": "أنا مصري"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5018,
+    "text": "Который час?",
+    "translation_ar": "كم الساعة؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Который час?",
+    "pronunciation": "كاتوري تشاس؟",
+    "words": [
+      {
+        "w": "час",
+        "m_en": "hour",
+        "m_ar": "ساعة"
+      }
+    ],
+    "grammar_en": "The standard question for the time.",
+    "grammar_ar": "السؤال القياسي عن الوقت.",
+    "alternatives": [
+      {
+        "text": "Сколько времени?",
+        "note_en": "What time is it?",
+        "note_ar": "كم الوقت؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5019,
+    "text": "Я не понимаю.",
+    "translation_ar": "لا أفهم.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Я не понимаю.",
+    "pronunciation": "يا نيه پانيمايو.",
+    "words": [
+      {
+        "w": "понимать",
+        "m_en": "to understand",
+        "m_ar": "يفهم"
+      }
+    ],
+    "grammar_en": "\"Не\" before the verb makes it negative.",
+    "grammar_ar": "\"Не\" قبل الفعل تجعله منفيًا.",
+    "alternatives": [
+      {
+        "text": "Я вас не понимаю.",
+        "note_en": "I don't understand you",
+        "note_ar": "لا أفهمك"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5020,
+    "text": "Повторите, пожалуйста.",
+    "translation_ar": "كرّر من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Повторите, пожалуйста.",
+    "pronunciation": "پافتاريتيه، پاجالوستا.",
+    "words": [
+      {
+        "w": "повторить",
+        "m_en": "to repeat",
+        "m_ar": "يكرر"
+      }
+    ],
+    "grammar_en": "A polite formal imperative.",
+    "grammar_ar": "صيغة أمر رسمية مهذبة.",
+    "alternatives": [
+      {
+        "text": "Вы можете повторить?",
+        "note_en": "Can you repeat that?",
+        "note_ar": "هل يمكنك التكرار؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5021,
+    "text": "Я хотел бы кофе, пожалуйста.",
+    "translation_ar": "أريد قهوة من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Я хотел бы кофе, пожалуйста.",
+    "pronunciation": "يا خاتيل بي كوفيه، پاجالوستا.",
+    "words": [
+      {
+        "w": "хотел бы",
+        "m_en": "would like (male)",
+        "m_ar": "أودّ"
+      }
+    ],
+    "grammar_en": "\"Хотел бы\" is a polite \"would like\"; women say \"хотела бы\".",
+    "grammar_ar": "\"Хотел бы\" صيغة مهذبة؛ والمرأة تقول \"хотела бы\".",
+    "alternatives": [
+      {
+        "text": "Кофе, пожалуйста.",
+        "note_en": "Coffee, please",
+        "note_ar": "قهوة من فضلك"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5022,
+    "text": "Сколько это стоит?",
+    "translation_ar": "كم سعر هذا؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Сколько это стоит?",
+    "pronunciation": "سكولكا إتا ستويت؟",
+    "words": [
+      {
+        "w": "стоить",
+        "m_en": "to cost",
+        "m_ar": "يكلّف"
+      }
+    ],
+    "grammar_en": "\"Сколько\" means \"how much\".",
+    "grammar_ar": "\"Сколько\" تعني \"كم\".",
+    "alternatives": [
+      {
+        "text": "Сколько стоит?",
+        "note_en": "How much is it?",
+        "note_ar": "بكم؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5023,
+    "text": "Где туалет?",
+    "translation_ar": "أين دورة المياه؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Где туалет?",
+    "pronunciation": "گدييه توالييت؟",
+    "words": [
+      {
+        "w": "туалет",
+        "m_en": "toilet",
+        "m_ar": "دورة المياه"
+      }
+    ],
+    "grammar_en": "\"Где\" means \"where\"; no verb \"is\" is needed.",
+    "grammar_ar": "\"Где\" تعني \"أين\"؛ ولا حاجة لفعل \"يكون\".",
+    "alternatives": [
+      {
+        "text": "Где здесь туалет?",
+        "note_en": "Where is the toilet here?",
+        "note_ar": "أين دورة المياه هنا؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5024,
+    "text": "Мне очень жаль.",
+    "translation_ar": "أنا آسف.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Мне очень жаль.",
+    "pronunciation": "منييه أوتشين جال.",
+    "words": [
+      {
+        "w": "жаль",
+        "m_en": "pity, sorry",
+        "m_ar": "أسف"
+      }
+    ],
+    "grammar_en": "\"Мне жаль\" literally means \"to me it is a pity\".",
+    "grammar_ar": "\"Мне жаль\" تعني حرفيًا \"بالنسبة لي هذا مؤسف\".",
+    "alternatives": [
+      {
+        "text": "Извините меня.",
+        "note_en": "Forgive me",
+        "note_ar": "اعذرني"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5025,
+    "text": "Ничего страшного.",
+    "translation_ar": "لا بأس، ليس مهمًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Ничего страшного.",
+    "pronunciation": "نيتشيڤو ستراشنافا.",
+    "words": [
+      {
+        "w": "страшный",
+        "m_en": "terrible",
+        "m_ar": "مخيف"
+      }
+    ],
+    "grammar_en": "Literally \"nothing terrible\".",
+    "grammar_ar": "حرفيًا \"لا شيء مخيف\".",
+    "alternatives": [
+      {
+        "text": "Ничего.",
+        "note_en": "Short and casual",
+        "note_ar": "مختصرة وعامية"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5026,
+    "text": "Я хочу есть.",
+    "translation_ar": "أنا جائع.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Я хочу есть.",
+    "pronunciation": "يا خاتشو يست.",
+    "words": [
+      {
+        "w": "хотеть",
+        "m_en": "to want",
+        "m_ar": "يريد"
+      }
+    ],
+    "grammar_en": "Literally \"I want to eat\".",
+    "grammar_ar": "حرفيًا \"أريد أن آكل\".",
+    "alternatives": [
+      {
+        "text": "Я голоден.",
+        "note_en": "I'm hungry (male)",
+        "note_ar": "أنا جائع"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5027,
+    "text": "Я хочу пить.",
+    "translation_ar": "أنا عطشان.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Я хочу пить.",
+    "pronunciation": "يا خاتشو پيت.",
+    "words": [
+      {
+        "w": "пить",
+        "m_en": "to drink",
+        "m_ar": "يشرب"
+      }
+    ],
+    "grammar_en": "Literally \"I want to drink\".",
+    "grammar_ar": "حرفيًا \"أريد أن أشرب\".",
+    "alternatives": [
+      {
+        "text": "Мне хочется пить.",
+        "note_en": "I feel thirsty",
+        "note_ar": "أشعر بالعطش"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5028,
+    "text": "Мне нужна помощь.",
+    "translation_ar": "أحتاج مساعدة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Мне нужна помощь.",
+    "pronunciation": "منييه نوجنا پوموش.",
+    "words": [
+      {
+        "w": "помощь",
+        "m_en": "help",
+        "m_ar": "مساعدة"
+      }
+    ],
+    "grammar_en": "\"Нужна\" agrees with the feminine noun \"помощь\".",
+    "grammar_ar": "\"Нужна\" تتوافق مع الاسم المؤنث \"помощь\".",
+    "alternatives": [
+      {
+        "text": "Помогите, пожалуйста!",
+        "note_en": "Please help!",
+        "note_ar": "ساعدوني من فضلكم!"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5029,
+    "text": "Я не знаю.",
+    "translation_ar": "لا أعرف.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Я не знаю.",
+    "pronunciation": "يا نيه زنايو.",
+    "words": [
+      {
+        "w": "знать",
+        "m_en": "to know",
+        "m_ar": "يعرف"
+      }
+    ],
+    "grammar_en": "Basic negation with \"не\".",
+    "grammar_ar": "نفي أساسي بـ\"не\".",
+    "alternatives": [
+      {
+        "text": "Понятия не имею.",
+        "note_en": "I have no idea",
+        "note_ar": "ليست لدي أدنى فكرة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5030,
+    "text": "Вы говорите по-английски?",
+    "translation_ar": "هل تتحدث الإنجليزية؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Вы говорите по-английски?",
+    "pronunciation": "ڤي گاڤاريتيه پا-أنگليسكي؟",
+    "words": [
+      {
+        "w": "говорить",
+        "m_en": "to speak",
+        "m_ar": "يتحدث"
+      }
+    ],
+    "grammar_en": "Languages use \"по-\" + an adverb form.",
+    "grammar_ar": "اللغات تأخذ \"по-\" + صيغة الظرف.",
+    "alternatives": [
+      {
+        "text": "Ты говоришь по-английски?",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5031,
+    "text": "Я немного говорю по-русски.",
+    "translation_ar": "أتحدث الروسية قليلًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Я немного говорю по-русски.",
+    "pronunciation": "يا نيمنوگا گاڤاريو پا-روسكي.",
+    "words": [
+      {
+        "w": "немного",
+        "m_en": "a little",
+        "m_ar": "قليلًا"
+      }
+    ],
+    "grammar_en": "\"По-русски\" means \"in Russian\".",
+    "grammar_ar": "\"По-русски\" تعني \"بالروسية\".",
+    "alternatives": [
+      {
+        "text": "Я плохо говорю по-русски.",
+        "note_en": "I speak Russian poorly",
+        "note_ar": "أتحدث الروسية بشكل ضعيف"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5032,
+    "text": "Сколько вам лет?",
+    "translation_ar": "كم عمرك؟ (رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Сколько вам лет?",
+    "pronunciation": "سكولكا ڤام ليت؟",
+    "words": [
+      {
+        "w": "лет",
+        "m_en": "years (genitive plural)",
+        "m_ar": "سنوات"
+      }
+    ],
+    "grammar_en": "Literally \"how many to-you years?\".",
+    "grammar_ar": "حرفيًا \"كم لك من السنوات؟\".",
+    "alternatives": [
+      {
+        "text": "Сколько тебе лет?",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5033,
+    "text": "Мне двадцать пять лет.",
+    "translation_ar": "عمري خمسة وعشرون عامًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Мне двадцать пять лет.",
+    "pronunciation": "منييه دڤاتسات پيات ليت.",
+    "words": [
+      {
+        "w": "двадцать",
+        "m_en": "twenty",
+        "m_ar": "عشرون"
+      }
+    ],
+    "grammar_en": "Age is expressed with \"мне\" + number + \"лет\".",
+    "grammar_ar": "العمر يُعبَّر عنه بـ\"мне\" + الرقم + \"лет\".",
+    "alternatives": [
+      {
+        "text": "Мне двадцать пять.",
+        "note_en": "Short form",
+        "note_ar": "صيغة مختصرة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5034,
+    "text": "Какая сегодня погода?",
+    "translation_ar": "كيف الطقس اليوم؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Какая сегодня погода?",
+    "pronunciation": "كاكايا سيڤودنيا پاگودا؟",
+    "words": [
+      {
+        "w": "погода",
+        "m_en": "weather",
+        "m_ar": "الطقس"
+      }
+    ],
+    "grammar_en": "\"Какая\" agrees with the feminine noun \"погода\".",
+    "grammar_ar": "\"Какая\" تتوافق مع الاسم المؤنث \"погода\".",
+    "alternatives": [
+      {
+        "text": "Как погода?",
+        "note_en": "How's the weather?",
+        "note_ar": "كيف الطقس؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5035,
+    "text": "Сегодня хорошая погода.",
+    "translation_ar": "الطقس جميل اليوم.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Сегодня хорошая погода.",
+    "pronunciation": "سيڤودنيا خاراشايا پاگودا.",
+    "words": [
+      {
+        "w": "хороший",
+        "m_en": "good",
+        "m_ar": "جيد"
+      }
+    ],
+    "grammar_en": "The adjective \"хорошая\" matches feminine \"погода\".",
+    "grammar_ar": "الصفة \"хорошая\" تتفق مع المؤنث \"погода\".",
+    "alternatives": [
+      {
+        "text": "Сегодня очень тепло.",
+        "note_en": "It's very warm today",
+        "note_ar": "الجو دافئ جدًا اليوم"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5036,
+    "text": "Я живу в Москве.",
+    "translation_ar": "أسكن في موسكو.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Я живу в Москве.",
+    "pronunciation": "يا جيڤو ڤ ماسكڤيه.",
+    "words": [
+      {
+        "w": "жить",
+        "m_en": "to live",
+        "m_ar": "يعيش"
+      }
+    ],
+    "grammar_en": "\"В\" + the prepositional case marks location.",
+    "grammar_ar": "\"В\" + حالة الجر تدل على المكان.",
+    "alternatives": [
+      {
+        "text": "Я живу в Каире.",
+        "note_en": "I live in Cairo",
+        "note_ar": "أسكن في القاهرة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5037,
+    "text": "Кем вы работаете?",
+    "translation_ar": "ما هي مهنتك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Кем вы работаете?",
+    "pronunciation": "كيم ڤي رابوتايتيه؟",
+    "words": [
+      {
+        "w": "работать",
+        "m_en": "to work",
+        "m_ar": "يعمل"
+      }
+    ],
+    "grammar_en": "\"Кем\" is instrumental: \"as whom do you work?\".",
+    "grammar_ar": "\"Кем\" بحالة الأداة: \"كمن تعمل؟\".",
+    "alternatives": [
+      {
+        "text": "Кто вы по профессии?",
+        "note_en": "What is your profession?",
+        "note_ar": "ما مهنتك؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5038,
+    "text": "Я студент.",
+    "translation_ar": "أنا طالب.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Я студент.",
+    "pronunciation": "يا ستوديينت.",
+    "words": [
+      {
+        "w": "студент",
+        "m_en": "student (male)",
+        "m_ar": "طالب"
+      }
+    ],
+    "grammar_en": "There is no verb \"to be\" in the present tense.",
+    "grammar_ar": "لا يوجد فعل \"يكون\" في المضارع.",
+    "alternatives": [
+      {
+        "text": "Я студентка.",
+        "note_en": "I'm a student (female)",
+        "note_ar": "أنا طالبة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5039,
+    "text": "Вы можете мне помочь, пожалуйста?",
+    "translation_ar": "هل يمكنك مساعدتي من فضلك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Вы можете мне помочь, пожалуйста?",
+    "pronunciation": "ڤي موجيتيه منييه پاموتش، پاجالوستا؟",
+    "words": [
+      {
+        "w": "помочь",
+        "m_en": "to help",
+        "m_ar": "يساعد"
+      }
+    ],
+    "grammar_en": "\"Мне\" is dative: \"help to me\".",
+    "grammar_ar": "\"Мне\" بحالة المفعول له: \"ساعد لي\".",
+    "alternatives": [
+      {
+        "text": "Ты можешь мне помочь?",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5040,
+    "text": "Где вокзал?",
+    "translation_ar": "أين محطة القطار؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Где вокзал?",
+    "pronunciation": "گدييه ڤاكزال؟",
+    "words": [
+      {
+        "w": "вокзал",
+        "m_en": "train station",
+        "m_ar": "محطة القطار"
+      }
+    ],
+    "grammar_en": "\"Вокзал\" is the main railway station.",
+    "grammar_ar": "\"Вокзал\" هي محطة السكك الحديدية الرئيسية.",
+    "alternatives": [
+      {
+        "text": "Как пройти на вокзал?",
+        "note_en": "How do I get to the station?",
+        "note_ar": "كيف أصل إلى المحطة؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5041,
+    "text": "Это налево.",
+    "translation_ar": "إنه على اليسار.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Это налево.",
+    "pronunciation": "إتا ناليڤا.",
+    "words": [
+      {
+        "w": "налево",
+        "m_en": "to the left",
+        "m_ar": "يسارًا"
+      }
+    ],
+    "grammar_en": "\"Налево\" shows direction toward the left.",
+    "grammar_ar": "\"Налево\" تدل على الاتجاه نحو اليسار.",
+    "alternatives": [
+      {
+        "text": "Идите налево.",
+        "note_en": "Go left",
+        "note_ar": "اذهب يسارًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5042,
+    "text": "Это направо.",
+    "translation_ar": "إنه على اليمين.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Это направо.",
+    "pronunciation": "إتا نابراڤا.",
+    "words": [
+      {
+        "w": "направо",
+        "m_en": "to the right",
+        "m_ar": "يمينًا"
+      }
+    ],
+    "grammar_en": "\"Направо\" shows direction toward the right.",
+    "grammar_ar": "\"Направо\" تدل على الاتجاه نحو اليمين.",
+    "alternatives": [
+      {
+        "text": "Идите направо.",
+        "note_en": "Go right",
+        "note_ar": "اذهب يمينًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5043,
+    "text": "Прямо.",
+    "translation_ar": "على طول.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Прямо.",
+    "pronunciation": "پريما.",
+    "words": [
+      {
+        "w": "прямо",
+        "m_en": "straight",
+        "m_ar": "مباشرة"
+      }
+    ],
+    "grammar_en": "A short answer when giving directions.",
+    "grammar_ar": "إجابة قصيرة عند إعطاء الاتجاهات.",
+    "alternatives": [
+      {
+        "text": "Идите прямо.",
+        "note_en": "Go straight",
+        "note_ar": "اذهب مباشرة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5044,
+    "text": "Я хотел бы заказать столик.",
+    "translation_ar": "أريد حجز طاولة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Я хотел бы заказать столик.",
+    "pronunciation": "يا خاتيل بي زاكازات ستوليك.",
+    "words": [
+      {
+        "w": "заказать",
+        "m_en": "to order, to book",
+        "m_ar": "يحجز، يطلب"
+      }
+    ],
+    "grammar_en": "\"Столик\" is a small table (a diminutive).",
+    "grammar_ar": "\"Столик\" هي طاولة صغيرة (تصغير).",
+    "alternatives": [
+      {
+        "text": "Я хочу забронировать столик.",
+        "note_en": "I want to book a table",
+        "note_ar": "أريد حجز طاولة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5045,
+    "text": "Счёт, пожалуйста.",
+    "translation_ar": "الفاتورة من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Счёт, пожалуйста.",
+    "pronunciation": "شيوت، پاجالوستا.",
+    "words": [
+      {
+        "w": "счёт",
+        "m_en": "bill",
+        "m_ar": "فاتورة"
+      }
+    ],
+    "grammar_en": "Used to ask for the bill in a café.",
+    "grammar_ar": "تُستخدم لطلب الفاتورة في المقهى.",
+    "alternatives": [
+      {
+        "text": "Можно счёт?",
+        "note_en": "May I have the bill?",
+        "note_ar": "هل يمكنني الحصول على الفاتورة؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5046,
+    "text": "Очень вкусно!",
+    "translation_ar": "لذيذ جدًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Очень вкусно!",
+    "pronunciation": "أوتشين ڤكوسنا!",
+    "words": [
+      {
+        "w": "вкусно",
+        "m_en": "tasty",
+        "m_ar": "لذيذ"
+      }
+    ],
+    "grammar_en": "Short for \"it is very tasty\".",
+    "grammar_ar": "اختصار لـ\"إنه لذيذ جدًا\".",
+    "alternatives": [
+      {
+        "text": "Это очень вкусно!",
+        "note_en": "This is very tasty",
+        "note_ar": "هذا لذيذ جدًا!"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5047,
+    "text": "Я устал.",
+    "translation_ar": "أنا متعب.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Я устал.",
+    "pronunciation": "يا أوستال.",
+    "words": [
+      {
+        "w": "устать",
+        "m_en": "to get tired",
+        "m_ar": "يتعب"
+      }
+    ],
+    "grammar_en": "Past tense: \"устал\" (male) and \"устала\" (female).",
+    "grammar_ar": "الماضي: \"устал\" للمذكر و\"устала\" للمؤنث.",
+    "alternatives": [
+      {
+        "text": "Я очень устала.",
+        "note_en": "I'm very tired (female)",
+        "note_ar": "أنا متعبة جدًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5048,
+    "text": "У меня болит голова.",
+    "translation_ar": "أشعر بألم في رأسي.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "У меня болит голова.",
+    "pronunciation": "أو مينيا بالييت گالاڤا.",
+    "words": [
+      {
+        "w": "болеть",
+        "m_en": "to hurt",
+        "m_ar": "يؤلم"
+      }
+    ],
+    "grammar_en": "Literally \"at me hurts head\".",
+    "grammar_ar": "حرفيًا \"عندي يؤلم الرأس\".",
+    "alternatives": [
+      {
+        "text": "Голова болит.",
+        "note_en": "My head hurts",
+        "note_ar": "رأسي يؤلمني"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5049,
+    "text": "Вызовите врача, пожалуйста!",
+    "translation_ar": "اتصل بطبيب من فضلك!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Вызовите врача, пожалуйста!",
+    "pronunciation": "ڤيزاڤيتيه ڤراتشا، پاجالوستا!",
+    "words": [
+      {
+        "w": "врач",
+        "m_en": "doctor",
+        "m_ar": "طبيب"
+      }
+    ],
+    "grammar_en": "\"Врача\" is the accusative of \"врач\".",
+    "grammar_ar": "\"Врача\" هي حالة المفعول به من \"врач\".",
+    "alternatives": [
+      {
+        "text": "Мне нужен врач!",
+        "note_en": "I need a doctor!",
+        "note_ar": "أحتاج إلى طبيب!"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 5050,
+    "text": "Хорошего дня!",
+    "translation_ar": "يومًا سعيدًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "demo",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Хорошего дня!",
+    "pronunciation": "خاراشيڤا دنيا!",
+    "words": [
+      {
+        "w": "день",
+        "m_en": "day",
+        "m_ar": "يوم"
+      }
+    ],
+    "grammar_en": "Genitive case after an implied \"I wish you\".",
+    "grammar_ar": "حالة المضاف إليه بعد فعل \"أتمنى\" المحذوف.",
+    "alternatives": [
+      {
+        "text": "Всего доброго!",
+        "note_en": "All the best",
+        "note_ar": "كل الخير"
+      }
+    ],
+    "similar": []
+  }
+]

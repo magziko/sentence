@@ -1,0 +1,1552 @@
+[
+  {
+    "id": 7001,
+    "text": "¡Hola!",
+    "translation_ar": "مرحبًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¡Hola!",
+    "pronunciation": "أولا!",
+    "words": [
+      {
+        "w": "hola",
+        "m_en": "hello",
+        "m_ar": "مرحبًا"
+      }
+    ],
+    "grammar_en": "The letter \"h\" is silent in Spanish.",
+    "grammar_ar": "حرف \"h\" لا يُنطق في الإسبانية.",
+    "alternatives": [
+      {
+        "text": "¡Buenos días!",
+        "note_en": "Good morning",
+        "note_ar": "صباح الخير"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7002,
+    "text": "¡Buenas tardes!",
+    "translation_ar": "مساء الخير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¡Buenas tardes!",
+    "pronunciation": "بوينس تارديس!",
+    "words": [
+      {
+        "w": "tarde",
+        "m_en": "afternoon",
+        "m_ar": "بعد الظهر"
+      }
+    ],
+    "grammar_en": "Used from noon until it gets dark.",
+    "grammar_ar": "تُستخدم من الظهر حتى حلول الظلام.",
+    "alternatives": [
+      {
+        "text": "¡Buenas!",
+        "note_en": "A casual shortening",
+        "note_ar": "اختصار عامي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7003,
+    "text": "¡Buenas noches!",
+    "translation_ar": "تصبح على خير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¡Buenas noches!",
+    "pronunciation": "بوينس نوتشيس!",
+    "words": [
+      {
+        "w": "noche",
+        "m_en": "night",
+        "m_ar": "ليل"
+      }
+    ],
+    "grammar_en": "Also used as a greeting after dark.",
+    "grammar_ar": "تُستخدم أيضًا كتحية بعد حلول الظلام.",
+    "alternatives": [
+      {
+        "text": "¡Que descanses!",
+        "note_en": "Rest well",
+        "note_ar": "نم جيدًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7004,
+    "text": "¡Gracias!",
+    "translation_ar": "شكرًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¡Gracias!",
+    "pronunciation": "غراسياس!",
+    "words": [
+      {
+        "w": "gracias",
+        "m_en": "thank you",
+        "m_ar": "شكرًا"
+      }
+    ],
+    "grammar_en": "Add \"muchas\" for \"many thanks\".",
+    "grammar_ar": "أضف \"muchas\" لتصبح \"شكرًا جزيلًا\".",
+    "alternatives": [
+      {
+        "text": "¡Muchas gracias!",
+        "note_en": "Thank you very much",
+        "note_ar": "شكرًا جزيلًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7005,
+    "text": "Por favor.",
+    "translation_ar": "من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Por favor.",
+    "pronunciation": "پور فابور.",
+    "words": [
+      {
+        "w": "favor",
+        "m_en": "favor",
+        "m_ar": "معروف"
+      }
+    ],
+    "grammar_en": "Literally \"as a favor\".",
+    "grammar_ar": "حرفيًا \"كمعروف\".",
+    "alternatives": [
+      {
+        "text": "Si es tan amable.",
+        "note_en": "If you'd be so kind",
+        "note_ar": "لو تفضلت"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7006,
+    "text": "Sí, por favor.",
+    "translation_ar": "نعم، من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Sí, por favor.",
+    "pronunciation": "سي، پور فابور.",
+    "words": [
+      {
+        "w": "sí",
+        "m_en": "yes",
+        "m_ar": "نعم"
+      }
+    ],
+    "grammar_en": "\"Sí\" with an accent means yes; \"si\" means if.",
+    "grammar_ar": "\"Sí\" بعلامة تعني نعم؛ و\"si\" تعني إذا.",
+    "alternatives": [
+      {
+        "text": "Sí, claro.",
+        "note_en": "Yes, of course",
+        "note_ar": "نعم، بالطبع"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7007,
+    "text": "No, gracias.",
+    "translation_ar": "لا، شكرًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "No, gracias.",
+    "pronunciation": "نو، غراسياس.",
+    "words": [
+      {
+        "w": "no",
+        "m_en": "no",
+        "m_ar": "لا"
+      }
+    ],
+    "grammar_en": "A polite way of declining.",
+    "grammar_ar": "طريقة مهذبة للرفض.",
+    "alternatives": [
+      {
+        "text": "No, estoy bien.",
+        "note_en": "No, I'm fine",
+        "note_ar": "لا، أنا بخير"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7008,
+    "text": "¡Disculpe!",
+    "translation_ar": "المعذرة!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¡Disculpe!",
+    "pronunciation": "ديسكولپي!",
+    "words": [
+      {
+        "w": "disculpar",
+        "m_en": "to excuse",
+        "m_ar": "يعذر"
+      }
+    ],
+    "grammar_en": "Formal; the informal form is \"¡Disculpa!\".",
+    "grammar_ar": "رسمية؛ وغير الرسمية \"¡Disculpa!\".",
+    "alternatives": [
+      {
+        "text": "¡Perdón!",
+        "note_en": "Sorry / Excuse me",
+        "note_ar": "آسف / المعذرة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7009,
+    "text": "¡Adiós!",
+    "translation_ar": "مع السلامة!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¡Adiós!",
+    "pronunciation": "أديوس!",
+    "words": [
+      {
+        "w": "adiós",
+        "m_en": "goodbye",
+        "m_ar": "وداعًا"
+      }
+    ],
+    "grammar_en": "Literally \"to God\".",
+    "grammar_ar": "حرفيًا \"إلى الله\".",
+    "alternatives": [
+      {
+        "text": "¡Hasta luego!",
+        "note_en": "See you later",
+        "note_ar": "أراك لاحقًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7010,
+    "text": "¡Hasta mañana!",
+    "translation_ar": "أراك غدًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¡Hasta mañana!",
+    "pronunciation": "أستا مانيانا!",
+    "words": [
+      {
+        "w": "mañana",
+        "m_en": "tomorrow",
+        "m_ar": "غدًا"
+      }
+    ],
+    "grammar_en": "\"Hasta\" means \"until\".",
+    "grammar_ar": "\"Hasta\" تعني \"حتى\".",
+    "alternatives": [
+      {
+        "text": "¡Hasta pronto!",
+        "note_en": "See you soon",
+        "note_ar": "أراك قريبًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7011,
+    "text": "¿Cómo está usted?",
+    "translation_ar": "كيف حالك؟ (رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¿Cómo está usted?",
+    "pronunciation": "كومو إستا أوستيد؟",
+    "words": [
+      {
+        "w": "estar",
+        "m_en": "to be",
+        "m_ar": "يكون"
+      }
+    ],
+    "grammar_en": "\"Usted\" is the formal \"you\".",
+    "grammar_ar": "\"Usted\" هو ضمير المخاطب الرسمي.",
+    "alternatives": [
+      {
+        "text": "¿Cómo estás?",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7012,
+    "text": "Estoy bien, gracias.",
+    "translation_ar": "أنا بخير، شكرًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Estoy bien, gracias.",
+    "pronunciation": "إستوي بين، غراسياس.",
+    "words": [
+      {
+        "w": "bien",
+        "m_en": "well",
+        "m_ar": "جيدًا"
+      }
+    ],
+    "grammar_en": "\"Estar\" is used for states and feelings.",
+    "grammar_ar": "\"Estar\" تُستخدم للحالات والمشاعر.",
+    "alternatives": [
+      {
+        "text": "Muy bien, ¿y usted?",
+        "note_en": "Very well, and you?",
+        "note_ar": "بخير جدًا، وأنت؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7013,
+    "text": "¿Cómo te llamas?",
+    "translation_ar": "ما اسمك؟ (غير رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¿Cómo te llamas?",
+    "pronunciation": "كومو تي ياماس؟",
+    "words": [
+      {
+        "w": "llamarse",
+        "m_en": "to be called",
+        "m_ar": "يُسمّى"
+      }
+    ],
+    "grammar_en": "Literally \"how do you call yourself?\".",
+    "grammar_ar": "حرفيًا \"كيف تُسمّي نفسك؟\".",
+    "alternatives": [
+      {
+        "text": "¿Cuál es tu nombre?",
+        "note_en": "What is your name?",
+        "note_ar": "ما اسمك؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7014,
+    "text": "Me llamo Sara.",
+    "translation_ar": "اسمي سارة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Me llamo Sara.",
+    "pronunciation": "مي يامو سارا.",
+    "words": [
+      {
+        "w": "me llamo",
+        "m_en": "my name is",
+        "m_ar": "اسمي"
+      }
+    ],
+    "grammar_en": "Literally \"I call myself Sara\".",
+    "grammar_ar": "حرفيًا \"أُسمّي نفسي سارة\".",
+    "alternatives": [
+      {
+        "text": "Soy Sara.",
+        "note_en": "I am Sara",
+        "note_ar": "أنا سارة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7015,
+    "text": "¡Mucho gusto!",
+    "translation_ar": "سعدت بلقائك!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¡Mucho gusto!",
+    "pronunciation": "موتشو غوستو!",
+    "words": [
+      {
+        "w": "gusto",
+        "m_en": "pleasure",
+        "m_ar": "سرور"
+      }
+    ],
+    "grammar_en": "Short for \"much pleasure\".",
+    "grammar_ar": "اختصار لـ\"سرور كبير\".",
+    "alternatives": [
+      {
+        "text": "Encantado.",
+        "note_en": "Delighted (male)",
+        "note_ar": "مسرور"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7016,
+    "text": "¿De dónde es usted?",
+    "translation_ar": "من أين أنت؟ (رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¿De dónde es usted?",
+    "pronunciation": "ديه دوندي إس أوستيد؟",
+    "words": [
+      {
+        "w": "dónde",
+        "m_en": "where",
+        "m_ar": "أين"
+      }
+    ],
+    "grammar_en": "\"Ser\" is used for origin.",
+    "grammar_ar": "\"Ser\" تُستخدم للأصل والهوية.",
+    "alternatives": [
+      {
+        "text": "¿De dónde eres?",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7017,
+    "text": "Soy de Egipto.",
+    "translation_ar": "أنا من مصر.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Soy de Egipto.",
+    "pronunciation": "سوي ديه إخيپتو.",
+    "words": [
+      {
+        "w": "de",
+        "m_en": "from",
+        "m_ar": "من"
+      }
+    ],
+    "grammar_en": "\"Ser de\" + a place shows origin.",
+    "grammar_ar": "\"Ser de\" + مكان تدل على الأصل.",
+    "alternatives": [
+      {
+        "text": "Soy egipcio.",
+        "note_en": "I'm Egyptian (male)",
+        "note_ar": "أنا مصري"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7018,
+    "text": "¿Qué hora es?",
+    "translation_ar": "كم الساعة؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¿Qué hora es?",
+    "pronunciation": "كيه أورا إس؟",
+    "words": [
+      {
+        "w": "hora",
+        "m_en": "hour",
+        "m_ar": "ساعة"
+      }
+    ],
+    "grammar_en": "\"Es\" is singular; the answer uses \"Son las...\".",
+    "grammar_ar": "\"Es\" مفرد؛ والإجابة تستخدم \"Son las...\".",
+    "alternatives": [
+      {
+        "text": "¿Tiene hora?",
+        "note_en": "Do you have the time?",
+        "note_ar": "هل لديك الوقت؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7019,
+    "text": "No entiendo.",
+    "translation_ar": "لا أفهم.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "No entiendo.",
+    "pronunciation": "نو إنتيندو.",
+    "words": [
+      {
+        "w": "entender",
+        "m_en": "to understand",
+        "m_ar": "يفهم"
+      }
+    ],
+    "grammar_en": "\"No\" before the verb makes it negative.",
+    "grammar_ar": "\"No\" قبل الفعل تجعله منفيًا.",
+    "alternatives": [
+      {
+        "text": "No entiendo bien.",
+        "note_en": "I don't understand well",
+        "note_ar": "لا أفهم جيدًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7020,
+    "text": "¿Puede repetir, por favor?",
+    "translation_ar": "هل يمكنك أن تكرر من فضلك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¿Puede repetir, por favor?",
+    "pronunciation": "پويدي ريپيتير، پور فابور؟",
+    "words": [
+      {
+        "w": "repetir",
+        "m_en": "to repeat",
+        "m_ar": "يكرر"
+      }
+    ],
+    "grammar_en": "\"Puede\" is the formal \"you can\".",
+    "grammar_ar": "\"Puede\" صيغة رسمية لـ\"يمكنك\".",
+    "alternatives": [
+      {
+        "text": "¿Puedes repetir?",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7021,
+    "text": "Quisiera un café, por favor.",
+    "translation_ar": "أريد قهوة من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Quisiera un café, por favor.",
+    "pronunciation": "كيسييرا أون كافيه، پور فابور.",
+    "words": [
+      {
+        "w": "quisiera",
+        "m_en": "I would like",
+        "m_ar": "أودّ"
+      }
+    ],
+    "grammar_en": "\"Quisiera\" is a very polite \"I would like\".",
+    "grammar_ar": "\"Quisiera\" صيغة مهذبة جدًا لـ\"أودّ\".",
+    "alternatives": [
+      {
+        "text": "Un café, por favor.",
+        "note_en": "A coffee, please",
+        "note_ar": "قهوة من فضلك"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7022,
+    "text": "¿Cuánto cuesta?",
+    "translation_ar": "كم سعر هذا؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¿Cuánto cuesta?",
+    "pronunciation": "كوانتو كويستا؟",
+    "words": [
+      {
+        "w": "costar",
+        "m_en": "to cost",
+        "m_ar": "يكلّف"
+      }
+    ],
+    "grammar_en": "Use \"¿Cuánto cuestan?\" for plural items.",
+    "grammar_ar": "استخدم \"¿Cuánto cuestan?\" للجمع.",
+    "alternatives": [
+      {
+        "text": "¿Cuánto es?",
+        "note_en": "How much is it?",
+        "note_ar": "كم الحساب؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7023,
+    "text": "¿Dónde está el baño?",
+    "translation_ar": "أين دورة المياه؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¿Dónde está el baño?",
+    "pronunciation": "دوندي إستا إل بانيو؟",
+    "words": [
+      {
+        "w": "baño",
+        "m_en": "bathroom",
+        "m_ar": "حمّام"
+      }
+    ],
+    "grammar_en": "\"Estar\" is used for location.",
+    "grammar_ar": "\"Estar\" تُستخدم للمكان.",
+    "alternatives": [
+      {
+        "text": "¿Dónde están los servicios?",
+        "note_en": "Where are the restrooms?",
+        "note_ar": "أين دورات المياه؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7024,
+    "text": "Lo siento.",
+    "translation_ar": "أنا آسف.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Lo siento.",
+    "pronunciation": "لو سيينتو.",
+    "words": [
+      {
+        "w": "sentir",
+        "m_en": "to feel",
+        "m_ar": "يشعر"
+      }
+    ],
+    "grammar_en": "Literally \"I feel it\".",
+    "grammar_ar": "حرفيًا \"أشعر به\".",
+    "alternatives": [
+      {
+        "text": "Perdón.",
+        "note_en": "Sorry",
+        "note_ar": "آسف"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7025,
+    "text": "No pasa nada.",
+    "translation_ar": "لا بأس، ليس مهمًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "No pasa nada.",
+    "pronunciation": "نو پاسا نادا.",
+    "words": [
+      {
+        "w": "pasar",
+        "m_en": "to happen",
+        "m_ar": "يحدث"
+      }
+    ],
+    "grammar_en": "Literally \"nothing happens\".",
+    "grammar_ar": "حرفيًا \"لا شيء يحدث\".",
+    "alternatives": [
+      {
+        "text": "No hay problema.",
+        "note_en": "No problem",
+        "note_ar": "لا مشكلة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7026,
+    "text": "Tengo hambre.",
+    "translation_ar": "أنا جائع.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Tengo hambre.",
+    "pronunciation": "تينغو أمبري.",
+    "words": [
+      {
+        "w": "hambre",
+        "m_en": "hunger",
+        "m_ar": "جوع"
+      }
+    ],
+    "grammar_en": "Literally \"I have hunger\".",
+    "grammar_ar": "حرفيًا \"لدي جوع\".",
+    "alternatives": [
+      {
+        "text": "Tengo mucha hambre.",
+        "note_en": "I'm very hungry",
+        "note_ar": "أنا جائع جدًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7027,
+    "text": "Tengo sed.",
+    "translation_ar": "أنا عطشان.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Tengo sed.",
+    "pronunciation": "تينغو سيد.",
+    "words": [
+      {
+        "w": "sed",
+        "m_en": "thirst",
+        "m_ar": "عطش"
+      }
+    ],
+    "grammar_en": "Literally \"I have thirst\".",
+    "grammar_ar": "حرفيًا \"لدي عطش\".",
+    "alternatives": [
+      {
+        "text": "Tengo mucha sed.",
+        "note_en": "I'm very thirsty",
+        "note_ar": "أنا عطشان جدًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7028,
+    "text": "Necesito ayuda.",
+    "translation_ar": "أحتاج مساعدة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Necesito ayuda.",
+    "pronunciation": "نيسيسيتو أيودا.",
+    "words": [
+      {
+        "w": "necesitar",
+        "m_en": "to need",
+        "m_ar": "يحتاج"
+      }
+    ],
+    "grammar_en": "\"Necesitar\" takes a direct object without a preposition.",
+    "grammar_ar": "\"Necesitar\" تأخذ مفعولًا به مباشرًا دون حرف جر.",
+    "alternatives": [
+      {
+        "text": "¿Me puede ayudar?",
+        "note_en": "Can you help me?",
+        "note_ar": "هل يمكنك مساعدتي؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7029,
+    "text": "No lo sé.",
+    "translation_ar": "لا أعرف.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "No lo sé.",
+    "pronunciation": "نو لو سيه.",
+    "words": [
+      {
+        "w": "saber",
+        "m_en": "to know",
+        "m_ar": "يعرف"
+      }
+    ],
+    "grammar_en": "\"Sé\" has an accent to tell it apart from \"se\".",
+    "grammar_ar": "\"Sé\" عليها علامة لتمييزها عن \"se\".",
+    "alternatives": [
+      {
+        "text": "Ni idea.",
+        "note_en": "No idea",
+        "note_ar": "لا فكرة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7030,
+    "text": "¿Habla inglés?",
+    "translation_ar": "هل تتحدث الإنجليزية؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¿Habla inglés?",
+    "pronunciation": "أبلا إنغليس؟",
+    "words": [
+      {
+        "w": "hablar",
+        "m_en": "to speak",
+        "m_ar": "يتحدث"
+      }
+    ],
+    "grammar_en": "The formal form; the informal is \"¿Hablas inglés?\".",
+    "grammar_ar": "صيغة رسمية؛ وغير الرسمية \"¿Hablas inglés?\".",
+    "alternatives": [
+      {
+        "text": "¿Hablas inglés?",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7031,
+    "text": "Hablo un poco de español.",
+    "translation_ar": "أتحدث الإسبانية قليلًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Hablo un poco de español.",
+    "pronunciation": "أبلو أون پوكو ديه إسپانيول.",
+    "words": [
+      {
+        "w": "un poco",
+        "m_en": "a little",
+        "m_ar": "قليلًا"
+      }
+    ],
+    "grammar_en": "Use \"de\" before the language after \"un poco\".",
+    "grammar_ar": "استخدم \"de\" قبل اللغة بعد \"un poco\".",
+    "alternatives": [
+      {
+        "text": "Hablo poco español.",
+        "note_en": "I speak little Spanish",
+        "note_ar": "أتحدث الإسبانية قليلًا جدًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7032,
+    "text": "¿Cuántos años tiene?",
+    "translation_ar": "كم عمرك؟ (رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¿Cuántos años tiene?",
+    "pronunciation": "كوانتوس أنيوس تيينيه؟",
+    "words": [
+      {
+        "w": "años",
+        "m_en": "years",
+        "m_ar": "سنوات"
+      }
+    ],
+    "grammar_en": "Age uses \"tener\" (to have).",
+    "grammar_ar": "العمر يستخدم \"tener\" (يملك).",
+    "alternatives": [
+      {
+        "text": "¿Cuántos años tienes?",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7033,
+    "text": "Tengo veinticinco años.",
+    "translation_ar": "عمري خمسة وعشرون عامًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Tengo veinticinco años.",
+    "pronunciation": "تينغو بينتيسينكو أنيوس.",
+    "words": [
+      {
+        "w": "veinticinco",
+        "m_en": "twenty-five",
+        "m_ar": "خمسة وعشرون"
+      }
+    ],
+    "grammar_en": "Literally \"I have twenty-five years\".",
+    "grammar_ar": "حرفيًا \"لدي خمسة وعشرين عامًا\".",
+    "alternatives": [
+      {
+        "text": "Tengo veinticinco.",
+        "note_en": "Short form",
+        "note_ar": "صيغة مختصرة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7034,
+    "text": "¿Qué tiempo hace?",
+    "translation_ar": "كيف الطقس؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¿Qué tiempo hace?",
+    "pronunciation": "كيه تيمپو أسي؟",
+    "words": [
+      {
+        "w": "tiempo",
+        "m_en": "weather, time",
+        "m_ar": "طقس، وقت"
+      }
+    ],
+    "grammar_en": "Weather uses \"hacer\" in Spanish.",
+    "grammar_ar": "الطقس يستخدم الفعل \"hacer\" في الإسبانية.",
+    "alternatives": [
+      {
+        "text": "¿Cómo está el clima?",
+        "note_en": "How's the weather?",
+        "note_ar": "كيف الطقس؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7035,
+    "text": "Hoy hace buen tiempo.",
+    "translation_ar": "الطقس جميل اليوم.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Hoy hace buen tiempo.",
+    "pronunciation": "أوي أسي بوين تيمپو.",
+    "words": [
+      {
+        "w": "buen tiempo",
+        "m_en": "good weather",
+        "m_ar": "طقس جميل"
+      }
+    ],
+    "grammar_en": "\"Buen\" is \"bueno\" shortened before a masculine noun.",
+    "grammar_ar": "\"Buen\" هي \"bueno\" مختصرة قبل الاسم المذكر.",
+    "alternatives": [
+      {
+        "text": "Hoy hace sol.",
+        "note_en": "It's sunny today",
+        "note_ar": "الشمس مشرقة اليوم"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7036,
+    "text": "Vivo en Madrid.",
+    "translation_ar": "أسكن في مدريد.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Vivo en Madrid.",
+    "pronunciation": "بيبو إن مدريد.",
+    "words": [
+      {
+        "w": "vivir",
+        "m_en": "to live",
+        "m_ar": "يعيش"
+      }
+    ],
+    "grammar_en": "\"En\" is used for location.",
+    "grammar_ar": "\"En\" تُستخدم للدلالة على المكان.",
+    "alternatives": [
+      {
+        "text": "Vivo en El Cairo.",
+        "note_en": "I live in Cairo",
+        "note_ar": "أسكن في القاهرة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7037,
+    "text": "¿A qué se dedica?",
+    "translation_ar": "ما هي مهنتك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¿A qué se dedica?",
+    "pronunciation": "آ كيه سيه ديديكا؟",
+    "words": [
+      {
+        "w": "dedicarse",
+        "m_en": "to work in, to devote oneself",
+        "m_ar": "يعمل في، يكرّس نفسه"
+      }
+    ],
+    "grammar_en": "Literally \"what do you dedicate yourself to?\".",
+    "grammar_ar": "حرفيًا \"لأي شيء تكرّس نفسك؟\".",
+    "alternatives": [
+      {
+        "text": "¿En qué trabaja?",
+        "note_en": "What do you work in?",
+        "note_ar": "في أي مجال تعمل؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7038,
+    "text": "Soy estudiante.",
+    "translation_ar": "أنا طالب.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Soy estudiante.",
+    "pronunciation": "سوي إستوديانتيه.",
+    "words": [
+      {
+        "w": "estudiante",
+        "m_en": "student",
+        "m_ar": "طالب"
+      }
+    ],
+    "grammar_en": "\"Estudiante\" is the same for male and female.",
+    "grammar_ar": "\"Estudiante\" واحدة للمذكر والمؤنث.",
+    "alternatives": [
+      {
+        "text": "Soy estudiante universitario.",
+        "note_en": "I'm a university student",
+        "note_ar": "أنا طالب جامعي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7039,
+    "text": "¿Puede ayudarme, por favor?",
+    "translation_ar": "هل يمكنك مساعدتي من فضلك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¿Puede ayudarme, por favor?",
+    "pronunciation": "پويدي أيودارمي، پور فابور؟",
+    "words": [
+      {
+        "w": "ayudar",
+        "m_en": "to help",
+        "m_ar": "يساعد"
+      }
+    ],
+    "grammar_en": "\"-me\" attaches to the end of the infinitive.",
+    "grammar_ar": "\"-me\" تلتصق بآخر المصدر.",
+    "alternatives": [
+      {
+        "text": "¿Me puede ayudar?",
+        "note_en": "Same meaning",
+        "note_ar": "نفس المعنى"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7040,
+    "text": "¿Dónde está la estación?",
+    "translation_ar": "أين محطة القطار؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¿Dónde está la estación?",
+    "pronunciation": "دوندي إستا لا إستاسيون؟",
+    "words": [
+      {
+        "w": "estación",
+        "m_en": "station",
+        "m_ar": "محطة"
+      }
+    ],
+    "grammar_en": "\"La\" is used because \"estación\" is feminine.",
+    "grammar_ar": "\"La\" لأن \"estación\" مؤنثة.",
+    "alternatives": [
+      {
+        "text": "¿Cómo llego a la estación?",
+        "note_en": "How do I get to the station?",
+        "note_ar": "كيف أصل إلى المحطة؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7041,
+    "text": "Está a la izquierda.",
+    "translation_ar": "إنه على اليسار.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Está a la izquierda.",
+    "pronunciation": "إستا آ لا إسكييردا.",
+    "words": [
+      {
+        "w": "izquierda",
+        "m_en": "left",
+        "m_ar": "يسار"
+      }
+    ],
+    "grammar_en": "\"A la izquierda\" means \"on the left\".",
+    "grammar_ar": "\"A la izquierda\" تعني \"على اليسار\".",
+    "alternatives": [
+      {
+        "text": "Gire a la izquierda.",
+        "note_en": "Turn left",
+        "note_ar": "انعطف يسارًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7042,
+    "text": "Está a la derecha.",
+    "translation_ar": "إنه على اليمين.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Está a la derecha.",
+    "pronunciation": "إستا آ لا ديريتشا.",
+    "words": [
+      {
+        "w": "derecha",
+        "m_en": "right",
+        "m_ar": "يمين"
+      }
+    ],
+    "grammar_en": "\"A la derecha\" means \"on the right\".",
+    "grammar_ar": "\"A la derecha\" تعني \"على اليمين\".",
+    "alternatives": [
+      {
+        "text": "Gire a la derecha.",
+        "note_en": "Turn right",
+        "note_ar": "انعطف يمينًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7043,
+    "text": "Todo recto.",
+    "translation_ar": "على طول.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Todo recto.",
+    "pronunciation": "تودو ريكتو.",
+    "words": [
+      {
+        "w": "recto",
+        "m_en": "straight",
+        "m_ar": "مستقيم"
+      }
+    ],
+    "grammar_en": "\"Todo derecho\" is also common in Latin America.",
+    "grammar_ar": "\"Todo derecho\" شائعة أيضًا في أمريكا اللاتينية.",
+    "alternatives": [
+      {
+        "text": "Siga todo recto.",
+        "note_en": "Keep going straight",
+        "note_ar": "استمر مستقيمًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7044,
+    "text": "Quisiera reservar una mesa.",
+    "translation_ar": "أريد حجز طاولة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Quisiera reservar una mesa.",
+    "pronunciation": "كيسييرا ريسيربار أونا ميسا.",
+    "words": [
+      {
+        "w": "reservar",
+        "m_en": "to book",
+        "m_ar": "يحجز"
+      }
+    ],
+    "grammar_en": "\"Quisiera\" + infinitive makes a polite request.",
+    "grammar_ar": "\"Quisiera\" + المصدر تصنع طلبًا مهذبًا.",
+    "alternatives": [
+      {
+        "text": "Quisiera hacer una reserva.",
+        "note_en": "I'd like to make a reservation",
+        "note_ar": "أودّ إجراء حجز"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7045,
+    "text": "La cuenta, por favor.",
+    "translation_ar": "الفاتورة من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "La cuenta, por favor.",
+    "pronunciation": "لا كوينتا، پور فابور.",
+    "words": [
+      {
+        "w": "cuenta",
+        "m_en": "bill",
+        "m_ar": "فاتورة"
+      }
+    ],
+    "grammar_en": "Used in restaurants to ask for the bill.",
+    "grammar_ar": "تُستخدم في المطاعم لطلب الفاتورة.",
+    "alternatives": [
+      {
+        "text": "¿Me trae la cuenta?",
+        "note_en": "Could you bring me the bill?",
+        "note_ar": "هل تحضر لي الفاتورة؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7046,
+    "text": "¡Está delicioso!",
+    "translation_ar": "هذا لذيذ!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¡Está delicioso!",
+    "pronunciation": "إستا ديليسيوسو!",
+    "words": [
+      {
+        "w": "delicioso",
+        "m_en": "delicious",
+        "m_ar": "لذيذ"
+      }
+    ],
+    "grammar_en": "\"Estar\" is used for how food tastes right now.",
+    "grammar_ar": "\"Estar\" تُستخدم لطعم الطعام في هذه اللحظة.",
+    "alternatives": [
+      {
+        "text": "¡Qué rico!",
+        "note_en": "How tasty!",
+        "note_ar": "ما ألذّه!"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7047,
+    "text": "Estoy cansado.",
+    "translation_ar": "أنا متعب.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Estoy cansado.",
+    "pronunciation": "إستوي كانسادو.",
+    "words": [
+      {
+        "w": "cansado",
+        "m_en": "tired",
+        "m_ar": "متعب"
+      }
+    ],
+    "grammar_en": "The female form is \"cansada\".",
+    "grammar_ar": "صيغة المؤنث هي \"cansada\".",
+    "alternatives": [
+      {
+        "text": "Estoy agotado.",
+        "note_en": "I'm exhausted",
+        "note_ar": "أنا منهك"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7048,
+    "text": "Me duele la cabeza.",
+    "translation_ar": "أشعر بألم في رأسي.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Me duele la cabeza.",
+    "pronunciation": "مي دويله لا كابيسا.",
+    "words": [
+      {
+        "w": "doler",
+        "m_en": "to hurt",
+        "m_ar": "يؤلم"
+      }
+    ],
+    "grammar_en": "Literally \"the head hurts me\".",
+    "grammar_ar": "حرفيًا \"الرأس يؤلمني\".",
+    "alternatives": [
+      {
+        "text": "Tengo dolor de cabeza.",
+        "note_en": "I have a headache",
+        "note_ar": "لدي صداع"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7049,
+    "text": "¡Llame a un médico, por favor!",
+    "translation_ar": "اتصل بطبيب من فضلك!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¡Llame a un médico, por favor!",
+    "pronunciation": "ياميه آ أون ميديكو، پور فابور!",
+    "words": [
+      {
+        "w": "médico",
+        "m_en": "doctor",
+        "m_ar": "طبيب"
+      }
+    ],
+    "grammar_en": "\"Llame\" is the formal imperative of \"llamar\".",
+    "grammar_ar": "\"Llame\" هي صيغة الأمر الرسمية من \"llamar\".",
+    "alternatives": [
+      {
+        "text": "¡Necesito un médico!",
+        "note_en": "I need a doctor!",
+        "note_ar": "أحتاج إلى طبيب!"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 7050,
+    "text": "¡Que tenga un buen día!",
+    "translation_ar": "يومًا سعيدًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "demo",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "¡Que tenga un buen día!",
+    "pronunciation": "كيه تينغا أون بوين ديا!",
+    "words": [
+      {
+        "w": "tener",
+        "m_en": "to have",
+        "m_ar": "يملك"
+      }
+    ],
+    "grammar_en": "The subjunctive \"tenga\" expresses a wish.",
+    "grammar_ar": "صيغة الشرط \"tenga\" تعبّر عن أمنية.",
+    "alternatives": [
+      {
+        "text": "¡Buen día!",
+        "note_en": "Have a good day",
+        "note_ar": "يومًا سعيدًا"
+      }
+    ],
+    "similar": []
+  }
+]

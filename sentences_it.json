@@ -1,0 +1,1552 @@
+[
+  {
+    "id": 6001,
+    "text": "Buongiorno!",
+    "translation_ar": "صباح الخير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Buongiorno!",
+    "pronunciation": "بوون جورنو!",
+    "words": [
+      {
+        "w": "giorno",
+        "m_en": "day",
+        "m_ar": "يوم"
+      }
+    ],
+    "grammar_en": "Used in the morning and up to the early afternoon.",
+    "grammar_ar": "تُستخدم صباحًا وحتى بعد الظهر المبكر.",
+    "alternatives": [
+      {
+        "text": "Ciao!",
+        "note_en": "Casual and friendly",
+        "note_ar": "عامية وودّية"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6002,
+    "text": "Buonasera!",
+    "translation_ar": "مساء الخير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Buonasera!",
+    "pronunciation": "بوونا سيرا!",
+    "words": [
+      {
+        "w": "sera",
+        "m_en": "evening",
+        "m_ar": "مساء"
+      }
+    ],
+    "grammar_en": "Used from the afternoon onwards.",
+    "grammar_ar": "تُستخدم من بعد الظهر فصاعدًا.",
+    "alternatives": [
+      {
+        "text": "Buona serata!",
+        "note_en": "Have a good evening",
+        "note_ar": "أمسية سعيدة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6003,
+    "text": "Buonanotte!",
+    "translation_ar": "تصبح على خير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Buonanotte!",
+    "pronunciation": "بوونا نوتّيه!",
+    "words": [
+      {
+        "w": "notte",
+        "m_en": "night",
+        "m_ar": "ليل"
+      }
+    ],
+    "grammar_en": "Said only when going to bed or leaving late.",
+    "grammar_ar": "تُقال فقط عند النوم أو المغادرة متأخرًا.",
+    "alternatives": [
+      {
+        "text": "Sogni d'oro!",
+        "note_en": "Sweet dreams",
+        "note_ar": "أحلامًا سعيدة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6004,
+    "text": "Grazie!",
+    "translation_ar": "شكرًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Grazie!",
+    "pronunciation": "غراتسيه!",
+    "words": [
+      {
+        "w": "grazie",
+        "m_en": "thank you",
+        "m_ar": "شكرًا"
+      }
+    ],
+    "grammar_en": "Add \"mille\" for \"a thousand thanks\".",
+    "grammar_ar": "أضف \"mille\" لتصبح \"ألف شكر\".",
+    "alternatives": [
+      {
+        "text": "Grazie mille!",
+        "note_en": "Thanks a lot",
+        "note_ar": "ألف شكر"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6005,
+    "text": "Per favore.",
+    "translation_ar": "من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Per favore.",
+    "pronunciation": "پير فافوريه.",
+    "words": [
+      {
+        "w": "favore",
+        "m_en": "favor",
+        "m_ar": "معروف"
+      }
+    ],
+    "grammar_en": "Literally \"as a favor\".",
+    "grammar_ar": "حرفيًا \"كمعروف\".",
+    "alternatives": [
+      {
+        "text": "Per piacere.",
+        "note_en": "Same meaning",
+        "note_ar": "نفس المعنى"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6006,
+    "text": "Sì, per favore.",
+    "translation_ar": "نعم، من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Sì, per favore.",
+    "pronunciation": "سي، پير فافوريه.",
+    "words": [
+      {
+        "w": "sì",
+        "m_en": "yes",
+        "m_ar": "نعم"
+      }
+    ],
+    "grammar_en": "\"Sì\" has an accent, unlike \"si\" (himself).",
+    "grammar_ar": "\"Sì\" عليها علامة تشديد بخلاف \"si\".",
+    "alternatives": [
+      {
+        "text": "Sì, volentieri.",
+        "note_en": "Yes, gladly",
+        "note_ar": "نعم، بكل سرور"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6007,
+    "text": "No, grazie.",
+    "translation_ar": "لا، شكرًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "No, grazie.",
+    "pronunciation": "نو، غراتسيه.",
+    "words": [
+      {
+        "w": "no",
+        "m_en": "no",
+        "m_ar": "لا"
+      }
+    ],
+    "grammar_en": "A polite way of declining.",
+    "grammar_ar": "طريقة مهذبة للرفض.",
+    "alternatives": [
+      {
+        "text": "No, sono a posto.",
+        "note_en": "No, I'm fine",
+        "note_ar": "لا، لا أحتاج شيئًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6008,
+    "text": "Mi scusi!",
+    "translation_ar": "المعذرة!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Mi scusi!",
+    "pronunciation": "مي سكوزي!",
+    "words": [
+      {
+        "w": "scusare",
+        "m_en": "to excuse",
+        "m_ar": "يعذر"
+      }
+    ],
+    "grammar_en": "Formal; the informal form is \"Scusa!\".",
+    "grammar_ar": "صيغة رسمية؛ وغير الرسمية \"Scusa!\".",
+    "alternatives": [
+      {
+        "text": "Scusa!",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6009,
+    "text": "Arrivederci!",
+    "translation_ar": "مع السلامة!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Arrivederci!",
+    "pronunciation": "أريڤيديرتشي!",
+    "words": [
+      {
+        "w": "arrivederci",
+        "m_en": "goodbye",
+        "m_ar": "إلى اللقاء"
+      }
+    ],
+    "grammar_en": "Literally \"until we see each other again\".",
+    "grammar_ar": "حرفيًا \"حتى نرى بعضنا مجددًا\".",
+    "alternatives": [
+      {
+        "text": "Ciao!",
+        "note_en": "Casual",
+        "note_ar": "عامية"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6010,
+    "text": "A domani!",
+    "translation_ar": "أراك غدًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "A domani!",
+    "pronunciation": "آ دوماني!",
+    "words": [
+      {
+        "w": "domani",
+        "m_en": "tomorrow",
+        "m_ar": "غدًا"
+      }
+    ],
+    "grammar_en": "\"A\" + time means \"see you at/on\".",
+    "grammar_ar": "\"A\" + الزمن تعني \"أراك في\".",
+    "alternatives": [
+      {
+        "text": "A dopo!",
+        "note_en": "See you later",
+        "note_ar": "أراك لاحقًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6011,
+    "text": "Come sta?",
+    "translation_ar": "كيف حالك؟ (رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Come sta?",
+    "pronunciation": "كومي ستا؟",
+    "words": [
+      {
+        "w": "stare",
+        "m_en": "to be, to stay",
+        "m_ar": "يكون، يبقى"
+      }
+    ],
+    "grammar_en": "\"Sta\" is the formal \"you\" (Lei) form.",
+    "grammar_ar": "\"Sta\" هي صيغة المخاطب الرسمي (Lei).",
+    "alternatives": [
+      {
+        "text": "Come stai?",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6012,
+    "text": "Sto bene, grazie.",
+    "translation_ar": "أنا بخير، شكرًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Sto bene, grazie.",
+    "pronunciation": "ستو بينيه، غراتسيه.",
+    "words": [
+      {
+        "w": "bene",
+        "m_en": "well",
+        "m_ar": "جيدًا"
+      }
+    ],
+    "grammar_en": "\"Stare\" is used for health and well-being.",
+    "grammar_ar": "\"Stare\" تُستخدم للصحة والحال.",
+    "alternatives": [
+      {
+        "text": "Bene, e Lei?",
+        "note_en": "Fine, and you?",
+        "note_ar": "بخير، وأنت؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6013,
+    "text": "Come ti chiami?",
+    "translation_ar": "ما اسمك؟ (غير رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Come ti chiami?",
+    "pronunciation": "كومي تي كيامي؟",
+    "words": [
+      {
+        "w": "chiamarsi",
+        "m_en": "to be called",
+        "m_ar": "يُسمّى"
+      }
+    ],
+    "grammar_en": "Literally \"how do you call yourself?\".",
+    "grammar_ar": "حرفيًا \"كيف تُسمّي نفسك؟\".",
+    "alternatives": [
+      {
+        "text": "Qual è il tuo nome?",
+        "note_en": "What is your name?",
+        "note_ar": "ما اسمك؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6014,
+    "text": "Mi chiamo Sara.",
+    "translation_ar": "اسمي سارة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Mi chiamo Sara.",
+    "pronunciation": "مي كيامو سارا.",
+    "words": [
+      {
+        "w": "mi chiamo",
+        "m_en": "my name is",
+        "m_ar": "اسمي"
+      }
+    ],
+    "grammar_en": "Literally \"I call myself Sara\".",
+    "grammar_ar": "حرفيًا \"أُسمّي نفسي سارة\".",
+    "alternatives": [
+      {
+        "text": "Sono Sara.",
+        "note_en": "I am Sara",
+        "note_ar": "أنا سارة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6015,
+    "text": "Piacere!",
+    "translation_ar": "سعدت بلقائك!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Piacere!",
+    "pronunciation": "پياتشيريه!",
+    "words": [
+      {
+        "w": "piacere",
+        "m_en": "pleasure",
+        "m_ar": "سرور"
+      }
+    ],
+    "grammar_en": "Short for \"it's a pleasure to meet you\".",
+    "grammar_ar": "اختصار لـ\"سعيد بلقائك\".",
+    "alternatives": [
+      {
+        "text": "Molto lieto.",
+        "note_en": "Very pleased (male)",
+        "note_ar": "سعيد جدًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6016,
+    "text": "Di dov'è?",
+    "translation_ar": "من أين أنت؟ (رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Di dov'è?",
+    "pronunciation": "دي دوڤيه؟",
+    "words": [
+      {
+        "w": "dove",
+        "m_en": "where",
+        "m_ar": "أين"
+      }
+    ],
+    "grammar_en": "The formal \"Lei\" form; informally: \"Di dove sei?\".",
+    "grammar_ar": "صيغة رسمية؛ وغير الرسمية: \"Di dove sei?\".",
+    "alternatives": [
+      {
+        "text": "Di dove sei?",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6017,
+    "text": "Vengo dall'Egitto.",
+    "translation_ar": "أنا من مصر.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Vengo dall'Egitto.",
+    "pronunciation": "ڤينغو دالّيجيتو.",
+    "words": [
+      {
+        "w": "venire",
+        "m_en": "to come",
+        "m_ar": "يأتي"
+      }
+    ],
+    "grammar_en": "\"Dall'\" = \"da\" + \"l'\" (from the).",
+    "grammar_ar": "\"Dall'\" = \"da\" + \"l'\" (من الـ).",
+    "alternatives": [
+      {
+        "text": "Sono egiziano.",
+        "note_en": "I'm Egyptian (male)",
+        "note_ar": "أنا مصري"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6018,
+    "text": "Che ore sono?",
+    "translation_ar": "كم الساعة؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Che ore sono?",
+    "pronunciation": "كيه أوريه سونو؟",
+    "words": [
+      {
+        "w": "ora",
+        "m_en": "hour",
+        "m_ar": "ساعة"
+      }
+    ],
+    "grammar_en": "\"Sono\" is plural because \"ore\" is plural.",
+    "grammar_ar": "\"Sono\" بصيغة الجمع لأن \"ore\" جمع.",
+    "alternatives": [
+      {
+        "text": "Che ora è?",
+        "note_en": "What time is it? (singular)",
+        "note_ar": "كم الساعة؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6019,
+    "text": "Non capisco.",
+    "translation_ar": "لا أفهم.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Non capisco.",
+    "pronunciation": "نون كابيسكو.",
+    "words": [
+      {
+        "w": "capire",
+        "m_en": "to understand",
+        "m_ar": "يفهم"
+      }
+    ],
+    "grammar_en": "\"Non\" before the verb makes it negative.",
+    "grammar_ar": "\"Non\" قبل الفعل تجعله منفيًا.",
+    "alternatives": [
+      {
+        "text": "Non ho capito.",
+        "note_en": "I didn't understand",
+        "note_ar": "لم أفهم"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6020,
+    "text": "Può ripetere, per favore?",
+    "translation_ar": "هل يمكنك أن تكرر من فضلك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Può ripetere, per favore?",
+    "pronunciation": "پوو ريپيتيريه، پير فافوريه؟",
+    "words": [
+      {
+        "w": "ripetere",
+        "m_en": "to repeat",
+        "m_ar": "يكرر"
+      }
+    ],
+    "grammar_en": "\"Può\" is the formal \"you can\".",
+    "grammar_ar": "\"Può\" صيغة رسمية لـ\"يمكنك\".",
+    "alternatives": [
+      {
+        "text": "Puoi ripetere?",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6021,
+    "text": "Vorrei un caffè, per favore.",
+    "translation_ar": "أريد قهوة من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Vorrei un caffè, per favore.",
+    "pronunciation": "ڤورّاي أون كافّيه، پير فافوريه.",
+    "words": [
+      {
+        "w": "vorrei",
+        "m_en": "I would like",
+        "m_ar": "أودّ"
+      }
+    ],
+    "grammar_en": "\"Vorrei\" is the polite conditional of \"volere\".",
+    "grammar_ar": "\"Vorrei\" هي صيغة الشرط المهذبة من \"volere\".",
+    "alternatives": [
+      {
+        "text": "Un caffè, per favore.",
+        "note_en": "A coffee, please",
+        "note_ar": "قهوة من فضلك"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6022,
+    "text": "Quanto costa?",
+    "translation_ar": "كم سعر هذا؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Quanto costa?",
+    "pronunciation": "كوانتو كوستا؟",
+    "words": [
+      {
+        "w": "costare",
+        "m_en": "to cost",
+        "m_ar": "يكلّف"
+      }
+    ],
+    "grammar_en": "Use \"Quanto costano?\" for plural items.",
+    "grammar_ar": "استخدم \"Quanto costano?\" للجمع.",
+    "alternatives": [
+      {
+        "text": "Quant'è?",
+        "note_en": "How much is it?",
+        "note_ar": "كم الحساب؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6023,
+    "text": "Dov'è il bagno?",
+    "translation_ar": "أين دورة المياه؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Dov'è il bagno?",
+    "pronunciation": "دوڤيه إل بانيو؟",
+    "words": [
+      {
+        "w": "bagno",
+        "m_en": "bathroom",
+        "m_ar": "حمّام"
+      }
+    ],
+    "grammar_en": "\"Dov'è\" is \"dove è\" contracted.",
+    "grammar_ar": "\"Dov'è\" اختصار لـ\"dove è\".",
+    "alternatives": [
+      {
+        "text": "Dove sono i bagni?",
+        "note_en": "Where are the restrooms?",
+        "note_ar": "أين دورات المياه؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6024,
+    "text": "Mi dispiace.",
+    "translation_ar": "أنا آسف.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Mi dispiace.",
+    "pronunciation": "مي ديسپياتشيه.",
+    "words": [
+      {
+        "w": "dispiacere",
+        "m_en": "to be sorry",
+        "m_ar": "يأسف"
+      }
+    ],
+    "grammar_en": "Literally \"it displeases me\".",
+    "grammar_ar": "حرفيًا \"هذا يُزعجني\".",
+    "alternatives": [
+      {
+        "text": "Scusami.",
+        "note_en": "Forgive me",
+        "note_ar": "سامحني"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6025,
+    "text": "Non c'è problema.",
+    "translation_ar": "لا بأس، ليس مهمًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Non c'è problema.",
+    "pronunciation": "نون تشيه پروبليما.",
+    "words": [
+      {
+        "w": "problema",
+        "m_en": "problem",
+        "m_ar": "مشكلة"
+      }
+    ],
+    "grammar_en": "\"C'è\" means \"there is\".",
+    "grammar_ar": "\"C'è\" تعني \"يوجد\".",
+    "alternatives": [
+      {
+        "text": "Tutto a posto.",
+        "note_en": "All good",
+        "note_ar": "كل شيء على ما يرام"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6026,
+    "text": "Ho fame.",
+    "translation_ar": "أنا جائع.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Ho fame.",
+    "pronunciation": "أو فاميه.",
+    "words": [
+      {
+        "w": "fame",
+        "m_en": "hunger",
+        "m_ar": "جوع"
+      }
+    ],
+    "grammar_en": "Literally \"I have hunger\".",
+    "grammar_ar": "حرفيًا \"لدي جوع\".",
+    "alternatives": [
+      {
+        "text": "Ho molta fame.",
+        "note_en": "I'm very hungry",
+        "note_ar": "أنا جائع جدًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6027,
+    "text": "Ho sete.",
+    "translation_ar": "أنا عطشان.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Ho sete.",
+    "pronunciation": "أو سيتيه.",
+    "words": [
+      {
+        "w": "sete",
+        "m_en": "thirst",
+        "m_ar": "عطش"
+      }
+    ],
+    "grammar_en": "Literally \"I have thirst\".",
+    "grammar_ar": "حرفيًا \"لدي عطش\".",
+    "alternatives": [
+      {
+        "text": "Ho molta sete.",
+        "note_en": "I'm very thirsty",
+        "note_ar": "أنا عطشان جدًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6028,
+    "text": "Ho bisogno di aiuto.",
+    "translation_ar": "أحتاج مساعدة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Ho bisogno di aiuto.",
+    "pronunciation": "أو بيزونيو دي آيوتو.",
+    "words": [
+      {
+        "w": "bisogno",
+        "m_en": "need",
+        "m_ar": "حاجة"
+      }
+    ],
+    "grammar_en": "\"Avere bisogno di\" means \"to need\".",
+    "grammar_ar": "\"Avere bisogno di\" تعني \"يحتاج\".",
+    "alternatives": [
+      {
+        "text": "Mi può aiutare?",
+        "note_en": "Can you help me?",
+        "note_ar": "هل يمكنك مساعدتي؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6029,
+    "text": "Non lo so.",
+    "translation_ar": "لا أعرف.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Non lo so.",
+    "pronunciation": "نون لو سو.",
+    "words": [
+      {
+        "w": "sapere",
+        "m_en": "to know",
+        "m_ar": "يعرف"
+      }
+    ],
+    "grammar_en": "\"Lo\" refers to the unspecified thing.",
+    "grammar_ar": "\"Lo\" تشير إلى الشيء غير المحدد.",
+    "alternatives": [
+      {
+        "text": "Non ne ho idea.",
+        "note_en": "I have no idea",
+        "note_ar": "ليست لدي أي فكرة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6030,
+    "text": "Parla inglese?",
+    "translation_ar": "هل تتحدث الإنجليزية؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Parla inglese?",
+    "pronunciation": "پارلا إنغليزيه؟",
+    "words": [
+      {
+        "w": "parlare",
+        "m_en": "to speak",
+        "m_ar": "يتحدث"
+      }
+    ],
+    "grammar_en": "The formal \"Lei\" form; languages need no article here.",
+    "grammar_ar": "صيغة رسمية؛ ولا تحتاج اللغات إلى أداة تعريف هنا.",
+    "alternatives": [
+      {
+        "text": "Parli inglese?",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6031,
+    "text": "Parlo un po' di italiano.",
+    "translation_ar": "أتحدث الإيطالية قليلًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Parlo un po' di italiano.",
+    "pronunciation": "پارلو أون پو دي إيتاليانو.",
+    "words": [
+      {
+        "w": "un po'",
+        "m_en": "a little",
+        "m_ar": "قليلًا"
+      }
+    ],
+    "grammar_en": "\"Un po'\" is short for \"un poco\".",
+    "grammar_ar": "\"Un po'\" اختصار لـ\"un poco\".",
+    "alternatives": [
+      {
+        "text": "Parlo poco italiano.",
+        "note_en": "I speak little Italian",
+        "note_ar": "أتحدث الإيطالية قليلًا جدًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6032,
+    "text": "Quanti anni ha?",
+    "translation_ar": "كم عمرك؟ (رسمي)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Quanti anni ha?",
+    "pronunciation": "كوانتي آني آ؟",
+    "words": [
+      {
+        "w": "anno",
+        "m_en": "year",
+        "m_ar": "سنة"
+      }
+    ],
+    "grammar_en": "Age uses \"avere\" (to have), not \"essere\".",
+    "grammar_ar": "العمر يستخدم \"avere\" (يملك) وليس \"essere\".",
+    "alternatives": [
+      {
+        "text": "Quanti anni hai?",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6033,
+    "text": "Ho venticinque anni.",
+    "translation_ar": "عمري خمسة وعشرون عامًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Ho venticinque anni.",
+    "pronunciation": "أو ڤينتيتشينكوي آني.",
+    "words": [
+      {
+        "w": "venticinque",
+        "m_en": "twenty-five",
+        "m_ar": "خمسة وعشرون"
+      }
+    ],
+    "grammar_en": "Literally \"I have twenty-five years\".",
+    "grammar_ar": "حرفيًا \"لدي خمسة وعشرين عامًا\".",
+    "alternatives": [
+      {
+        "text": "Ho venticinque anni, e Lei?",
+        "note_en": "I'm twenty-five, and you?",
+        "note_ar": "عمري خمسة وعشرون، وأنت؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6034,
+    "text": "Che tempo fa?",
+    "translation_ar": "كيف الطقس؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Che tempo fa?",
+    "pronunciation": "كيه تيمپو فا؟",
+    "words": [
+      {
+        "w": "tempo",
+        "m_en": "weather, time",
+        "m_ar": "طقس، وقت"
+      }
+    ],
+    "grammar_en": "Weather uses \"fare\" in Italian.",
+    "grammar_ar": "الطقس يستخدم الفعل \"fare\" في الإيطالية.",
+    "alternatives": [
+      {
+        "text": "Com'è il tempo oggi?",
+        "note_en": "How's the weather today?",
+        "note_ar": "كيف الطقس اليوم؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6035,
+    "text": "Oggi fa bel tempo.",
+    "translation_ar": "الطقس جميل اليوم.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Oggi fa bel tempo.",
+    "pronunciation": "أوججي فا بيل تيمپو.",
+    "words": [
+      {
+        "w": "bel tempo",
+        "m_en": "good weather",
+        "m_ar": "طقس جميل"
+      }
+    ],
+    "grammar_en": "\"Bel\" is the short form of \"bello\" before a noun.",
+    "grammar_ar": "\"Bel\" هي الصيغة المختصرة من \"bello\" قبل الاسم.",
+    "alternatives": [
+      {
+        "text": "Oggi c'è il sole.",
+        "note_en": "It's sunny today",
+        "note_ar": "الشمس مشرقة اليوم"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6036,
+    "text": "Abito a Roma.",
+    "translation_ar": "أسكن في روما.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Abito a Roma.",
+    "pronunciation": "آبيتو آ روما.",
+    "words": [
+      {
+        "w": "abitare",
+        "m_en": "to live",
+        "m_ar": "يسكن"
+      }
+    ],
+    "grammar_en": "\"A\" is used before city names.",
+    "grammar_ar": "\"A\" تُستخدم قبل أسماء المدن.",
+    "alternatives": [
+      {
+        "text": "Vivo a Roma.",
+        "note_en": "I live in Rome",
+        "note_ar": "أعيش في روما"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6037,
+    "text": "Che lavoro fa?",
+    "translation_ar": "ما هي مهنتك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Che lavoro fa?",
+    "pronunciation": "كيه لاڤورو فا؟",
+    "words": [
+      {
+        "w": "lavoro",
+        "m_en": "job",
+        "m_ar": "عمل"
+      }
+    ],
+    "grammar_en": "Literally \"what job do you do?\".",
+    "grammar_ar": "حرفيًا \"أي عمل تعمل؟\".",
+    "alternatives": [
+      {
+        "text": "Di cosa si occupa?",
+        "note_en": "What do you do?",
+        "note_ar": "بماذا تعمل؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6038,
+    "text": "Sono studente.",
+    "translation_ar": "أنا طالب.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Sono studente.",
+    "pronunciation": "سونو ستودينتيه.",
+    "words": [
+      {
+        "w": "studente",
+        "m_en": "student",
+        "m_ar": "طالب"
+      }
+    ],
+    "grammar_en": "The female form is \"studentessa\".",
+    "grammar_ar": "صيغة المؤنث هي \"studentessa\".",
+    "alternatives": [
+      {
+        "text": "Sono studentessa.",
+        "note_en": "I'm a student (female)",
+        "note_ar": "أنا طالبة"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6039,
+    "text": "Mi può aiutare, per favore?",
+    "translation_ar": "هل يمكنك مساعدتي من فضلك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Mi può aiutare, per favore?",
+    "pronunciation": "مي پوو آيوتاريه، پير فافوريه؟",
+    "words": [
+      {
+        "w": "aiutare",
+        "m_en": "to help",
+        "m_ar": "يساعد"
+      }
+    ],
+    "grammar_en": "\"Mi\" is the object pronoun \"me\".",
+    "grammar_ar": "\"Mi\" هو ضمير المفعول \"لي/إياي\".",
+    "alternatives": [
+      {
+        "text": "Puoi aiutarmi?",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6040,
+    "text": "Dov'è la stazione?",
+    "translation_ar": "أين محطة القطار؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Dov'è la stazione?",
+    "pronunciation": "دوڤيه لا ستاتسيونيه؟",
+    "words": [
+      {
+        "w": "stazione",
+        "m_en": "station",
+        "m_ar": "محطة"
+      }
+    ],
+    "grammar_en": "\"La\" is used because \"stazione\" is feminine.",
+    "grammar_ar": "\"La\" لأن \"stazione\" مؤنثة.",
+    "alternatives": [
+      {
+        "text": "Come si arriva alla stazione?",
+        "note_en": "How do I get to the station?",
+        "note_ar": "كيف أصل إلى المحطة؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6041,
+    "text": "È a sinistra.",
+    "translation_ar": "إنه على اليسار.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "È a sinistra.",
+    "pronunciation": "إيه آ سينيسترا.",
+    "words": [
+      {
+        "w": "sinistra",
+        "m_en": "left",
+        "m_ar": "يسار"
+      }
+    ],
+    "grammar_en": "\"A sinistra\" means \"on the left\".",
+    "grammar_ar": "\"A sinistra\" تعني \"على اليسار\".",
+    "alternatives": [
+      {
+        "text": "Giri a sinistra.",
+        "note_en": "Turn left",
+        "note_ar": "انعطف يسارًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6042,
+    "text": "È a destra.",
+    "translation_ar": "إنه على اليمين.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "È a destra.",
+    "pronunciation": "إيه آ ديسترا.",
+    "words": [
+      {
+        "w": "destra",
+        "m_en": "right",
+        "m_ar": "يمين"
+      }
+    ],
+    "grammar_en": "\"A destra\" means \"on the right\".",
+    "grammar_ar": "\"A destra\" تعني \"على اليمين\".",
+    "alternatives": [
+      {
+        "text": "Giri a destra.",
+        "note_en": "Turn right",
+        "note_ar": "انعطف يمينًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6043,
+    "text": "Sempre dritto.",
+    "translation_ar": "على طول.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Sempre dritto.",
+    "pronunciation": "سيمپريه دريتّو.",
+    "words": [
+      {
+        "w": "dritto",
+        "m_en": "straight",
+        "m_ar": "مستقيم"
+      }
+    ],
+    "grammar_en": "Literally \"always straight\".",
+    "grammar_ar": "حرفيًا \"دائمًا مستقيم\".",
+    "alternatives": [
+      {
+        "text": "Vada sempre dritto.",
+        "note_en": "Keep going straight",
+        "note_ar": "استمر مستقيمًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6044,
+    "text": "Vorrei prenotare un tavolo.",
+    "translation_ar": "أريد حجز طاولة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Vorrei prenotare un tavolo.",
+    "pronunciation": "ڤورّاي پرينوتاريه أون تاڤولو.",
+    "words": [
+      {
+        "w": "prenotare",
+        "m_en": "to book",
+        "m_ar": "يحجز"
+      }
+    ],
+    "grammar_en": "\"Vorrei\" + infinitive makes a polite request.",
+    "grammar_ar": "\"Vorrei\" + المصدر تصنع طلبًا مهذبًا.",
+    "alternatives": [
+      {
+        "text": "Vorrei una prenotazione.",
+        "note_en": "I'd like a reservation",
+        "note_ar": "أودّ حجزًا"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6045,
+    "text": "Il conto, per favore.",
+    "translation_ar": "الفاتورة من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Il conto, per favore.",
+    "pronunciation": "إل كونتو، پير فافوريه.",
+    "words": [
+      {
+        "w": "conto",
+        "m_en": "bill",
+        "m_ar": "فاتورة"
+      }
+    ],
+    "grammar_en": "Used in restaurants to ask for the bill.",
+    "grammar_ar": "تُستخدم في المطاعم لطلب الفاتورة.",
+    "alternatives": [
+      {
+        "text": "Posso avere il conto?",
+        "note_en": "May I have the bill?",
+        "note_ar": "هل يمكنني الحصول على الفاتورة؟"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6046,
+    "text": "È delizioso!",
+    "translation_ar": "هذا لذيذ!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "È delizioso!",
+    "pronunciation": "إيه ديليتسيوزو!",
+    "words": [
+      {
+        "w": "delizioso",
+        "m_en": "delicious",
+        "m_ar": "لذيذ"
+      }
+    ],
+    "grammar_en": "\"Buonissimo\" is also common for \"very good\".",
+    "grammar_ar": "\"Buonissimo\" شائعة أيضًا بمعنى \"طيب جدًا\".",
+    "alternatives": [
+      {
+        "text": "È buonissimo!",
+        "note_en": "It's very good!",
+        "note_ar": "إنه طيب جدًا!"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6047,
+    "text": "Sono stanco.",
+    "translation_ar": "أنا متعب.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Sono stanco.",
+    "pronunciation": "سونو ستانكو.",
+    "words": [
+      {
+        "w": "stanco",
+        "m_en": "tired",
+        "m_ar": "متعب"
+      }
+    ],
+    "grammar_en": "The female form is \"stanca\".",
+    "grammar_ar": "صيغة المؤنث هي \"stanca\".",
+    "alternatives": [
+      {
+        "text": "Sono stanchissimo.",
+        "note_en": "I'm exhausted",
+        "note_ar": "أنا منهك"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6048,
+    "text": "Ho mal di testa.",
+    "translation_ar": "أشعر بألم في رأسي.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Ho mal di testa.",
+    "pronunciation": "أو مال دي تيستا.",
+    "words": [
+      {
+        "w": "mal di testa",
+        "m_en": "headache",
+        "m_ar": "صداع"
+      }
+    ],
+    "grammar_en": "\"Mal di\" + a body part expresses pain.",
+    "grammar_ar": "\"Mal di\" + عضو من الجسم تعبّر عن الألم.",
+    "alternatives": [
+      {
+        "text": "Mi fa male la testa.",
+        "note_en": "My head hurts",
+        "note_ar": "رأسي يؤلمني"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6049,
+    "text": "Chiami un medico, per favore!",
+    "translation_ar": "اتصل بطبيب من فضلك!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Chiami un medico, per favore!",
+    "pronunciation": "كيامي أون ميديكو، پير فافوريه!",
+    "words": [
+      {
+        "w": "medico",
+        "m_en": "doctor",
+        "m_ar": "طبيب"
+      }
+    ],
+    "grammar_en": "\"Chiami\" is the formal imperative of \"chiamare\".",
+    "grammar_ar": "\"Chiami\" هي صيغة الأمر الرسمية من \"chiamare\".",
+    "alternatives": [
+      {
+        "text": "Ho bisogno di un medico!",
+        "note_en": "I need a doctor!",
+        "note_ar": "أحتاج إلى طبيب!"
+      }
+    ],
+    "similar": []
+  },
+  {
+    "id": 6050,
+    "text": "Buona giornata!",
+    "translation_ar": "يومًا سعيدًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "demo",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Buona giornata!",
+    "pronunciation": "بوونا جورناتا!",
+    "words": [
+      {
+        "w": "giornata",
+        "m_en": "day (its whole span)",
+        "m_ar": "يوم (بمدته)"
+      }
+    ],
+    "grammar_en": "Said when parting during the day.",
+    "grammar_ar": "تُقال عند الوداع خلال النهار.",
+    "alternatives": [
+      {
+        "text": "Buon proseguimento!",
+        "note_en": "Enjoy the rest of your day",
+        "note_ar": "استمتع ببقية يومك"
+      }
+    ],
+    "similar": []
+  }
+]
