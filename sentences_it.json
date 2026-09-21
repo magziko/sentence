@@ -5464,5 +5464,5555 @@
     ],
     "similar": [],
     "difficulty": 10
+  },
+  {
+    "id": 6154,
+    "text": "Di solito mi alzo alle sette.",
+    "translation_ar": "عادةً أستيقظ في السابعة.",
+    "level": "A2",
+    "situation": "daily",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 206,
+    "videoId": null,
+    "transcriptContext": "Di solito mi alzo alle sette.",
+    "pronunciation": "دي سوليتو مي ألتسو آلّيه سيتّيه.",
+    "words": [
+      {
+        "w": "alzarsi",
+        "m_en": "to get up",
+        "m_ar": "ينهض / يستيقظ"
+      },
+      {
+        "w": "di solito",
+        "m_en": "usually",
+        "m_ar": "عادةً"
+      }
+    ],
+    "grammar_en": "Reflexive verbs use \"mi/ti/si\" before the verb: \"mi alzo\".",
+    "grammar_ar": "تسبق الضمائر «mi/ti/si» الأفعال الانعكاسيّة: «mi alzo».",
+    "alternatives": [
+      {
+        "text": "Ogni mattina mi sveglio alle sette.",
+        "note_en": "Every morning I wake up at seven",
+        "note_ar": "كلّ صباح أستيقظ في السابعة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6155,
+    "text": "Prendo l'autobus per andare al lavoro.",
+    "translation_ar": "أستقلّ الحافلة للذهاب إلى العمل.",
+    "level": "A2",
+    "situation": "daily",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 223,
+    "videoId": null,
+    "transcriptContext": "Prendo l'autobus per andare al lavoro.",
+    "pronunciation": "پريندو لاوتوبوس پير أنداريه آل لاڤورو.",
+    "words": [
+      {
+        "w": "prendere",
+        "m_en": "to take",
+        "m_ar": "يأخذ / يستقلّ"
+      },
+      {
+        "w": "autobus",
+        "m_en": "bus",
+        "m_ar": "حافلة"
+      }
+    ],
+    "grammar_en": "\"Per\" + infinitive expresses purpose: \"in order to\".",
+    "grammar_ar": "تعبّر «per» + المصدر عن الغاية: «من أجل».",
+    "alternatives": [
+      {
+        "text": "Vado al lavoro in autobus.",
+        "note_en": "I go to work by bus",
+        "note_ar": "أذهب إلى العمل بالحافلة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6156,
+    "text": "Abito in un appartamento al terzo piano.",
+    "translation_ar": "أسكن في شقّة في الطابق الثالث.",
+    "level": "A2",
+    "situation": "home",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Abito in un appartamento al terzo piano.",
+    "pronunciation": "آبيتو إن أون أپّارتامينتو آل تيرتسو پيانو.",
+    "words": [
+      {
+        "w": "appartamento",
+        "m_en": "apartment",
+        "m_ar": "شقّة"
+      },
+      {
+        "w": "piano",
+        "m_en": "floor",
+        "m_ar": "طابق"
+      }
+    ],
+    "grammar_en": "Ordinal numbers agree with the noun: \"terzo piano\".",
+    "grammar_ar": "تتطابق الأعداد الترتيبيّة مع الاسم: «terzo piano».",
+    "alternatives": [
+      {
+        "text": "Vivo al terzo piano.",
+        "note_en": "I live on the third floor",
+        "note_ar": "أعيش في الطابق الثالث"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6157,
+    "text": "In cucina c'è un tavolo e quattro sedie.",
+    "translation_ar": "في المطبخ طاولة وأربعة كراسٍ.",
+    "level": "A2",
+    "situation": "home",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 17,
+    "videoId": null,
+    "transcriptContext": "In cucina c'è un tavolo e quattro sedie.",
+    "pronunciation": "إن كوتشينا تشيه أون تاڤولو إي كواتّرو سيديه.",
+    "words": [
+      {
+        "w": "cucina",
+        "m_en": "kitchen",
+        "m_ar": "مطبخ"
+      },
+      {
+        "w": "sedia",
+        "m_en": "chair",
+        "m_ar": "كرسي"
+      }
+    ],
+    "grammar_en": "\"C'è\" agrees with the first noun in the list; for a plural subject use \"ci sono\".",
+    "grammar_ar": "تتوافق «c'è» مع أوّل اسم في القائمة؛ وللجمع تُستعمل «ci sono».",
+    "alternatives": [
+      {
+        "text": "In cucina ci sono un tavolo e quattro sedie.",
+        "note_en": "Plural \"ci sono\"",
+        "note_ar": "بصيغة الجمع «ci sono»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6158,
+    "text": "Questo vestito è troppo grande per me.",
+    "translation_ar": "هذا الفستان كبير جدًّا عليّ.",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 34,
+    "videoId": null,
+    "transcriptContext": "Questo vestito è troppo grande per me.",
+    "pronunciation": "كويستو ڤيستيتو إيه ترّوپّو غرانديه پير ميه.",
+    "words": [
+      {
+        "w": "troppo",
+        "m_en": "too, too much",
+        "m_ar": "أكثر من اللازم"
+      },
+      {
+        "w": "grande",
+        "m_en": "big",
+        "m_ar": "كبير"
+      }
+    ],
+    "grammar_en": "\"Troppo\" before an adjective means \"too\".",
+    "grammar_ar": "تعني «troppo» قبل الصفة «أكثر من اللازم».",
+    "alternatives": [
+      {
+        "text": "Ha una taglia più piccola?",
+        "note_en": "Do you have a smaller size?",
+        "note_ar": "هل لديكم مقاسًا أصغر؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6159,
+    "text": "Cerco un regalo per mia sorella.",
+    "translation_ar": "أبحث عن هديّة لأختي.",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 51,
+    "videoId": null,
+    "transcriptContext": "Cerco un regalo per mia sorella.",
+    "pronunciation": "تشيركو أون ريغالو پير ميا سوريلّا.",
+    "words": [
+      {
+        "w": "regalo",
+        "m_en": "gift",
+        "m_ar": "هديّة"
+      },
+      {
+        "w": "cercare",
+        "m_en": "to look for",
+        "m_ar": "يبحث عن"
+      }
+    ],
+    "grammar_en": "\"Mia sorella\" has no article because \"sorella\" is a singular family member.",
+    "grammar_ar": "«mia sorella» بلا أداة تعريف لأنّ «sorella» فرد مفرد من الأسرة.",
+    "alternatives": [
+      {
+        "text": "Vorrei comprare un regalo per mia sorella.",
+        "note_en": "I'd like to buy a gift for my sister",
+        "note_ar": "أودّ شراء هديّة لأختي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6160,
+    "text": "Come antipasto prendo la bruschetta.",
+    "translation_ar": "كمقبّلات سآخذ البروسكيتا.",
+    "level": "A2",
+    "situation": "restaurant",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 68,
+    "videoId": null,
+    "transcriptContext": "Come antipasto prendo la bruschetta.",
+    "pronunciation": "كومي أنتيپاستو پريندو لا بروسكيتّا.",
+    "words": [
+      {
+        "w": "antipasto",
+        "m_en": "starter",
+        "m_ar": "مقبّلات"
+      },
+      {
+        "w": "prendere",
+        "m_en": "to have (food)",
+        "m_ar": "يطلب / يتناول"
+      }
+    ],
+    "grammar_en": "\"Prendere\" is often used for ordering food: \"prendo\".",
+    "grammar_ar": "يُستعمل «prendere» كثيرًا لطلب الطعام: «prendo».",
+    "alternatives": [
+      {
+        "text": "Per antipasto vorrei la bruschetta.",
+        "note_en": "More polite",
+        "note_ar": "أكثر تهذيبًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6161,
+    "text": "Il pesce è fresco oggi?",
+    "translation_ar": "هل السمك طازج اليوم؟",
+    "level": "A2",
+    "situation": "restaurant",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 85,
+    "videoId": null,
+    "transcriptContext": "Il pesce è fresco oggi?",
+    "pronunciation": "إل پيشيه إيه فريسكو أوججي؟",
+    "words": [
+      {
+        "w": "pesce",
+        "m_en": "fish",
+        "m_ar": "سمك"
+      },
+      {
+        "w": "fresco",
+        "m_en": "fresh",
+        "m_ar": "طازج"
+      }
+    ],
+    "grammar_en": "\"Pesce\" is singular for the food; \"pesci\" is the plural for live fish.",
+    "grammar_ar": "«pesce» مفرد للطعام؛ و«pesci» جمع للأسماك الحيّة.",
+    "alternatives": [
+      {
+        "text": "Il pesce è del giorno?",
+        "note_en": "Is the fish today's catch?",
+        "note_ar": "هل السمك من صيد اليوم؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6162,
+    "text": "Ho mal di gola da due giorni.",
+    "translation_ar": "لديّ ألم في الحلق منذ يومين.",
+    "level": "A2",
+    "situation": "health",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 102,
+    "videoId": null,
+    "transcriptContext": "Ho mal di gola da due giorni.",
+    "pronunciation": "أو مال دي غولا دا دوويه جورني.",
+    "words": [
+      {
+        "w": "gola",
+        "m_en": "throat",
+        "m_ar": "حلق"
+      },
+      {
+        "w": "da",
+        "m_en": "for, since",
+        "m_ar": "منذ"
+      }
+    ],
+    "grammar_en": "\"Da\" + duration + present tense = something that started in the past and continues.",
+    "grammar_ar": "«da» + مدّة + المضارع تعني فعلًا بدأ في الماضي ولا يزال مستمرًّا.",
+    "alternatives": [
+      {
+        "text": "Mi fa male la gola da due giorni.",
+        "note_en": "My throat has hurt for two days",
+        "note_ar": "يؤلمني حلقي منذ يومين"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6163,
+    "text": "Prenda questa medicina due volte al giorno.",
+    "translation_ar": "تناول هذا الدواء مرّتين في اليوم.",
+    "level": "A2",
+    "situation": "health",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 119,
+    "videoId": null,
+    "transcriptContext": "Prenda questa medicina due volte al giorno.",
+    "pronunciation": "پريندا كويستا ميديتشينا دوويه ڤولتيه آل جورنو.",
+    "words": [
+      {
+        "w": "medicina",
+        "m_en": "medicine",
+        "m_ar": "دواء"
+      },
+      {
+        "w": "volta",
+        "m_en": "time (occasion)",
+        "m_ar": "مرّة"
+      }
+    ],
+    "grammar_en": "\"Prenda\" is the formal imperative; \"al giorno\" means \"per day\".",
+    "grammar_ar": "«prenda» أمر رسمي؛ و«al giorno» تعني «في اليوم».",
+    "alternatives": [
+      {
+        "text": "Deve prendere questa medicina due volte al giorno.",
+        "note_en": "\"You must take...\"",
+        "note_ar": "«عليك أن تتناول...»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6164,
+    "text": "Vada dritto fino al semaforo, poi giri a sinistra.",
+    "translation_ar": "اذهب مستقيمًا حتى إشارة المرور ثم انعطف يسارًا.",
+    "level": "A2",
+    "situation": "directions",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 136,
+    "videoId": null,
+    "transcriptContext": "Vada dritto fino al semaforo, poi giri a sinistra.",
+    "pronunciation": "ڤادا دريتّو فينو آل سيمافورو، پوي جيري آ سينيسترا.",
+    "words": [
+      {
+        "w": "semaforo",
+        "m_en": "traffic light",
+        "m_ar": "إشارة مرور"
+      },
+      {
+        "w": "fino a",
+        "m_en": "as far as",
+        "m_ar": "حتى"
+      }
+    ],
+    "grammar_en": "\"Vada\" and \"giri\" are formal imperatives (Lei).",
+    "grammar_ar": "«vada» و«giri» أمران رسميّان (Lei).",
+    "alternatives": [
+      {
+        "text": "Vai dritto fino al semaforo, poi gira a sinistra.",
+        "note_en": "Informal (tu)",
+        "note_ar": "غير رسمي (tu)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6165,
+    "text": "La banca è di fronte alla posta.",
+    "translation_ar": "البنك أمام مكتب البريد.",
+    "level": "A2",
+    "situation": "directions",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 153,
+    "videoId": null,
+    "transcriptContext": "La banca è di fronte alla posta.",
+    "pronunciation": "لا بانكا إيه دي فرونتيه آلّا پوستا.",
+    "words": [
+      {
+        "w": "banca",
+        "m_en": "bank",
+        "m_ar": "بنك"
+      },
+      {
+        "w": "posta",
+        "m_en": "post office",
+        "m_ar": "مكتب بريد"
+      }
+    ],
+    "grammar_en": "\"Di fronte a\" means \"opposite\" or \"in front of\".",
+    "grammar_ar": "تعني «di fronte a» «مقابل» أو «أمام».",
+    "alternatives": [
+      {
+        "text": "La banca è davanti alla posta.",
+        "note_en": "In front of the post office",
+        "note_ar": "أمام مكتب البريد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6166,
+    "text": "Devo cambiare treno a Bologna?",
+    "translation_ar": "هل عليّ تغيير القطار في بولونيا؟",
+    "level": "A2",
+    "situation": "transport",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 170,
+    "videoId": null,
+    "transcriptContext": "Devo cambiare treno a Bologna?",
+    "pronunciation": "ديڤو كامبياريه ترينو آ بولونيا؟",
+    "words": [
+      {
+        "w": "dovere",
+        "m_en": "must, to have to",
+        "m_ar": "يجب / عليه"
+      },
+      {
+        "w": "cambiare",
+        "m_en": "to change",
+        "m_ar": "يغيّر"
+      }
+    ],
+    "grammar_en": "\"Dovere\" + infinitive expresses necessity.",
+    "grammar_ar": "يعبّر «dovere» + المصدر عن الضرورة.",
+    "alternatives": [
+      {
+        "text": "C'è un cambio a Bologna?",
+        "note_en": "Is there a change at Bologna?",
+        "note_ar": "هل هناك تغيير في بولونيا؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6167,
+    "text": "Da quale binario parte il treno?",
+    "translation_ar": "من أيّ رصيف يغادر القطار؟",
+    "level": "A2",
+    "situation": "transport",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 187,
+    "videoId": null,
+    "transcriptContext": "Da quale binario parte il treno?",
+    "pronunciation": "دا كوالي بيناريو پارتيه إل ترينو؟",
+    "words": [
+      {
+        "w": "binario",
+        "m_en": "platform",
+        "m_ar": "رصيف"
+      },
+      {
+        "w": "quale",
+        "m_en": "which",
+        "m_ar": "أيّ"
+      }
+    ],
+    "grammar_en": "\"Quale\" asks for a choice among several options.",
+    "grammar_ar": "تُستعمل «quale» للسؤال عن اختيار بين عدّة خيارات.",
+    "alternatives": [
+      {
+        "text": "Qual è il binario del treno per Roma?",
+        "note_en": "What is the platform for the Rome train?",
+        "note_ar": "ما رصيف قطار روما؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6168,
+    "text": "Domani ci sarà il sole, ma farà freddo.",
+    "translation_ar": "غدًا ستشرق الشمس لكنّ الجوّ سيكون باردًا.",
+    "level": "A2",
+    "situation": "weather",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 204,
+    "videoId": null,
+    "transcriptContext": "Domani ci sarà il sole, ma farà freddo.",
+    "pronunciation": "دوماني تشي سارا إل سوليه، ما فارا فريدّو.",
+    "words": [
+      {
+        "w": "sarà",
+        "m_en": "will be",
+        "m_ar": "سيكون"
+      },
+      {
+        "w": "sole",
+        "m_en": "sun",
+        "m_ar": "شمس"
+      }
+    ],
+    "grammar_en": "The third-person simple future ends in \"-à\": \"sarà\", \"farà\".",
+    "grammar_ar": "يُختم المستقبل البسيط للغائب بـ«-à»: «sarà» و«farà».",
+    "alternatives": [
+      {
+        "text": "Domani sarà soleggiato ma freddo.",
+        "note_en": "Tomorrow will be sunny but cold",
+        "note_ar": "سيكون الغد مشمسًا لكن باردًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6169,
+    "text": "Questa settimana piove quasi ogni giorno.",
+    "translation_ar": "تمطر تقريبًا كلّ يوم هذا الأسبوع.",
+    "level": "A2",
+    "situation": "weather",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 221,
+    "videoId": null,
+    "transcriptContext": "Questa settimana piove quasi ogni giorno.",
+    "pronunciation": "كويستا سيتّيمانا پيوڤيه كواسي أونّي جورنو.",
+    "words": [
+      {
+        "w": "settimana",
+        "m_en": "week",
+        "m_ar": "أسبوع"
+      },
+      {
+        "w": "quasi",
+        "m_en": "almost",
+        "m_ar": "تقريبًا"
+      }
+    ],
+    "grammar_en": "\"Quasi\" comes before the word it modifies.",
+    "grammar_ar": "تأتي «quasi» قبل الكلمة التي تصفها.",
+    "alternatives": [
+      {
+        "text": "Tutta la settimana è piovoso.",
+        "note_en": "It's rainy all week",
+        "note_ar": "الجوّ ماطر طوال الأسبوع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6170,
+    "text": "Mio padre lavora in banca da vent'anni.",
+    "translation_ar": "يعمل أبي في بنك منذ عشرين سنة.",
+    "level": "A2",
+    "situation": "family",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 238,
+    "videoId": null,
+    "transcriptContext": "Mio padre lavora in banca da vent'anni.",
+    "pronunciation": "ميو پادريه لاڤورا إن بانكا دا ڤينتانّي.",
+    "words": [
+      {
+        "w": "padre",
+        "m_en": "father",
+        "m_ar": "أب"
+      },
+      {
+        "w": "vent'anni",
+        "m_en": "twenty years",
+        "m_ar": "عشرون سنة"
+      }
+    ],
+    "grammar_en": "\"Mio padre\" has no article, like other singular family members.",
+    "grammar_ar": "«mio padre» بلا أداة تعريف كسائر أفراد الأسرة المفردين.",
+    "alternatives": [
+      {
+        "text": "Mio padre è bancario.",
+        "note_en": "My father is a bank employee",
+        "note_ar": "أبي موظّف بنك"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6171,
+    "text": "Domenica pranziamo tutti dai nonni.",
+    "translation_ar": "يوم الأحد نتناول الغداء جميعًا عند الجدّين.",
+    "level": "A2",
+    "situation": "family",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 15,
+    "videoId": null,
+    "transcriptContext": "Domenica pranziamo tutti dai nonni.",
+    "pronunciation": "دومينيكا پرانتسيامو توتّي داي نونّي.",
+    "words": [
+      {
+        "w": "nonni",
+        "m_en": "grandparents",
+        "m_ar": "الجدّ والجدّة"
+      },
+      {
+        "w": "pranzare",
+        "m_en": "to have lunch",
+        "m_ar": "يتناول الغداء"
+      }
+    ],
+    "grammar_en": "\"Nonni\" is the masculine plural, used for grandfather and grandmother together.",
+    "grammar_ar": "«nonni» جمع مذكّر يشمل الجدّ والجدّة معًا.",
+    "alternatives": [
+      {
+        "text": "La domenica pranziamo dai nonni.",
+        "note_en": "With the article: every Sunday",
+        "note_ar": "مع أداة التعريف: كلّ أحد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6172,
+    "text": "Nel tempo libero leggo e guardo film.",
+    "translation_ar": "في وقت الفراغ أقرأ وأشاهد الأفلام.",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 32,
+    "videoId": null,
+    "transcriptContext": "Nel tempo libero leggo e guardo film.",
+    "pronunciation": "نيل تيمپو ليبيرو ليغّو إي غواردو فيلم.",
+    "words": [
+      {
+        "w": "tempo libero",
+        "m_en": "free time",
+        "m_ar": "وقت الفراغ"
+      },
+      {
+        "w": "leggere",
+        "m_en": "to read",
+        "m_ar": "يقرأ"
+      }
+    ],
+    "grammar_en": "\"Leggo\" is the first-person present of \"leggere\".",
+    "grammar_ar": "«leggo» هي صيغة المتكلّم في المضارع من «leggere».",
+    "alternatives": [
+      {
+        "text": "Nel tempo libero mi piace leggere.",
+        "note_en": "\"In my free time I like reading\"",
+        "note_ar": "«في وقت الفراغ أحبّ القراءة»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6173,
+    "text": "Facciamo una gita al lago questo sabato?",
+    "translation_ar": "هل نقوم برحلة إلى البحيرة هذا السبت؟",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 49,
+    "videoId": null,
+    "transcriptContext": "Facciamo una gita al lago questo sabato?",
+    "pronunciation": "فاتشامو أونا جيتا آل لاغو كويستو ساباتو؟",
+    "words": [
+      {
+        "w": "gita",
+        "m_en": "trip, outing",
+        "m_ar": "رحلة قصيرة"
+      },
+      {
+        "w": "lago",
+        "m_en": "lake",
+        "m_ar": "بحيرة"
+      }
+    ],
+    "grammar_en": "\"Fare una gita\" means \"to go on a day trip\".",
+    "grammar_ar": "تعني «fare una gita» «القيام برحلة ليوم واحد».",
+    "alternatives": [
+      {
+        "text": "Che ne dici di una gita al lago?",
+        "note_en": "How about a trip to the lake?",
+        "note_ar": "ما رأيك برحلة إلى البحيرة؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6174,
+    "text": "Piacere di conoscerla, signor Rossi.",
+    "translation_ar": "تشرّفتُ بمعرفتك يا سيّد روسّي.",
+    "level": "A2",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 66,
+    "videoId": null,
+    "transcriptContext": "Piacere di conoscerla, signor Rossi.",
+    "pronunciation": "پياتشيريه دي كونوشيرلا، سينيور روسّي.",
+    "words": [
+      {
+        "w": "conoscere",
+        "m_en": "to meet, to know",
+        "m_ar": "يتعرّف إلى"
+      },
+      {
+        "w": "signor",
+        "m_en": "Mr.",
+        "m_ar": "السيّد"
+      }
+    ],
+    "grammar_en": "\"-la\" is the formal object pronoun (Lei) attached to the infinitive.",
+    "grammar_ar": "«-la» ضمير المفعول الرسمي (Lei) يلتصق بالمصدر.",
+    "alternatives": [
+      {
+        "text": "Piacere di conoscerti.",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6175,
+    "text": "Sei mai stato in Italia?",
+    "translation_ar": "هل زرتَ إيطاليا من قبل؟",
+    "level": "A2",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 83,
+    "videoId": null,
+    "transcriptContext": "Sei mai stato in Italia?",
+    "pronunciation": "سيي ماي ستاتو إن إيتاليا؟",
+    "words": [
+      {
+        "w": "mai",
+        "m_en": "ever, never",
+        "m_ar": "أبدًا / قطّ"
+      },
+      {
+        "w": "essere stato",
+        "m_en": "to have been",
+        "m_ar": "سبق أن كان"
+      }
+    ],
+    "grammar_en": "\"Essere stato in\" + place means \"to have visited\".",
+    "grammar_ar": "تعني «essere stato in» + مكان «سبق أن زار».",
+    "alternatives": [
+      {
+        "text": "Hai mai visitato l'Italia?",
+        "note_en": "Have you ever visited Italy?",
+        "note_ar": "هل زرتَ إيطاليا من قبل؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6176,
+    "text": "Vorrei parlare con il signor Bianchi, per favore.",
+    "translation_ar": "أودّ التحدّث مع السيّد بيانكي من فضلك.",
+    "level": "A2",
+    "situation": "phone-calls",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 100,
+    "videoId": null,
+    "transcriptContext": "Vorrei parlare con il signor Bianchi, per favore.",
+    "pronunciation": "ڤورّاي پارلاريه كون إل سينيور بيانكي، پير فافوريه.",
+    "words": [
+      {
+        "w": "parlare con",
+        "m_en": "to speak with",
+        "m_ar": "يتحدّث مع"
+      },
+      {
+        "w": "signor",
+        "m_en": "Mr.",
+        "m_ar": "السيّد"
+      }
+    ],
+    "grammar_en": "\"Vorrei parlare con\" is the standard polite phone request.",
+    "grammar_ar": "«vorrei parlare con» هي الصيغة المهذّبة المعتادة على الهاتف.",
+    "alternatives": [
+      {
+        "text": "Posso parlare con il signor Bianchi?",
+        "note_en": "Can I speak with Mr. Bianchi?",
+        "note_ar": "هل يمكنني التحدّث مع السيّد بيانكي؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6177,
+    "text": "Non c'è, ma può richiamare più tardi.",
+    "translation_ar": "ليس موجودًا، لكن يمكنك معاودة الاتّصال لاحقًا.",
+    "level": "A2",
+    "situation": "phone-calls",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 117,
+    "videoId": null,
+    "transcriptContext": "Non c'è, ma può richiamare più tardi.",
+    "pronunciation": "نون تشيه، ما پوو ريكياماريه پيو تاردي.",
+    "words": [
+      {
+        "w": "richiamare",
+        "m_en": "to call back",
+        "m_ar": "يعاود الاتّصال"
+      },
+      {
+        "w": "più tardi",
+        "m_en": "later",
+        "m_ar": "لاحقًا"
+      }
+    ],
+    "grammar_en": "The prefix \"ri-\" adds the idea of \"again\": \"richiamare\".",
+    "grammar_ar": "تضيف البادئة «ri-» معنى «مجدّدًا»: «richiamare».",
+    "alternatives": [
+      {
+        "text": "Non è in ufficio: richiami più tardi.",
+        "note_en": "He's not in the office: call back later",
+        "note_ar": "ليس في المكتب: اتّصل لاحقًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6178,
+    "text": "Il mio computer è molto lento.",
+    "translation_ar": "حاسوبي بطيء جدًّا.",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 134,
+    "videoId": null,
+    "transcriptContext": "Il mio computer è molto lento.",
+    "pronunciation": "إل ميو كومپيوتر إيه مولتو لينتو.",
+    "words": [
+      {
+        "w": "computer",
+        "m_en": "computer",
+        "m_ar": "حاسوب"
+      },
+      {
+        "w": "lento",
+        "m_en": "slow",
+        "m_ar": "بطيء"
+      }
+    ],
+    "grammar_en": "\"Computer\" is masculine and does not change in the plural: \"i computer\".",
+    "grammar_ar": "«computer» مذكّر ولا يتغيّر في الجمع: «i computer».",
+    "alternatives": [
+      {
+        "text": "Il mio computer va lentissimo.",
+        "note_en": "My computer is very slow",
+        "note_ar": "حاسوبي بطيء للغاية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6179,
+    "text": "Puoi mandarmi il documento per email?",
+    "translation_ar": "هل يمكنك إرسال المستند إليّ بالبريد الإلكتروني؟",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 151,
+    "videoId": null,
+    "transcriptContext": "Puoi mandarmi il documento per email?",
+    "pronunciation": "پووي ماندارمي إل دوكومينتو پير إيميل؟",
+    "words": [
+      {
+        "w": "documento",
+        "m_en": "document",
+        "m_ar": "مستند"
+      },
+      {
+        "w": "email",
+        "m_en": "email",
+        "m_ar": "بريد إلكتروني"
+      }
+    ],
+    "grammar_en": "\"Per email\" means \"by email\", without an article.",
+    "grammar_ar": "تعني «per email» «بالبريد الإلكتروني» دون أداة تعريف.",
+    "alternatives": [
+      {
+        "text": "Mi mandi il documento via email?",
+        "note_en": "Formal (Lei)",
+        "note_ar": "رسمي (Lei)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6180,
+    "text": "Vorrei aprire un conto corrente.",
+    "translation_ar": "أودّ فتح حساب جارٍ.",
+    "level": "A2",
+    "situation": "banking",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 168,
+    "videoId": null,
+    "transcriptContext": "Vorrei aprire un conto corrente.",
+    "pronunciation": "ڤورّاي آپريريه أون كونتو كورّينتيه.",
+    "words": [
+      {
+        "w": "conto corrente",
+        "m_en": "current account",
+        "m_ar": "حساب جارٍ"
+      },
+      {
+        "w": "aprire",
+        "m_en": "to open",
+        "m_ar": "يفتح"
+      }
+    ],
+    "grammar_en": "\"Conto\" is masculine: \"un conto\".",
+    "grammar_ar": "«conto» مذكّر: «un conto».",
+    "alternatives": [
+      {
+        "text": "Vorrei aprire un conto in banca.",
+        "note_en": "I'd like to open a bank account",
+        "note_ar": "أودّ فتح حساب في البنك"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6181,
+    "text": "Il bancomat ha trattenuto la mia carta.",
+    "translation_ar": "ابتلع الصرّاف الآلي بطاقتي.",
+    "level": "A2",
+    "situation": "banking",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 185,
+    "videoId": null,
+    "transcriptContext": "Il bancomat ha trattenuto la mia carta.",
+    "pronunciation": "إل بانكومات آ تراتّينوتو لا ميا كارتا.",
+    "words": [
+      {
+        "w": "trattenere",
+        "m_en": "to keep, to retain",
+        "m_ar": "يحتجز"
+      },
+      {
+        "w": "carta",
+        "m_en": "card",
+        "m_ar": "بطاقة"
+      }
+    ],
+    "grammar_en": "\"Trattenuto\" is the past participle of \"trattenere\".",
+    "grammar_ar": "«trattenuto» هو اسم المفعول من «trattenere».",
+    "alternatives": [
+      {
+        "text": "La carta è rimasta nel bancomat.",
+        "note_en": "The card stayed in the ATM",
+        "note_ar": "بقيت البطاقة في الصرّاف الآلي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6182,
+    "text": "Chiamate un'ambulanza, è urgente!",
+    "translation_ar": "اتّصلوا بالإسعاف، الأمر عاجل!",
+    "level": "A2",
+    "situation": "emergency",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 202,
+    "videoId": null,
+    "transcriptContext": "Chiamate un'ambulanza, è urgente!",
+    "pronunciation": "كياماتيه أونامبولانتسا، إيه أورجينتيه!",
+    "words": [
+      {
+        "w": "ambulanza",
+        "m_en": "ambulance",
+        "m_ar": "سيّارة إسعاف"
+      },
+      {
+        "w": "urgente",
+        "m_en": "urgent",
+        "m_ar": "عاجل"
+      }
+    ],
+    "grammar_en": "\"Chiamate\" is the plural imperative (voi).",
+    "grammar_ar": "«chiamate» أمر للجمع (voi).",
+    "alternatives": [
+      {
+        "text": "Ho bisogno di un'ambulanza!",
+        "note_en": "I need an ambulance!",
+        "note_ar": "أحتاج إلى سيّارة إسعاف!"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6183,
+    "text": "Al ladro! Mi hanno rubato la borsa!",
+    "translation_ar": "لصّ! لقد سرقوا حقيبتي!",
+    "level": "A2",
+    "situation": "emergency",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 219,
+    "videoId": null,
+    "transcriptContext": "Al ladro! Mi hanno rubato la borsa!",
+    "pronunciation": "آل لادرو! مي أنّو روباتو لا بورسا!",
+    "words": [
+      {
+        "w": "rubare",
+        "m_en": "to steal",
+        "m_ar": "يسرق"
+      },
+      {
+        "w": "borsa",
+        "m_en": "bag",
+        "m_ar": "حقيبة"
+      }
+    ],
+    "grammar_en": "\"Mi hanno rubato\" uses an unspecified \"they\": \"someone stole from me\".",
+    "grammar_ar": "تستعمل «mi hanno rubato» فاعلًا غير محدّد بمعنى «سرقني أحدهم».",
+    "alternatives": [
+      {
+        "text": "Mi è stata rubata la borsa.",
+        "note_en": "My bag was stolen",
+        "note_ar": "سُرقت حقيبتي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6184,
+    "text": "Buon Natale e felice anno nuovo!",
+    "translation_ar": "عيد ميلاد مجيد وسنة جديدة سعيدة!",
+    "level": "A2",
+    "situation": "celebrations",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 236,
+    "videoId": null,
+    "transcriptContext": "Buon Natale e felice anno nuovo!",
+    "pronunciation": "بوون ناتاليه إي فيليتشيه آنّو نووڤو!",
+    "words": [
+      {
+        "w": "Natale",
+        "m_en": "Christmas",
+        "m_ar": "عيد الميلاد"
+      },
+      {
+        "w": "anno nuovo",
+        "m_en": "new year",
+        "m_ar": "سنة جديدة"
+      }
+    ],
+    "grammar_en": "\"Buon\" is short for \"buono\" before a masculine noun.",
+    "grammar_ar": "«buon» صيغة مختصرة من «buono» قبل اسم مذكّر.",
+    "alternatives": [
+      {
+        "text": "Auguri di buone feste!",
+        "note_en": "Happy holidays!",
+        "note_ar": "أطيب التهاني بالأعياد!"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6185,
+    "text": "Siete tutti invitati alla mia festa.",
+    "translation_ar": "أنتم جميعًا مدعوّون إلى حفلتي.",
+    "level": "A2",
+    "situation": "celebrations",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 13,
+    "videoId": null,
+    "transcriptContext": "Siete tutti invitati alla mia festa.",
+    "pronunciation": "سييتيه توتّي إنڤيتاتي آلّا ميا فيستا.",
+    "words": [
+      {
+        "w": "invitato",
+        "m_en": "invited",
+        "m_ar": "مدعوّ"
+      },
+      {
+        "w": "festa",
+        "m_en": "party",
+        "m_ar": "حفلة"
+      }
+    ],
+    "grammar_en": "\"Siete\" is \"voi\" (you plural); \"tutti\" agrees with it.",
+    "grammar_ar": "«siete» لمخاطبة الجمع (voi)، وتتطابق معها «tutti».",
+    "alternatives": [
+      {
+        "text": "Vi invito tutti alla mia festa.",
+        "note_en": "I invite you all to my party",
+        "note_ar": "أدعوكم جميعًا إلى حفلتي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6186,
+    "text": "Ho un esame di storia la settimana prossima.",
+    "translation_ar": "لديّ امتحان في التاريخ الأسبوع القادم.",
+    "level": "A2",
+    "situation": "education",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 30,
+    "videoId": null,
+    "transcriptContext": "Ho un esame di storia la settimana prossima.",
+    "pronunciation": "أو أون إيزامي دي ستوريا لا سيتّيمانا پروسّيما.",
+    "words": [
+      {
+        "w": "esame",
+        "m_en": "exam",
+        "m_ar": "امتحان"
+      },
+      {
+        "w": "prossimo",
+        "m_en": "next",
+        "m_ar": "القادم"
+      }
+    ],
+    "grammar_en": "\"Prossima\" agrees with the feminine \"settimana\".",
+    "grammar_ar": "تتطابق «prossima» مع المؤنّث «settimana».",
+    "alternatives": [
+      {
+        "text": "La settimana prossima ho un esame di storia.",
+        "note_en": "Same, with the time first",
+        "note_ar": "الزمن في البداية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6187,
+    "text": "Studio italiano da sei mesi.",
+    "translation_ar": "أدرس الإيطالية منذ ستّة أشهر.",
+    "level": "A2",
+    "situation": "education",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 47,
+    "videoId": null,
+    "transcriptContext": "Studio italiano da sei mesi.",
+    "pronunciation": "ستوديو إيتاليانو دا سيي ميزي.",
+    "words": [
+      {
+        "w": "studiare",
+        "m_en": "to study",
+        "m_ar": "يدرس"
+      },
+      {
+        "w": "mese",
+        "m_en": "month",
+        "m_ar": "شهر"
+      }
+    ],
+    "grammar_en": "\"Da\" + present tense for an ongoing action.",
+    "grammar_ar": "«da» + المضارع لفعل مستمرّ.",
+    "alternatives": [
+      {
+        "text": "Sto imparando l'italiano da sei mesi.",
+        "note_en": "I've been learning Italian for six months",
+        "note_ar": "أتعلّم الإيطالية منذ ستّة أشهر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6188,
+    "text": "Oggi ho una riunione alle dieci.",
+    "translation_ar": "لديّ اليوم اجتماع في العاشرة.",
+    "level": "A2",
+    "situation": "workplace",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 64,
+    "videoId": null,
+    "transcriptContext": "Oggi ho una riunione alle dieci.",
+    "pronunciation": "أوججي أو أونا ريونيونيه آلّيه دييتشي.",
+    "words": [
+      {
+        "w": "riunione",
+        "m_en": "meeting",
+        "m_ar": "اجتماع"
+      },
+      {
+        "w": "dieci",
+        "m_en": "ten",
+        "m_ar": "عشرة"
+      }
+    ],
+    "grammar_en": "\"Alle\" + hour: \"alle dieci\" (at ten).",
+    "grammar_ar": "«alle» + الساعة: «alle dieci» (في العاشرة).",
+    "alternatives": [
+      {
+        "text": "Ho una riunione alle dieci di oggi.",
+        "note_en": "Slightly different order",
+        "note_ar": "ترتيب مختلف قليلًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6189,
+    "text": "Lavoro in un ufficio in centro.",
+    "translation_ar": "أعمل في مكتب في وسط المدينة.",
+    "level": "A2",
+    "situation": "career",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 81,
+    "videoId": null,
+    "transcriptContext": "Lavoro in un ufficio in centro.",
+    "pronunciation": "لاڤورو إن أون أوفّيتشو إن تشينترو.",
+    "words": [
+      {
+        "w": "ufficio",
+        "m_en": "office",
+        "m_ar": "مكتب"
+      },
+      {
+        "w": "centro",
+        "m_en": "city centre",
+        "m_ar": "وسط المدينة"
+      }
+    ],
+    "grammar_en": "\"In centro\" means \"downtown\", with no article.",
+    "grammar_ar": "تعني «in centro» «في وسط المدينة» بلا أداة تعريف.",
+    "alternatives": [
+      {
+        "text": "Il mio ufficio è in centro.",
+        "note_en": "My office is downtown",
+        "note_ar": "مكتبي في وسط المدينة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6190,
+    "text": "Di solito preferisco restare a casa la sera.",
+    "translation_ar": "عادةً أفضّل البقاء في المنزل مساءً.",
+    "level": "B1",
+    "situation": "daily",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 98,
+    "videoId": null,
+    "transcriptContext": "Di solito preferisco restare a casa la sera.",
+    "pronunciation": "دي سوليتو پريفيريسكو ريستاريه آ كازا لا سيرا.",
+    "words": [
+      {
+        "w": "preferire",
+        "m_en": "to prefer",
+        "m_ar": "يفضّل"
+      },
+      {
+        "w": "restare",
+        "m_en": "to stay",
+        "m_ar": "يبقى"
+      }
+    ],
+    "grammar_en": "\"Preferire\" adds \"-isc-\" in the present: \"preferisco\".",
+    "grammar_ar": "يضيف «preferire» المقطع «-isc-» في المضارع: «preferisco».",
+    "alternatives": [
+      {
+        "text": "Di solito la sera preferisco stare a casa.",
+        "note_en": "\"Stare\" instead of \"restare\"",
+        "note_ar": "«stare» بدل «restare»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6191,
+    "text": "Ho dimenticato le chiavi a casa.",
+    "translation_ar": "نسيتُ المفاتيح في المنزل.",
+    "level": "B1",
+    "situation": "daily",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 115,
+    "videoId": null,
+    "transcriptContext": "Ho dimenticato le chiavi a casa.",
+    "pronunciation": "أو ديمينتيكاتو ليه كياڤي آ كازا.",
+    "words": [
+      {
+        "w": "dimenticare",
+        "m_en": "to forget",
+        "m_ar": "ينسى"
+      },
+      {
+        "w": "chiave",
+        "m_en": "key",
+        "m_ar": "مفتاح"
+      }
+    ],
+    "grammar_en": "\"Chiave\" (singular) becomes \"chiavi\" (plural).",
+    "grammar_ar": "«chiave» مفرد و«chiavi» جمع.",
+    "alternatives": [
+      {
+        "text": "Mi sono dimenticato le chiavi a casa.",
+        "note_en": "Reflexive form, very common",
+        "note_ar": "صيغة انعكاسيّة شائعة جدًّا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6192,
+    "text": "Mi è piaciuto molto conoscerti.",
+    "translation_ar": "سرّني كثيرًا التعرّف إليك.",
+    "level": "B1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 132,
+    "videoId": null,
+    "transcriptContext": "Mi è piaciuto molto conoscerti.",
+    "pronunciation": "مي إيه پياتشيوتو مولتو كونوشيرتي.",
+    "words": [
+      {
+        "w": "piacere",
+        "m_en": "to please, to like",
+        "m_ar": "يُعجب"
+      },
+      {
+        "w": "conoscere",
+        "m_en": "to meet",
+        "m_ar": "يتعرّف إلى"
+      }
+    ],
+    "grammar_en": "\"Piacere\" takes \"essere\" in the passato prossimo: \"mi è piaciuto\".",
+    "grammar_ar": "يأخذ «piacere» الفعل «essere» في الماضي القريب: «mi è piaciuto».",
+    "alternatives": [
+      {
+        "text": "È stato un piacere conoscerti.",
+        "note_en": "It was a pleasure to meet you",
+        "note_ar": "كان من دواعي سروري التعرّف إليك"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6193,
+    "text": "Ti va di venire con noi al concerto?",
+    "translation_ar": "هل ترغب في أن تأتي معنا إلى الحفل الموسيقي؟",
+    "level": "B1",
+    "situation": "social",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 149,
+    "videoId": null,
+    "transcriptContext": "Ti va di venire con noi al concerto?",
+    "pronunciation": "تي ڤا دي ڤينيريه كون نوي آل كونتشيرتو؟",
+    "words": [
+      {
+        "w": "andare",
+        "m_en": "to suit, to feel like",
+        "m_ar": "يناسب / يرغب"
+      },
+      {
+        "w": "concerto",
+        "m_en": "concert",
+        "m_ar": "حفل موسيقي"
+      }
+    ],
+    "grammar_en": "\"Ti va di\" + infinitive means \"do you feel like...?\".",
+    "grammar_ar": "تعني «ti va di» + المصدر «هل ترغب في...؟».",
+    "alternatives": [
+      {
+        "text": "Vuoi venire con noi al concerto?",
+        "note_en": "More direct",
+        "note_ar": "أكثر مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6194,
+    "text": "Abbiamo perso la coincidenza per pochi minuti.",
+    "translation_ar": "فاتتنا رحلة الربط بدقائق قليلة.",
+    "level": "B1",
+    "situation": "travel",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 166,
+    "videoId": null,
+    "transcriptContext": "Abbiamo perso la coincidenza per pochi minuti.",
+    "pronunciation": "أبّيامو پيرسو لا كوينتشيدينتسا پير پوكي مينوتي.",
+    "words": [
+      {
+        "w": "coincidenza",
+        "m_en": "connection (train or flight)",
+        "m_ar": "رحلة ربط"
+      },
+      {
+        "w": "perdere",
+        "m_en": "to miss, to lose",
+        "m_ar": "يفوّت"
+      }
+    ],
+    "grammar_en": "\"Perdere\" also means \"to miss\" a means of transport.",
+    "grammar_ar": "يعني «perdere» أيضًا «يفوّت» وسيلة نقل.",
+    "alternatives": [
+      {
+        "text": "Abbiamo perso la coincidenza per un soffio.",
+        "note_en": "By a whisker",
+        "note_ar": "بفارق ضئيل جدًّا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6195,
+    "text": "Vorrei lasciare la camera più tardi, se possibile.",
+    "translation_ar": "أودّ مغادرة الغرفة في وقت متأخّر إن أمكن.",
+    "level": "B1",
+    "situation": "hotel",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 183,
+    "videoId": null,
+    "transcriptContext": "Vorrei lasciare la camera più tardi, se possibile.",
+    "pronunciation": "ڤورّاي لاشاريه لا كاميرا پيو تاردي، سيه پوسّيبيليه.",
+    "words": [
+      {
+        "w": "lasciare",
+        "m_en": "to leave (a place)",
+        "m_ar": "يترك"
+      },
+      {
+        "w": "possibile",
+        "m_en": "possible",
+        "m_ar": "ممكن"
+      }
+    ],
+    "grammar_en": "\"Se possibile\" is a polite way to soften a request.",
+    "grammar_ar": "«se possibile» طريقة مهذّبة لتلطيف الطلب.",
+    "alternatives": [
+      {
+        "text": "Sarebbe possibile lasciare la camera più tardi?",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسميّة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6196,
+    "text": "Il mio bagaglio non è arrivato.",
+    "translation_ar": "لم تصل أمتعتي.",
+    "level": "B1",
+    "situation": "airport",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 200,
+    "videoId": null,
+    "transcriptContext": "Il mio bagaglio non è arrivato.",
+    "pronunciation": "إل ميو باغّاليو نون إيه أرّيڤاتو.",
+    "words": [
+      {
+        "w": "bagaglio",
+        "m_en": "luggage",
+        "m_ar": "أمتعة"
+      },
+      {
+        "w": "arrivare",
+        "m_en": "to arrive",
+        "m_ar": "يصل"
+      }
+    ],
+    "grammar_en": "\"Bagaglio\" is singular in Italian; \"bagagli\" is the plural.",
+    "grammar_ar": "«bagaglio» مفرد و«bagagli» جمع.",
+    "alternatives": [
+      {
+        "text": "Il mio bagaglio è andato perso.",
+        "note_en": "My luggage got lost",
+        "note_ar": "ضاعت أمتعتي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6197,
+    "text": "Le consiglio di riposare e bere molta acqua.",
+    "translation_ar": "أنصحك بالراحة وشرب الكثير من الماء.",
+    "level": "B1",
+    "situation": "health",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 217,
+    "videoId": null,
+    "transcriptContext": "Le consiglio di riposare e bere molta acqua.",
+    "pronunciation": "ليه كونسيلّيو دي ريپوزاريه إي بيريه مولتا أكوا.",
+    "words": [
+      {
+        "w": "consigliare di",
+        "m_en": "to advise to",
+        "m_ar": "ينصح بـ"
+      },
+      {
+        "w": "riposare",
+        "m_en": "to rest",
+        "m_ar": "يستريح"
+      }
+    ],
+    "grammar_en": "\"Consigliare di\" + infinitive.",
+    "grammar_ar": "«consigliare di» + المصدر.",
+    "alternatives": [
+      {
+        "text": "Ti consiglio di riposare.",
+        "note_en": "Informal",
+        "note_ar": "غير رسمي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6198,
+    "text": "Ho preso un appuntamento con lo specialista.",
+    "translation_ar": "حجزتُ موعدًا مع الأخصّائي.",
+    "level": "B1",
+    "situation": "appointments",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 234,
+    "videoId": null,
+    "transcriptContext": "Ho preso un appuntamento con lo specialista.",
+    "pronunciation": "أو پريزو أون أپّونتامينتو كون لو سپيتشاليستا.",
+    "words": [
+      {
+        "w": "specialista",
+        "m_en": "specialist",
+        "m_ar": "أخصّائي"
+      },
+      {
+        "w": "prendere un appuntamento",
+        "m_en": "to book an appointment",
+        "m_ar": "يحجز موعدًا"
+      }
+    ],
+    "grammar_en": "\"Prendere un appuntamento\" means \"to make an appointment\".",
+    "grammar_ar": "«prendere un appuntamento» = حجز موعد.",
+    "alternatives": [
+      {
+        "text": "Ho fissato un appuntamento con lo specialista.",
+        "note_en": "\"Fissare\" = to set",
+        "note_ar": "«fissare» = يحدّد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6199,
+    "text": "Vorrei restituire questo articolo: è difettoso.",
+    "translation_ar": "أودّ إرجاع هذه السلعة: إنّها معيبة.",
+    "level": "B1",
+    "situation": "returns",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 11,
+    "videoId": null,
+    "transcriptContext": "Vorrei restituire questo articolo: è difettoso.",
+    "pronunciation": "ڤورّاي ريستيتويريه كويستو أرتيكولو: إيه ديفيتّوزو.",
+    "words": [
+      {
+        "w": "restituire",
+        "m_en": "to return (an item)",
+        "m_ar": "يُرجع"
+      },
+      {
+        "w": "difettoso",
+        "m_en": "faulty",
+        "m_ar": "معيب"
+      }
+    ],
+    "grammar_en": "\"Restituire\" follows the \"-isc-\" pattern: \"restituisco\".",
+    "grammar_ar": "يتبع «restituire» نمط «-isc-»: «restituisco».",
+    "alternatives": [
+      {
+        "text": "Vorrei un rimborso per questo articolo difettoso.",
+        "note_en": "I'd like a refund",
+        "note_ar": "أودّ استرداد ثمن هذه السلعة المعيبة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6200,
+    "text": "Avete opzioni vegetariane nel menù?",
+    "translation_ar": "هل لديكم خيارات نباتيّة في القائمة؟",
+    "level": "B1",
+    "situation": "restaurant",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 28,
+    "videoId": null,
+    "transcriptContext": "Avete opzioni vegetariane nel menù?",
+    "pronunciation": "أڤيتيه أوپتسيوني ڤيجيتاريانيه نيل ميني؟",
+    "words": [
+      {
+        "w": "opzione",
+        "m_en": "option",
+        "m_ar": "خيار"
+      },
+      {
+        "w": "vegetariano",
+        "m_en": "vegetarian",
+        "m_ar": "نباتي"
+      }
+    ],
+    "grammar_en": "\"Opzione\" becomes \"opzioni\" in the plural, and \"vegetariane\" agrees (fem. pl.).",
+    "grammar_ar": "جمع «opzione» «opzioni»، وتتطابق معه «vegetariane» (مؤنّث جمع).",
+    "alternatives": [
+      {
+        "text": "Ci sono piatti vegetariani?",
+        "note_en": "Are there vegetarian dishes?",
+        "note_ar": "هل توجد أطباق نباتيّة؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6201,
+    "text": "Posso avere il conto separato?",
+    "translation_ar": "هل يمكنني الحصول على فاتورة منفصلة؟",
+    "level": "B1",
+    "situation": "restaurant",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 45,
+    "videoId": null,
+    "transcriptContext": "Posso avere il conto separato?",
+    "pronunciation": "پوسّو أڤيريه إل كونتو سيپاراتو؟",
+    "words": [
+      {
+        "w": "conto",
+        "m_en": "bill",
+        "m_ar": "فاتورة"
+      },
+      {
+        "w": "separato",
+        "m_en": "separate",
+        "m_ar": "منفصل"
+      }
+    ],
+    "grammar_en": "\"Posso avere...?\" is a common polite request.",
+    "grammar_ar": "«posso avere...؟» طلب مهذّب شائع.",
+    "alternatives": [
+      {
+        "text": "Possiamo pagare separatamente?",
+        "note_en": "Can we pay separately?",
+        "note_ar": "هل يمكننا الدفع بشكل منفصل؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6202,
+    "text": "Ho dimenticato la password, come la reimposto?",
+    "translation_ar": "نسيتُ كلمة المرور، كيف أعيد تعيينها؟",
+    "level": "B1",
+    "situation": "technology",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 62,
+    "videoId": null,
+    "transcriptContext": "Ho dimenticato la password, come la reimposto?",
+    "pronunciation": "أو ديمينتيكاتو لا پاسورد، كوميه لا ريإمپوستو؟",
+    "words": [
+      {
+        "w": "password",
+        "m_en": "password",
+        "m_ar": "كلمة المرور"
+      },
+      {
+        "w": "reimpostare",
+        "m_en": "to reset",
+        "m_ar": "يعيد ضبط"
+      }
+    ],
+    "grammar_en": "\"La\" here is the object pronoun \"it\", referring to \"la password\".",
+    "grammar_ar": "«la» هنا ضمير المفعول ويعود على «la password».",
+    "alternatives": [
+      {
+        "text": "Come posso recuperare la password?",
+        "note_en": "How can I recover the password?",
+        "note_ar": "كيف يمكنني استرجاع كلمة المرور؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6203,
+    "text": "L'aggiornamento richiede una connessione stabile.",
+    "translation_ar": "يتطلّب التحديث اتّصالًا مستقرًّا.",
+    "level": "B1",
+    "situation": "technology",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 79,
+    "videoId": null,
+    "transcriptContext": "L'aggiornamento richiede una connessione stabile.",
+    "pronunciation": "لأججورنامينتو ريكييديه أونا كونّيسّيونيه ستابيليه.",
+    "words": [
+      {
+        "w": "aggiornamento",
+        "m_en": "update",
+        "m_ar": "تحديث"
+      },
+      {
+        "w": "richiedere",
+        "m_en": "to require",
+        "m_ar": "يتطلّب"
+      }
+    ],
+    "grammar_en": "\"Richiedere\" is irregular: \"richiede\", \"richiesto\".",
+    "grammar_ar": "«richiedere» شاذّ: «richiede» و«richiesto».",
+    "alternatives": [
+      {
+        "text": "Serve una connessione stabile per l'aggiornamento.",
+        "note_en": "\"Serve\" = is needed",
+        "note_ar": "«serve» = مطلوب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6204,
+    "text": "Vorrei chiedere un mutuo per comprare casa.",
+    "translation_ar": "أودّ طلب قرض عقاري لشراء منزل.",
+    "level": "B1",
+    "situation": "banking",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 96,
+    "videoId": null,
+    "transcriptContext": "Vorrei chiedere un mutuo per comprare casa.",
+    "pronunciation": "ڤورّاي كييديريه أون موتوو پير كومپراريه كازا.",
+    "words": [
+      {
+        "w": "mutuo",
+        "m_en": "mortgage",
+        "m_ar": "قرض عقاري"
+      },
+      {
+        "w": "chiedere",
+        "m_en": "to ask for",
+        "m_ar": "يطلب"
+      }
+    ],
+    "grammar_en": "\"Comprare casa\" needs no article: \"to buy a home\".",
+    "grammar_ar": "«comprare casa» بلا أداة تعريف بمعنى «شراء منزل».",
+    "alternatives": [
+      {
+        "text": "Sto pensando di chiedere un mutuo.",
+        "note_en": "I'm thinking of applying for a mortgage",
+        "note_ar": "أفكّر في طلب قرض عقاري"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6205,
+    "text": "Devo pagare l'affitto entro la fine del mese.",
+    "translation_ar": "عليّ دفع الإيجار قبل نهاية الشهر.",
+    "level": "B1",
+    "situation": "finance",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 113,
+    "videoId": null,
+    "transcriptContext": "Devo pagare l'affitto entro la fine del mese.",
+    "pronunciation": "ديڤو پاغاريه لأفّيتّو إنترو لا فينيه دل ميزيه.",
+    "words": [
+      {
+        "w": "affitto",
+        "m_en": "rent",
+        "m_ar": "إيجار"
+      },
+      {
+        "w": "entro",
+        "m_en": "by, within",
+        "m_ar": "قبل / خلال"
+      }
+    ],
+    "grammar_en": "\"Entro\" marks a deadline.",
+    "grammar_ar": "تدلّ «entro» على موعد نهائي.",
+    "alternatives": [
+      {
+        "text": "L'affitto va pagato entro fine mese.",
+        "note_en": "\"Va pagato\" = must be paid",
+        "note_ar": "«va pagato» = يجب أن يُدفع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6206,
+    "text": "L'appartamento ha due camere e un balcone.",
+    "translation_ar": "الشقّة فيها غرفتان وشرفة.",
+    "level": "B1",
+    "situation": "real-estate",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 130,
+    "videoId": null,
+    "transcriptContext": "L'appartamento ha due camere e un balcone.",
+    "pronunciation": "لأپّارتامينتو آ دوويه كاميريه إي أون بالكونيه.",
+    "words": [
+      {
+        "w": "camera",
+        "m_en": "bedroom, room",
+        "m_ar": "غرفة"
+      },
+      {
+        "w": "balcone",
+        "m_en": "balcony",
+        "m_ar": "شرفة"
+      }
+    ],
+    "grammar_en": "\"Camere\" is the plural of \"camera\".",
+    "grammar_ar": "«camere» جمع «camera».",
+    "alternatives": [
+      {
+        "text": "L'appartamento è composto da due camere e un balcone.",
+        "note_en": "More formal",
+        "note_ar": "أكثر رسميّة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6207,
+    "text": "Il vicino di casa è molto gentile.",
+    "translation_ar": "الجار لطيف جدًّا.",
+    "level": "B1",
+    "situation": "community",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 147,
+    "videoId": null,
+    "transcriptContext": "Il vicino di casa è molto gentile.",
+    "pronunciation": "إل ڤيتشينو دي كازا إيه مولتو جينتيليه.",
+    "words": [
+      {
+        "w": "vicino",
+        "m_en": "neighbour",
+        "m_ar": "جار"
+      },
+      {
+        "w": "gentile",
+        "m_en": "kind",
+        "m_ar": "لطيف"
+      }
+    ],
+    "grammar_en": "\"Vicino\" as a noun means \"neighbour\"; as an adjective, \"near\".",
+    "grammar_ar": "«vicino» اسم بمعنى «جار» وصفة بمعنى «قريب».",
+    "alternatives": [
+      {
+        "text": "I miei vicini sono molto gentili.",
+        "note_en": "Plural: my neighbours are very kind",
+        "note_ar": "جيراني لطفاء جدًّا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6208,
+    "text": "Dovremmo usare meno plastica ogni giorno.",
+    "translation_ar": "ينبغي أن نستخدم بلاستيكًا أقلّ كلّ يوم.",
+    "level": "B1",
+    "situation": "environment",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 164,
+    "videoId": null,
+    "transcriptContext": "Dovremmo usare meno plastica ogni giorno.",
+    "pronunciation": "دوڤريمّو أوزاريه مينو پلاستيكا أونّي جورنو.",
+    "words": [
+      {
+        "w": "dovremmo",
+        "m_en": "we should",
+        "m_ar": "ينبغي أن نفعل"
+      },
+      {
+        "w": "plastica",
+        "m_en": "plastic",
+        "m_ar": "بلاستيك"
+      }
+    ],
+    "grammar_en": "\"Dovremmo\" (conditional of \"dovere\") gives advice.",
+    "grammar_ar": "«dovremmo» (شرطي «dovere») تفيد النصيحة.",
+    "alternatives": [
+      {
+        "text": "Sarebbe meglio usare meno plastica.",
+        "note_en": "It would be better to use less plastic",
+        "note_ar": "من الأفضل استخدام بلاستيك أقلّ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6209,
+    "text": "Faccio la raccolta differenziata a casa.",
+    "translation_ar": "أفرز النفايات في المنزل.",
+    "level": "B1",
+    "situation": "environment",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 181,
+    "videoId": null,
+    "transcriptContext": "Faccio la raccolta differenziata a casa.",
+    "pronunciation": "فاتشو لا راكّولتا ديففيرينتسياتا آ كازا.",
+    "words": [
+      {
+        "w": "raccolta differenziata",
+        "m_en": "separate waste collection",
+        "m_ar": "جمع النفايات المصنَّفة"
+      },
+      {
+        "w": "fare",
+        "m_en": "to do",
+        "m_ar": "يفعل"
+      }
+    ],
+    "grammar_en": "\"Fare la raccolta differenziata\" means sorting your waste for recycling.",
+    "grammar_ar": "«fare la raccolta differenziata» = فرز النفايات لإعادة التدوير.",
+    "alternatives": [
+      {
+        "text": "Separo i rifiuti per il riciclo.",
+        "note_en": "I separate my waste for recycling",
+        "note_ar": "أفصل النفايات لإعادة التدوير"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6210,
+    "text": "Mi alleno in palestra tre volte a settimana.",
+    "translation_ar": "أتدرّب في النادي الرياضي ثلاث مرّات أسبوعيًّا.",
+    "level": "B1",
+    "situation": "sports",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 198,
+    "videoId": null,
+    "transcriptContext": "Mi alleno in palestra tre volte a settimana.",
+    "pronunciation": "مي أللينو إن پاليسترا تريه ڤولتيه آ سيتّيمانا.",
+    "words": [
+      {
+        "w": "allenarsi",
+        "m_en": "to train",
+        "m_ar": "يتدرّب"
+      },
+      {
+        "w": "palestra",
+        "m_en": "gym",
+        "m_ar": "نادٍ رياضي"
+      }
+    ],
+    "grammar_en": "\"A settimana\" means \"per week\".",
+    "grammar_ar": "تعني «a settimana» «في الأسبوع».",
+    "alternatives": [
+      {
+        "text": "Vado in palestra tre volte a settimana.",
+        "note_en": "I go to the gym three times a week",
+        "note_ar": "أذهب إلى النادي ثلاث مرّات أسبوعيًّا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6211,
+    "text": "La partita è finita in pareggio.",
+    "translation_ar": "انتهت المباراة بالتعادل.",
+    "level": "B1",
+    "situation": "sports",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 215,
+    "videoId": null,
+    "transcriptContext": "La partita è finita in pareggio.",
+    "pronunciation": "لا پارتيتا إيه فينيتا إن پاريججو.",
+    "words": [
+      {
+        "w": "partita",
+        "m_en": "match",
+        "m_ar": "مباراة"
+      },
+      {
+        "w": "pareggio",
+        "m_en": "draw",
+        "m_ar": "تعادل"
+      }
+    ],
+    "grammar_en": "\"Finire in pareggio\" means \"to end in a draw\".",
+    "grammar_ar": "«finire in pareggio» = الانتهاء بالتعادل.",
+    "alternatives": [
+      {
+        "text": "La partita è finita uno a uno.",
+        "note_en": "It ended one-all",
+        "note_ar": "انتهت المباراة واحد لواحد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6212,
+    "text": "Aggiungi il sale solo alla fine.",
+    "translation_ar": "أضف الملح في النهاية فقط.",
+    "level": "B1",
+    "situation": "cooking",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 232,
+    "videoId": null,
+    "transcriptContext": "Aggiungi il sale solo alla fine.",
+    "pronunciation": "أججونجي إل ساليه سولو آلّا فينيه.",
+    "words": [
+      {
+        "w": "aggiungere",
+        "m_en": "to add",
+        "m_ar": "يضيف"
+      },
+      {
+        "w": "sale",
+        "m_en": "salt",
+        "m_ar": "ملح"
+      }
+    ],
+    "grammar_en": "\"Aggiungi\" is the informal imperative (tu) of \"aggiungere\".",
+    "grammar_ar": "«aggiungi» أمر للمخاطب (tu) من «aggiungere».",
+    "alternatives": [
+      {
+        "text": "Metta il sale solo alla fine.",
+        "note_en": "Formal (Lei)",
+        "note_ar": "رسمي (Lei)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6213,
+    "text": "La pasta deve cuocere per dieci minuti.",
+    "translation_ar": "يجب أن تُطهى المعكرونة عشر دقائق.",
+    "level": "B1",
+    "situation": "cooking",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 9,
+    "videoId": null,
+    "transcriptContext": "La pasta deve cuocere per dieci minuti.",
+    "pronunciation": "لا پاستا ديڤيه كووتشيريه پير دييتشي مينوتي.",
+    "words": [
+      {
+        "w": "cuocere",
+        "m_en": "to cook",
+        "m_ar": "يطهو"
+      },
+      {
+        "w": "pasta",
+        "m_en": "pasta",
+        "m_ar": "معكرونة"
+      }
+    ],
+    "grammar_en": "\"Cuocere\" is intransitive here: the pasta cooks by itself.",
+    "grammar_ar": "«cuocere» لازم هنا: المعكرونة تُطهى بذاتها.",
+    "alternatives": [
+      {
+        "text": "Cuoci la pasta per dieci minuti.",
+        "note_en": "Cook the pasta for ten minutes",
+        "note_ar": "اطبخ المعكرونة عشر دقائق"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6214,
+    "text": "Vorrei spostare l'appuntamento a giovedì.",
+    "translation_ar": "أودّ نقل الموعد إلى يوم الخميس.",
+    "level": "B1",
+    "situation": "appointments",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 26,
+    "videoId": null,
+    "transcriptContext": "Vorrei spostare l'appuntamento a giovedì.",
+    "pronunciation": "ڤورّاي سپوستاريه لأپّونتامينتو آ جوڤيدي.",
+    "words": [
+      {
+        "w": "spostare",
+        "m_en": "to move, to postpone",
+        "m_ar": "ينقل"
+      },
+      {
+        "w": "giovedì",
+        "m_en": "Thursday",
+        "m_ar": "الخميس"
+      }
+    ],
+    "grammar_en": "Days of the week are lowercase; \"a giovedì\" means \"to Thursday\".",
+    "grammar_ar": "أسماء الأيّام بحرف صغير؛ و«a giovedì» = «إلى الخميس».",
+    "alternatives": [
+      {
+        "text": "Possiamo spostare l'appuntamento a giovedì?",
+        "note_en": "Question form",
+        "note_ar": "صيغة سؤال"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6215,
+    "text": "Può confermare l'ora dell'appuntamento?",
+    "translation_ar": "هل يمكنك تأكيد وقت الموعد؟",
+    "level": "B1",
+    "situation": "appointments",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 43,
+    "videoId": null,
+    "transcriptContext": "Può confermare l'ora dell'appuntamento?",
+    "pronunciation": "پوو كونفيرماريه لورا دلّأپّونتامينتو؟",
+    "words": [
+      {
+        "w": "confermare",
+        "m_en": "to confirm",
+        "m_ar": "يؤكّد"
+      },
+      {
+        "w": "ora",
+        "m_en": "time, hour",
+        "m_ar": "وقت / ساعة"
+      }
+    ],
+    "grammar_en": "\"Dell'\" is \"di\" + \"l'\".",
+    "grammar_ar": "«dell'» = «di» + «l'».",
+    "alternatives": [
+      {
+        "text": "Mi conferma l'orario?",
+        "note_en": "Would you confirm the time?",
+        "note_ar": "هل تؤكّد لي الموعد؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6216,
+    "text": "Non riesco ad accedere al mio account.",
+    "translation_ar": "لا أستطيع الدخول إلى حسابي.",
+    "level": "B1",
+    "situation": "customer-help",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 60,
+    "videoId": null,
+    "transcriptContext": "Non riesco ad accedere al mio account.",
+    "pronunciation": "نون ريسكو آد أتشيديريه آل ميو أككاونت.",
+    "words": [
+      {
+        "w": "riuscire a",
+        "m_en": "to manage to",
+        "m_ar": "ينجح في / يستطيع"
+      },
+      {
+        "w": "accedere",
+        "m_en": "to access",
+        "m_ar": "يدخل إلى"
+      }
+    ],
+    "grammar_en": "\"Non riesco a\" means \"I can't manage to\".",
+    "grammar_ar": "تعني «non riesco a» «لا أنجح في / لا أستطيع».",
+    "alternatives": [
+      {
+        "text": "Non posso accedere al mio account.",
+        "note_en": "I can't access my account",
+        "note_ar": "لا يمكنني الدخول إلى حسابي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6217,
+    "text": "Ho ancora lo scontrino, posso cambiarlo?",
+    "translation_ar": "ما زال معي الإيصال، هل يمكنني استبداله؟",
+    "level": "B1",
+    "situation": "returns",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 77,
+    "videoId": null,
+    "transcriptContext": "Ho ancora lo scontrino, posso cambiarlo?",
+    "pronunciation": "أو أنكورا لو سكونترينو، پوسّو كامبيارلو؟",
+    "words": [
+      {
+        "w": "scontrino",
+        "m_en": "receipt",
+        "m_ar": "إيصال"
+      },
+      {
+        "w": "cambiare",
+        "m_en": "to exchange",
+        "m_ar": "يستبدل"
+      }
+    ],
+    "grammar_en": "\"Scontrino\" is the till receipt.",
+    "grammar_ar": "«scontrino» هو إيصال الصندوق.",
+    "alternatives": [
+      {
+        "text": "Ho lo scontrino: posso fare il cambio?",
+        "note_en": "Can I make an exchange?",
+        "note_ar": "هل يمكنني إجراء استبدال؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6218,
+    "text": "Molti giovani si trasferiscono all'estero per studiare.",
+    "translation_ar": "ينتقل كثير من الشباب إلى الخارج للدراسة.",
+    "level": "B1",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 94,
+    "videoId": null,
+    "transcriptContext": "Molti giovani si trasferiscono all'estero per studiare.",
+    "pronunciation": "مولتي جوڤاني سي ترسفيريسكونو آلّيستيرو پير ستودياريه.",
+    "words": [
+      {
+        "w": "giovane",
+        "m_en": "young person",
+        "m_ar": "شابّ"
+      },
+      {
+        "w": "all'estero",
+        "m_en": "abroad",
+        "m_ar": "في الخارج"
+      }
+    ],
+    "grammar_en": "\"All'estero\" means \"abroad\" (destination or location).",
+    "grammar_ar": "«all'estero» = «في/إلى الخارج».",
+    "alternatives": [
+      {
+        "text": "Tanti ragazzi vanno a studiare all'estero.",
+        "note_en": "Less formal wording",
+        "note_ar": "صياغة أقلّ رسميّة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6219,
+    "text": "Il costo della vita è aumentato molto negli ultimi anni.",
+    "translation_ar": "ارتفعت تكلفة المعيشة كثيرًا في السنوات الأخيرة.",
+    "level": "B1",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 111,
+    "videoId": null,
+    "transcriptContext": "Il costo della vita è aumentato molto negli ultimi anni.",
+    "pronunciation": "إل كوستو دلّا ڤيتا إيه أومنتاتو مولتو نيلّي أولتيمي آني.",
+    "words": [
+      {
+        "w": "costo della vita",
+        "m_en": "cost of living",
+        "m_ar": "تكلفة المعيشة"
+      },
+      {
+        "w": "ultimo",
+        "m_en": "last, latest",
+        "m_ar": "الأخير"
+      }
+    ],
+    "grammar_en": "\"Negli ultimi anni\" means \"in recent years\".",
+    "grammar_ar": "«negli ultimi anni» = في السنوات الأخيرة.",
+    "alternatives": [
+      {
+        "text": "La vita è diventata molto più cara.",
+        "note_en": "Life has become much more expensive",
+        "note_ar": "أصبحت المعيشة أغلى بكثير"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 6220,
+    "text": "Propongo di iniziare con il primo punto.",
+    "translation_ar": "أقترح أن نبدأ بالنقطة الأولى.",
+    "level": "B1",
+    "situation": "meetings",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 128,
+    "videoId": null,
+    "transcriptContext": "Propongo di iniziare con il primo punto.",
+    "pronunciation": "پروپونغو دي إينيتسياريه كون إل پريمو پونتو.",
+    "words": [
+      {
+        "w": "proporre",
+        "m_en": "to propose",
+        "m_ar": "يقترح"
+      },
+      {
+        "w": "punto",
+        "m_en": "point, item",
+        "m_ar": "نقطة / بند"
+      }
+    ],
+    "grammar_en": "\"Proporre di\" + infinitive.",
+    "grammar_ar": "«proporre di» + المصدر.",
+    "alternatives": [
+      {
+        "text": "Iniziamo dal primo punto?",
+        "note_en": "Shall we start from the first point?",
+        "note_ar": "هل نبدأ من النقطة الأولى؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6221,
+    "text": "Ci serve più tempo per decidere.",
+    "translation_ar": "نحتاج إلى مزيد من الوقت لنقرّر.",
+    "level": "B1",
+    "situation": "meetings",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 145,
+    "videoId": null,
+    "transcriptContext": "Ci serve più tempo per decidere.",
+    "pronunciation": "تشي سيرڤيه پيو تيمپو پير ديتشيديريه.",
+    "words": [
+      {
+        "w": "servire",
+        "m_en": "to be needed",
+        "m_ar": "يلزم"
+      },
+      {
+        "w": "decidere",
+        "m_en": "to decide",
+        "m_ar": "يقرّر"
+      }
+    ],
+    "grammar_en": "\"Ci serve\" means \"we need\" (literally \"it serves us\").",
+    "grammar_ar": "«ci serve» = «نحتاج» (حرفيًّا: «يفيدنا»).",
+    "alternatives": [
+      {
+        "text": "Abbiamo bisogno di più tempo per decidere.",
+        "note_en": "We need more time to decide",
+        "note_ar": "نحتاج إلى مزيد من الوقت لنقرّر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6222,
+    "text": "Puoi inviarmi il rapporto entro venerdì?",
+    "translation_ar": "هل يمكنك أن ترسل لي التقرير قبل الجمعة؟",
+    "level": "B1",
+    "situation": "workplace",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 162,
+    "videoId": null,
+    "transcriptContext": "Puoi inviarmi il rapporto entro venerdì?",
+    "pronunciation": "پووي إنڤيارمي إل راپّورتو إنترو ڤينيردي؟",
+    "words": [
+      {
+        "w": "inviare",
+        "m_en": "to send",
+        "m_ar": "يرسل"
+      },
+      {
+        "w": "rapporto",
+        "m_en": "report",
+        "m_ar": "تقرير"
+      }
+    ],
+    "grammar_en": "\"Entro venerdì\" means \"by Friday\".",
+    "grammar_ar": "«entro venerdì» = قبل الجمعة / بحلول الجمعة.",
+    "alternatives": [
+      {
+        "text": "Mi mandi il rapporto entro venerdì?",
+        "note_en": "Simpler",
+        "note_ar": "أبسط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6223,
+    "text": "Mia nonna cucina sempre dolci deliziosi.",
+    "translation_ar": "جدّتي تطبخ دائمًا حلويات لذيذة.",
+    "level": "B1",
+    "situation": "family",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 179,
+    "videoId": null,
+    "transcriptContext": "Mia nonna cucina sempre dolci deliziosi.",
+    "pronunciation": "ميا نونّا كوتشينا سيمپريه دولتشي ديليتسيوزي.",
+    "words": [
+      {
+        "w": "nonna",
+        "m_en": "grandmother",
+        "m_ar": "جدّة"
+      },
+      {
+        "w": "dolce",
+        "m_en": "dessert, sweet",
+        "m_ar": "حلوى"
+      }
+    ],
+    "grammar_en": "\"Dolci\" is the plural of \"dolce\".",
+    "grammar_ar": "«dolci» جمع «dolce».",
+    "alternatives": [
+      {
+        "text": "Mia nonna prepara dolci buonissimi.",
+        "note_en": "\"Buonissimi\" = very tasty",
+        "note_ar": "«buonissimi» = لذيذة جدًّا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6224,
+    "text": "Vorrei sottolineare l'importanza di questo aspetto.",
+    "translation_ar": "أودّ التأكيد على أهمّيّة هذا الجانب.",
+    "level": "B2",
+    "situation": "meetings",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 196,
+    "videoId": null,
+    "transcriptContext": "Vorrei sottolineare l'importanza di questo aspetto.",
+    "pronunciation": "ڤورّاي سوتّوليناريه لإمپورتانتسا دي كويستو أسپيتّو.",
+    "words": [
+      {
+        "w": "sottolineare",
+        "m_en": "to underline, to stress",
+        "m_ar": "يشدّد على"
+      },
+      {
+        "w": "aspetto",
+        "m_en": "aspect",
+        "m_ar": "جانب"
+      }
+    ],
+    "grammar_en": "\"Sottolineare\" is common in formal speech.",
+    "grammar_ar": "«sottolineare» شائع في الكلام الرسمي.",
+    "alternatives": [
+      {
+        "text": "Ci tengo a evidenziare questo aspetto.",
+        "note_en": "\"Ci tengo a\" = it matters to me to",
+        "note_ar": "«ci tengo a» = يهمّني أن"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6225,
+    "text": "Non condivido del tutto la vostra impostazione.",
+    "translation_ar": "لا أشاطركم تمامًا منهجكم.",
+    "level": "B2",
+    "situation": "meetings",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 213,
+    "videoId": null,
+    "transcriptContext": "Non condivido del tutto la vostra impostazione.",
+    "pronunciation": "نون كونديڤيدو دل توتّو لا ڤوسترا إمپوستاتسيونيه.",
+    "words": [
+      {
+        "w": "condividere",
+        "m_en": "to share (an opinion)",
+        "m_ar": "يشاطر"
+      },
+      {
+        "w": "impostazione",
+        "m_en": "approach",
+        "m_ar": "منهج / توجّه"
+      }
+    ],
+    "grammar_en": "\"Non... del tutto\" softens a disagreement: \"not entirely\".",
+    "grammar_ar": "تلطّف «non... del tutto» الاعتراض: «ليس تمامًا».",
+    "alternatives": [
+      {
+        "text": "Ho qualche riserva sul vostro approccio.",
+        "note_en": "I have some reservations",
+        "note_ar": "لديّ بعض التحفّظات"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6226,
+    "text": "Il team ha raggiunto gli obiettivi previsti per il trimestre.",
+    "translation_ar": "حقّق الفريق الأهداف المتوقّعة للربع.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 230,
+    "videoId": null,
+    "transcriptContext": "Il team ha raggiunto gli obiettivi previsti per il trimestre.",
+    "pronunciation": "إل تيم آ راجّونتو غلي أوبييتّيڤي پريڤيستي پير إل تريميستريه.",
+    "words": [
+      {
+        "w": "obiettivo",
+        "m_en": "objective",
+        "m_ar": "هدف"
+      },
+      {
+        "w": "trimestre",
+        "m_en": "quarter (three months)",
+        "m_ar": "ربع سنة"
+      }
+    ],
+    "grammar_en": "\"Gli\" is the masculine plural article before a vowel: \"gli obiettivi\".",
+    "grammar_ar": "«gli» أداة التعريف للجمع المذكّر قبل حرف علّة: «gli obiettivi».",
+    "alternatives": [
+      {
+        "text": "Il team ha centrato gli obiettivi del trimestre.",
+        "note_en": "\"Centrare\" = to hit",
+        "note_ar": "«centrare» = يُصيب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6227,
+    "text": "Le chiedo di inviarmi una bozza entro domani.",
+    "translation_ar": "أطلب منك أن ترسل لي مسوّدة قبل الغد.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 7,
+    "videoId": null,
+    "transcriptContext": "Le chiedo di inviarmi una bozza entro domani.",
+    "pronunciation": "ليه كييدو دي إنڤيارمي أونا بوتسّا إنترو دوماني.",
+    "words": [
+      {
+        "w": "bozza",
+        "m_en": "draft",
+        "m_ar": "مسوّدة"
+      },
+      {
+        "w": "chiedere di",
+        "m_en": "to ask to",
+        "m_ar": "يطلب من"
+      }
+    ],
+    "grammar_en": "\"Le chiedo di\" is formal: \"I ask you to\".",
+    "grammar_ar": "«le chiedo di» رسميّة: «أطلب منك أن».",
+    "alternatives": [
+      {
+        "text": "Mi mandi una bozza entro domani, per favore.",
+        "note_en": "Softer",
+        "note_ar": "أكثر ليونة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6228,
+    "text": "Ho maturato una lunga esperienza nel settore.",
+    "translation_ar": "اكتسبتُ خبرة طويلة في هذا القطاع.",
+    "level": "B2",
+    "situation": "career",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 24,
+    "videoId": null,
+    "transcriptContext": "Ho maturato una lunga esperienza nel settore.",
+    "pronunciation": "أو ماتوراتو أونا لونغا إسپيرينتسا نيل سيتّوريه.",
+    "words": [
+      {
+        "w": "maturare",
+        "m_en": "to gain (experience)",
+        "m_ar": "يكتسب / ينضج"
+      },
+      {
+        "w": "settore",
+        "m_en": "sector",
+        "m_ar": "قطاع"
+      }
+    ],
+    "grammar_en": "\"Maturare esperienza\" is a formal CV expression.",
+    "grammar_ar": "«maturare esperienza» تعبير رسمي في السِّيَر الذاتيّة.",
+    "alternatives": [
+      {
+        "text": "Ho una lunga esperienza nel settore.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6229,
+    "text": "Ambisco a una posizione con maggiori responsabilità.",
+    "translation_ar": "أطمح إلى منصب فيه مسؤوليّات أكبر.",
+    "level": "B2",
+    "situation": "career",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 41,
+    "videoId": null,
+    "transcriptContext": "Ambisco a una posizione con maggiori responsabilità.",
+    "pronunciation": "أمبيسكو آ أونا پوزيتسيونيه كون ماججوري ريسپونسابيليتا.",
+    "words": [
+      {
+        "w": "ambire a",
+        "m_en": "to aspire to",
+        "m_ar": "يطمح إلى"
+      },
+      {
+        "w": "maggiore",
+        "m_en": "greater",
+        "m_ar": "أكبر"
+      }
+    ],
+    "grammar_en": "\"Ambire a\" takes the preposition \"a\" and follows \"-isc-\": \"ambisco\".",
+    "grammar_ar": "يأخذ «ambire a» حرف الجرّ «a» ويتبع نمط «-isc-»: «ambisco».",
+    "alternatives": [
+      {
+        "text": "Vorrei una posizione con più responsabilità.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6230,
+    "text": "Il malfunzionamento potrebbe dipendere dal software.",
+    "translation_ar": "قد يعود العطل إلى البرنامج.",
+    "level": "B2",
+    "situation": "technical-support",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 58,
+    "videoId": null,
+    "transcriptContext": "Il malfunzionamento potrebbe dipendere dal software.",
+    "pronunciation": "إل مالفونتسيونامينتو پوتريبّيه ديپينديريه دال سوفتوير.",
+    "words": [
+      {
+        "w": "malfunzionamento",
+        "m_en": "malfunction",
+        "m_ar": "عطل"
+      },
+      {
+        "w": "dipendere da",
+        "m_en": "to depend on",
+        "m_ar": "يعود إلى"
+      }
+    ],
+    "grammar_en": "\"Potrebbe\" expresses a possibility.",
+    "grammar_ar": "تعبّر «potrebbe» عن احتمال.",
+    "alternatives": [
+      {
+        "text": "È possibile che il guasto sia del software.",
+        "note_en": "It's possible the fault is in the software",
+        "note_ar": "من المحتمل أنّ العطل في البرنامج"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6231,
+    "text": "Abbiamo riavviato il sistema, ma l'errore persiste.",
+    "translation_ar": "أعدنا تشغيل النظام لكنّ الخطأ مستمرّ.",
+    "level": "B2",
+    "situation": "technical-support",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 75,
+    "videoId": null,
+    "transcriptContext": "Abbiamo riavviato il sistema, ma l'errore persiste.",
+    "pronunciation": "أبّيامو ريأڤڤياتو إل سيستيما، ما ليرّوريه پيرسيستيه.",
+    "words": [
+      {
+        "w": "riavviare",
+        "m_en": "to restart",
+        "m_ar": "يعيد التشغيل"
+      },
+      {
+        "w": "persistere",
+        "m_en": "to persist",
+        "m_ar": "يستمرّ"
+      }
+    ],
+    "grammar_en": "\"Persistere\" is a formal verb: the problem does not go away.",
+    "grammar_ar": "«persistere» فعل رسمي: المشكلة لا تزول.",
+    "alternatives": [
+      {
+        "text": "Dopo il riavvio, l'errore c'è ancora.",
+        "note_en": "After the restart, the error is still there",
+        "note_ar": "بعد إعادة التشغيل ما زال الخطأ موجودًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6232,
+    "text": "La ringraziamo per la sua pazienza e comprensione.",
+    "translation_ar": "نشكرك على صبرك وتفهّمك.",
+    "level": "B2",
+    "situation": "customer-service",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 92,
+    "videoId": null,
+    "transcriptContext": "La ringraziamo per la sua pazienza e comprensione.",
+    "pronunciation": "لا رينغراتسيامو پير لا سوا پازينتسا إي كومپرينسيونيه.",
+    "words": [
+      {
+        "w": "pazienza",
+        "m_en": "patience",
+        "m_ar": "صبر"
+      },
+      {
+        "w": "comprensione",
+        "m_en": "understanding",
+        "m_ar": "تفهّم"
+      }
+    ],
+    "grammar_en": "\"La\" is the formal \"you\" (Lei); \"sua\" is the formal \"your\".",
+    "grammar_ar": "«la» ضمير المخاطب الرسمي (Lei)، و«sua» ضمير الملكيّة الرسمي.",
+    "alternatives": [
+      {
+        "text": "Grazie per la pazienza.",
+        "note_en": "Shorter",
+        "note_ar": "أقصر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6233,
+    "text": "Le assicuro che risolveremo il problema al più presto.",
+    "translation_ar": "أؤكّد لك أنّنا سنحلّ المشكلة في أقرب وقت.",
+    "level": "B2",
+    "situation": "customer-service",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 109,
+    "videoId": null,
+    "transcriptContext": "Le assicuro che risolveremo il problema al più presto.",
+    "pronunciation": "ليه أسّيكورو كيه ريزولڤيريمو إل پروبليما آل پيو پريستو.",
+    "words": [
+      {
+        "w": "assicurare",
+        "m_en": "to assure",
+        "m_ar": "يؤكّد / يطمئن"
+      },
+      {
+        "w": "al più presto",
+        "m_en": "as soon as possible",
+        "m_ar": "في أقرب وقت"
+      }
+    ],
+    "grammar_en": "\"Al più presto\" is a fixed expression for \"as soon as possible\".",
+    "grammar_ar": "«al più presto» تعبير ثابت بمعنى «في أقرب وقت ممكن».",
+    "alternatives": [
+      {
+        "text": "Risolveremo il problema il prima possibile.",
+        "note_en": "Same idea",
+        "note_ar": "الفكرة نفسها"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6234,
+    "text": "Il bonifico verrà eseguito entro la giornata lavorativa.",
+    "translation_ar": "سيُنفَّذ التحويل المصرفي خلال يوم العمل.",
+    "level": "B2",
+    "situation": "banking",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 126,
+    "videoId": null,
+    "transcriptContext": "Il bonifico verrà eseguito entro la giornata lavorativa.",
+    "pronunciation": "إل بونيفيكو ڤيرّا إيزيغويتو إنترو لا جورناتا لاڤوراتيڤا.",
+    "words": [
+      {
+        "w": "bonifico",
+        "m_en": "bank transfer",
+        "m_ar": "تحويل مصرفي"
+      },
+      {
+        "w": "eseguire",
+        "m_en": "to carry out",
+        "m_ar": "ينفّذ"
+      }
+    ],
+    "grammar_en": "\"Verrà eseguito\" is a future passive with \"venire\".",
+    "grammar_ar": "«verrà eseguito» مبني للمجهول في المستقبل بـ«venire».",
+    "alternatives": [
+      {
+        "text": "Eseguiremo il bonifico entro la giornata.",
+        "note_en": "Active voice",
+        "note_ar": "صيغة الفاعل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6235,
+    "text": "Conviene investire una parte dei risparmi.",
+    "translation_ar": "يُستحسن استثمار جزء من المدّخرات.",
+    "level": "B2",
+    "situation": "finance",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 143,
+    "videoId": null,
+    "transcriptContext": "Conviene investire una parte dei risparmi.",
+    "pronunciation": "كونڤييني إنڤيستيريه أونا پارتيه ديي ريسپارمي.",
+    "words": [
+      {
+        "w": "convenire",
+        "m_en": "to be advisable",
+        "m_ar": "يُستحسن"
+      },
+      {
+        "w": "risparmi",
+        "m_en": "savings",
+        "m_ar": "مدّخرات"
+      }
+    ],
+    "grammar_en": "\"Conviene\" + infinitive is an impersonal \"it's worth...\".",
+    "grammar_ar": "«conviene» + المصدر صيغة غير شخصيّة بمعنى «من المجدي».",
+    "alternatives": [
+      {
+        "text": "È meglio investire una parte dei risparmi.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6236,
+    "text": "La caparra non è rimborsabile in caso di recesso.",
+    "translation_ar": "العربون غير قابل للاسترداد في حال الانسحاب.",
+    "level": "B2",
+    "situation": "real-estate",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 160,
+    "videoId": null,
+    "transcriptContext": "La caparra non è rimborsabile in caso di recesso.",
+    "pronunciation": "لا كاپارّا نون إيه ريمبورسابيليه إن كازو دي ريتشيسّو.",
+    "words": [
+      {
+        "w": "caparra",
+        "m_en": "deposit",
+        "m_ar": "عربون"
+      },
+      {
+        "w": "recesso",
+        "m_en": "withdrawal",
+        "m_ar": "انسحاب"
+      }
+    ],
+    "grammar_en": "\"In caso di\" + noun means \"in the event of\".",
+    "grammar_ar": "«in caso di» + اسم = «في حال».",
+    "alternatives": [
+      {
+        "text": "Se si recede dal contratto, la caparra non si restituisce.",
+        "note_en": "\"Recedere\" = to withdraw",
+        "note_ar": "«recedere» = ينسحب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6237,
+    "text": "Vorremmo cambiare camera perché è troppo rumorosa.",
+    "translation_ar": "نودّ تغيير الغرفة لأنّها صاخبة جدًّا.",
+    "level": "B2",
+    "situation": "hotel",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 177,
+    "videoId": null,
+    "transcriptContext": "Vorremmo cambiare camera perché è troppo rumorosa.",
+    "pronunciation": "ڤوريمّو كامبياريه كاميرا پيركيه إيه ترّوپّو روموروزا.",
+    "words": [
+      {
+        "w": "rumoroso",
+        "m_en": "noisy",
+        "m_ar": "صاخب"
+      },
+      {
+        "w": "perché",
+        "m_en": "because",
+        "m_ar": "لأنّ"
+      }
+    ],
+    "grammar_en": "\"Perché\" means both \"why\" and \"because\".",
+    "grammar_ar": "تعني «perché» «لماذا» و«لأنّ».",
+    "alternatives": [
+      {
+        "text": "La camera è troppo rumorosa: possiamo cambiarla?",
+        "note_en": "Adds a question",
+        "note_ar": "يضيف سؤالًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6238,
+    "text": "L'imbarco chiuderà venti minuti prima della partenza.",
+    "translation_ar": "سيُغلق الصعود إلى الطائرة قبل الإقلاع بعشرين دقيقة.",
+    "level": "B2",
+    "situation": "airport",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 194,
+    "videoId": null,
+    "transcriptContext": "L'imbarco chiuderà venti minuti prima della partenza.",
+    "pronunciation": "ليمباركو كيوديرا ڤينتي مينوتي پريما دلّا پارتينتسا.",
+    "words": [
+      {
+        "w": "imbarco",
+        "m_en": "boarding",
+        "m_ar": "صعود إلى الطائرة"
+      },
+      {
+        "w": "partenza",
+        "m_en": "departure",
+        "m_ar": "إقلاع"
+      }
+    ],
+    "grammar_en": "\"Chiuderà\" is the future of \"chiudere\".",
+    "grammar_ar": "«chiuderà» مستقبل «chiudere».",
+    "alternatives": [
+      {
+        "text": "L'imbarco si chiude venti minuti prima.",
+        "note_en": "Present tense for a scheduled event",
+        "note_ar": "المضارع لحدث مجدول"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6239,
+    "text": "Il corso richiede un impegno costante.",
+    "translation_ar": "تتطلّب الدورة التزامًا متواصلًا.",
+    "level": "B2",
+    "situation": "education",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 211,
+    "videoId": null,
+    "transcriptContext": "Il corso richiede un impegno costante.",
+    "pronunciation": "إل كورسو ريكييديه أون إمپينيو كوستانتيه.",
+    "words": [
+      {
+        "w": "impegno",
+        "m_en": "commitment, effort",
+        "m_ar": "التزام / جهد"
+      },
+      {
+        "w": "costante",
+        "m_en": "steady",
+        "m_ar": "متواصل"
+      }
+    ],
+    "grammar_en": "\"Impegno\" also means \"engagement\" or \"appointment\".",
+    "grammar_ar": "يعني «impegno» أيضًا «ارتباط» أو «موعد».",
+    "alternatives": [
+      {
+        "text": "Il corso richiede costanza.",
+        "note_en": "\"Costanza\" = perseverance",
+        "note_ar": "«costanza» = المثابرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6240,
+    "text": "Ho sostenuto l'esame con ottimi risultati.",
+    "translation_ar": "أدّيتُ الامتحان بنتائج ممتازة.",
+    "level": "B2",
+    "situation": "education",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 228,
+    "videoId": null,
+    "transcriptContext": "Ho sostenuto l'esame con ottimi risultati.",
+    "pronunciation": "أو سوستينوتو لإيزامي كون أوتّيمي ريزولتاتي.",
+    "words": [
+      {
+        "w": "sostenere un esame",
+        "m_en": "to sit an exam",
+        "m_ar": "يؤدّي امتحانًا"
+      },
+      {
+        "w": "risultato",
+        "m_en": "result",
+        "m_ar": "نتيجة"
+      }
+    ],
+    "grammar_en": "In formal style Italian says \"sostenere\" (not \"fare\") an exam.",
+    "grammar_ar": "في الأسلوب الرسمي يُقال «sostenere» لا «fare» مع الامتحان.",
+    "alternatives": [
+      {
+        "text": "Ho superato l'esame con ottimi voti.",
+        "note_en": "I passed the exam with excellent grades",
+        "note_ar": "نجحتُ في الامتحان بدرجات ممتازة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6241,
+    "text": "Il medico mi ha prescritto degli esami del sangue.",
+    "translation_ar": "وصف لي الطبيب فحوصات دم.",
+    "level": "B2",
+    "situation": "health",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 5,
+    "videoId": null,
+    "transcriptContext": "Il medico mi ha prescritto degli esami del sangue.",
+    "pronunciation": "إل ميديكو مي آ پريسكريتّو ديلي إيزامي دل سانغوي.",
+    "words": [
+      {
+        "w": "prescrivere",
+        "m_en": "to prescribe",
+        "m_ar": "يصف (علاجًا)"
+      },
+      {
+        "w": "sangue",
+        "m_en": "blood",
+        "m_ar": "دم"
+      }
+    ],
+    "grammar_en": "\"Prescritto\" is the irregular participle of \"prescrivere\".",
+    "grammar_ar": "«prescritto» اسم المفعول الشاذّ من «prescrivere».",
+    "alternatives": [
+      {
+        "text": "Mi ha fatto fare degli esami del sangue.",
+        "note_en": "He had me do blood tests",
+        "note_ar": "طلب منّي إجراء فحوصات دم"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6242,
+    "text": "Molte aziende stanno adottando il lavoro da remoto.",
+    "translation_ar": "تعتمد كثير من الشركات العمل عن بُعد.",
+    "level": "B2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 22,
+    "videoId": null,
+    "transcriptContext": "Molte aziende stanno adottando il lavoro da remoto.",
+    "pronunciation": "مولتيه أتسيينديه ستانّو أدوتّاندو إل لاڤورو دا ريموتو.",
+    "words": [
+      {
+        "w": "adottare",
+        "m_en": "to adopt",
+        "m_ar": "يعتمد"
+      },
+      {
+        "w": "da remoto",
+        "m_en": "remote",
+        "m_ar": "عن بُعد"
+      }
+    ],
+    "grammar_en": "\"Stanno adottando\" is a progressive form for a current trend.",
+    "grammar_ar": "«stanno adottando» صيغة الاستمرار لاتّجاه جارٍ.",
+    "alternatives": [
+      {
+        "text": "Sempre più aziende scelgono il lavoro da remoto.",
+        "note_en": "More and more companies choose remote work",
+        "note_ar": "تختار شركات متزايدة العمل عن بُعد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6243,
+    "text": "La digitalizzazione ha cambiato il modo di comunicare.",
+    "translation_ar": "غيّرت الرقمنة طريقة التواصل.",
+    "level": "B2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 39,
+    "videoId": null,
+    "transcriptContext": "La digitalizzazione ha cambiato il modo di comunicare.",
+    "pronunciation": "لا ديجيتاليتسّاتسيونيه آ كامبياتو إل مودو دي كومونيكاريه.",
+    "words": [
+      {
+        "w": "digitalizzazione",
+        "m_en": "digitalisation",
+        "m_ar": "رقمنة"
+      },
+      {
+        "w": "comunicare",
+        "m_en": "to communicate",
+        "m_ar": "يتواصل"
+      }
+    ],
+    "grammar_en": "\"Il modo di\" + infinitive means \"the way of doing something\".",
+    "grammar_ar": "«il modo di» + المصدر = «طريقة القيام بشيء».",
+    "alternatives": [
+      {
+        "text": "Il digitale ha trasformato la comunicazione.",
+        "note_en": "Digital has transformed communication",
+        "note_ar": "غيّر الرقمي التواصل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6244,
+    "text": "Bisogna ridurre le emissioni di anidride carbonica.",
+    "translation_ar": "يجب خفض انبعاثات ثاني أكسيد الكربون.",
+    "level": "B2",
+    "situation": "environment",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 56,
+    "videoId": null,
+    "transcriptContext": "Bisogna ridurre le emissioni di anidride carbonica.",
+    "pronunciation": "بيزونيا ريدورّيه ليه إميسّيوني دي أنيديريده كاربونيكا.",
+    "words": [
+      {
+        "w": "ridurre",
+        "m_en": "to reduce",
+        "m_ar": "يخفّض"
+      },
+      {
+        "w": "emissione",
+        "m_en": "emission",
+        "m_ar": "انبعاث"
+      }
+    ],
+    "grammar_en": "\"Ridurre\" is irregular: \"riduco\", \"ridotto\".",
+    "grammar_ar": "«ridurre» شاذّ: «riduco» و«ridotto».",
+    "alternatives": [
+      {
+        "text": "Occorre ridurre le emissioni inquinanti.",
+        "note_en": "\"Inquinanti\" = polluting",
+        "note_ar": "«inquinanti» = مُلوِّثة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6245,
+    "text": "Le energie rinnovabili sono il futuro del pianeta.",
+    "translation_ar": "الطاقات المتجدّدة هي مستقبل الكوكب.",
+    "level": "B2",
+    "situation": "environment",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 73,
+    "videoId": null,
+    "transcriptContext": "Le energie rinnovabili sono il futuro del pianeta.",
+    "pronunciation": "ليه إنيرجيه ريننوڤابيلي سونو إل فوتورو دل پيانيتا.",
+    "words": [
+      {
+        "w": "rinnovabile",
+        "m_en": "renewable",
+        "m_ar": "متجدّد"
+      },
+      {
+        "w": "pianeta",
+        "m_en": "planet",
+        "m_ar": "كوكب"
+      }
+    ],
+    "grammar_en": "The plural of \"energia\" is \"energie\": \"-ia\" becomes \"-ie\".",
+    "grammar_ar": "جمع «energia» هو «energie»: تتحوّل «-ia» إلى «-ie».",
+    "alternatives": [
+      {
+        "text": "Il futuro è nelle energie rinnovabili.",
+        "note_en": "The future lies in renewables",
+        "note_ar": "المستقبل في الطاقات المتجدّدة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6246,
+    "text": "La conferenza si terrà nella sala principale.",
+    "translation_ar": "سيُعقد المؤتمر في القاعة الرئيسيّة.",
+    "level": "B2",
+    "situation": "events",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 90,
+    "videoId": null,
+    "transcriptContext": "La conferenza si terrà nella sala principale.",
+    "pronunciation": "لا كونفيرينتسا سي تيرّا نيلّا سالا پرينتشيپاليه.",
+    "words": [
+      {
+        "w": "conferenza",
+        "m_en": "conference",
+        "m_ar": "مؤتمر"
+      },
+      {
+        "w": "tenersi",
+        "m_en": "to take place",
+        "m_ar": "يُعقد"
+      }
+    ],
+    "grammar_en": "\"Si terrà\" is the future of \"tenersi\" (to take place).",
+    "grammar_ar": "«si terrà» مستقبل «tenersi» (يُعقد).",
+    "alternatives": [
+      {
+        "text": "La conferenza avrà luogo nella sala principale.",
+        "note_en": "\"Avere luogo\" = to take place",
+        "note_ar": "«avere luogo» = يُعقد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6247,
+    "text": "Gli organizzatori hanno rinviato l'evento a data da destinarsi.",
+    "translation_ar": "أجّل المنظّمون الحدث إلى موعد يُحدَّد لاحقًا.",
+    "level": "B2",
+    "situation": "events",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 107,
+    "videoId": null,
+    "transcriptContext": "Gli organizzatori hanno rinviato l'evento a data da destinarsi.",
+    "pronunciation": "غلي أورغانيتسّاتوري أنّو ريننڤياتو لإڤينتو آ داتا دا ديستيناريسي.",
+    "words": [
+      {
+        "w": "rinviare",
+        "m_en": "to postpone",
+        "m_ar": "يؤجّل"
+      },
+      {
+        "w": "a data da destinarsi",
+        "m_en": "to a date to be decided",
+        "m_ar": "إلى موعد يُحدَّد لاحقًا"
+      }
+    ],
+    "grammar_en": "\"A data da destinarsi\" is a fixed formal phrase.",
+    "grammar_ar": "«a data da destinarsi» عبارة ثابتة رسميّة.",
+    "alternatives": [
+      {
+        "text": "L'evento è stato rimandato a data da definire.",
+        "note_en": "\"Da definire\" = to be defined",
+        "note_ar": "«da definire» = يُحدَّد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6248,
+    "text": "I mezzi pubblici sono sospesi per lo sciopero.",
+    "translation_ar": "المواصلات العامّة متوقّفة بسبب الإضراب.",
+    "level": "B2",
+    "situation": "transport",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 124,
+    "videoId": null,
+    "transcriptContext": "I mezzi pubblici sono sospesi per lo sciopero.",
+    "pronunciation": "إي ميدزي پوبليتشي سونو سوسپيزي پير لو شوپيرو.",
+    "words": [
+      {
+        "w": "sciopero",
+        "m_en": "strike",
+        "m_ar": "إضراب"
+      },
+      {
+        "w": "sospeso",
+        "m_en": "suspended",
+        "m_ar": "متوقّف"
+      }
+    ],
+    "grammar_en": "\"Mezzi pubblici\" means public transport (literally \"public means\").",
+    "grammar_ar": "«mezzi pubblici» = المواصلات العامّة (حرفيًّا «وسائل عامّة»).",
+    "alternatives": [
+      {
+        "text": "Oggi c'è lo sciopero dei trasporti.",
+        "note_en": "There's a transport strike today",
+        "note_ar": "اليوم إضراب في المواصلات"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6249,
+    "text": "Ho prenotato un viaggio tutto compreso.",
+    "translation_ar": "حجزتُ رحلة شاملة لكلّ شيء.",
+    "level": "B2",
+    "situation": "travel",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 141,
+    "videoId": null,
+    "transcriptContext": "Ho prenotato un viaggio tutto compreso.",
+    "pronunciation": "أو پرينوتاتو أون ڤياججو توتّو كومپريزو.",
+    "words": [
+      {
+        "w": "tutto compreso",
+        "m_en": "all-inclusive",
+        "m_ar": "شامل لكلّ شيء"
+      },
+      {
+        "w": "viaggio",
+        "m_en": "trip",
+        "m_ar": "رحلة"
+      }
+    ],
+    "grammar_en": "\"Compreso\" is the participle of \"comprendere\".",
+    "grammar_ar": "«compreso» اسم المفعول من «comprendere».",
+    "alternatives": [
+      {
+        "text": "Ho scelto un pacchetto viaggio completo.",
+        "note_en": "I chose a full travel package",
+        "note_ar": "اخترتُ باقة سفر كاملة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6250,
+    "text": "La mostra rimarrà aperta fino a fine mese.",
+    "translation_ar": "سيبقى المعرض مفتوحًا حتى نهاية الشهر.",
+    "level": "B2",
+    "situation": "leisure",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 158,
+    "videoId": null,
+    "transcriptContext": "La mostra rimarrà aperta fino a fine mese.",
+    "pronunciation": "لا موسترا ريمارّا آپيرتا فينو آ فينيه ميزيه.",
+    "words": [
+      {
+        "w": "mostra",
+        "m_en": "exhibition",
+        "m_ar": "معرض"
+      },
+      {
+        "w": "rimanere",
+        "m_en": "to remain",
+        "m_ar": "يبقى"
+      }
+    ],
+    "grammar_en": "\"Rimanere\" is irregular; its future is \"rimarrà\".",
+    "grammar_ar": "«rimanere» شاذّ؛ ومستقبله «rimarrà».",
+    "alternatives": [
+      {
+        "text": "La mostra resterà aperta fino a fine mese.",
+        "note_en": "\"Restare\" as a synonym",
+        "note_ar": "«restare» كمرادف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6251,
+    "text": "Mi sono appassionato alla fotografia di recente.",
+    "translation_ar": "أصبحتُ شغوفًا بالتصوير مؤخّرًا.",
+    "level": "B2",
+    "situation": "leisure",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 175,
+    "videoId": null,
+    "transcriptContext": "Mi sono appassionato alla fotografia di recente.",
+    "pronunciation": "مي سونو أپّاسّيوناتو آلّا فوتوغرافيا دي ريتشينتيه.",
+    "words": [
+      {
+        "w": "appassionarsi a",
+        "m_en": "to become passionate about",
+        "m_ar": "يصبح شغوفًا بـ"
+      },
+      {
+        "w": "di recente",
+        "m_en": "recently",
+        "m_ar": "مؤخّرًا"
+      }
+    ],
+    "grammar_en": "\"Appassionarsi a\" is reflexive and takes \"essere\".",
+    "grammar_ar": "«appassionarsi a» انعكاسي ويأخذ «essere».",
+    "alternatives": [
+      {
+        "text": "Da poco mi dedico alla fotografia.",
+        "note_en": "\"Mi dedico a\" = I devote myself to",
+        "note_ar": "«mi dedico a» = أكرّس نفسي لـ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6252,
+    "text": "Il comune ha organizzato una raccolta di firme.",
+    "translation_ar": "نظّمت البلديّة حملة لجمع التوقيعات.",
+    "level": "B2",
+    "situation": "community",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 192,
+    "videoId": null,
+    "transcriptContext": "Il comune ha organizzato una raccolta di firme.",
+    "pronunciation": "إل كومونيه آ أورغانيتسّاتو أونا راكّولتا دي فيرمي.",
+    "words": [
+      {
+        "w": "comune",
+        "m_en": "municipality",
+        "m_ar": "بلديّة"
+      },
+      {
+        "w": "firma",
+        "m_en": "signature",
+        "m_ar": "توقيع"
+      }
+    ],
+    "grammar_en": "\"Il comune\" (masc.) means \"municipality\"; \"la comune\" is a commune.",
+    "grammar_ar": "«il comune» (مذكّر) = بلديّة؛ و«la comune» = جماعة (كومونة).",
+    "alternatives": [
+      {
+        "text": "Il comune ha lanciato una raccolta di firme.",
+        "note_en": "\"Lanciare\" = to launch",
+        "note_ar": "«lanciare» = يُطلق"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6253,
+    "text": "Mi sono abituato ai ritmi della città.",
+    "translation_ar": "اعتدتُ على إيقاع المدينة.",
+    "level": "B2",
+    "situation": "daily",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 209,
+    "videoId": null,
+    "transcriptContext": "Mi sono abituato ai ritmi della città.",
+    "pronunciation": "مي سونو أبيتواتو آي ريتمي دلّا تشيتّا.",
+    "words": [
+      {
+        "w": "abituarsi a",
+        "m_en": "to get used to",
+        "m_ar": "يعتاد على"
+      },
+      {
+        "w": "ritmo",
+        "m_en": "rhythm, pace",
+        "m_ar": "إيقاع"
+      }
+    ],
+    "grammar_en": "\"Abituarsi a\" takes \"essere\" in the passato prossimo.",
+    "grammar_ar": "يأخذ «abituarsi a» الفعل «essere» في الماضي القريب.",
+    "alternatives": [
+      {
+        "text": "Ormai sono abituato ai ritmi della città.",
+        "note_en": "\"By now...\"",
+        "note_ar": "«الآن...»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6254,
+    "text": "Il fenomeno non può essere ridotto a una semplice moda.",
+    "translation_ar": "لا يمكن اختزال الظاهرة في مجرّد موضة.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 226,
+    "videoId": null,
+    "transcriptContext": "Il fenomeno non può essere ridotto a una semplice moda.",
+    "pronunciation": "إل فينومينو نون پوو إسّيريه ريدوتّو آ أونا سيمپليتشيه مودا.",
+    "words": [
+      {
+        "w": "ridurre a",
+        "m_en": "to reduce to",
+        "m_ar": "يختزل في"
+      },
+      {
+        "w": "fenomeno",
+        "m_en": "phenomenon",
+        "m_ar": "ظاهرة"
+      }
+    ],
+    "grammar_en": "\"Non può essere\" + participle is a passive with a modal verb.",
+    "grammar_ar": "«non può essere» + اسم المفعول: مبني للمجهول مع فعل مساعد.",
+    "alternatives": [
+      {
+        "text": "Sarebbe riduttivo parlare di semplice moda.",
+        "note_en": "\"It would be reductive...\"",
+        "note_ar": "«سيكون من الاختزال...»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6255,
+    "text": "Il divario tra nord e sud continua ad ampliarsi.",
+    "translation_ar": "تستمرّ الفجوة بين الشمال والجنوب في الاتّساع.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 3,
+    "videoId": null,
+    "transcriptContext": "Il divario tra nord e sud continua ad ampliarsi.",
+    "pronunciation": "إل ديڤاريو ترا نورد إي سود كونتينووا آد أمپليارسي.",
+    "words": [
+      {
+        "w": "divario",
+        "m_en": "gap",
+        "m_ar": "فجوة"
+      },
+      {
+        "w": "ampliarsi",
+        "m_en": "to widen",
+        "m_ar": "يتّسع"
+      }
+    ],
+    "grammar_en": "\"Continuare a\" + infinitive means \"to keep on doing\".",
+    "grammar_ar": "«continuare a» + المصدر = يواصل فعل شيء.",
+    "alternatives": [
+      {
+        "text": "Il divario tra nord e sud si sta allargando.",
+        "note_en": "\"Allargarsi\" = to widen",
+        "note_ar": "«allargarsi» = يتّسع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6256,
+    "text": "Le disuguaglianze sociali minano la coesione della comunità.",
+    "translation_ar": "تقوّض الفوارق الاجتماعيّة تماسك المجتمع.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 20,
+    "videoId": null,
+    "transcriptContext": "Le disuguaglianze sociali minano la coesione della comunità.",
+    "pronunciation": "ليه ديسوغواليانتسيه سوتشالي مينانو لا كوهيزيونيه دلّا كومونيتا.",
+    "words": [
+      {
+        "w": "disuguaglianza",
+        "m_en": "inequality",
+        "m_ar": "تفاوت"
+      },
+      {
+        "w": "minare",
+        "m_en": "to undermine",
+        "m_ar": "يقوّض"
+      }
+    ],
+    "grammar_en": "\"Minare\" is a figurative verb: to weaken from within.",
+    "grammar_ar": "«minare» فعل مجازي: الإضعاف من الداخل.",
+    "alternatives": [
+      {
+        "text": "Le disuguaglianze indeboliscono la coesione sociale.",
+        "note_en": "\"Indebolire\" = to weaken",
+        "note_ar": "«indebolire» = يُضعف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6257,
+    "text": "Non si può prescindere da un confronto aperto.",
+    "translation_ar": "لا غنى عن حوار مفتوح.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 37,
+    "videoId": null,
+    "transcriptContext": "Non si può prescindere da un confronto aperto.",
+    "pronunciation": "نون سي پوو پريشيندريه دا أون كونفرونتو آپيرتو.",
+    "words": [
+      {
+        "w": "prescindere da",
+        "m_en": "to do without, to disregard",
+        "m_ar": "يستغني عن / يتجاهل"
+      },
+      {
+        "w": "confronto",
+        "m_en": "discussion",
+        "m_ar": "حوار"
+      }
+    ],
+    "grammar_en": "\"Non si può prescindere da\" means \"it is essential to have\".",
+    "grammar_ar": "تعني «non si può prescindere da» «لا غنى عن».",
+    "alternatives": [
+      {
+        "text": "Un confronto aperto è imprescindibile.",
+        "note_en": "\"Imprescindibile\" = indispensable",
+        "note_ar": "«imprescindibile» = لا غنى عنه"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6258,
+    "text": "La società ha avviato un processo di ristrutturazione.",
+    "translation_ar": "بدأت الشركة عمليّة إعادة هيكلة.",
+    "level": "C1",
+    "situation": "workplace",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 54,
+    "videoId": null,
+    "transcriptContext": "La società ha avviato un processo di ristrutturazione.",
+    "pronunciation": "لا سوتشيتا آ أڤڤياتو أون پروتشيسّو دي ريستروتتوراتسيونيه.",
+    "words": [
+      {
+        "w": "avviare",
+        "m_en": "to launch",
+        "m_ar": "يُطلق / يبدأ"
+      },
+      {
+        "w": "ristrutturazione",
+        "m_en": "restructuring",
+        "m_ar": "إعادة هيكلة"
+      }
+    ],
+    "grammar_en": "\"Società\" (feminine) means \"company\" in business contexts.",
+    "grammar_ar": "«società» (مؤنّث) تعني «شركة» في سياق الأعمال.",
+    "alternatives": [
+      {
+        "text": "L'azienda ha dato il via alla ristrutturazione.",
+        "note_en": "\"Dare il via a\" = to kick off",
+        "note_ar": "«dare il via a» = يُطلق"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6259,
+    "text": "Occorre garantire un equilibrio tra lavoro e vita privata.",
+    "translation_ar": "ينبغي ضمان توازن بين العمل والحياة الخاصّة.",
+    "level": "C1",
+    "situation": "workplace",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 71,
+    "videoId": null,
+    "transcriptContext": "Occorre garantire un equilibrio tra lavoro e vita privata.",
+    "pronunciation": "أوكّوريه غارانتيريه أون إيكويليبريو ترا لاڤورو إي ڤيتا پريڤاتا.",
+    "words": [
+      {
+        "w": "equilibrio",
+        "m_en": "balance",
+        "m_ar": "توازن"
+      },
+      {
+        "w": "garantire",
+        "m_en": "to guarantee",
+        "m_ar": "يضمن"
+      }
+    ],
+    "grammar_en": "\"Garantire\" follows the \"-isc-\" pattern.",
+    "grammar_ar": "يتبع «garantire» نمط «-isc-».",
+    "alternatives": [
+      {
+        "text": "Bisogna assicurare un buon equilibrio vita-lavoro.",
+        "note_en": "\"Assicurare\" = to ensure",
+        "note_ar": "«assicurare» = يضمن"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6260,
+    "text": "I mercati hanno reagito con prudenza alla notizia.",
+    "translation_ar": "تفاعلت الأسواق بحذر مع الخبر.",
+    "level": "C1",
+    "situation": "finance",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 88,
+    "videoId": null,
+    "transcriptContext": "I mercati hanno reagito con prudenza alla notizia.",
+    "pronunciation": "إي ميركاتي أنّو ريأجيتو كون پرودينتسا آلّا نوتيتسيا.",
+    "words": [
+      {
+        "w": "reagire",
+        "m_en": "to react",
+        "m_ar": "يتفاعل"
+      },
+      {
+        "w": "prudenza",
+        "m_en": "caution",
+        "m_ar": "حذر"
+      }
+    ],
+    "grammar_en": "\"Reagire a\" takes the preposition \"a\".",
+    "grammar_ar": "يأخذ «reagire a» حرف الجرّ «a».",
+    "alternatives": [
+      {
+        "text": "I mercati sono rimasti cauti dopo la notizia.",
+        "note_en": "\"Cauti\" = cautious",
+        "note_ar": "«cauti» = حذرون"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6261,
+    "text": "Il debito pubblico grava sulle future generazioni.",
+    "translation_ar": "يثقل الدَّين العامّ كاهل الأجيال القادمة.",
+    "level": "C1",
+    "situation": "finance",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 105,
+    "videoId": null,
+    "transcriptContext": "Il debito pubblico grava sulle future generazioni.",
+    "pronunciation": "إل ديبيتو پوبليكو غراڤا سوللّيه فوتوريه جينيراتسيوني.",
+    "words": [
+      {
+        "w": "debito",
+        "m_en": "debt",
+        "m_ar": "دَين"
+      },
+      {
+        "w": "gravare su",
+        "m_en": "to weigh on",
+        "m_ar": "يثقل على"
+      }
+    ],
+    "grammar_en": "\"Sulle\" is \"su\" + \"le\".",
+    "grammar_ar": "«sulle» = «su» + «le».",
+    "alternatives": [
+      {
+        "text": "Il debito pubblico pesa sulle nuove generazioni.",
+        "note_en": "\"Pesare su\" = to weigh on",
+        "note_ar": "«pesare su» = يثقل على"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6262,
+    "text": "L'intelligenza artificiale solleva interrogativi etici.",
+    "translation_ar": "يثير الذكاء الاصطناعي تساؤلات أخلاقيّة.",
+    "level": "C1",
+    "situation": "technology",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 122,
+    "videoId": null,
+    "transcriptContext": "L'intelligenza artificiale solleva interrogativi etici.",
+    "pronunciation": "لإنتيلّيجينتسا أرتيفيتشاليه سوللّيڤا إنتيرّوغاتيڤي إيتيتشي.",
+    "words": [
+      {
+        "w": "sollevare",
+        "m_en": "to raise (a question)",
+        "m_ar": "يثير"
+      },
+      {
+        "w": "interrogativo",
+        "m_en": "question, concern",
+        "m_ar": "تساؤل"
+      }
+    ],
+    "grammar_en": "\"Sollevare\" also means \"to lift\".",
+    "grammar_ar": "يعني «sollevare» أيضًا «يرفع».",
+    "alternatives": [
+      {
+        "text": "L'intelligenza artificiale pone questioni etiche.",
+        "note_en": "\"Porre\" = to pose",
+        "note_ar": "«porre» = يطرح"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6263,
+    "text": "La protezione dei dati personali è diventata cruciale.",
+    "translation_ar": "أصبحت حماية البيانات الشخصيّة أمرًا حاسمًا.",
+    "level": "C1",
+    "situation": "technology",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 139,
+    "videoId": null,
+    "transcriptContext": "La protezione dei dati personali è diventata cruciale.",
+    "pronunciation": "لا پروتيتسيونيه ديي داتي پيرسونالي إيه ديڤينتاتا كروتشاليه.",
+    "words": [
+      {
+        "w": "protezione",
+        "m_en": "protection",
+        "m_ar": "حماية"
+      },
+      {
+        "w": "cruciale",
+        "m_en": "crucial",
+        "m_ar": "حاسم"
+      }
+    ],
+    "grammar_en": "\"Dati\" is the plural of \"dato\"; \"personali\" agrees with it.",
+    "grammar_ar": "«dati» جمع «dato»؛ وتتطابق معها «personali».",
+    "alternatives": [
+      {
+        "text": "Proteggere i dati personali è ormai fondamentale.",
+        "note_en": "\"Fondamentale\" = essential",
+        "note_ar": "«fondamentale» = أساسي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6264,
+    "text": "I ghiacciai si stanno ritirando a ritmo allarmante.",
+    "translation_ar": "تتراجع الأنهار الجليديّة بوتيرة مقلقة.",
+    "level": "C1",
+    "situation": "environment",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 156,
+    "videoId": null,
+    "transcriptContext": "I ghiacciai si stanno ritirando a ritmo allarmante.",
+    "pronunciation": "إي غياتشاي سي ستانّو ريتيراندو آ ريتمو أللارمانتيه.",
+    "words": [
+      {
+        "w": "ghiacciaio",
+        "m_en": "glacier",
+        "m_ar": "نهر جليدي"
+      },
+      {
+        "w": "allarmante",
+        "m_en": "alarming",
+        "m_ar": "مقلق"
+      }
+    ],
+    "grammar_en": "\"Ghiacciaio\" becomes \"ghiacciai\": nouns in \"-io\" lose the \"o\" in the plural.",
+    "grammar_ar": "«ghiacciaio» تصير «ghiacciai»: تفقد الأسماء المنتهية بـ«-io» حرف «o» في الجمع.",
+    "alternatives": [
+      {
+        "text": "I ghiacciai arretrano molto rapidamente.",
+        "note_en": "\"Arretrare\" = to retreat",
+        "note_ar": "«arretrare» = يتراجع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6265,
+    "text": "Servono politiche coraggiose contro il cambiamento climatico.",
+    "translation_ar": "يلزم اعتماد سياسات جريئة ضدّ التغيّر المناخي.",
+    "level": "C1",
+    "situation": "environment",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 173,
+    "videoId": null,
+    "transcriptContext": "Servono politiche coraggiose contro il cambiamento climatico.",
+    "pronunciation": "سيرڤونو پوليتيكيه كوراججوزيه كونترو إل كامبيامينتو كليماتيكو.",
+    "words": [
+      {
+        "w": "coraggioso",
+        "m_en": "brave",
+        "m_ar": "جريء"
+      },
+      {
+        "w": "cambiamento climatico",
+        "m_en": "climate change",
+        "m_ar": "التغيّر المناخي"
+      }
+    ],
+    "grammar_en": "\"Servono\" is plural because \"politiche\" is plural.",
+    "grammar_ar": "«servono» جمع لأنّ «politiche» جمع.",
+    "alternatives": [
+      {
+        "text": "Occorrono politiche ambiziose per il clima.",
+        "note_en": "\"Ambiziose\" = ambitious",
+        "note_ar": "«ambiziose» = طموحة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6266,
+    "text": "La riforma della scuola ha diviso l'opinione pubblica.",
+    "translation_ar": "قسّم إصلاح المدرسة الرأي العامّ.",
+    "level": "C1",
+    "situation": "education",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 190,
+    "videoId": null,
+    "transcriptContext": "La riforma della scuola ha diviso l'opinione pubblica.",
+    "pronunciation": "لا ريفورما دلّا سكووولا آ ديڤيزو لأوپينيونيه پوبليكا.",
+    "words": [
+      {
+        "w": "dividere",
+        "m_en": "to divide",
+        "m_ar": "يقسّم"
+      },
+      {
+        "w": "opinione pubblica",
+        "m_en": "public opinion",
+        "m_ar": "الرأي العامّ"
+      }
+    ],
+    "grammar_en": "\"Diviso\" is the irregular participle of \"dividere\".",
+    "grammar_ar": "«diviso» اسم المفعول الشاذّ من «dividere».",
+    "alternatives": [
+      {
+        "text": "La riforma della scuola ha spaccato l'opinione pubblica.",
+        "note_en": "\"Spaccare\" = to split",
+        "note_ar": "«spaccare» = يشطر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6267,
+    "text": "L'apprendimento continuo è una risorsa per il futuro.",
+    "translation_ar": "التعلّم المستمرّ مورد للمستقبل.",
+    "level": "C1",
+    "situation": "education",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 207,
+    "videoId": null,
+    "transcriptContext": "L'apprendimento continuo è una risorsa per il futuro.",
+    "pronunciation": "لأپّرينديمينتو كونتينوو إيه أونا ريسورسا پير إل فوتورو.",
+    "words": [
+      {
+        "w": "apprendimento",
+        "m_en": "learning",
+        "m_ar": "تعلّم"
+      },
+      {
+        "w": "risorsa",
+        "m_en": "resource",
+        "m_ar": "مورد"
+      }
+    ],
+    "grammar_en": "\"Apprendimento\" is a noun; the verb is \"apprendere\".",
+    "grammar_ar": "«apprendimento» اسم؛ والفعل «apprendere».",
+    "alternatives": [
+      {
+        "text": "Imparare per tutta la vita è una risorsa.",
+        "note_en": "Lifelong learning",
+        "note_ar": "التعلّم مدى الحياة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6268,
+    "text": "La prevenzione resta la migliore forma di cura.",
+    "translation_ar": "تبقى الوقاية أفضل شكل من أشكال العلاج.",
+    "level": "C1",
+    "situation": "health",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 224,
+    "videoId": null,
+    "transcriptContext": "La prevenzione resta la migliore forma di cura.",
+    "pronunciation": "لا پريڤينتسيونيه ريستا لا ميلّيوريه فورما دي كورا.",
+    "words": [
+      {
+        "w": "prevenzione",
+        "m_en": "prevention",
+        "m_ar": "وقاية"
+      },
+      {
+        "w": "cura",
+        "m_en": "treatment, care",
+        "m_ar": "علاج"
+      }
+    ],
+    "grammar_en": "\"Migliore\" is the comparative of \"buono\"; with the article it becomes a superlative.",
+    "grammar_ar": "«migliore» مقارن «buono»؛ ومع أداة التعريف تصير صيغة تفضيل عليا.",
+    "alternatives": [
+      {
+        "text": "Prevenire è meglio che curare.",
+        "note_en": "Prevention is better than cure",
+        "note_ar": "الوقاية خير من العلاج"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6269,
+    "text": "Il sistema sanitario è messo a dura prova.",
+    "translation_ar": "يخضع النظام الصحّي لاختبار قاسٍ.",
+    "level": "C1",
+    "situation": "health",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 1,
+    "videoId": null,
+    "transcriptContext": "Il sistema sanitario è messo a dura prova.",
+    "pronunciation": "إل سيستيما سانيتاريو إيه ميسّو آ دورا پروڤا.",
+    "words": [
+      {
+        "w": "sistema sanitario",
+        "m_en": "health system",
+        "m_ar": "النظام الصحّي"
+      },
+      {
+        "w": "a dura prova",
+        "m_en": "under severe strain",
+        "m_ar": "تحت ضغط شديد"
+      }
+    ],
+    "grammar_en": "\"Mettere a dura prova\" means \"to put under severe strain\".",
+    "grammar_ar": "«mettere a dura prova» = وضع تحت ضغط شديد.",
+    "alternatives": [
+      {
+        "text": "Il sistema sanitario è sotto forte pressione.",
+        "note_en": "\"Sotto pressione\" = under pressure",
+        "note_ar": "«sotto pressione» = تحت الضغط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6270,
+    "text": "Il festival celebra la ricchezza del patrimonio locale.",
+    "translation_ar": "يحتفي المهرجان بثراء التراث المحلّي.",
+    "level": "C1",
+    "situation": "celebrations",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 18,
+    "videoId": null,
+    "transcriptContext": "Il festival celebra la ricchezza del patrimonio locale.",
+    "pronunciation": "إل فيستيڤال تشيليبرا لا ريكّيتسّا دل پاتريمونيو لوكاليه.",
+    "words": [
+      {
+        "w": "patrimonio",
+        "m_en": "heritage",
+        "m_ar": "تراث"
+      },
+      {
+        "w": "celebrare",
+        "m_en": "to celebrate",
+        "m_ar": "يحتفي بـ"
+      }
+    ],
+    "grammar_en": "\"Patrimonio\" means both \"heritage\" and \"assets\".",
+    "grammar_ar": "يعني «patrimonio» «تراثًا» و«ممتلكات» معًا.",
+    "alternatives": [
+      {
+        "text": "Il festival valorizza il patrimonio locale.",
+        "note_en": "\"Valorizzare\" = to showcase",
+        "note_ar": "«valorizzare» = يُعلي من شأن"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6271,
+    "text": "I consumatori sono sempre più attenti alla provenienza dei prodotti.",
+    "translation_ar": "يزداد اهتمام المستهلكين بمصدر المنتجات.",
+    "level": "C1",
+    "situation": "shopping",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 35,
+    "videoId": null,
+    "transcriptContext": "I consumatori sono sempre più attenti alla provenienza dei prodotti.",
+    "pronunciation": "إي كونسوماتوري سونو سيمپريه پيو أتّينتي آلّا پروڤينينتسا ديي پرودوتّي.",
+    "words": [
+      {
+        "w": "consumatore",
+        "m_en": "consumer",
+        "m_ar": "مستهلك"
+      },
+      {
+        "w": "provenienza",
+        "m_en": "origin",
+        "m_ar": "مصدر"
+      }
+    ],
+    "grammar_en": "\"Sempre più\" means \"more and more\".",
+    "grammar_ar": "«sempre più» = أكثر فأكثر.",
+    "alternatives": [
+      {
+        "text": "Chi compra guarda sempre più all'origine dei prodotti.",
+        "note_en": "\"Chi compra\" = those who buy",
+        "note_ar": "«chi compra» = من يشتري"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6272,
+    "text": "Il turismo di massa mette a rischio le città d'arte.",
+    "translation_ar": "تعرّض السياحة الجماعيّة مدن الفنّ للخطر.",
+    "level": "C1",
+    "situation": "travel",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 52,
+    "videoId": null,
+    "transcriptContext": "Il turismo di massa mette a rischio le città d'arte.",
+    "pronunciation": "إل توريزمو دي ماسّا ميتّيه آ ريسكيو ليه تشيتّا دارتيه.",
+    "words": [
+      {
+        "w": "turismo di massa",
+        "m_en": "mass tourism",
+        "m_ar": "سياحة جماعيّة"
+      },
+      {
+        "w": "a rischio",
+        "m_en": "at risk",
+        "m_ar": "في خطر"
+      }
+    ],
+    "grammar_en": "\"Mettere a rischio\" means \"to endanger\".",
+    "grammar_ar": "«mettere a rischio» = يعرّض للخطر.",
+    "alternatives": [
+      {
+        "text": "Il turismo di massa minaccia le città d'arte.",
+        "note_en": "\"Minacciare\" = to threaten",
+        "note_ar": "«minacciare» = يهدّد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6273,
+    "text": "Le trattative sono in una fase di stallo.",
+    "translation_ar": "المفاوضات في مرحلة جمود.",
+    "level": "C1",
+    "situation": "meetings",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 69,
+    "videoId": null,
+    "transcriptContext": "Le trattative sono in una fase di stallo.",
+    "pronunciation": "ليه ترتّاتيڤيه سونو إن أونا فازيه دي ستالّو.",
+    "words": [
+      {
+        "w": "stallo",
+        "m_en": "deadlock",
+        "m_ar": "جمود"
+      },
+      {
+        "w": "fase",
+        "m_en": "phase",
+        "m_ar": "مرحلة"
+      }
+    ],
+    "grammar_en": "\"In una fase di stallo\" means \"at a standstill\".",
+    "grammar_ar": "«in una fase di stallo» = في حالة جمود.",
+    "alternatives": [
+      {
+        "text": "Le trattative sono a un punto morto.",
+        "note_en": "\"Punto morto\" = dead end",
+        "note_ar": "«punto morto» = طريق مسدود"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6274,
+    "text": "Bisogna trovare un compromesso accettabile per tutti.",
+    "translation_ar": "يجب إيجاد حلّ وسط يقبله الجميع.",
+    "level": "C1",
+    "situation": "meetings",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 86,
+    "videoId": null,
+    "transcriptContext": "Bisogna trovare un compromesso accettabile per tutti.",
+    "pronunciation": "بيزونيا تروڤاريه أون كومپروميسّو أتشيتّابيليه پير توتّي.",
+    "words": [
+      {
+        "w": "compromesso",
+        "m_en": "compromise",
+        "m_ar": "حلّ وسط"
+      },
+      {
+        "w": "accettabile",
+        "m_en": "acceptable",
+        "m_ar": "مقبول"
+      }
+    ],
+    "grammar_en": "\"Accettabile\" ends in \"-bile\" (able to be).",
+    "grammar_ar": "تنتهي «accettabile» بـ«-bile» بمعنى «قابل لأن».",
+    "alternatives": [
+      {
+        "text": "Serve una soluzione che vada bene a tutti.",
+        "note_en": "\"Vada\" (congiuntivo)",
+        "note_ar": "«vada» («congiuntivo»)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6275,
+    "text": "Ho deciso di riqualificarmi per cambiare settore.",
+    "translation_ar": "قرّرتُ إعادة تأهيل نفسي مهنيًّا لتغيير القطاع.",
+    "level": "C1",
+    "situation": "career",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 103,
+    "videoId": null,
+    "transcriptContext": "Ho deciso di riqualificarmi per cambiare settore.",
+    "pronunciation": "أو ديتشيزو دي ريكواليفيكارمي پير كامبياريه سيتّوريه.",
+    "words": [
+      {
+        "w": "riqualificarsi",
+        "m_en": "to retrain",
+        "m_ar": "يعيد تأهيل نفسه"
+      },
+      {
+        "w": "cambiare settore",
+        "m_en": "to change sector",
+        "m_ar": "يغيّر القطاع"
+      }
+    ],
+    "grammar_en": "The prefix \"ri-\" means \"again\": \"riqualificarsi\".",
+    "grammar_ar": "تعني البادئة «ri-» «مجدّدًا»: «riqualificarsi».",
+    "alternatives": [
+      {
+        "text": "Voglio riqualificarmi per lavorare in un altro settore.",
+        "note_en": "I want to retrain to work in another sector",
+        "note_ar": "أريد إعادة التأهيل للعمل في قطاع آخر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6276,
+    "text": "Mi ritengo una persona affidabile e orientata ai risultati.",
+    "translation_ar": "أعدّ نفسي شخصًا موثوقًا وموجَّهًا نحو النتائج.",
+    "level": "C1",
+    "situation": "job-interview",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 120,
+    "videoId": null,
+    "transcriptContext": "Mi ritengo una persona affidabile e orientata ai risultati.",
+    "pronunciation": "مي ريتينغو أونا پيرسونا أففيدابيليه إي أوريينتاتا آي ريزولتاتي.",
+    "words": [
+      {
+        "w": "affidabile",
+        "m_en": "reliable",
+        "m_ar": "موثوق"
+      },
+      {
+        "w": "orientato",
+        "m_en": "oriented",
+        "m_ar": "موجَّه"
+      }
+    ],
+    "grammar_en": "\"Ritenersi\" means \"to consider oneself\" (reflexive).",
+    "grammar_ar": "«ritenersi» = يعدّ نفسه (انعكاسي).",
+    "alternatives": [
+      {
+        "text": "Sono una persona affidabile e attenta ai risultati.",
+        "note_en": "\"Attenta a\" = attentive to",
+        "note_ar": "«attenta a» = مهتمّة بـ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6277,
+    "text": "Quali sono i suoi punti di forza e di debolezza?",
+    "translation_ar": "ما هي نقاط قوّتك وضعفك؟",
+    "level": "C1",
+    "situation": "job-interview",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 137,
+    "videoId": null,
+    "transcriptContext": "Quali sono i suoi punti di forza e di debolezza?",
+    "pronunciation": "كوالي سونو إي سووي پونتي دي فورتسا إي دي ديبوليتسّا؟",
+    "words": [
+      {
+        "w": "punto di forza",
+        "m_en": "strength",
+        "m_ar": "نقطة قوّة"
+      },
+      {
+        "w": "debolezza",
+        "m_en": "weakness",
+        "m_ar": "ضعف"
+      }
+    ],
+    "grammar_en": "\"I suoi\" is the formal \"your\" (Lei).",
+    "grammar_ar": "«i suoi» هي «الخاصّة بك» الرسميّة (Lei).",
+    "alternatives": [
+      {
+        "text": "Quali sono i tuoi pregi e difetti?",
+        "note_en": "Informal: \"strengths and flaws\"",
+        "note_ar": "غير رسمي: «المزايا والعيوب»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6278,
+    "text": "I social hanno amplificato la diffusione delle notizie false.",
+    "translation_ar": "ضخّمت وسائل التواصل انتشار الأخبار الكاذبة.",
+    "level": "C1",
+    "situation": "social-media",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 154,
+    "videoId": null,
+    "transcriptContext": "I social hanno amplificato la diffusione delle notizie false.",
+    "pronunciation": "إي سوشال أنّو أمپليفيكاتو لا ديففوزيونيه ديلّيه نوتيتسيه فالسيه.",
+    "words": [
+      {
+        "w": "diffusione",
+        "m_en": "spread",
+        "m_ar": "انتشار"
+      },
+      {
+        "w": "notizie false",
+        "m_en": "fake news",
+        "m_ar": "أخبار كاذبة"
+      }
+    ],
+    "grammar_en": "\"I social\" is short for \"i social media\".",
+    "grammar_ar": "«i social» اختصار «i social media».",
+    "alternatives": [
+      {
+        "text": "I social hanno favorito la disinformazione.",
+        "note_en": "\"Disinformazione\" = disinformation",
+        "note_ar": "«disinformazione» = التضليل الإعلامي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6279,
+    "text": "Molti profili sono gestiti da account automatici.",
+    "translation_ar": "تُدار كثير من الحسابات بواسطة حسابات آليّة.",
+    "level": "C1",
+    "situation": "social-media",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 171,
+    "videoId": null,
+    "transcriptContext": "Molti profili sono gestiti da account automatici.",
+    "pronunciation": "مولتي پروفيلي سونو جيستيتي دا أككاونت أوتوماتيتشي.",
+    "words": [
+      {
+        "w": "gestire",
+        "m_en": "to manage",
+        "m_ar": "يدير"
+      },
+      {
+        "w": "automatico",
+        "m_en": "automatic",
+        "m_ar": "آلي"
+      }
+    ],
+    "grammar_en": "\"Gestito da\" introduces the agent in the passive.",
+    "grammar_ar": "تُدخل «da» الفاعل في المبني للمجهول: «gestito da».",
+    "alternatives": [
+      {
+        "text": "Molti profili sono in realtà dei bot.",
+        "note_en": "\"Bot\" = automated program",
+        "note_ar": "«bot» = برنامج آلي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6280,
+    "text": "Il dibattito pubblico si è progressivamente impoverito.",
+    "translation_ar": "أصبح النقاش العامّ أفقر شيئًا فشيئًا.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 188,
+    "videoId": null,
+    "transcriptContext": "Il dibattito pubblico si è progressivamente impoverito.",
+    "pronunciation": "إل ديباتّيتو پوبليكو سي إيه پروغريسّيڤامينتيه إمپوڤيريتو.",
+    "words": [
+      {
+        "w": "impoverirsi",
+        "m_en": "to become poorer",
+        "m_ar": "يزداد فقرًا"
+      },
+      {
+        "w": "progressivamente",
+        "m_en": "gradually",
+        "m_ar": "تدريجيًّا"
+      }
+    ],
+    "grammar_en": "\"Impoverirsi\" is figurative here: the quality declines.",
+    "grammar_ar": "«impoverirsi» مجازي هنا: تتراجع جودة النقاش.",
+    "alternatives": [
+      {
+        "text": "Il dibattito pubblico ha perso spessore.",
+        "note_en": "\"Perdere spessore\" = to lose depth",
+        "note_ar": "«perdere spessore» = يفقد العمق"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6281,
+    "text": "Assistiamo a una progressiva erosione della fiducia nelle istituzioni.",
+    "translation_ar": "نشهد تآكلًا تدريجيًّا في الثقة بالمؤسّسات.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 205,
+    "videoId": null,
+    "transcriptContext": "Assistiamo a una progressiva erosione della fiducia nelle istituzioni.",
+    "pronunciation": "أسّيستيامو آ أونا پروغريسّيڤا إيروزيونيه دلّا فيدوتشا نيلّيه إيستيتوتسيوني.",
+    "words": [
+      {
+        "w": "assistere a",
+        "m_en": "to witness",
+        "m_ar": "يشهد"
+      },
+      {
+        "w": "fiducia",
+        "m_en": "trust",
+        "m_ar": "ثقة"
+      }
+    ],
+    "grammar_en": "\"Assistere a\" means \"to witness\", not \"to assist\".",
+    "grammar_ar": "يعني «assistere a» «يشهد» لا «يساعد».",
+    "alternatives": [
+      {
+        "text": "Sta calando la fiducia nelle istituzioni.",
+        "note_en": "\"Calare\" = to decline",
+        "note_ar": "«calare» = يتراجع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6282,
+    "text": "L'ambivalenza del progresso non sfugge ai più attenti.",
+    "translation_ar": "لا يغيب التباس التقدّم عن أشدّهم انتباهًا.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 222,
+    "videoId": null,
+    "transcriptContext": "L'ambivalenza del progresso non sfugge ai più attenti.",
+    "pronunciation": "لأمبيڤالينتسا دل پروغريسّو نون سفوججيه آي پيو أتّينتي.",
+    "words": [
+      {
+        "w": "ambivalenza",
+        "m_en": "ambivalence",
+        "m_ar": "ازدواجيّة / التباس"
+      },
+      {
+        "w": "sfuggire",
+        "m_en": "to escape",
+        "m_ar": "يغيب عن"
+      }
+    ],
+    "grammar_en": "\"I più\" means \"most people\"; \"ai più attenti\" means \"the most attentive\".",
+    "grammar_ar": "«i più» تعني «الأكثريّة»؛ و«ai più attenti» = الأشدّ انتباهًا.",
+    "alternatives": [
+      {
+        "text": "Chi è attento coglie l'ambivalenza del progresso.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6283,
+    "text": "Il consenso, quando è unanime, desta sempre qualche sospetto.",
+    "translation_ar": "الإجماع، حين يكون تامًّا، يثير دائمًا بعض الريبة.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 239,
+    "videoId": null,
+    "transcriptContext": "Il consenso, quando è unanime, desta sempre qualche sospetto.",
+    "pronunciation": "إل كونسينسو، كواندو إيه أونانيميه، ديستا سيمپريه كواليكيه سوسپيتّو.",
+    "words": [
+      {
+        "w": "destare",
+        "m_en": "to arouse",
+        "m_ar": "يثير / يوقظ"
+      },
+      {
+        "w": "unanime",
+        "m_en": "unanimous",
+        "m_ar": "بالإجماع"
+      }
+    ],
+    "grammar_en": "\"Destare\" is a literary alternative to \"suscitare\".",
+    "grammar_ar": "«destare» بديل أدبي لـ«suscitare».",
+    "alternatives": [
+      {
+        "text": "Un consenso unanime lascia sempre qualche dubbio.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6284,
+    "text": "Nessuna verità storica è immune dalle interpretazioni.",
+    "translation_ar": "لا حقيقة تاريخيّة بمنأى عن التأويلات.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 16,
+    "videoId": null,
+    "transcriptContext": "Nessuna verità storica è immune dalle interpretazioni.",
+    "pronunciation": "نيسّونا ڤيريتا ستوريكا إيه إمّونيه دالّيه إنتيرپريتاتسيوني.",
+    "words": [
+      {
+        "w": "immune",
+        "m_en": "immune",
+        "m_ar": "بمنأى / محصّن"
+      },
+      {
+        "w": "interpretazione",
+        "m_en": "interpretation",
+        "m_ar": "تأويل"
+      }
+    ],
+    "grammar_en": "\"Nessuna\" is singular and takes a singular verb.",
+    "grammar_ar": "«nessuna» مفردة وتأخذ فعلًا مفردًا.",
+    "alternatives": [
+      {
+        "text": "Ogni verità storica è soggetta a interpretazione.",
+        "note_en": "\"Soggetta a\" = subject to",
+        "note_ar": "«soggetta a» = خاضعة لـ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6285,
+    "text": "Ciò che si tace, talvolta, dice più di ciò che si afferma.",
+    "translation_ar": "ما يُسكَت عنه يقول أحيانًا أكثر ممّا يُعلَن.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 33,
+    "videoId": null,
+    "transcriptContext": "Ciò che si tace, talvolta, dice più di ciò che si afferma.",
+    "pronunciation": "تشو كيه سي تاتشيه، تالڤولتا، ديتشيه پيو دي تشو كيه سي أففيرما.",
+    "words": [
+      {
+        "w": "tacere",
+        "m_en": "to leave unsaid",
+        "m_ar": "يسكت عن"
+      },
+      {
+        "w": "talvolta",
+        "m_en": "sometimes",
+        "m_ar": "أحيانًا"
+      }
+    ],
+    "grammar_en": "\"Ciò che\" means \"that which\"; \"si\" makes the verbs impersonal or passive.",
+    "grammar_ar": "«ciò che» = «الذي»؛ و«si» تجعل الأفعال غير شخصيّة أو مبنيّة للمجهول.",
+    "alternatives": [
+      {
+        "text": "A volte il silenzio è più eloquente delle parole.",
+        "note_en": "Sometimes silence is more eloquent than words",
+        "note_ar": "أحيانًا يكون الصمت أبلغ من الكلام"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 6286,
+    "text": "Il tempo, lungi dall'attenuare il ricordo, ne acuisce i contorni.",
+    "translation_ar": "الزمن، بعيدًا عن تخفيف الذكرى، يزيد حدّة ملامحها.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 50,
+    "videoId": null,
+    "transcriptContext": "Il tempo, lungi dall'attenuare il ricordo, ne acuisce i contorni.",
+    "pronunciation": "إل تيمپو، لونجي دالّأتّينواريه إل ريكوردو، نيه أكويشيه إي كونتورني.",
+    "words": [
+      {
+        "w": "attenuare",
+        "m_en": "to soften",
+        "m_ar": "يخفّف"
+      },
+      {
+        "w": "acuire",
+        "m_en": "to sharpen",
+        "m_ar": "يزيد حدّة"
+      }
+    ],
+    "grammar_en": "\"Ne\" here refers back to \"il ricordo\" (\"of it\").",
+    "grammar_ar": "تعود «ne» هنا إلى «il ricordo» بمعنى «منها».",
+    "alternatives": [
+      {
+        "text": "Il tempo non attenua il ricordo, lo rende più nitido.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6287,
+    "text": "L'ironia è spesso l'ultimo rifugio dei disillusi.",
+    "translation_ar": "السخرية غالبًا آخر ملاذ للمخذولين.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 67,
+    "videoId": null,
+    "transcriptContext": "L'ironia è spesso l'ultimo rifugio dei disillusi.",
+    "pronunciation": "ليرونيا إيه سپيسّو لولتيمو ريفوجو ديي ديزيلّوزي.",
+    "words": [
+      {
+        "w": "ironia",
+        "m_en": "irony",
+        "m_ar": "سخرية"
+      },
+      {
+        "w": "disilluso",
+        "m_en": "disillusioned",
+        "m_ar": "مخذول / خائب الأمل"
+      }
+    ],
+    "grammar_en": "\"Disillusi\" is the plural of \"disilluso\", used here as a noun.",
+    "grammar_ar": "«disillusi» جمع «disilluso» وتُستعمل هنا اسمًا.",
+    "alternatives": [
+      {
+        "text": "Chi ha perso le illusioni si rifugia nell'ironia.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6288,
+    "text": "Ogni epoca elabora i propri miti, e ne resta prigioniera.",
+    "translation_ar": "كلّ عصر يصوغ أساطيره ويبقى أسيرًا لها.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 84,
+    "videoId": null,
+    "transcriptContext": "Ogni epoca elabora i propri miti, e ne resta prigioniera.",
+    "pronunciation": "أونّي إيپوكا إيلابورا إي پروپري ميتي، إي نيه ريستا پريجونييرا.",
+    "words": [
+      {
+        "w": "elaborare",
+        "m_en": "to produce, to work out",
+        "m_ar": "يصوغ"
+      },
+      {
+        "w": "prigioniero",
+        "m_en": "prisoner",
+        "m_ar": "أسير"
+      }
+    ],
+    "grammar_en": "\"Prigioniera\" is feminine to agree with \"epoca\".",
+    "grammar_ar": "«prigioniera» مؤنّثة لتتطابق مع «epoca».",
+    "alternatives": [
+      {
+        "text": "Ogni epoca crea i suoi miti e ne è schiava.",
+        "note_en": "\"Schiava\" = slave",
+        "note_ar": "«schiava» = عبدة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6289,
+    "text": "La lingua non è solo strumento, ma anche luogo di appartenenza.",
+    "translation_ar": "اللغة ليست أداة فحسب بل هي أيضًا مكان انتماء.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 101,
+    "videoId": null,
+    "transcriptContext": "La lingua non è solo strumento, ma anche luogo di appartenenza.",
+    "pronunciation": "لا لينغوا نون إيه سولو سترومينتو، ما آنكيه لووغو دي أپّارتينينتسا.",
+    "words": [
+      {
+        "w": "appartenenza",
+        "m_en": "belonging",
+        "m_ar": "انتماء"
+      },
+      {
+        "w": "strumento",
+        "m_en": "tool",
+        "m_ar": "أداة"
+      }
+    ],
+    "grammar_en": "\"Non solo... ma anche...\" means \"not only... but also...\".",
+    "grammar_ar": "«non solo... ma anche...» = ليس فقط... بل أيضًا.",
+    "alternatives": [
+      {
+        "text": "La lingua è anche un senso di appartenenza.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6290,
+    "text": "Bisognerebbe restituire dignità alla parola pubblica.",
+    "translation_ar": "ينبغي إعادة الاعتبار إلى الكلمة العامّة.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 118,
+    "videoId": null,
+    "transcriptContext": "Bisognerebbe restituire dignità alla parola pubblica.",
+    "pronunciation": "بيزونيريبّيه ريستيتويريه ديغنيتا آلّا پارولا پوبليكا.",
+    "words": [
+      {
+        "w": "restituire",
+        "m_en": "to give back",
+        "m_ar": "يعيد"
+      },
+      {
+        "w": "dignità",
+        "m_en": "dignity",
+        "m_ar": "كرامة"
+      }
+    ],
+    "grammar_en": "\"Bisognerebbe\" (conditional) is a soft \"one should\".",
+    "grammar_ar": "«bisognerebbe» (شرطي) تعني «ينبغي» بنبرة خفيفة.",
+    "alternatives": [
+      {
+        "text": "Occorrerebbe ridare dignità alla parola pubblica.",
+        "note_en": "\"Ridare\" = to give back",
+        "note_ar": "«ridare» = يردّ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6291,
+    "text": "Le sfumature, più delle certezze, rivelano la complessità del reale.",
+    "translation_ar": "الفروق الدقيقة، أكثر من اليقينيّات، تكشف تعقيد الواقع.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 135,
+    "videoId": null,
+    "transcriptContext": "Le sfumature, più delle certezze, rivelano la complessità del reale.",
+    "pronunciation": "ليه سفوماتوريه، پيو ديلّيه تشيرتيتسّيه، ريڤيلانو لا كومپليسّيتا دل ريأليه.",
+    "words": [
+      {
+        "w": "sfumatura",
+        "m_en": "nuance",
+        "m_ar": "فرق دقيق"
+      },
+      {
+        "w": "certezza",
+        "m_en": "certainty",
+        "m_ar": "يقين"
+      }
+    ],
+    "grammar_en": "\"Il reale\" is an adjective used as a noun: \"reality\".",
+    "grammar_ar": "«il reale» صفة استُعملت اسمًا: «الواقع».",
+    "alternatives": [
+      {
+        "text": "Sono le sfumature a rivelare la complessità del reale.",
+        "note_en": "Cleft structure",
+        "note_ar": "بنية تأكيديّة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6292,
+    "text": "La sua condotta è ineccepibile sul piano professionale.",
+    "translation_ar": "سلوكه لا غبار عليه من الناحية المهنيّة.",
+    "level": "C2",
+    "situation": "workplace",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 152,
+    "videoId": null,
+    "transcriptContext": "La sua condotta è ineccepibile sul piano professionale.",
+    "pronunciation": "لا سوا كوندوتّا إيه إينيتشيپيبيليه سول پيانو پروفيسّيوناليه.",
+    "words": [
+      {
+        "w": "ineccepibile",
+        "m_en": "impeccable",
+        "m_ar": "لا غبار عليه"
+      },
+      {
+        "w": "condotta",
+        "m_en": "conduct",
+        "m_ar": "سلوك"
+      }
+    ],
+    "grammar_en": "\"Ineccepibile\" is a formal adjective: nothing to object to.",
+    "grammar_ar": "«ineccepibile» صفة رسميّة: لا يوجد ما يُعترض عليه.",
+    "alternatives": [
+      {
+        "text": "Il suo comportamento è impeccabile sul lavoro.",
+        "note_en": "\"Impeccabile\" = flawless",
+        "note_ar": "«impeccabile» = لا يشوبه عيب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6293,
+    "text": "L'azienda ha optato per una strategia di lungo periodo.",
+    "translation_ar": "اختارت الشركة استراتيجيّة طويلة الأمد.",
+    "level": "C2",
+    "situation": "workplace",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 169,
+    "videoId": null,
+    "transcriptContext": "L'azienda ha optato per una strategia di lungo periodo.",
+    "pronunciation": "لأتسيندا آ أوپتاتو پير أونا ستراتيجيا دي لونغو پيريودو.",
+    "words": [
+      {
+        "w": "optare per",
+        "m_en": "to opt for",
+        "m_ar": "يختار / يفضّل"
+      },
+      {
+        "w": "lungo periodo",
+        "m_en": "long term",
+        "m_ar": "طويل الأمد"
+      }
+    ],
+    "grammar_en": "\"Optare per\" is a formal verb meaning \"to choose\".",
+    "grammar_ar": "«optare per» فعل رسمي بمعنى «يختار».",
+    "alternatives": [
+      {
+        "text": "L'azienda ha scelto una strategia a lungo termine.",
+        "note_en": "\"A lungo termine\"",
+        "note_ar": "«a lungo termine»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6294,
+    "text": "La delegazione ha ribadito la propria disponibilità al dialogo.",
+    "translation_ar": "أكّد الوفد مجدّدًا استعداده للحوار.",
+    "level": "C2",
+    "situation": "meetings",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 186,
+    "videoId": null,
+    "transcriptContext": "La delegazione ha ribadito la propria disponibilità al dialogo.",
+    "pronunciation": "لا ديليغاتسيونيه آ ريباديتو لا پروپريا ديسپونيبيليتا آل ديالوغو.",
+    "words": [
+      {
+        "w": "delegazione",
+        "m_en": "delegation",
+        "m_ar": "وفد"
+      },
+      {
+        "w": "disponibilità",
+        "m_en": "willingness",
+        "m_ar": "استعداد"
+      }
+    ],
+    "grammar_en": "\"La propria\" reinforces the subject's own: \"its own\".",
+    "grammar_ar": "تؤكّد «la propria» ملكيّة الفاعل: «الخاصّ به».",
+    "alternatives": [
+      {
+        "text": "La delegazione si è detta pronta al dialogo.",
+        "note_en": "\"Si è detta pronta\" = declared itself ready",
+        "note_ar": "«si è detta pronta» = أعلنت استعدادها"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6295,
+    "text": "Non si intravede, per ora, una via d'uscita condivisa.",
+    "translation_ar": "لا يلوح حاليًّا مخرج مشترك.",
+    "level": "C2",
+    "situation": "meetings",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 203,
+    "videoId": null,
+    "transcriptContext": "Non si intravede, per ora, una via d'uscita condivisa.",
+    "pronunciation": "نون سي إنتراڤيديه، پير أورا، أونا ڤيا دوشيتا كونديڤيزا.",
+    "words": [
+      {
+        "w": "intravedere",
+        "m_en": "to glimpse",
+        "m_ar": "يلوح / يُلمح"
+      },
+      {
+        "w": "via d'uscita",
+        "m_en": "way out",
+        "m_ar": "مخرج"
+      }
+    ],
+    "grammar_en": "\"Intravedere\" is a formal, slightly literary verb.",
+    "grammar_ar": "«intravedere» فعل رسمي وأدبي قليلًا.",
+    "alternatives": [
+      {
+        "text": "Per ora non si vede una soluzione condivisa.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6296,
+    "text": "La volatilità dei mercati scoraggia gli investimenti a lungo termine.",
+    "translation_ar": "يثبّط تقلّب الأسواق الاستثمارات طويلة الأجل.",
+    "level": "C2",
+    "situation": "finance",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 220,
+    "videoId": null,
+    "transcriptContext": "La volatilità dei mercati scoraggia gli investimenti a lungo termine.",
+    "pronunciation": "لا ڤولاتيليتا ديي ميركاتي سكوراججا غلي إنڤيستيمينتي آ لونغو تيرمينيه.",
+    "words": [
+      {
+        "w": "volatilità",
+        "m_en": "volatility",
+        "m_ar": "تقلّب"
+      },
+      {
+        "w": "scoraggiare",
+        "m_en": "to discourage",
+        "m_ar": "يثبّط"
+      }
+    ],
+    "grammar_en": "\"Scoraggiare\" is the opposite of \"incoraggiare\".",
+    "grammar_ar": "«scoraggiare» عكس «incoraggiare».",
+    "alternatives": [
+      {
+        "text": "L'instabilità dei mercati frena gli investimenti.",
+        "note_en": "\"Frenare\" = to hold back",
+        "note_ar": "«frenare» = يكبح"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6297,
+    "text": "Il fisco ha inasprito i controlli sulle transazioni sospette.",
+    "translation_ar": "شدّدت مصلحة الضرائب الرقابة على المعاملات المشبوهة.",
+    "level": "C2",
+    "situation": "finance",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 237,
+    "videoId": null,
+    "transcriptContext": "Il fisco ha inasprito i controlli sulle transazioni sospette.",
+    "pronunciation": "إل فيسكو آ إيناسپريتو إي كونترولّي سوللّيه ترانزاتسيوني سوسپيتّيه.",
+    "words": [
+      {
+        "w": "inasprire",
+        "m_en": "to tighten",
+        "m_ar": "يشدّد"
+      },
+      {
+        "w": "fisco",
+        "m_en": "tax authority",
+        "m_ar": "مصلحة الضرائب"
+      }
+    ],
+    "grammar_en": "\"Inasprire\" follows \"-isc-\" and often pairs with \"controlli\" or \"pene\".",
+    "grammar_ar": "يتبع «inasprire» نمط «-isc-» ويرافق غالبًا «controlli» و«pene».",
+    "alternatives": [
+      {
+        "text": "Il fisco ha rafforzato i controlli sulle transazioni sospette.",
+        "note_en": "\"Rafforzare\" = to strengthen",
+        "note_ar": "«rafforzare» = يعزّز"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6298,
+    "text": "Non possiamo più permetterci di rimandare la transizione ecologica.",
+    "translation_ar": "لم يعد بإمكاننا تأجيل التحوّل البيئي.",
+    "level": "C2",
+    "situation": "environment",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 14,
+    "videoId": null,
+    "transcriptContext": "Non possiamo più permetterci di rimandare la transizione ecologica.",
+    "pronunciation": "نون پوسّيامو پيو پيرمّيتيرتشي دي ريمانداريه لا ترانزيتسيونيه إيكولوجيكا.",
+    "words": [
+      {
+        "w": "permettersi",
+        "m_en": "to afford",
+        "m_ar": "يتحمّل / يقدر على"
+      },
+      {
+        "w": "transizione",
+        "m_en": "transition",
+        "m_ar": "تحوّل"
+      }
+    ],
+    "grammar_en": "\"Permettersi di\" + infinitive means \"to be able to afford\".",
+    "grammar_ar": "«permettersi di» + المصدر = تحمّل فعل شيء.",
+    "alternatives": [
+      {
+        "text": "Non c'è più tempo per rimandare la transizione ecologica.",
+        "note_en": "\"Non c'è più tempo\"",
+        "note_ar": "«لم يعد هناك وقت»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6299,
+    "text": "L'equilibrio psicofisico dipende anche dalla qualità del riposo.",
+    "translation_ar": "يتوقّف التوازن النفسي والجسدي أيضًا على جودة الراحة.",
+    "level": "C2",
+    "situation": "health",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 31,
+    "videoId": null,
+    "transcriptContext": "L'equilibrio psicofisico dipende anche dalla qualità del riposo.",
+    "pronunciation": "ليكويليبريو پسيكوفيزيكو ديپينديه آنكيه دالّا كواليتا دل ريپوزو.",
+    "words": [
+      {
+        "w": "psicofisico",
+        "m_en": "psychophysical",
+        "m_ar": "نفسي جسدي"
+      },
+      {
+        "w": "riposo",
+        "m_en": "rest",
+        "m_ar": "راحة"
+      }
+    ],
+    "grammar_en": "\"Psicofisico\" combines \"psico-\" (mind) and \"fisico\" (body).",
+    "grammar_ar": "تجمع «psicofisico» «psico-» (النفس) و«fisico» (الجسد).",
+    "alternatives": [
+      {
+        "text": "Anche il riposo influisce sull'equilibrio psicofisico.",
+        "note_en": "\"Influire su\" = to affect",
+        "note_ar": "«influire su» = يؤثّر في"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6300,
+    "text": "L'istruzione dovrebbe formare cittadini critici, non semplici esecutori.",
+    "translation_ar": "ينبغي أن يُكوّن التعليم مواطنين نقديّين لا مجرّد منفّذين.",
+    "level": "C2",
+    "situation": "education",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 48,
+    "videoId": null,
+    "transcriptContext": "L'istruzione dovrebbe formare cittadini critici, non semplici esecutori.",
+    "pronunciation": "ليستروتسيونيه دوڤريبّيه فورماريه تشيتّادّيني كريتيتشي، نون سيمپليتشي إيزيكوتوري.",
+    "words": [
+      {
+        "w": "formare",
+        "m_en": "to form, to train",
+        "m_ar": "يُكوّن"
+      },
+      {
+        "w": "esecutore",
+        "m_en": "executor",
+        "m_ar": "منفّذ"
+      }
+    ],
+    "grammar_en": "\"Dovrebbe\" (conditional of \"dovere\") expresses a recommendation.",
+    "grammar_ar": "«dovrebbe» (شرطي «dovere») تعبّر عن توصية.",
+    "alternatives": [
+      {
+        "text": "La scuola dovrebbe formare persone capaci di pensare.",
+        "note_en": "\"Capaci di pensare\" = able to think",
+        "note_ar": "«قادرة على التفكير»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6301,
+    "text": "Ogni ricorrenza è un pretesto per riscoprire ciò che ci unisce.",
+    "translation_ar": "كلّ مناسبة ذريعة لاكتشاف ما يجمعنا من جديد.",
+    "level": "C2",
+    "situation": "celebrations",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 65,
+    "videoId": null,
+    "transcriptContext": "Ogni ricorrenza è un pretesto per riscoprire ciò che ci unisce.",
+    "pronunciation": "أونّي ريكورّينتسا إيه أون پريتيستو پير ريسكوپريريه تشو كيه تشي أونيشيه.",
+    "words": [
+      {
+        "w": "ricorrenza",
+        "m_en": "anniversary, occasion",
+        "m_ar": "مناسبة"
+      },
+      {
+        "w": "riscoprire",
+        "m_en": "to rediscover",
+        "m_ar": "يعيد اكتشاف"
+      }
+    ],
+    "grammar_en": "\"Ci\" here is the object \"us\": \"ciò che ci unisce\".",
+    "grammar_ar": "«ci» هنا ضمير المفعول «نا»: «ciò che ci unisce».",
+    "alternatives": [
+      {
+        "text": "Ogni festa è un'occasione per ritrovare ciò che ci lega.",
+        "note_en": "\"Ritrovare\" = to find again",
+        "note_ar": "«ritrovare» = يجد من جديد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6302,
+    "text": "Il pluralismo è una conquista fragile, da difendere ogni giorno.",
+    "translation_ar": "التعدّديّة مكسب هشّ ينبغي الدفاع عنه كلّ يوم.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 82,
+    "videoId": null,
+    "transcriptContext": "Il pluralismo è una conquista fragile, da difendere ogni giorno.",
+    "pronunciation": "إل پلوراليزمو إيه أونا كونكويستا فراجيليه، دا ديفينديريه أونّي جورنو.",
+    "words": [
+      {
+        "w": "conquista",
+        "m_en": "achievement",
+        "m_ar": "مكسب"
+      },
+      {
+        "w": "fragile",
+        "m_en": "fragile",
+        "m_ar": "هشّ"
+      }
+    ],
+    "grammar_en": "\"Da difendere\" means \"to be defended\" (da + infinitive).",
+    "grammar_ar": "«da difendere» = «ينبغي الدفاع عنه» (da + المصدر).",
+    "alternatives": [
+      {
+        "text": "Il pluralismo va difeso ogni giorno.",
+        "note_en": "\"Va difeso\" = must be defended",
+        "note_ar": "«va difeso» = يجب الدفاع عنه"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 6303,
+    "text": "Sta a noi decidere che memoria vogliamo lasciare.",
+    "translation_ar": "الأمر متروك لنا لنقرّر أيّ ذاكرة نريد أن نتركها.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 99,
+    "videoId": null,
+    "transcriptContext": "Sta a noi decidere che memoria vogliamo lasciare.",
+    "pronunciation": "ستا آ نوي ديتشيديريه كيه ميموريا ڤوليامو لاشاريه.",
+    "words": [
+      {
+        "w": "stare a",
+        "m_en": "to be up to",
+        "m_ar": "يعود إلى"
+      },
+      {
+        "w": "lasciare",
+        "m_en": "to leave",
+        "m_ar": "يترك"
+      }
+    ],
+    "grammar_en": "\"Sta a noi\" means \"it's up to us\".",
+    "grammar_ar": "«sta a noi» = الأمر متروك لنا.",
+    "alternatives": [
+      {
+        "text": "Spetta a noi scegliere quale memoria lasciare.",
+        "note_en": "\"Spetta a\" = it is up to",
+        "note_ar": "«spetta a» = يعود إلى"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
   }
 ]
