@@ -6737,5 +6737,5254 @@
     ],
     "similar": [],
     "difficulty": 10
+  },
+  {
+    "id": 7188,
+    "text": "Desayuno a las ocho.",
+    "translation_ar": "أتناول الفطور في الثامنة.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 64,
+    "videoId": null,
+    "transcriptContext": "Desayuno a las ocho.",
+    "pronunciation": "ديسايونو آ لاس أوتشو.",
+    "words": [
+      {
+        "w": "desayunar",
+        "m_en": "to have breakfast",
+        "m_ar": "يتناول الفطور"
+      },
+      {
+        "w": "ocho",
+        "m_en": "eight",
+        "m_ar": "ثمانية"
+      }
+    ],
+    "grammar_en": "In Spanish the verb already shows the subject: \"desayuno\" (I have breakfast).",
+    "grammar_ar": "في الإسبانية يدلّ الفعل نفسه على الفاعل: «desayuno» (أتناول الفطور).",
+    "alternatives": [
+      {
+        "text": "Desayuno a las ocho de la mañana.",
+        "note_en": "Adds \"in the morning\"",
+        "note_ar": "تضيف «صباحًا»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7189,
+    "text": "Mi madre es profesora.",
+    "translation_ar": "أمّي معلّمة.",
+    "level": "A1",
+    "situation": "family",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 81,
+    "videoId": null,
+    "transcriptContext": "Mi madre es profesora.",
+    "pronunciation": "مي مادري إس پروفيسورا.",
+    "words": [
+      {
+        "w": "madre",
+        "m_en": "mother",
+        "m_ar": "أمّ"
+      },
+      {
+        "w": "profesora",
+        "m_en": "teacher (fem.)",
+        "m_ar": "معلّمة"
+      }
+    ],
+    "grammar_en": "Professions change with gender: \"profesor\" (masc.), \"profesora\" (fem.).",
+    "grammar_ar": "تتغيّر المهن بحسب الجنس: «profesor» للمذكّر و«profesora» للمؤنّث.",
+    "alternatives": [
+      {
+        "text": "Mi madre trabaja de profesora.",
+        "note_en": "My mother works as a teacher",
+        "note_ar": "أمّي تعمل معلّمة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7190,
+    "text": "Vivo en una casa pequeña.",
+    "translation_ar": "أعيش في منزل صغير.",
+    "level": "A1",
+    "situation": "home",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 98,
+    "videoId": null,
+    "transcriptContext": "Vivo en una casa pequeña.",
+    "pronunciation": "بيبو إن أونا كاسا پيكينيا.",
+    "words": [
+      {
+        "w": "vivir",
+        "m_en": "to live",
+        "m_ar": "يعيش"
+      },
+      {
+        "w": "pequeño",
+        "m_en": "small",
+        "m_ar": "صغير"
+      }
+    ],
+    "grammar_en": "Adjectives usually follow the noun and agree with it: \"casa pequeña\".",
+    "grammar_ar": "تأتي الصفة عادةً بعد الاسم وتتطابق معه: «casa pequeña».",
+    "alternatives": [
+      {
+        "text": "Mi casa es pequeña.",
+        "note_en": "My house is small",
+        "note_ar": "منزلي صغير"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7191,
+    "text": "Quiero una camiseta roja.",
+    "translation_ar": "أريد تيشيرتًا أحمر.",
+    "level": "A1",
+    "situation": "shopping",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 115,
+    "videoId": null,
+    "transcriptContext": "Quiero una camiseta roja.",
+    "pronunciation": "كييرو أونا كاميسيتا روخا.",
+    "words": [
+      {
+        "w": "camiseta",
+        "m_en": "T-shirt",
+        "m_ar": "تيشيرت"
+      },
+      {
+        "w": "rojo",
+        "m_en": "red",
+        "m_ar": "أحمر"
+      }
+    ],
+    "grammar_en": "\"Rojo\" becomes \"roja\" with a feminine noun.",
+    "grammar_ar": "تصير «rojo» «roja» مع اسم مؤنّث.",
+    "alternatives": [
+      {
+        "text": "Busco una camiseta roja.",
+        "note_en": "I'm looking for a red T-shirt",
+        "note_ar": "أبحث عن تيشيرت أحمر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7192,
+    "text": "Quisiera un vaso de agua.",
+    "translation_ar": "أودّ كأس ماء.",
+    "level": "A1",
+    "situation": "restaurant",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 132,
+    "videoId": null,
+    "transcriptContext": "Quisiera un vaso de agua.",
+    "pronunciation": "كيسييرا أون باسو ديه أغوا.",
+    "words": [
+      {
+        "w": "vaso",
+        "m_en": "glass",
+        "m_ar": "كأس"
+      },
+      {
+        "w": "agua",
+        "m_en": "water",
+        "m_ar": "ماء"
+      }
+    ],
+    "grammar_en": "\"Agua\" takes \"el\" in the singular but stays feminine: \"el agua fría\".",
+    "grammar_ar": "تأخذ «agua» أداة «el» في المفرد لكنها مؤنّثة: «el agua fría».",
+    "alternatives": [
+      {
+        "text": "Un vaso de agua, por favor.",
+        "note_en": "A glass of water, please",
+        "note_ar": "كأس ماء من فضلك"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7193,
+    "text": "Tengo fiebre y me siento mal.",
+    "translation_ar": "لديّ حمّى وأشعر بتوعّك.",
+    "level": "A1",
+    "situation": "health",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 149,
+    "videoId": null,
+    "transcriptContext": "Tengo fiebre y me siento mal.",
+    "pronunciation": "تينغو فييبري إي مي سيينتو مال.",
+    "words": [
+      {
+        "w": "fiebre",
+        "m_en": "fever",
+        "m_ar": "حمّى"
+      },
+      {
+        "w": "sentirse",
+        "m_en": "to feel",
+        "m_ar": "يشعر"
+      }
+    ],
+    "grammar_en": "\"Tener\" is used for many symptoms: \"tengo fiebre\".",
+    "grammar_ar": "يُستعمل «tener» مع كثير من الأعراض: «tengo fiebre».",
+    "alternatives": [
+      {
+        "text": "Estoy con fiebre.",
+        "note_en": "I have a fever",
+        "note_ar": "أعاني من حمّى"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7194,
+    "text": "Me gusta nadar en el mar.",
+    "translation_ar": "أحبّ السباحة في البحر.",
+    "level": "A1",
+    "situation": "leisure",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 166,
+    "videoId": null,
+    "transcriptContext": "Me gusta nadar en el mar.",
+    "pronunciation": "مي غوستا نادار إن إل مار.",
+    "words": [
+      {
+        "w": "nadar",
+        "m_en": "to swim",
+        "m_ar": "يسبح"
+      },
+      {
+        "w": "mar",
+        "m_en": "sea",
+        "m_ar": "بحر"
+      }
+    ],
+    "grammar_en": "\"El mar\" is masculine (in poetry also \"la mar\").",
+    "grammar_ar": "«el mar» مذكّر (وفي الشعر «la mar»).",
+    "alternatives": [
+      {
+        "text": "Me encanta nadar.",
+        "note_en": "I love swimming",
+        "note_ar": "أعشق السباحة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7195,
+    "text": "¿Jugamos al tenis este fin de semana?",
+    "translation_ar": "هل نلعب التنس في عطلة نهاية الأسبوع؟",
+    "level": "A1",
+    "situation": "sports",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 183,
+    "videoId": null,
+    "transcriptContext": "¿Jugamos al tenis este fin de semana?",
+    "pronunciation": "خوغاموس آل تينيس إستي فين ديه سيمانا؟",
+    "words": [
+      {
+        "w": "jugar",
+        "m_en": "to play",
+        "m_ar": "يلعب"
+      },
+      {
+        "w": "tenis",
+        "m_en": "tennis",
+        "m_ar": "تنس"
+      }
+    ],
+    "grammar_en": "\"Jugamos\" can be a question (\"shall we play?\") or a statement, depending on tone.",
+    "grammar_ar": "قد تكون «jugamos» سؤالًا («هل نلعب؟») أو خبرًا بحسب نبرة الصوت.",
+    "alternatives": [
+      {
+        "text": "¿Quieres jugar al tenis?",
+        "note_en": "Do you want to play tennis?",
+        "note_ar": "هل تريد لعب التنس؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7196,
+    "text": "En invierno hace mucho frío.",
+    "translation_ar": "في الشتاء يكون الجوّ باردًا جدًّا.",
+    "level": "A1",
+    "situation": "weather",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 200,
+    "videoId": null,
+    "transcriptContext": "En invierno hace mucho frío.",
+    "pronunciation": "إن إنبييرنو آسي موتشو فريو.",
+    "words": [
+      {
+        "w": "invierno",
+        "m_en": "winter",
+        "m_ar": "شتاء"
+      },
+      {
+        "w": "frío",
+        "m_en": "cold",
+        "m_ar": "برد"
+      }
+    ],
+    "grammar_en": "Weather uses \"hacer\": \"hace frío\", \"hace calor\".",
+    "grammar_ar": "يُستعمل «hacer» للطقس: «hace frío» و«hace calor».",
+    "alternatives": [
+      {
+        "text": "En invierno hace bastante frío.",
+        "note_en": "\"Bastante\" = quite",
+        "note_ar": "«bastante» = إلى حدّ كبير"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7197,
+    "text": "Voy al trabajo en autobús.",
+    "translation_ar": "أذهب إلى العمل بالحافلة.",
+    "level": "A1",
+    "situation": "transport",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 217,
+    "videoId": null,
+    "transcriptContext": "Voy al trabajo en autobús.",
+    "pronunciation": "بوي آل تراباخو إن أوتوبوس.",
+    "words": [
+      {
+        "w": "autobús",
+        "m_en": "bus",
+        "m_ar": "حافلة"
+      },
+      {
+        "w": "trabajo",
+        "m_en": "work",
+        "m_ar": "عمل"
+      }
+    ],
+    "grammar_en": "\"En\" + vehicle means \"by\": \"en autobús\".",
+    "grammar_ar": "تعني «en» + وسيلة نقل «بـ»: «en autobús».",
+    "alternatives": [
+      {
+        "text": "Voy en autobús al trabajo.",
+        "note_en": "Different order",
+        "note_ar": "ترتيب مختلف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7198,
+    "text": "¿Dónde está el banco?",
+    "translation_ar": "أين البنك؟",
+    "level": "A1",
+    "situation": "directions",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 234,
+    "videoId": null,
+    "transcriptContext": "¿Dónde está el banco?",
+    "pronunciation": "دوندي إستا إل بانكو؟",
+    "words": [
+      {
+        "w": "dónde",
+        "m_en": "where",
+        "m_ar": "أين"
+      },
+      {
+        "w": "banco",
+        "m_en": "bank",
+        "m_ar": "بنك"
+      }
+    ],
+    "grammar_en": "\"Estar\" is used for location: \"está\".",
+    "grammar_ar": "يُستعمل «estar» للمكان: «está».",
+    "alternatives": [
+      {
+        "text": "¿Dónde queda el banco?",
+        "note_en": "\"Quedar\" = to be located",
+        "note_ar": "«quedar» = يقع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7199,
+    "text": "¿Qué día es hoy?",
+    "translation_ar": "أيّ يوم هو اليوم؟",
+    "level": "A1",
+    "situation": "time",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 11,
+    "videoId": null,
+    "transcriptContext": "¿Qué día es hoy?",
+    "pronunciation": "كيه ديا إس أوي؟",
+    "words": [
+      {
+        "w": "día",
+        "m_en": "day",
+        "m_ar": "يوم"
+      },
+      {
+        "w": "hoy",
+        "m_en": "today",
+        "m_ar": "اليوم"
+      }
+    ],
+    "grammar_en": "\"Día\" ends in \"-a\" but is masculine: \"el día\".",
+    "grammar_ar": "تنتهي «día» بـ«-a» لكنها مذكّرة: «el día».",
+    "alternatives": [
+      {
+        "text": "¿A qué día estamos?",
+        "note_en": "What's the date today?",
+        "note_ar": "ما تاريخ اليوم؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7200,
+    "text": "¿Cuál es tu número de teléfono?",
+    "translation_ar": "ما رقم هاتفك؟",
+    "level": "A1",
+    "situation": "phone-calls",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 28,
+    "videoId": null,
+    "transcriptContext": "¿Cuál es tu número de teléfono?",
+    "pronunciation": "كوال إس تو نوميرو ديه تيليفونو؟",
+    "words": [
+      {
+        "w": "número",
+        "m_en": "number",
+        "m_ar": "رقم"
+      },
+      {
+        "w": "tu",
+        "m_en": "your (informal)",
+        "m_ar": "خاصّتك"
+      }
+    ],
+    "grammar_en": "\"Tu\" (your) has no accent; \"tú\" (you) does.",
+    "grammar_ar": "«tu» (خاصّتك) بلا علامة؛ و«tú» (أنت) بعلامة.",
+    "alternatives": [
+      {
+        "text": "¿Me das tu número?",
+        "note_en": "Can you give me your number?",
+        "note_ar": "هل تعطيني رقمك؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7201,
+    "text": "Tengo un teléfono nuevo.",
+    "translation_ar": "لديّ هاتف جديد.",
+    "level": "A1",
+    "situation": "technology",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 45,
+    "videoId": null,
+    "transcriptContext": "Tengo un teléfono nuevo.",
+    "pronunciation": "تينغو أون تيليفونو نويبو.",
+    "words": [
+      {
+        "w": "nuevo",
+        "m_en": "new",
+        "m_ar": "جديد"
+      },
+      {
+        "w": "teléfono",
+        "m_en": "phone",
+        "m_ar": "هاتف"
+      }
+    ],
+    "grammar_en": "\"Nuevo\" after the noun means \"brand new\"; before it, \"another\".",
+    "grammar_ar": "«nuevo» بعد الاسم تعني «جديد كليًّا»؛ وقبله «آخر / مختلف».",
+    "alternatives": [
+      {
+        "text": "Compré un teléfono nuevo.",
+        "note_en": "I bought a new phone",
+        "note_ar": "اشتريتُ هاتفًا جديدًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7202,
+    "text": "Me he perdido.",
+    "translation_ar": "لقد تُهتُ.",
+    "level": "A1",
+    "situation": "emergency",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 62,
+    "videoId": null,
+    "transcriptContext": "Me he perdido.",
+    "pronunciation": "مي إي پيرديدو.",
+    "words": [
+      {
+        "w": "perderse",
+        "m_en": "to get lost",
+        "m_ar": "يضيع / يتيه"
+      },
+      {
+        "w": "perdido",
+        "m_en": "lost",
+        "m_ar": "ضائع"
+      }
+    ],
+    "grammar_en": "\"Me he perdido\" uses \"haber\" + participle.",
+    "grammar_ar": "تستعمل «me he perdido» «haber» + اسم المفعول.",
+    "alternatives": [
+      {
+        "text": "Estoy perdido.",
+        "note_en": "I'm lost",
+        "note_ar": "أنا تائه"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 7203,
+    "text": "¡Feliz Navidad y próspero año nuevo!",
+    "translation_ar": "عيد ميلاد مجيد وعامًا جديدًا مزدهرًا!",
+    "level": "A1",
+    "situation": "celebrations",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 79,
+    "videoId": null,
+    "transcriptContext": "¡Feliz Navidad y próspero año nuevo!",
+    "pronunciation": "فيليس نابيداد إي پروسپيرو أنيو نويبو!",
+    "words": [
+      {
+        "w": "Navidad",
+        "m_en": "Christmas",
+        "m_ar": "عيد الميلاد"
+      },
+      {
+        "w": "próspero",
+        "m_en": "prosperous",
+        "m_ar": "مزدهر"
+      }
+    ],
+    "grammar_en": "\"Feliz\" does not change for gender: \"feliz Navidad\".",
+    "grammar_ar": "لا تتغيّر «feliz» بحسب الجنس: «feliz Navidad».",
+    "alternatives": [
+      {
+        "text": "¡Felices fiestas!",
+        "note_en": "Happy holidays!",
+        "note_ar": "أعيادًا سعيدة!"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7204,
+    "text": "Estudio español todos los días.",
+    "translation_ar": "أدرس الإسبانية كلّ يوم.",
+    "level": "A1",
+    "situation": "education",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 96,
+    "videoId": null,
+    "transcriptContext": "Estudio español todos los días.",
+    "pronunciation": "إستوديو إسپانيول تودوس لوس دياس.",
+    "words": [
+      {
+        "w": "estudiar",
+        "m_en": "to study",
+        "m_ar": "يدرس"
+      },
+      {
+        "w": "todos los días",
+        "m_en": "every day",
+        "m_ar": "كلّ يوم"
+      }
+    ],
+    "grammar_en": "\"Todos los días\" is plural in Spanish.",
+    "grammar_ar": "«todos los días» بصيغة الجمع في الإسبانية.",
+    "alternatives": [
+      {
+        "text": "Estudio español a diario.",
+        "note_en": "\"A diario\" = daily",
+        "note_ar": "«a diario» = يوميًّا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7205,
+    "text": "Soy profesor de inglés.",
+    "translation_ar": "أنا مدرّس لغة إنجليزية.",
+    "level": "A1",
+    "situation": "career",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 113,
+    "videoId": null,
+    "transcriptContext": "Soy profesor de inglés.",
+    "pronunciation": "سوي پروفيسور ديه إنغليس.",
+    "words": [
+      {
+        "w": "profesor",
+        "m_en": "teacher",
+        "m_ar": "مدرّس"
+      },
+      {
+        "w": "inglés",
+        "m_en": "English",
+        "m_ar": "إنجليزية"
+      }
+    ],
+    "grammar_en": "No article is used with professions after \"ser\": \"soy profesor\".",
+    "grammar_ar": "لا تُستعمل أداة تعريف مع المهن بعد «ser»: «soy profesor».",
+    "alternatives": [
+      {
+        "text": "Enseño inglés.",
+        "note_en": "I teach English",
+        "note_ar": "أدرّس الإنجليزية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7206,
+    "text": "Abre la ventana, por favor.",
+    "translation_ar": "افتح النافذة من فضلك.",
+    "level": "A1",
+    "situation": "home",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 130,
+    "videoId": null,
+    "transcriptContext": "Abre la ventana, por favor.",
+    "pronunciation": "آبري لا بينتانا، پور فابور.",
+    "words": [
+      {
+        "w": "abrir",
+        "m_en": "to open",
+        "m_ar": "يفتح"
+      },
+      {
+        "w": "ventana",
+        "m_en": "window",
+        "m_ar": "نافذة"
+      }
+    ],
+    "grammar_en": "\"Abre\" is the informal (tú) command.",
+    "grammar_ar": "«abre» أمر للمخاطب (tú).",
+    "alternatives": [
+      {
+        "text": "¿Puede abrir la ventana?",
+        "note_en": "More formal question",
+        "note_ar": "سؤال أكثر رسميّة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7207,
+    "text": "Cierra la puerta, por favor.",
+    "translation_ar": "أغلق الباب من فضلك.",
+    "level": "A1",
+    "situation": "home",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 147,
+    "videoId": null,
+    "transcriptContext": "Cierra la puerta, por favor.",
+    "pronunciation": "سييرا لا پويرتا، پور فابور.",
+    "words": [
+      {
+        "w": "cerrar",
+        "m_en": "to close",
+        "m_ar": "يغلق"
+      },
+      {
+        "w": "puerta",
+        "m_en": "door",
+        "m_ar": "باب"
+      }
+    ],
+    "grammar_en": "\"Cerrar\" changes its stem: \"cierra\".",
+    "grammar_ar": "يتغيّر جذع «cerrar»: «cierra».",
+    "alternatives": [
+      {
+        "text": "Cierre la puerta, por favor.",
+        "note_en": "Formal (usted)",
+        "note_ar": "رسمي (usted)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7208,
+    "text": "Siéntese, por favor.",
+    "translation_ar": "تفضّل بالجلوس من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 164,
+    "videoId": null,
+    "transcriptContext": "Siéntese, por favor.",
+    "pronunciation": "سيينتيسي، پور فابور.",
+    "words": [
+      {
+        "w": "sentarse",
+        "m_en": "to sit down",
+        "m_ar": "يجلس"
+      }
+    ],
+    "grammar_en": "The pronoun attaches to the command: \"siéntese\".",
+    "grammar_ar": "يلتصق الضمير بفعل الأمر: «siéntese».",
+    "alternatives": [
+      {
+        "text": "Siéntate, por favor.",
+        "note_en": "Informal (tú)",
+        "note_ar": "غير رسمي (tú)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 7209,
+    "text": "¿Cómo se escribe su nombre?",
+    "translation_ar": "كيف يُكتب اسمك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 181,
+    "videoId": null,
+    "transcriptContext": "¿Cómo se escribe su nombre?",
+    "pronunciation": "كومو سي إسكريبي سو نومبري؟",
+    "words": [
+      {
+        "w": "escribir",
+        "m_en": "to write",
+        "m_ar": "يكتب"
+      },
+      {
+        "w": "nombre",
+        "m_en": "name",
+        "m_ar": "اسم"
+      }
+    ],
+    "grammar_en": "\"Se escribe\" is an impersonal passive: \"how is it written\".",
+    "grammar_ar": "«se escribe» مبني للمجهول: «كيف يُكتب».",
+    "alternatives": [
+      {
+        "text": "¿Puede deletrear su nombre?",
+        "note_en": "Can you spell your name?",
+        "note_ar": "هل يمكنك تهجئة اسمك؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7210,
+    "text": "Camino por el parque todos los días.",
+    "translation_ar": "أمشي في الحديقة كلّ يوم.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 198,
+    "videoId": null,
+    "transcriptContext": "Camino por el parque todos los días.",
+    "pronunciation": "كامينو پور إل پاركي تودوس لوس دياس.",
+    "words": [
+      {
+        "w": "caminar",
+        "m_en": "to walk",
+        "m_ar": "يمشي"
+      },
+      {
+        "w": "parque",
+        "m_en": "park",
+        "m_ar": "حديقة"
+      }
+    ],
+    "grammar_en": "\"Por\" + place means \"through / around\".",
+    "grammar_ar": "تعني «por» + مكان «عبر / في أنحاء».",
+    "alternatives": [
+      {
+        "text": "Paseo por el parque a diario.",
+        "note_en": "\"Pasear\" = to stroll",
+        "note_ar": "«pasear» = يتنزّه"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7211,
+    "text": "¿Qué me recomienda?",
+    "translation_ar": "ماذا تنصحني؟",
+    "level": "A1",
+    "situation": "restaurant",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 215,
+    "videoId": null,
+    "transcriptContext": "¿Qué me recomienda?",
+    "pronunciation": "كيه مي ريكوميندا؟",
+    "words": [
+      {
+        "w": "recomendar",
+        "m_en": "to recommend",
+        "m_ar": "ينصح"
+      },
+      {
+        "w": "qué",
+        "m_en": "what",
+        "m_ar": "ماذا"
+      }
+    ],
+    "grammar_en": "The formal \"you\" (usted) takes the third-person verb: \"recomienda\".",
+    "grammar_ar": "يُخاطَب المفرد باحترام (usted) بصيغة الغائب: «recomienda».",
+    "alternatives": [
+      {
+        "text": "¿Qué me aconseja?",
+        "note_en": "What do you advise?",
+        "note_ar": "بماذا تنصحني؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 7212,
+    "text": "¿Tiene una habitación libre?",
+    "translation_ar": "هل لديكم غرفة شاغرة؟",
+    "level": "A1",
+    "situation": "hotel",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 232,
+    "videoId": null,
+    "transcriptContext": "¿Tiene una habitación libre?",
+    "pronunciation": "تييني أونا أبيتاسيون ليبري؟",
+    "words": [
+      {
+        "w": "libre",
+        "m_en": "free, vacant",
+        "m_ar": "شاغر"
+      },
+      {
+        "w": "habitación",
+        "m_en": "room",
+        "m_ar": "غرفة"
+      }
+    ],
+    "grammar_en": "\"Libre\" is the same for masculine and feminine.",
+    "grammar_ar": "«libre» بصيغة واحدة للمذكّر والمؤنّث.",
+    "alternatives": [
+      {
+        "text": "¿Hay habitaciones disponibles?",
+        "note_en": "Are there rooms available?",
+        "note_ar": "هل توجد غرف متاحة؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7213,
+    "text": "Quiero devolver este producto.",
+    "translation_ar": "أريد إرجاع هذا المنتج.",
+    "level": "A2",
+    "situation": "returns",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 9,
+    "videoId": null,
+    "transcriptContext": "Quiero devolver este producto.",
+    "pronunciation": "كييرو ديبولبير إستي پروديكتو.",
+    "words": [
+      {
+        "w": "devolver",
+        "m_en": "to return",
+        "m_ar": "يُرجع"
+      },
+      {
+        "w": "producto",
+        "m_en": "product",
+        "m_ar": "منتج"
+      }
+    ],
+    "grammar_en": "\"Devolver\" is a stem-changing verb: \"devuelvo\".",
+    "grammar_ar": "«devolver» فعل يتغيّر جذعه: «devuelvo».",
+    "alternatives": [
+      {
+        "text": "Quisiera devolver este artículo.",
+        "note_en": "More polite",
+        "note_ar": "أكثر تهذيبًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7214,
+    "text": "¿Puedo cambiarlo por otra talla?",
+    "translation_ar": "هل يمكنني استبداله بمقاس آخر؟",
+    "level": "A2",
+    "situation": "returns",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 26,
+    "videoId": null,
+    "transcriptContext": "¿Puedo cambiarlo por otra talla?",
+    "pronunciation": "پويدو كامبيارلو پور أوترا تاييا؟",
+    "words": [
+      {
+        "w": "cambiar",
+        "m_en": "to exchange",
+        "m_ar": "يستبدل"
+      },
+      {
+        "w": "talla",
+        "m_en": "size",
+        "m_ar": "مقاس"
+      }
+    ],
+    "grammar_en": "\"-lo\" attaches to the infinitive: \"cambiarlo\".",
+    "grammar_ar": "يلتصق الضمير «-lo» بالمصدر: «cambiarlo».",
+    "alternatives": [
+      {
+        "text": "¿Me lo pueden cambiar por otra talla?",
+        "note_en": "Can you exchange it for me?",
+        "note_ar": "هل يمكنكم استبداله لي؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7215,
+    "text": "Subo fotos a mi perfil todas las semanas.",
+    "translation_ar": "أنشر صورًا على ملفّي الشخصي كلّ أسبوع.",
+    "level": "A2",
+    "situation": "social-media",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 43,
+    "videoId": null,
+    "transcriptContext": "Subo fotos a mi perfil todas las semanas.",
+    "pronunciation": "سوبو فوتوس آ مي پيرفيل تودوس لاس سيماناس.",
+    "words": [
+      {
+        "w": "subir",
+        "m_en": "to upload",
+        "m_ar": "يرفع"
+      },
+      {
+        "w": "perfil",
+        "m_en": "profile",
+        "m_ar": "ملفّ شخصي"
+      }
+    ],
+    "grammar_en": "\"Todas las semanas\" means \"every week\".",
+    "grammar_ar": "تعني «todas las semanas» «كلّ أسبوع».",
+    "alternatives": [
+      {
+        "text": "Publico fotos en mi perfil cada semana.",
+        "note_en": "\"Publicar\" = to post",
+        "note_ar": "«publicar» = ينشر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7216,
+    "text": "Te envío un mensaje por el chat.",
+    "translation_ar": "سأرسل لك رسالة عبر الدردشة.",
+    "level": "A2",
+    "situation": "social-media",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 60,
+    "videoId": null,
+    "transcriptContext": "Te envío un mensaje por el chat.",
+    "pronunciation": "تي إنبيو أون مينساخي پور إل تشات.",
+    "words": [
+      {
+        "w": "mensaje",
+        "m_en": "message",
+        "m_ar": "رسالة"
+      },
+      {
+        "w": "enviar",
+        "m_en": "to send",
+        "m_ar": "يرسل"
+      }
+    ],
+    "grammar_en": "The present tense often expresses a near future: \"te envío\".",
+    "grammar_ar": "يعبّر المضارع غالبًا عن مستقبل قريب: «te envío».",
+    "alternatives": [
+      {
+        "text": "Te mando un mensaje por el chat.",
+        "note_en": "\"Mandar\" = to send",
+        "note_ar": "«mandar» = يرسل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7217,
+    "text": "Hay un parque cerca de mi casa.",
+    "translation_ar": "توجد حديقة قرب منزلي.",
+    "level": "A2",
+    "situation": "community",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 77,
+    "videoId": null,
+    "transcriptContext": "Hay un parque cerca de mi casa.",
+    "pronunciation": "آي أون پاركي سيركا ديه مي كاسا.",
+    "words": [
+      {
+        "w": "parque",
+        "m_en": "park",
+        "m_ar": "حديقة"
+      },
+      {
+        "w": "cerca de",
+        "m_en": "near",
+        "m_ar": "قرب"
+      }
+    ],
+    "grammar_en": "\"Hay\" is used to say that something exists.",
+    "grammar_ar": "تُستعمل «hay» للتعبير عن وجود شيء.",
+    "alternatives": [
+      {
+        "text": "Cerca de mi casa hay un parque.",
+        "note_en": "Different order",
+        "note_ar": "ترتيب مختلف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7218,
+    "text": "La fiesta es el sábado por la noche.",
+    "translation_ar": "الحفلة يوم السبت مساءً.",
+    "level": "A2",
+    "situation": "events",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 94,
+    "videoId": null,
+    "transcriptContext": "La fiesta es el sábado por la noche.",
+    "pronunciation": "لا فييستا إس إل سابادو پور لا نوتشي.",
+    "words": [
+      {
+        "w": "fiesta",
+        "m_en": "party",
+        "m_ar": "حفلة"
+      },
+      {
+        "w": "por la noche",
+        "m_en": "at night",
+        "m_ar": "مساءً / ليلًا"
+      }
+    ],
+    "grammar_en": "\"Ser\" is used for the time and place of events: \"es el sábado\".",
+    "grammar_ar": "يُستعمل «ser» لزمان الأحداث ومكانها: «es el sábado».",
+    "alternatives": [
+      {
+        "text": "La fiesta será el sábado por la noche.",
+        "note_en": "Future: \"will be\"",
+        "note_ar": "بالمستقبل: «ستكون»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7219,
+    "text": "Tengo cita con el dentista mañana.",
+    "translation_ar": "لديّ موعد مع طبيب الأسنان غدًا.",
+    "level": "A2",
+    "situation": "appointments",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 111,
+    "videoId": null,
+    "transcriptContext": "Tengo cita con el dentista mañana.",
+    "pronunciation": "تينغو سيتا كون إل دينتيستا مانيانا.",
+    "words": [
+      {
+        "w": "cita",
+        "m_en": "appointment",
+        "m_ar": "موعد"
+      },
+      {
+        "w": "dentista",
+        "m_en": "dentist",
+        "m_ar": "طبيب أسنان"
+      }
+    ],
+    "grammar_en": "\"Dentista\" is the same for masculine and feminine: \"el/la dentista\".",
+    "grammar_ar": "«dentista» بصيغة واحدة للمذكّر والمؤنّث: «el/la dentista».",
+    "alternatives": [
+      {
+        "text": "Mañana tengo cita con el dentista.",
+        "note_en": "Time first",
+        "note_ar": "الزمن أوّلًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7220,
+    "text": "Necesito cambiar euros por dólares.",
+    "translation_ar": "أحتاج إلى صرف يورو مقابل دولار.",
+    "level": "A2",
+    "situation": "banking",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 128,
+    "videoId": null,
+    "transcriptContext": "Necesito cambiar euros por dólares.",
+    "pronunciation": "نيسيسيتو كامبيار إيوروس پور دولاريس.",
+    "words": [
+      {
+        "w": "cambiar",
+        "m_en": "to exchange",
+        "m_ar": "يصرف"
+      },
+      {
+        "w": "dólar",
+        "m_en": "dollar",
+        "m_ar": "دولار"
+      }
+    ],
+    "grammar_en": "\"Cambiar X por Y\" means \"to exchange X for Y\".",
+    "grammar_ar": "«cambiar X por Y» = صرف X مقابل Y.",
+    "alternatives": [
+      {
+        "text": "¿Dónde puedo cambiar dinero?",
+        "note_en": "Where can I change money?",
+        "note_ar": "أين يمكنني صرف النقود؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7221,
+    "text": "¿El desayuno está incluido en el precio?",
+    "translation_ar": "هل الفطور مشمول في السعر؟",
+    "level": "A2",
+    "situation": "hotel",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 145,
+    "videoId": null,
+    "transcriptContext": "¿El desayuno está incluido en el precio?",
+    "pronunciation": "إل ديسايونو إستا إنكلويدو إن إل پريسيو؟",
+    "words": [
+      {
+        "w": "incluido",
+        "m_en": "included",
+        "m_ar": "مشمول"
+      },
+      {
+        "w": "precio",
+        "m_en": "price",
+        "m_ar": "سعر"
+      }
+    ],
+    "grammar_en": "\"Estar incluido\" describes a state: \"está incluido\".",
+    "grammar_ar": "يصف «estar incluido» حالة: «está incluido».",
+    "alternatives": [
+      {
+        "text": "¿Incluye el precio el desayuno?",
+        "note_en": "Does the price include breakfast?",
+        "note_ar": "هل يشمل السعر الفطور؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7222,
+    "text": "Mi vuelo sale a las seis de la mañana.",
+    "translation_ar": "تقلع رحلتي في السادسة صباحًا.",
+    "level": "A2",
+    "situation": "airport",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 162,
+    "videoId": null,
+    "transcriptContext": "Mi vuelo sale a las seis de la mañana.",
+    "pronunciation": "مي بويلو سالي آ لاس سييس ديه لا مانيانا.",
+    "words": [
+      {
+        "w": "vuelo",
+        "m_en": "flight",
+        "m_ar": "رحلة جوّية"
+      },
+      {
+        "w": "mañana",
+        "m_en": "morning",
+        "m_ar": "صباح"
+      }
+    ],
+    "grammar_en": "\"De la mañana\" is used with clock times for morning hours.",
+    "grammar_ar": "تُستعمل «de la mañana» مع الساعات الصباحيّة.",
+    "alternatives": [
+      {
+        "text": "Mi vuelo despega a las seis de la mañana.",
+        "note_en": "\"Despegar\" = to take off",
+        "note_ar": "«despegar» = يقلع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 7223,
+    "text": "Quiero visitar Barcelona este verano.",
+    "translation_ar": "أريد زيارة برشلونة هذا الصيف.",
+    "level": "A2",
+    "situation": "travel",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 179,
+    "videoId": null,
+    "transcriptContext": "Quiero visitar Barcelona este verano.",
+    "pronunciation": "كييرو بيسيتار بارسيلونا إستي بيرانو.",
+    "words": [
+      {
+        "w": "visitar",
+        "m_en": "to visit",
+        "m_ar": "يزور"
+      },
+      {
+        "w": "verano",
+        "m_en": "summer",
+        "m_ar": "صيف"
+      }
+    ],
+    "grammar_en": "\"Querer\" + infinitive expresses a wish.",
+    "grammar_ar": "يعبّر «querer» + المصدر عن رغبة.",
+    "alternatives": [
+      {
+        "text": "Me gustaría visitar Barcelona este verano.",
+        "note_en": "More polite",
+        "note_ar": "أكثر تهذيبًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7224,
+    "text": "¿Este autobús va al centro?",
+    "translation_ar": "هل تذهب هذه الحافلة إلى وسط المدينة؟",
+    "level": "A2",
+    "situation": "transport",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 196,
+    "videoId": null,
+    "transcriptContext": "¿Este autobús va al centro?",
+    "pronunciation": "إستي أوتوبوس با آل سينترو؟",
+    "words": [
+      {
+        "w": "ir",
+        "m_en": "to go",
+        "m_ar": "يذهب"
+      },
+      {
+        "w": "centro",
+        "m_en": "city centre",
+        "m_ar": "وسط المدينة"
+      }
+    ],
+    "grammar_en": "\"Ir\" is irregular: \"voy\", \"vas\", \"va\".",
+    "grammar_ar": "«ir» شاذّ: «voy» و«vas» و«va».",
+    "alternatives": [
+      {
+        "text": "¿Este autobús pasa por el centro?",
+        "note_en": "Does this bus pass through the centre?",
+        "note_ar": "هل تمرّ هذه الحافلة بالوسط؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7225,
+    "text": "Cruce la calle y siga hasta la esquina.",
+    "translation_ar": "اعبر الشارع وتابع حتى الزاوية.",
+    "level": "A2",
+    "situation": "directions",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 213,
+    "videoId": null,
+    "transcriptContext": "Cruce la calle y siga hasta la esquina.",
+    "pronunciation": "كروسي لا كاييي إي سيغا أستا لا إسكينا.",
+    "words": [
+      {
+        "w": "cruzar",
+        "m_en": "to cross",
+        "m_ar": "يعبر"
+      },
+      {
+        "w": "esquina",
+        "m_en": "corner",
+        "m_ar": "زاوية"
+      }
+    ],
+    "grammar_en": "The formal command \"cruce\" uses \"c\" instead of \"z\".",
+    "grammar_ar": "يحلّ حرف «c» محلّ «z» في أمر «usted»: «cruce».",
+    "alternatives": [
+      {
+        "text": "Cruza la calle y sigue hasta la esquina.",
+        "note_en": "Informal (tú)",
+        "note_ar": "غير رسمي (tú)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7226,
+    "text": "Necesito una receta para este medicamento.",
+    "translation_ar": "أحتاج إلى وصفة طبّية لهذا الدواء.",
+    "level": "A2",
+    "situation": "health",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 230,
+    "videoId": null,
+    "transcriptContext": "Necesito una receta para este medicamento.",
+    "pronunciation": "نيسيسيتو أونا ريسيتا پارا إستي ميديكامينتو.",
+    "words": [
+      {
+        "w": "receta",
+        "m_en": "prescription",
+        "m_ar": "وصفة طبّية"
+      },
+      {
+        "w": "medicamento",
+        "m_en": "medicine",
+        "m_ar": "دواء"
+      }
+    ],
+    "grammar_en": "\"Receta\" means both \"prescription\" and \"recipe\".",
+    "grammar_ar": "تعني «receta» «وصفة طبّية» و«وصفة طعام».",
+    "alternatives": [
+      {
+        "text": "¿Puede darme una receta?",
+        "note_en": "Can you give me a prescription?",
+        "note_ar": "هل يمكنك إعطائي وصفة طبّية؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7227,
+    "text": "Para mí, una ensalada y agua sin gas.",
+    "translation_ar": "لي سلطة وماء بلا غاز.",
+    "level": "A2",
+    "situation": "restaurant",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 7,
+    "videoId": null,
+    "transcriptContext": "Para mí, una ensalada y agua sin gas.",
+    "pronunciation": "پارا مي، أونا إنسالادا إي أغوا سين غاس.",
+    "words": [
+      {
+        "w": "ensalada",
+        "m_en": "salad",
+        "m_ar": "سلطة"
+      },
+      {
+        "w": "sin gas",
+        "m_en": "still (no bubbles)",
+        "m_ar": "بلا غاز"
+      }
+    ],
+    "grammar_en": "\"Para mí\" is used when ordering: \"for me\".",
+    "grammar_ar": "تُستعمل «para mí» عند الطلب: «لي».",
+    "alternatives": [
+      {
+        "text": "Yo tomaré una ensalada y agua.",
+        "note_en": "\"Tomaré\" = I'll have",
+        "note_ar": "«tomaré» = سآخذ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7228,
+    "text": "Estas zapatillas son muy cómodas.",
+    "translation_ar": "هذه الأحذية الرياضيّة مريحة جدًّا.",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 24,
+    "videoId": null,
+    "transcriptContext": "Estas zapatillas son muy cómodas.",
+    "pronunciation": "إستاس ساپاتيّاس سون موي كومودس.",
+    "words": [
+      {
+        "w": "zapatillas",
+        "m_en": "sneakers",
+        "m_ar": "أحذية رياضيّة"
+      },
+      {
+        "w": "cómodo",
+        "m_en": "comfortable",
+        "m_ar": "مريح"
+      }
+    ],
+    "grammar_en": "\"Estas\" (these) agrees with the feminine plural \"zapatillas\".",
+    "grammar_ar": "تتطابق «estas» مع المؤنّث الجمع «zapatillas».",
+    "alternatives": [
+      {
+        "text": "Me encantan estas zapatillas, son comodísimas.",
+        "note_en": "\"Comodísimas\" = extremely comfortable",
+        "note_ar": "«comodísimas» = مريحة للغاية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7229,
+    "text": "¿Aceptan tarjeta de crédito?",
+    "translation_ar": "هل تقبلون بطاقة الائتمان؟",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 41,
+    "videoId": null,
+    "transcriptContext": "¿Aceptan tarjeta de crédito?",
+    "pronunciation": "أسيپتان تارخيتا ديه كريديتو؟",
+    "words": [
+      {
+        "w": "aceptar",
+        "m_en": "to accept",
+        "m_ar": "يقبل"
+      },
+      {
+        "w": "tarjeta",
+        "m_en": "card",
+        "m_ar": "بطاقة"
+      }
+    ],
+    "grammar_en": "\"Aceptan\" is a plural form that asks about the shop in general.",
+    "grammar_ar": "«aceptan» بصيغة الجمع: تسأل عن المتجر عمومًا.",
+    "alternatives": [
+      {
+        "text": "¿Puedo pagar con tarjeta?",
+        "note_en": "Can I pay by card?",
+        "note_ar": "هل يمكنني الدفع بالبطاقة؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7230,
+    "text": "Esta semana tengo mucho trabajo.",
+    "translation_ar": "لديّ عمل كثير هذا الأسبوع.",
+    "level": "A2",
+    "situation": "workplace",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 58,
+    "videoId": null,
+    "transcriptContext": "Esta semana tengo mucho trabajo.",
+    "pronunciation": "إستا سيمانا تينغو موتشو تراباخو.",
+    "words": [
+      {
+        "w": "semana",
+        "m_en": "week",
+        "m_ar": "أسبوع"
+      },
+      {
+        "w": "mucho",
+        "m_en": "a lot of",
+        "m_ar": "كثير"
+      }
+    ],
+    "grammar_en": "\"Mucho\" agrees with the noun; \"trabajo\" is masculine and uncountable.",
+    "grammar_ar": "تتطابق «mucho» مع الاسم؛ و«trabajo» مذكّر غير معدود.",
+    "alternatives": [
+      {
+        "text": "Esta semana estoy muy ocupado.",
+        "note_en": "I'm very busy this week",
+        "note_ar": "أنا مشغول جدًّا هذا الأسبوع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7231,
+    "text": "Llevo un mes buscando trabajo.",
+    "translation_ar": "أبحث عن عمل منذ شهر.",
+    "level": "A2",
+    "situation": "career",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 75,
+    "videoId": null,
+    "transcriptContext": "Llevo un mes buscando trabajo.",
+    "pronunciation": "ييبو أون ميس بوسكاندو تراباخو.",
+    "words": [
+      {
+        "w": "buscar",
+        "m_en": "to look for",
+        "m_ar": "يبحث عن"
+      },
+      {
+        "w": "mes",
+        "m_en": "month",
+        "m_ar": "شهر"
+      }
+    ],
+    "grammar_en": "\"Llevar\" + time + gerund describes an action still in progress.",
+    "grammar_ar": "تصف «llevar» + مدّة + gerundio فعلًا ما زال جاريًا.",
+    "alternatives": [
+      {
+        "text": "Hace un mes que busco trabajo.",
+        "note_en": "\"Hace... que\"",
+        "note_ar": "«hace... que»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7232,
+    "text": "Mi profesor explica muy bien.",
+    "translation_ar": "يشرح أستاذي بشكل ممتاز.",
+    "level": "A2",
+    "situation": "education",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 92,
+    "videoId": null,
+    "transcriptContext": "Mi profesor explica muy bien.",
+    "pronunciation": "مي پروفيسور إكسپليكا موي بيين.",
+    "words": [
+      {
+        "w": "explicar",
+        "m_en": "to explain",
+        "m_ar": "يشرح"
+      },
+      {
+        "w": "bien",
+        "m_en": "well",
+        "m_ar": "جيّدًا"
+      }
+    ],
+    "grammar_en": "\"Bien\" is an adverb and never changes; \"bueno\" is an adjective.",
+    "grammar_ar": "«bien» ظرف لا يتغيّر؛ و«bueno» صفة.",
+    "alternatives": [
+      {
+        "text": "Mi profesor es muy claro.",
+        "note_en": "My teacher is very clear",
+        "note_ar": "أستاذي واضح جدًّا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7233,
+    "text": "Los fines de semana salgo con mis amigos.",
+    "translation_ar": "في عطلات نهاية الأسبوع أخرج مع أصدقائي.",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 109,
+    "videoId": null,
+    "transcriptContext": "Los fines de semana salgo con mis amigos.",
+    "pronunciation": "لوس فينيس ديه سيمانا سالغو كون ميس أميغوس.",
+    "words": [
+      {
+        "w": "salir",
+        "m_en": "to go out",
+        "m_ar": "يخرج"
+      },
+      {
+        "w": "amigo",
+        "m_en": "friend",
+        "m_ar": "صديق"
+      }
+    ],
+    "grammar_en": "\"Salgo\" is irregular in the first person.",
+    "grammar_ar": "«salgo» شاذّ في المتكلّم.",
+    "alternatives": [
+      {
+        "text": "Suelo salir con mis amigos los fines de semana.",
+        "note_en": "\"Soler\" = to usually",
+        "note_ar": "«soler» = يعتاد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7234,
+    "text": "Mi equipo favorito ganó ayer.",
+    "translation_ar": "فاز فريقي المفضّل أمس.",
+    "level": "A2",
+    "situation": "sports",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 126,
+    "videoId": null,
+    "transcriptContext": "Mi equipo favorito ganó ayer.",
+    "pronunciation": "مي إكيپو فابوريتو غانو أيير.",
+    "words": [
+      {
+        "w": "ganar",
+        "m_en": "to win",
+        "m_ar": "يفوز"
+      },
+      {
+        "w": "favorito",
+        "m_en": "favourite",
+        "m_ar": "مفضّل"
+      }
+    ],
+    "grammar_en": "\"Ganó\" is the preterite (finished past): \"he won\".",
+    "grammar_ar": "«ganó» في الماضي البسيط (فعل منتهٍ).",
+    "alternatives": [
+      {
+        "text": "Ayer ganó mi equipo favorito.",
+        "note_en": "Different order",
+        "note_ar": "ترتيب مختلف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7235,
+    "text": "Esta noche va a nevar en la montaña.",
+    "translation_ar": "ستثلج الليلة في الجبل.",
+    "level": "A2",
+    "situation": "weather",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 143,
+    "videoId": null,
+    "transcriptContext": "Esta noche va a nevar en la montaña.",
+    "pronunciation": "إستا نوتشي با آ نيبار إن لا مونتانيا.",
+    "words": [
+      {
+        "w": "nevar",
+        "m_en": "to snow",
+        "m_ar": "يثلج"
+      },
+      {
+        "w": "montaña",
+        "m_en": "mountain",
+        "m_ar": "جبل"
+      }
+    ],
+    "grammar_en": "\"Ir a\" + infinitive expresses the near future.",
+    "grammar_ar": "«ir a» + المصدر يعبّر عن المستقبل القريب.",
+    "alternatives": [
+      {
+        "text": "Esta noche nevará en la montaña.",
+        "note_en": "Simple future",
+        "note_ar": "المستقبل البسيط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7236,
+    "text": "Mis primos viven en otra ciudad.",
+    "translation_ar": "أبناء عمومتي يعيشون في مدينة أخرى.",
+    "level": "A2",
+    "situation": "family",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 160,
+    "videoId": null,
+    "transcriptContext": "Mis primos viven en otra ciudad.",
+    "pronunciation": "ميس پريموس بيبين إن أوترا سيوداد.",
+    "words": [
+      {
+        "w": "primo",
+        "m_en": "cousin",
+        "m_ar": "ابن العمّ / الخال"
+      },
+      {
+        "w": "ciudad",
+        "m_en": "city",
+        "m_ar": "مدينة"
+      }
+    ],
+    "grammar_en": "\"Primos\" can mean male cousins or cousins in general.",
+    "grammar_ar": "قد تعني «primos» أبناء العمومة الذكور أو الأقارب عمومًا.",
+    "alternatives": [
+      {
+        "text": "Mis primos viven lejos de aquí.",
+        "note_en": "My cousins live far from here",
+        "note_ar": "أقاربي يعيشون بعيدًا من هنا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7237,
+    "text": "Añade una pizca de sal.",
+    "translation_ar": "أضف رشّة ملح.",
+    "level": "A2",
+    "situation": "cooking",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 177,
+    "videoId": null,
+    "transcriptContext": "Añade una pizca de sal.",
+    "pronunciation": "أنيادي أونا پيسكا ديه سال.",
+    "words": [
+      {
+        "w": "añadir",
+        "m_en": "to add",
+        "m_ar": "يضيف"
+      },
+      {
+        "w": "pizca",
+        "m_en": "pinch",
+        "m_ar": "رشّة"
+      }
+    ],
+    "grammar_en": "\"Añade\" is the informal command of \"añadir\".",
+    "grammar_ar": "«añade» أمر للمخاطب من «añadir».",
+    "alternatives": [
+      {
+        "text": "Agrega un poco de sal.",
+        "note_en": "\"Agregar\" = to add",
+        "note_ar": "«agregar» = يضيف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7238,
+    "text": "¿Puedes enviarme el archivo por correo?",
+    "translation_ar": "هل يمكنك إرسال الملف إليّ بالبريد؟",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 194,
+    "videoId": null,
+    "transcriptContext": "¿Puedes enviarme el archivo por correo?",
+    "pronunciation": "پويديس إنبيارمي إل أرتشيبو پور كوريو؟",
+    "words": [
+      {
+        "w": "archivo",
+        "m_en": "file",
+        "m_ar": "ملف"
+      },
+      {
+        "w": "correo",
+        "m_en": "mail",
+        "m_ar": "بريد"
+      }
+    ],
+    "grammar_en": "\"Enviarme\" = \"enviar\" + \"me\" (to me).",
+    "grammar_ar": "«enviarme» = «enviar» + «me» بمعنى «إليّ».",
+    "alternatives": [
+      {
+        "text": "¿Me mandas el archivo por correo?",
+        "note_en": "Simpler",
+        "note_ar": "أبسط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7239,
+    "text": "¿Dónde puedo pagar?",
+    "translation_ar": "أين يمكنني الدفع؟",
+    "level": "A2",
+    "situation": "customer-help",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 211,
+    "videoId": null,
+    "transcriptContext": "¿Dónde puedo pagar?",
+    "pronunciation": "دوندي پويدو پاغار؟",
+    "words": [
+      {
+        "w": "pagar",
+        "m_en": "to pay",
+        "m_ar": "يدفع"
+      },
+      {
+        "w": "poder",
+        "m_en": "can",
+        "m_ar": "يستطيع"
+      }
+    ],
+    "grammar_en": "\"Poder\" is a stem-changing verb: \"puedo\".",
+    "grammar_ar": "«poder» فعل يتغيّر جذعه: «puedo».",
+    "alternatives": [
+      {
+        "text": "¿Dónde está la caja?",
+        "note_en": "Where is the checkout?",
+        "note_ar": "أين الصندوق؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 7240,
+    "text": "Me he perdido; ¿me puede ayudar, por favor?",
+    "translation_ar": "لقد تُهتُ؛ هل يمكنك مساعدتي من فضلك؟",
+    "level": "A2",
+    "situation": "emergency",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 228,
+    "videoId": null,
+    "transcriptContext": "Me he perdido; ¿me puede ayudar, por favor?",
+    "pronunciation": "مي إي پيرديدو؛ مي پويدي أيودار، پور فابور؟",
+    "words": [
+      {
+        "w": "ayudar",
+        "m_en": "to help",
+        "m_ar": "يساعد"
+      },
+      {
+        "w": "perderse",
+        "m_en": "to get lost",
+        "m_ar": "يضيع"
+      }
+    ],
+    "grammar_en": "In \"me puede ayudar\" the pronoun goes before the conjugated verb.",
+    "grammar_ar": "في «me puede ayudar» يأتي الضمير قبل الفعل المصرَّف.",
+    "alternatives": [
+      {
+        "text": "¿Puede ayudarme, por favor?",
+        "note_en": "Pronoun attached",
+        "note_ar": "بالضمير الملتصق"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7241,
+    "text": "Nos vemos en la fiesta de Nochevieja.",
+    "translation_ar": "نلتقي في حفلة رأس السنة.",
+    "level": "A2",
+    "situation": "celebrations",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 5,
+    "videoId": null,
+    "transcriptContext": "Nos vemos en la fiesta de Nochevieja.",
+    "pronunciation": "نوس بيموس إن لا فييستا ديه نوتشيبييخا.",
+    "words": [
+      {
+        "w": "Nochevieja",
+        "m_en": "New Year's Eve",
+        "m_ar": "ليلة رأس السنة"
+      },
+      {
+        "w": "vernos",
+        "m_en": "to see each other",
+        "m_ar": "يرى بعضهم بعضًا"
+      }
+    ],
+    "grammar_en": "\"Nos vemos\" is a common way to say \"see you\".",
+    "grammar_ar": "«nos vemos» طريقة شائعة لقول «إلى اللقاء».",
+    "alternatives": [
+      {
+        "text": "¡Nos vemos en Nochevieja!",
+        "note_en": "See you on New Year's Eve!",
+        "note_ar": "نلتقي ليلة رأس السنة!"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7242,
+    "text": "La tienda abre a las nueve y cierra a las ocho.",
+    "translation_ar": "يفتح المتجر في التاسعة ويغلق في الثامنة.",
+    "level": "A2",
+    "situation": "time",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 22,
+    "videoId": null,
+    "transcriptContext": "La tienda abre a las nueve y cierra a las ocho.",
+    "pronunciation": "لا تيندا آبري آ لاس نويبي إي سييرا آ لاس أوتشو.",
+    "words": [
+      {
+        "w": "abrir",
+        "m_en": "to open",
+        "m_ar": "يفتح"
+      },
+      {
+        "w": "cerrar",
+        "m_en": "to close",
+        "m_ar": "يغلق"
+      }
+    ],
+    "grammar_en": "\"Abre\" and \"cierra\" are third-person present forms.",
+    "grammar_ar": "«abre» و«cierra» بصيغة الغائب في المضارع.",
+    "alternatives": [
+      {
+        "text": "La tienda está abierta de nueve a ocho.",
+        "note_en": "\"Abierta\" = open",
+        "note_ar": "«abierta» = مفتوحة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 7243,
+    "text": "El producto llegó dañado y quiero un reembolso.",
+    "translation_ar": "وصل المنتج تالفًا وأريد استرداد المبلغ.",
+    "level": "B1",
+    "situation": "returns",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 39,
+    "videoId": null,
+    "transcriptContext": "El producto llegó dañado y quiero un reembolso.",
+    "pronunciation": "إل پروديكتو ييغو دانيادو إي كييرو أون ريإمبولسو.",
+    "words": [
+      {
+        "w": "dañado",
+        "m_en": "damaged",
+        "m_ar": "تالف"
+      },
+      {
+        "w": "reembolso",
+        "m_en": "refund",
+        "m_ar": "استرداد"
+      }
+    ],
+    "grammar_en": "\"Llegó\" is the preterite of \"llegar\" (accent on the last vowel).",
+    "grammar_ar": "«llegó» الماضي البسيط من «llegar» (العلامة على الحرف الأخير).",
+    "alternatives": [
+      {
+        "text": "Me llegó roto y pido que me devuelvan el dinero.",
+        "note_en": "It arrived broken",
+        "note_ar": "وصلني مكسورًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 7244,
+    "text": "Sigo a muchos creadores de contenido en las redes.",
+    "translation_ar": "أتابع كثيرًا من صنّاع المحتوى على الشبكات.",
+    "level": "B1",
+    "situation": "social-media",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 56,
+    "videoId": null,
+    "transcriptContext": "Sigo a muchos creadores de contenido en las redes.",
+    "pronunciation": "سيغو آ موتشوس كريادوريس ديه كونتينيدو إن لاس ريديس.",
+    "words": [
+      {
+        "w": "seguir",
+        "m_en": "to follow",
+        "m_ar": "يتابع"
+      },
+      {
+        "w": "contenido",
+        "m_en": "content",
+        "m_ar": "محتوى"
+      }
+    ],
+    "grammar_en": "\"Seguir a\" takes the personal \"a\" before people.",
+    "grammar_ar": "يأخذ «seguir a» حرف «a» الشخصي قبل الأشخاص.",
+    "alternatives": [
+      {
+        "text": "Sigo a bastantes creadores en internet.",
+        "note_en": "\"Bastantes\" = quite a few",
+        "note_ar": "«bastantes» = عدد لا بأس به"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 7245,
+    "text": "¿Podemos aplazar la reunión hasta el jueves?",
+    "translation_ar": "هل يمكننا تأجيل الاجتماع حتى الخميس؟",
+    "level": "B1",
+    "situation": "workplace",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 73,
+    "videoId": null,
+    "transcriptContext": "¿Podemos aplazar la reunión hasta el jueves?",
+    "pronunciation": "پوديموس أپلاسار لا ريونيون أستا إل خويبيس؟",
+    "words": [
+      {
+        "w": "aplazar",
+        "m_en": "to postpone",
+        "m_ar": "يؤجّل"
+      },
+      {
+        "w": "reunión",
+        "m_en": "meeting",
+        "m_ar": "اجتماع"
+      }
+    ],
+    "grammar_en": "\"Hasta\" + day means \"until\": \"hasta el jueves\".",
+    "grammar_ar": "«hasta» + يوم = «حتى»: «hasta el jueves».",
+    "alternatives": [
+      {
+        "text": "¿Podemos pasar la reunión al jueves?",
+        "note_en": "\"Pasar a\" = to move to",
+        "note_ar": "«pasar a» = ينقل إلى"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 7246,
+    "text": "Quisiera presentar una queja formal.",
+    "translation_ar": "أودّ تقديم شكوى رسميّة.",
+    "level": "B1",
+    "situation": "customer-service",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 90,
+    "videoId": null,
+    "transcriptContext": "Quisiera presentar una queja formal.",
+    "pronunciation": "كيسييرا پريسينتار أونا كيخا فورمال.",
+    "words": [
+      {
+        "w": "queja",
+        "m_en": "complaint",
+        "m_ar": "شكوى"
+      },
+      {
+        "w": "presentar",
+        "m_en": "to submit",
+        "m_ar": "يقدّم"
+      }
+    ],
+    "grammar_en": "\"Presentar una queja\" is a fixed expression.",
+    "grammar_ar": "«presentar una queja» تعبير ثابت.",
+    "alternatives": [
+      {
+        "text": "Quiero poner una queja.",
+        "note_en": "I want to make a complaint",
+        "note_ar": "أريد تقديم شكوى"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7247,
+    "text": "No me llega el correo de confirmación.",
+    "translation_ar": "لا يصلني بريد التأكيد.",
+    "level": "B1",
+    "situation": "technical-support",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 107,
+    "videoId": null,
+    "transcriptContext": "No me llega el correo de confirmación.",
+    "pronunciation": "نو مي ييغا إل كوريو ديه كونفيرماسيون.",
+    "words": [
+      {
+        "w": "llegar",
+        "m_en": "to arrive",
+        "m_ar": "يصل"
+      },
+      {
+        "w": "confirmación",
+        "m_en": "confirmation",
+        "m_ar": "تأكيد"
+      }
+    ],
+    "grammar_en": "\"Me llega\" shows who receives it: \"it arrives to me\".",
+    "grammar_ar": "تبيّن «me llega» من يستلم: «يصل إليّ».",
+    "alternatives": [
+      {
+        "text": "No he recibido el correo de confirmación.",
+        "note_en": "I haven't received the confirmation email",
+        "note_ar": "لم أستلم بريد التأكيد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 7248,
+    "text": "Me han dado cita con el especialista.",
+    "translation_ar": "حجزوا لي موعدًا مع الأخصّائي.",
+    "level": "B1",
+    "situation": "health",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 124,
+    "videoId": null,
+    "transcriptContext": "Me han dado cita con el especialista.",
+    "pronunciation": "مي آن دادو سيتا كون إل إسپيسياليستا.",
+    "words": [
+      {
+        "w": "especialista",
+        "m_en": "specialist",
+        "m_ar": "أخصّائي"
+      },
+      {
+        "w": "dar cita",
+        "m_en": "to give an appointment",
+        "m_ar": "يمنح موعدًا"
+      }
+    ],
+    "grammar_en": "\"Me han dado\" uses an unspecified \"they\".",
+    "grammar_ar": "تستعمل «me han dado» فاعلًا غير محدّد «هم».",
+    "alternatives": [
+      {
+        "text": "Ya tengo cita con el especialista.",
+        "note_en": "I already have an appointment with the specialist",
+        "note_ar": "لديّ موعد مع الأخصّائي بالفعل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 7249,
+    "text": "Perdimos la conexión por diez minutos.",
+    "translation_ar": "فاتتنا رحلة الربط بعشر دقائق.",
+    "level": "B1",
+    "situation": "travel",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 141,
+    "videoId": null,
+    "transcriptContext": "Perdimos la conexión por diez minutos.",
+    "pronunciation": "پيرديموس لا كونيكسيون پور دييس مينوتوس.",
+    "words": [
+      {
+        "w": "perder",
+        "m_en": "to miss, to lose",
+        "m_ar": "يفوّت"
+      },
+      {
+        "w": "conexión",
+        "m_en": "connection",
+        "m_ar": "رحلة ربط"
+      }
+    ],
+    "grammar_en": "\"Perder\" also means \"to miss\" a transport connection.",
+    "grammar_ar": "يعني «perder» أيضًا «يفوّت» وسيلة نقل.",
+    "alternatives": [
+      {
+        "text": "Se nos escapó la conexión por diez minutos.",
+        "note_en": "\"Se nos escapó\" = it slipped away from us",
+        "note_ar": "«se nos escapó» = أفلتت منّا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7250,
+    "text": "¿Podría dejar mi equipaje aquí hasta la tarde?",
+    "translation_ar": "هل يمكنني ترك أمتعتي هنا حتى العصر؟",
+    "level": "B1",
+    "situation": "hotel",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 158,
+    "videoId": null,
+    "transcriptContext": "¿Podría dejar mi equipaje aquí hasta la tarde?",
+    "pronunciation": "پودريا ديخار مي إكيپاخي أكي أستا لا تاردي؟",
+    "words": [
+      {
+        "w": "equipaje",
+        "m_en": "luggage",
+        "m_ar": "أمتعة"
+      },
+      {
+        "w": "tarde",
+        "m_en": "afternoon",
+        "m_ar": "بعد الظهر"
+      }
+    ],
+    "grammar_en": "\"Podría\" (conditional) is a polite request form.",
+    "grammar_ar": "«podría» (شرطي) صيغة طلب مهذّبة.",
+    "alternatives": [
+      {
+        "text": "¿Pueden guardarme el equipaje hasta la tarde?",
+        "note_en": "Can you keep my luggage?",
+        "note_ar": "هل يمكنكم حفظ أمتعتي؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 7251,
+    "text": "Intento reducir el consumo de plástico.",
+    "translation_ar": "أحاول تقليل استهلاك البلاستيك.",
+    "level": "B1",
+    "situation": "environment",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 175,
+    "videoId": null,
+    "transcriptContext": "Intento reducir el consumo de plástico.",
+    "pronunciation": "إنتينتو ريدوسير إل كونسومو ديه پلاستيكو.",
+    "words": [
+      {
+        "w": "intentar",
+        "m_en": "to try",
+        "m_ar": "يحاول"
+      },
+      {
+        "w": "consumo",
+        "m_en": "consumption",
+        "m_ar": "استهلاك"
+      }
+    ],
+    "grammar_en": "\"Intentar\" + infinitive means \"to try to\".",
+    "grammar_ar": "«intentar» + المصدر = «يحاول أن».",
+    "alternatives": [
+      {
+        "text": "Trato de usar menos plástico.",
+        "note_en": "\"Tratar de\" = to try to",
+        "note_ar": "«tratar de» = يحاول"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7252,
+    "text": "Me estoy entrenando para una carrera de diez kilómetros.",
+    "translation_ar": "أتدرّب لسباق عشرة كيلومترات.",
+    "level": "B1",
+    "situation": "sports",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 192,
+    "videoId": null,
+    "transcriptContext": "Me estoy entrenando para una carrera de diez kilómetros.",
+    "pronunciation": "مي إستوي إنتريناندو پارا أونا كاريرا ديه دييس كيلومتروس.",
+    "words": [
+      {
+        "w": "entrenarse",
+        "m_en": "to train",
+        "m_ar": "يتدرّب"
+      },
+      {
+        "w": "carrera",
+        "m_en": "race",
+        "m_ar": "سباق"
+      }
+    ],
+    "grammar_en": "\"Estar\" + gerund expresses an action in progress.",
+    "grammar_ar": "«estar» + gerundio يعبّر عن فعل جارٍ.",
+    "alternatives": [
+      {
+        "text": "Entreno para una carrera de diez kilómetros.",
+        "note_en": "Simple present",
+        "note_ar": "المضارع البسيط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 7253,
+    "text": "Deja hervir el agua antes de añadir la pasta.",
+    "translation_ar": "اترك الماء يغلي قبل إضافة المعكرونة.",
+    "level": "B1",
+    "situation": "cooking",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 209,
+    "videoId": null,
+    "transcriptContext": "Deja hervir el agua antes de añadir la pasta.",
+    "pronunciation": "ديخا إربير إل أغوا أنتيس ديه أنيادير لا پاستا.",
+    "words": [
+      {
+        "w": "hervir",
+        "m_en": "to boil",
+        "m_ar": "يغلي"
+      },
+      {
+        "w": "añadir",
+        "m_en": "to add",
+        "m_ar": "يضيف"
+      }
+    ],
+    "grammar_en": "\"Antes de\" + infinitive means \"before doing\".",
+    "grammar_ar": "«antes de» + المصدر = «قبل القيام بـ».",
+    "alternatives": [
+      {
+        "text": "Espera a que hierva el agua para echar la pasta.",
+        "note_en": "\"Hierva\" (subjunctive)",
+        "note_ar": "«hierva» (subjuntivo)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 7254,
+    "text": "Cuando era pequeño, pasábamos el verano en la playa.",
+    "translation_ar": "حين كنتُ صغيرًا كنّا نقضي الصيف على الشاطئ.",
+    "level": "B1",
+    "situation": "family",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 226,
+    "videoId": null,
+    "transcriptContext": "Cuando era pequeño, pasábamos el verano en la playa.",
+    "pronunciation": "كواندو إيرا پيكينيو، پاساباموس إل بيرانو إن لا پلايا.",
+    "words": [
+      {
+        "w": "pasábamos",
+        "m_en": "we used to spend",
+        "m_ar": "كنّا نقضي"
+      },
+      {
+        "w": "playa",
+        "m_en": "beach",
+        "m_ar": "شاطئ"
+      }
+    ],
+    "grammar_en": "The imperfect (\"era\", \"pasábamos\") describes past habits.",
+    "grammar_ar": "يصف الماضي الناقص («era» و«pasábamos») العادات في الماضي.",
+    "alternatives": [
+      {
+        "text": "De niño pasaba los veranos en la playa.",
+        "note_en": "\"As a child, I spent summers...\"",
+        "note_ar": "«في طفولتي كنتُ أقضي الصيف...»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 7255,
+    "text": "Me he matriculado en un curso en línea.",
+    "translation_ar": "سجّلتُ في دورة عبر الإنترنت.",
+    "level": "B1",
+    "situation": "education",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 3,
+    "videoId": null,
+    "transcriptContext": "Me he matriculado en un curso en línea.",
+    "pronunciation": "مي إي ماتريكولادو إن أون كورسو إن لينيا.",
+    "words": [
+      {
+        "w": "matricularse",
+        "m_en": "to enrol",
+        "m_ar": "يسجّل"
+      },
+      {
+        "w": "en línea",
+        "m_en": "online",
+        "m_ar": "عبر الإنترنت"
+      }
+    ],
+    "grammar_en": "\"Matricularse en\" takes the preposition \"en\".",
+    "grammar_ar": "يأخذ «matricularse en» حرف الجرّ «en».",
+    "alternatives": [
+      {
+        "text": "Me he apuntado a un curso por internet.",
+        "note_en": "\"Apuntarse a\" = to sign up for",
+        "note_ar": "«apuntarse a» = يسجّل في"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 7256,
+    "text": "Estoy pensando en comprar un piso.",
+    "translation_ar": "أفكّر في شراء شقّة.",
+    "level": "B1",
+    "situation": "real-estate",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 20,
+    "videoId": null,
+    "transcriptContext": "Estoy pensando en comprar un piso.",
+    "pronunciation": "إستوي پينساندو إن كومپرار أون پيسو.",
+    "words": [
+      {
+        "w": "comprar",
+        "m_en": "to buy",
+        "m_ar": "يشتري"
+      },
+      {
+        "w": "pensar en",
+        "m_en": "to think about",
+        "m_ar": "يفكّر في"
+      }
+    ],
+    "grammar_en": "\"Pensar en\" + infinitive means \"to consider doing\".",
+    "grammar_ar": "«pensar en» + المصدر = «يفكّر في القيام بـ».",
+    "alternatives": [
+      {
+        "text": "Me planteo comprar un piso.",
+        "note_en": "\"Plantearse\" = to consider seriously",
+        "note_ar": "«plantearse» = يفكّر جدّيًّا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 7257,
+    "text": "Intento llevar un control de mis gastos.",
+    "translation_ar": "أحاول مراقبة نفقاتي.",
+    "level": "B1",
+    "situation": "finance",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 37,
+    "videoId": null,
+    "transcriptContext": "Intento llevar un control de mis gastos.",
+    "pronunciation": "إنتينتو ييبار أون كونترول ديه ميس غاستوس.",
+    "words": [
+      {
+        "w": "gasto",
+        "m_en": "expense",
+        "m_ar": "نفقة"
+      },
+      {
+        "w": "control",
+        "m_en": "tracking",
+        "m_ar": "مراقبة"
+      }
+    ],
+    "grammar_en": "\"Llevar un control\" means \"to keep track\".",
+    "grammar_ar": "تعني «llevar un control» «مراقبة / متابعة».",
+    "alternatives": [
+      {
+        "text": "Trato de controlar mis gastos.",
+        "note_en": "\"Controlar\" = to keep in check",
+        "note_ar": "«controlar»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 7258,
+    "text": "Según la política de devoluciones, dispone de treinta días.",
+    "translation_ar": "وفق سياسة الإرجاع لديك ثلاثون يومًا.",
+    "level": "B2",
+    "situation": "returns",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 54,
+    "videoId": null,
+    "transcriptContext": "Según la política de devoluciones, dispone de treinta días.",
+    "pronunciation": "سيغون لا پوليتيكا ديه ديبولوسيونيس، ديسپوني ديه تريينتا دياس.",
+    "words": [
+      {
+        "w": "devolución",
+        "m_en": "return",
+        "m_ar": "إرجاع"
+      },
+      {
+        "w": "disponer de",
+        "m_en": "to have available",
+        "m_ar": "يملك / لديه"
+      }
+    ],
+    "grammar_en": "\"Disponer de\" takes the preposition \"de\".",
+    "grammar_ar": "يأخذ «disponer de» حرف الجرّ «de».",
+    "alternatives": [
+      {
+        "text": "Tiene treinta días para devolverlo.",
+        "note_en": "You have thirty days to return it",
+        "note_ar": "لديك ثلاثون يومًا لإرجاعه"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7259,
+    "text": "Las redes sociales influyen en la forma de consumir noticias.",
+    "translation_ar": "تؤثّر وسائل التواصل في طريقة استهلاك الأخبار.",
+    "level": "B2",
+    "situation": "social-media",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 71,
+    "videoId": null,
+    "transcriptContext": "Las redes sociales influyen en la forma de consumir noticias.",
+    "pronunciation": "لاس ريديس سوسياليس إنفلويين إن لا فورما ديه كونسوميير نوتيسياس.",
+    "words": [
+      {
+        "w": "influir en",
+        "m_en": "to influence",
+        "m_ar": "يؤثّر في"
+      },
+      {
+        "w": "noticias",
+        "m_en": "news",
+        "m_ar": "أخبار"
+      }
+    ],
+    "grammar_en": "\"Noticias\" is plural in Spanish: \"las noticias\".",
+    "grammar_ar": "«noticias» جمع في الإسبانية: «las noticias».",
+    "alternatives": [
+      {
+        "text": "Las redes sociales cambian cómo nos informamos.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7260,
+    "text": "Quisiera subrayar la importancia de cumplir los plazos.",
+    "translation_ar": "أودّ التأكيد على أهمّيّة الالتزام بالمواعيد النهائيّة.",
+    "level": "B2",
+    "situation": "meetings",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 88,
+    "videoId": null,
+    "transcriptContext": "Quisiera subrayar la importancia de cumplir los plazos.",
+    "pronunciation": "كيسييرا سوبرايار لا إمپورتانسيا ديه كومپلير لوس پلاسوس.",
+    "words": [
+      {
+        "w": "subrayar",
+        "m_en": "to underline",
+        "m_ar": "يشدّد على"
+      },
+      {
+        "w": "cumplir",
+        "m_en": "to meet, to fulfil",
+        "m_ar": "يلتزم بـ"
+      }
+    ],
+    "grammar_en": "With \"plazos\", \"cumplir\" takes a direct object (or \"con\").",
+    "grammar_ar": "مع «plazos» يأخذ «cumplir» مفعولًا مباشرًا (أو «con»).",
+    "alternatives": [
+      {
+        "text": "Conviene recalcar la importancia de los plazos.",
+        "note_en": "\"Recalcar\" = to stress",
+        "note_ar": "«recalcar» = يشدّد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7261,
+    "text": "No comparto del todo su planteamiento.",
+    "translation_ar": "لا أشاطركم تمامًا طرحكم.",
+    "level": "B2",
+    "situation": "meetings",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 105,
+    "videoId": null,
+    "transcriptContext": "No comparto del todo su planteamiento.",
+    "pronunciation": "نو كومپارتو ديل تودو سو پلانتياميينتو.",
+    "words": [
+      {
+        "w": "compartir",
+        "m_en": "to share",
+        "m_ar": "يشاطر"
+      },
+      {
+        "w": "planteamiento",
+        "m_en": "approach",
+        "m_ar": "طرح"
+      }
+    ],
+    "grammar_en": "\"No... del todo\" softens a disagreement.",
+    "grammar_ar": "تلطّف «no... del todo» الاعتراض.",
+    "alternatives": [
+      {
+        "text": "Tengo algunas reservas sobre su enfoque.",
+        "note_en": "I have some reservations",
+        "note_ar": "لديّ بعض التحفّظات"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7262,
+    "text": "El equipo ha superado los objetivos del trimestre.",
+    "translation_ar": "تجاوز الفريق أهداف الربع.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 122,
+    "videoId": null,
+    "transcriptContext": "El equipo ha superado los objetivos del trimestre.",
+    "pronunciation": "إل إكيپو آ سوپيرادو لوس أوبخيتيبوس ديل تريميستري.",
+    "words": [
+      {
+        "w": "superar",
+        "m_en": "to exceed",
+        "m_ar": "يتجاوز"
+      },
+      {
+        "w": "trimestre",
+        "m_en": "quarter",
+        "m_ar": "ربع سنة"
+      }
+    ],
+    "grammar_en": "\"Superar\" takes a direct object: \"superar los objetivos\".",
+    "grammar_ar": "يأخذ «superar» مفعولًا به مباشرًا: «superar los objetivos».",
+    "alternatives": [
+      {
+        "text": "El equipo ha cumplido con creces los objetivos.",
+        "note_en": "\"Con creces\" = and then some",
+        "note_ar": "«con creces» = وأكثر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7263,
+    "text": "He adquirido una amplia experiencia en el sector.",
+    "translation_ar": "اكتسبتُ خبرة واسعة في القطاع.",
+    "level": "B2",
+    "situation": "career",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 139,
+    "videoId": null,
+    "transcriptContext": "He adquirido una amplia experiencia en el sector.",
+    "pronunciation": "إي أدكيريدو أونا أمپليا إكسپيريينسيا إن إل سيكتور.",
+    "words": [
+      {
+        "w": "adquirir",
+        "m_en": "to acquire",
+        "m_ar": "يكتسب"
+      },
+      {
+        "w": "amplio",
+        "m_en": "broad",
+        "m_ar": "واسع"
+      }
+    ],
+    "grammar_en": "\"Adquirir\" is irregular: \"adquiero\", \"adquirido\".",
+    "grammar_ar": "«adquirir» شاذّ: «adquiero» و«adquirido».",
+    "alternatives": [
+      {
+        "text": "Tengo una amplia trayectoria en el sector.",
+        "note_en": "\"Trayectoria\" = track record",
+        "note_ar": "«trayectoria» = مسيرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7264,
+    "text": "Lamentamos que no haya quedado satisfecho con el servicio.",
+    "translation_ar": "نأسف لأنّكم لم تكونوا راضين عن الخدمة.",
+    "level": "B2",
+    "situation": "customer-service",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 156,
+    "videoId": null,
+    "transcriptContext": "Lamentamos que no haya quedado satisfecho con el servicio.",
+    "pronunciation": "لامينتاموس كيه نو آيا كيدادو ساتيسفيتشو كون إل سيربيسيو.",
+    "words": [
+      {
+        "w": "lamentar",
+        "m_en": "to regret",
+        "m_ar": "يأسف"
+      },
+      {
+        "w": "satisfecho",
+        "m_en": "satisfied",
+        "m_ar": "راضٍ"
+      }
+    ],
+    "grammar_en": "\"Lamentar que\" takes the subjunctive: \"haya quedado\".",
+    "grammar_ar": "يأخذ «lamentar que» subjuntivo: «haya quedado».",
+    "alternatives": [
+      {
+        "text": "Sentimos que no esté satisfecho con el servicio.",
+        "note_en": "Simpler",
+        "note_ar": "أبسط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7265,
+    "text": "Es posible que el fallo sea del programa.",
+    "translation_ar": "من المحتمل أن يكون العطل في البرنامج.",
+    "level": "B2",
+    "situation": "technical-support",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 173,
+    "videoId": null,
+    "transcriptContext": "Es posible que el fallo sea del programa.",
+    "pronunciation": "إس پوسيبلي كيه إل فايو سيا ديل پروغراما.",
+    "words": [
+      {
+        "w": "fallo",
+        "m_en": "fault",
+        "m_ar": "عطل"
+      },
+      {
+        "w": "programa",
+        "m_en": "program",
+        "m_ar": "برنامج"
+      }
+    ],
+    "grammar_en": "\"Es posible que\" always takes the subjunctive: \"sea\".",
+    "grammar_ar": "يأخذ «es posible que» دائمًا subjuntivo: «sea».",
+    "alternatives": [
+      {
+        "text": "Puede que el fallo esté en el programa.",
+        "note_en": "\"Puede que\" + subjunctive",
+        "note_ar": "«puede que» + subjuntivo"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7266,
+    "text": "Puedo ofrecerle un descuento si cierra el pedido hoy.",
+    "translation_ar": "يمكنني أن أعرض عليك خصمًا إذا أنهيتَ الطلب اليوم.",
+    "level": "B2",
+    "situation": "support",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 190,
+    "videoId": null,
+    "transcriptContext": "Puedo ofrecerle un descuento si cierra el pedido hoy.",
+    "pronunciation": "پويدو أوفريسيرلي أون ديسكوينتو سي سييرا إل پيديدو أوي.",
+    "words": [
+      {
+        "w": "ofrecer",
+        "m_en": "to offer",
+        "m_ar": "يعرض"
+      },
+      {
+        "w": "pedido",
+        "m_en": "order",
+        "m_ar": "طلب"
+      }
+    ],
+    "grammar_en": "\"Ofrecerle\" = \"ofrecer\" + \"le\" (to you, formal).",
+    "grammar_ar": "«ofrecerle» = «ofrecer» + «le» (لك، رسمي).",
+    "alternatives": [
+      {
+        "text": "Si cierra el pedido hoy, le hacemos un descuento.",
+        "note_en": "Reordered",
+        "note_ar": "بترتيب آخر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7267,
+    "text": "El tipo de interés es variable y depende del mercado.",
+    "translation_ar": "سعر الفائدة متغيّر ويتوقّف على السوق.",
+    "level": "B2",
+    "situation": "finance",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 207,
+    "videoId": null,
+    "transcriptContext": "El tipo de interés es variable y depende del mercado.",
+    "pronunciation": "إل تيپو ديه إنتيريس إس باريابلي إي ديپيندي ديل ميركادو.",
+    "words": [
+      {
+        "w": "tipo de interés",
+        "m_en": "interest rate",
+        "m_ar": "سعر الفائدة"
+      },
+      {
+        "w": "variable",
+        "m_en": "variable",
+        "m_ar": "متغيّر"
+      }
+    ],
+    "grammar_en": "\"Depender de\" takes the preposition \"de\".",
+    "grammar_ar": "يأخذ «depender de» حرف الجرّ «de».",
+    "alternatives": [
+      {
+        "text": "La tasa cambia según el mercado.",
+        "note_en": "\"Tasa\" is common in Latin America",
+        "note_ar": "«tasa» شائعة في أمريكا اللاتينيّة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7268,
+    "text": "Solicité una hipoteca a tipo fijo.",
+    "translation_ar": "تقدّمتُ بطلب قرض عقاري بفائدة ثابتة.",
+    "level": "B2",
+    "situation": "banking",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 224,
+    "videoId": null,
+    "transcriptContext": "Solicité una hipoteca a tipo fijo.",
+    "pronunciation": "سوليسيتي أونا إپوتيكا آ تيپو فيخو.",
+    "words": [
+      {
+        "w": "hipoteca",
+        "m_en": "mortgage",
+        "m_ar": "قرض عقاري"
+      },
+      {
+        "w": "fijo",
+        "m_en": "fixed",
+        "m_ar": "ثابت"
+      }
+    ],
+    "grammar_en": "\"Solicité\" is the first-person preterite of \"solicitar\".",
+    "grammar_ar": "«solicité» الماضي البسيط من «solicitar» (المتكلّم).",
+    "alternatives": [
+      {
+        "text": "Pedí una hipoteca con interés fijo.",
+        "note_en": "\"Pedir\" = to ask for",
+        "note_ar": "«pedir» = يطلب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7269,
+    "text": "Antes de firmar, conviene que lea detenidamente el contrato.",
+    "translation_ar": "قبل التوقيع يُستحسن أن تقرأ العقد بتمعّن.",
+    "level": "B2",
+    "situation": "real-estate",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 1,
+    "videoId": null,
+    "transcriptContext": "Antes de firmar, conviene que lea detenidamente el contrato.",
+    "pronunciation": "أنتيس ديه فيرمار، كونبييني كيه ليا ديتينيدامينتي إل كونتراتو.",
+    "words": [
+      {
+        "w": "firmar",
+        "m_en": "to sign",
+        "m_ar": "يوقّع"
+      },
+      {
+        "w": "detenidamente",
+        "m_en": "carefully",
+        "m_ar": "بتمعّن"
+      }
+    ],
+    "grammar_en": "\"Conviene que\" takes the subjunctive: \"lea\".",
+    "grammar_ar": "يأخذ «conviene que» subjuntivo: «lea».",
+    "alternatives": [
+      {
+        "text": "Lea con atención el contrato antes de firmarlo.",
+        "note_en": "\"Lea\" = formal command",
+        "note_ar": "«lea» = أمر رسمي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7270,
+    "text": "El embarque se cerrará veinte minutos antes de la salida.",
+    "translation_ar": "سيُغلق الصعود إلى الطائرة قبل الإقلاع بعشرين دقيقة.",
+    "level": "B2",
+    "situation": "airport",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 18,
+    "videoId": null,
+    "transcriptContext": "El embarque se cerrará veinte minutos antes de la salida.",
+    "pronunciation": "إل إمباركي سي سيرارا بيينتي مينوتوس أنتيس ديه لا ساليدا.",
+    "words": [
+      {
+        "w": "embarque",
+        "m_en": "boarding",
+        "m_ar": "صعود إلى الطائرة"
+      },
+      {
+        "w": "salida",
+        "m_en": "departure",
+        "m_ar": "إقلاع"
+      }
+    ],
+    "grammar_en": "In \"se cerrará\", the reflexive \"se\" + future gives a passive meaning.",
+    "grammar_ar": "في «se cerrará» تعطي «se» + المستقبل معنى المبني للمجهول.",
+    "alternatives": [
+      {
+        "text": "Cerrarán el embarque veinte minutos antes.",
+        "note_en": "Active voice",
+        "note_ar": "صيغة الفاعل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7271,
+    "text": "Nos comprometemos a confirmar su reserva por escrito.",
+    "translation_ar": "نتعهّد بتأكيد حجزكم كتابةً.",
+    "level": "B2",
+    "situation": "hotel",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 35,
+    "videoId": null,
+    "transcriptContext": "Nos comprometemos a confirmar su reserva por escrito.",
+    "pronunciation": "نوس كومپروميتيموس آ كونفيرمار سو ريسيربا پور إسكريتو.",
+    "words": [
+      {
+        "w": "por escrito",
+        "m_en": "in writing",
+        "m_ar": "كتابةً"
+      },
+      {
+        "w": "reserva",
+        "m_en": "booking",
+        "m_ar": "حجز"
+      }
+    ],
+    "grammar_en": "\"Comprometerse a\" + infinitive.",
+    "grammar_ar": "«comprometerse a» + المصدر.",
+    "alternatives": [
+      {
+        "text": "Le confirmaremos la reserva por escrito.",
+        "note_en": "We'll confirm your booking in writing",
+        "note_ar": "سنؤكّد لكم الحجز كتابةً"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7272,
+    "text": "El médico me ha recetado unos análisis de sangre.",
+    "translation_ar": "وصف لي الطبيب بعض تحاليل الدم.",
+    "level": "B2",
+    "situation": "health",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 52,
+    "videoId": null,
+    "transcriptContext": "El médico me ha recetado unos análisis de sangre.",
+    "pronunciation": "إل ميديكو مي آ ريسيتادو أونوس أناليسيس ديه سانغري.",
+    "words": [
+      {
+        "w": "recetar",
+        "m_en": "to prescribe",
+        "m_ar": "يصف (علاجًا)"
+      },
+      {
+        "w": "análisis",
+        "m_en": "test",
+        "m_ar": "تحليل"
+      }
+    ],
+    "grammar_en": "\"Análisis\" has the same form in singular and plural.",
+    "grammar_ar": "«análisis» بصيغة واحدة للمفرد والجمع.",
+    "alternatives": [
+      {
+        "text": "Me han mandado hacer unos análisis de sangre.",
+        "note_en": "I was sent for blood tests",
+        "note_ar": "طُلب منّي إجراء تحاليل دم"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7273,
+    "text": "Aprobé el examen con muy buena nota.",
+    "translation_ar": "نجحتُ في الامتحان بدرجة جيّدة جدًّا.",
+    "level": "B2",
+    "situation": "education",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 69,
+    "videoId": null,
+    "transcriptContext": "Aprobé el examen con muy buena nota.",
+    "pronunciation": "أپروبي إل إكسامين كون موي بوينا نوتا.",
+    "words": [
+      {
+        "w": "aprobar",
+        "m_en": "to pass",
+        "m_ar": "ينجح"
+      },
+      {
+        "w": "nota",
+        "m_en": "grade",
+        "m_ar": "درجة"
+      }
+    ],
+    "grammar_en": "\"Aprobar\" is a stem-changing verb: \"apruebo\".",
+    "grammar_ar": "«aprobar» فعل يتغيّر جذعه: «apruebo».",
+    "alternatives": [
+      {
+        "text": "Saqué muy buena nota en el examen.",
+        "note_en": "\"Sacar buena nota\" = to get a good grade",
+        "note_ar": "«sacar buena nota» = الحصول على درجة جيّدة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7274,
+    "text": "El mercado laboral exige cada vez más formación.",
+    "translation_ar": "يتطلّب سوق العمل تأهيلًا متزايدًا.",
+    "level": "B2",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 86,
+    "videoId": null,
+    "transcriptContext": "El mercado laboral exige cada vez más formación.",
+    "pronunciation": "إل ميركادو لابورال إكسيخي كادا بيس ماس فورماسيون.",
+    "words": [
+      {
+        "w": "mercado laboral",
+        "m_en": "labour market",
+        "m_ar": "سوق العمل"
+      },
+      {
+        "w": "formación",
+        "m_en": "training",
+        "m_ar": "تأهيل"
+      }
+    ],
+    "grammar_en": "\"Cada vez más\" + noun means \"more and more\".",
+    "grammar_ar": "«cada vez más» + اسم = «أكثر فأكثر».",
+    "alternatives": [
+      {
+        "text": "Hoy se pide más formación para trabajar.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7275,
+    "text": "Las energías renovables son clave para el futuro.",
+    "translation_ar": "الطاقات المتجدّدة مفتاح المستقبل.",
+    "level": "B2",
+    "situation": "environment",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 103,
+    "videoId": null,
+    "transcriptContext": "Las energías renovables son clave para el futuro.",
+    "pronunciation": "لاس إنيرخياس ريينوبابليس سون كلابي پارا إل فوتورو.",
+    "words": [
+      {
+        "w": "renovable",
+        "m_en": "renewable",
+        "m_ar": "متجدّد"
+      },
+      {
+        "w": "clave",
+        "m_en": "key",
+        "m_ar": "مفتاح"
+      }
+    ],
+    "grammar_en": "\"Clave\" works here as an invariable adjective: \"son clave\".",
+    "grammar_ar": "تعمل «clave» هنا كصفة لا تتغيّر: «son clave».",
+    "alternatives": [
+      {
+        "text": "El futuro depende de las energías renovables.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7276,
+    "text": "Los vecinos han organizado una recogida de firmas.",
+    "translation_ar": "نظّم الجيران حملة لجمع التوقيعات.",
+    "level": "B2",
+    "situation": "community",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 120,
+    "videoId": null,
+    "transcriptContext": "Los vecinos han organizado una recogida de firmas.",
+    "pronunciation": "لوس بيسينوس آن أورغانيسادو أونا ريكوخيدا ديه فيرماس.",
+    "words": [
+      {
+        "w": "vecino",
+        "m_en": "neighbour",
+        "m_ar": "جار"
+      },
+      {
+        "w": "firma",
+        "m_en": "signature",
+        "m_ar": "توقيع"
+      }
+    ],
+    "grammar_en": "\"Han organizado\" is the plural pretérito perfecto.",
+    "grammar_ar": "«han organizado» الماضي التامّ بصيغة الجمع.",
+    "alternatives": [
+      {
+        "text": "Los vecinos reúnen firmas para la petición.",
+        "note_en": "Neighbours are collecting signatures",
+        "note_ar": "يجمع الجيران توقيعات للعريضة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7277,
+    "text": "La conferencia tendrá lugar en el salón principal.",
+    "translation_ar": "سيُعقد المؤتمر في القاعة الرئيسيّة.",
+    "level": "B2",
+    "situation": "events",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 137,
+    "videoId": null,
+    "transcriptContext": "La conferencia tendrá lugar en el salón principal.",
+    "pronunciation": "لا كونفيرينسيا تيندرا لوغار إن إل ساليون پرينسيپال.",
+    "words": [
+      {
+        "w": "tener lugar",
+        "m_en": "to take place",
+        "m_ar": "يُعقد"
+      },
+      {
+        "w": "salón",
+        "m_en": "hall",
+        "m_ar": "قاعة"
+      }
+    ],
+    "grammar_en": "\"Tener lugar\" means \"to take place\".",
+    "grammar_ar": "تعني «tener lugar» «أن يُعقد».",
+    "alternatives": [
+      {
+        "text": "La conferencia se celebrará en el salón principal.",
+        "note_en": "\"Celebrarse\" = to be held",
+        "note_ar": "«celebrarse» = يُعقد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 7278,
+    "text": "El fenómeno no puede reducirse a una simple moda.",
+    "translation_ar": "لا يمكن اختزال الظاهرة في مجرّد موضة.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 154,
+    "videoId": null,
+    "transcriptContext": "El fenómeno no puede reducirse a una simple moda.",
+    "pronunciation": "إل فينومينو نو پويدي ريدوسيرسي آ أونا سيمپلي مودا.",
+    "words": [
+      {
+        "w": "reducirse a",
+        "m_en": "to be reduced to",
+        "m_ar": "يُختزل في"
+      },
+      {
+        "w": "fenómeno",
+        "m_en": "phenomenon",
+        "m_ar": "ظاهرة"
+      }
+    ],
+    "grammar_en": "In \"puede reducirse\", the pronoun \"se\" attaches to the infinitive.",
+    "grammar_ar": "في «puede reducirse» يلتصق الضمير «se» بالمصدر.",
+    "alternatives": [
+      {
+        "text": "Sería simplista hablar de una simple moda.",
+        "note_en": "\"Simplista\" = simplistic",
+        "note_ar": "«simplista» = تبسيطي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7279,
+    "text": "La propuesta ha suscitado reacciones encontradas.",
+    "translation_ar": "أثار الاقتراح ردود فعل متباينة.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 171,
+    "videoId": null,
+    "transcriptContext": "La propuesta ha suscitado reacciones encontradas.",
+    "pronunciation": "لا پروپويستا آ سوسيتادو ريأكسيونيس إنكونترادس.",
+    "words": [
+      {
+        "w": "suscitar",
+        "m_en": "to arouse",
+        "m_ar": "يثير"
+      },
+      {
+        "w": "encontrado",
+        "m_en": "conflicting",
+        "m_ar": "متباين"
+      }
+    ],
+    "grammar_en": "\"Reacciones encontradas\" means \"mixed reactions\".",
+    "grammar_ar": "تعني «reacciones encontradas» «ردود فعل متباينة».",
+    "alternatives": [
+      {
+        "text": "La propuesta generó opiniones divididas.",
+        "note_en": "\"Divididas\" = divided",
+        "note_ar": "«divididas» = منقسمة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7280,
+    "text": "Hay que abordar el problema de raíz.",
+    "translation_ar": "ينبغي معالجة المشكلة من جذورها.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 188,
+    "videoId": null,
+    "transcriptContext": "Hay que abordar el problema de raíz.",
+    "pronunciation": "آي كيه أبوردار إل پروبليما ديه رايس.",
+    "words": [
+      {
+        "w": "abordar",
+        "m_en": "to tackle",
+        "m_ar": "يعالج"
+      },
+      {
+        "w": "raíz",
+        "m_en": "root",
+        "m_ar": "جذر"
+      }
+    ],
+    "grammar_en": "\"De raíz\" means \"at the root, completely\".",
+    "grammar_ar": "تعني «de raíz» «من الجذر / كليًّا».",
+    "alternatives": [
+      {
+        "text": "Hay que ir a la raíz del problema.",
+        "note_en": "\"Ir a la raíz\" = to get to the root",
+        "note_ar": "«ir a la raíz» = الوصول إلى الجذر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7281,
+    "text": "El debate ha sacado a la luz contradicciones sin resolver.",
+    "translation_ar": "كشف النقاش عن تناقضات لم تُحلّ.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 205,
+    "videoId": null,
+    "transcriptContext": "El debate ha sacado a la luz contradicciones sin resolver.",
+    "pronunciation": "إل ديباتي آ ساكادو آ لا لوس كونترادكسيونيس سين ريسولبير.",
+    "words": [
+      {
+        "w": "sacar a la luz",
+        "m_en": "to bring to light",
+        "m_ar": "يكشف"
+      },
+      {
+        "w": "contradicción",
+        "m_en": "contradiction",
+        "m_ar": "تناقض"
+      }
+    ],
+    "grammar_en": "\"Sin\" + infinitive means \"unresolved / without doing\".",
+    "grammar_ar": "«sin» + المصدر تعني «غير...».",
+    "alternatives": [
+      {
+        "text": "El debate ha destapado contradicciones pendientes.",
+        "note_en": "\"Destapar\" = to uncover",
+        "note_ar": "«destapar» = يكشف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7282,
+    "text": "Las desigualdades sociales socavan la cohesión de la comunidad.",
+    "translation_ar": "تقوّض الفوارق الاجتماعيّة تماسك المجتمع.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 222,
+    "videoId": null,
+    "transcriptContext": "Las desigualdades sociales socavan la cohesión de la comunidad.",
+    "pronunciation": "لاس ديسيغوالداديس سوسياليس سوكابان لا كوهيسيون ديه لا كومونيداد.",
+    "words": [
+      {
+        "w": "desigualdad",
+        "m_en": "inequality",
+        "m_ar": "تفاوت"
+      },
+      {
+        "w": "socavar",
+        "m_en": "to undermine",
+        "m_ar": "يقوّض"
+      }
+    ],
+    "grammar_en": "\"Socavar\" is a formal verb: to weaken from underneath.",
+    "grammar_ar": "«socavar» فعل رسمي: الإضعاف من الأساس.",
+    "alternatives": [
+      {
+        "text": "Las desigualdades debilitan la cohesión social.",
+        "note_en": "\"Debilitar\" = to weaken",
+        "note_ar": "«debilitar» = يُضعف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7283,
+    "text": "No se puede prescindir de un diálogo abierto.",
+    "translation_ar": "لا غنى عن حوار مفتوح.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 239,
+    "videoId": null,
+    "transcriptContext": "No se puede prescindir de un diálogo abierto.",
+    "pronunciation": "نو سي پويدي پريسيندير ديه أون ديالوغو أبييرتو.",
+    "words": [
+      {
+        "w": "prescindir de",
+        "m_en": "to do without",
+        "m_ar": "يستغني عن"
+      },
+      {
+        "w": "abierto",
+        "m_en": "open",
+        "m_ar": "مفتوح"
+      }
+    ],
+    "grammar_en": "\"No se puede prescindir de\" means \"it is essential to have\".",
+    "grammar_ar": "تعني «no se puede prescindir de» «لا غنى عن».",
+    "alternatives": [
+      {
+        "text": "Un diálogo abierto es imprescindible.",
+        "note_en": "\"Imprescindible\" = indispensable",
+        "note_ar": "«imprescindible» = لا غنى عنه"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7284,
+    "text": "El directivo reiteró el compromiso de la empresa con la transparencia.",
+    "translation_ar": "أكّد المدير مجدّدًا التزام الشركة بالشفافيّة.",
+    "level": "C1",
+    "situation": "workplace",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 16,
+    "videoId": null,
+    "transcriptContext": "El directivo reiteró el compromiso de la empresa con la transparencia.",
+    "pronunciation": "إل ديريكتيبو ريإيتيرو إل كومپروميسو ديه لا إمپريسا كون لا ترانسپارينسيا.",
+    "words": [
+      {
+        "w": "reiterar",
+        "m_en": "to reaffirm",
+        "m_ar": "يؤكّد مجدّدًا"
+      },
+      {
+        "w": "compromiso",
+        "m_en": "commitment",
+        "m_ar": "التزام"
+      }
+    ],
+    "grammar_en": "\"Reiteró\" is the preterite: a finished act.",
+    "grammar_ar": "«reiteró» الماضي البسيط: فعل منتهٍ.",
+    "alternatives": [
+      {
+        "text": "El directivo confirmó el compromiso con la transparencia.",
+        "note_en": "\"Confirmar\" is more neutral",
+        "note_ar": "«confirmar» أكثر حياديّة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7285,
+    "text": "Se nos ha puesto ante hechos consumados.",
+    "translation_ar": "وُضعنا أمام الأمر الواقع.",
+    "level": "C1",
+    "situation": "workplace",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 33,
+    "videoId": null,
+    "transcriptContext": "Se nos ha puesto ante hechos consumados.",
+    "pronunciation": "سي نوس آ پويستو أنتي إتشوس كونسومادوس.",
+    "words": [
+      {
+        "w": "hechos consumados",
+        "m_en": "fait accompli",
+        "m_ar": "أمر واقع"
+      },
+      {
+        "w": "ante",
+        "m_en": "faced with",
+        "m_ar": "أمام"
+      }
+    ],
+    "grammar_en": "\"Se nos ha puesto\" is an impersonal passive with \"nos\" (to us).",
+    "grammar_ar": "«se nos ha puesto» مبني للمجهول مع «nos» (لنا).",
+    "alternatives": [
+      {
+        "text": "Nos han puesto ante hechos consumados.",
+        "note_en": "Active voice",
+        "note_ar": "صيغة الفاعل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7286,
+    "text": "Los mercados reaccionaron con cautela ante la noticia.",
+    "translation_ar": "تفاعلت الأسواق بحذر مع الخبر.",
+    "level": "C1",
+    "situation": "finance",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 50,
+    "videoId": null,
+    "transcriptContext": "Los mercados reaccionaron con cautela ante la noticia.",
+    "pronunciation": "لوس ميركادوس ريأكسيونارون كون كاوتيلا أنتي لا نوتيسيا.",
+    "words": [
+      {
+        "w": "reaccionar",
+        "m_en": "to react",
+        "m_ar": "يتفاعل"
+      },
+      {
+        "w": "cautela",
+        "m_en": "caution",
+        "m_ar": "حذر"
+      }
+    ],
+    "grammar_en": "\"Con\" + noun often forms an adverb: \"con cautela\" means \"cautiously\".",
+    "grammar_ar": "تشكّل «con» + اسم ظرفًا غالبًا: «con cautela» = «بحذر».",
+    "alternatives": [
+      {
+        "text": "Los mercados se mostraron cautos.",
+        "note_en": "\"Cautos\" = cautious",
+        "note_ar": "«cautos» = حذرون"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7287,
+    "text": "La deuda pública recae sobre las generaciones futuras.",
+    "translation_ar": "يقع الدَّين العامّ على عاتق الأجيال القادمة.",
+    "level": "C1",
+    "situation": "finance",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 67,
+    "videoId": null,
+    "transcriptContext": "La deuda pública recae sobre las generaciones futuras.",
+    "pronunciation": "لا ديودا پوبليكا ريكاي سوبري لاس خينيراسيونيس فوتوراس.",
+    "words": [
+      {
+        "w": "deuda",
+        "m_en": "debt",
+        "m_ar": "دَين"
+      },
+      {
+        "w": "recaer sobre",
+        "m_en": "to fall on",
+        "m_ar": "يقع على"
+      }
+    ],
+    "grammar_en": "\"Recaer\" is irregular: \"recae\".",
+    "grammar_ar": "«recaer» شاذّ: «recae».",
+    "alternatives": [
+      {
+        "text": "Las generaciones futuras cargarán con la deuda pública.",
+        "note_en": "\"Cargar con\" = to bear",
+        "note_ar": "«cargar con» = يتحمّل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7288,
+    "text": "La protección de los datos personales se ha vuelto crucial.",
+    "translation_ar": "أصبحت حماية البيانات الشخصيّة أمرًا حاسمًا.",
+    "level": "C1",
+    "situation": "technology",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 84,
+    "videoId": null,
+    "transcriptContext": "La protección de los datos personales se ha vuelto crucial.",
+    "pronunciation": "لا پروتيكسيون ديه لوس داتوس پيرسونالس سي آ بويلتو كروسيال.",
+    "words": [
+      {
+        "w": "proteger",
+        "m_en": "to protect",
+        "m_ar": "يحمي"
+      },
+      {
+        "w": "volverse",
+        "m_en": "to become",
+        "m_ar": "يصبح"
+      }
+    ],
+    "grammar_en": "\"Volverse\" + adjective means \"to become\".",
+    "grammar_ar": "«volverse» + صفة = «يصبح».",
+    "alternatives": [
+      {
+        "text": "Proteger los datos personales es hoy fundamental.",
+        "note_en": "\"Fundamental\" = essential",
+        "note_ar": "«fundamental» = أساسي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7289,
+    "text": "Se necesitan políticas valientes contra el cambio climático.",
+    "translation_ar": "يلزم اعتماد سياسات جريئة ضدّ التغيّر المناخي.",
+    "level": "C1",
+    "situation": "environment",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 101,
+    "videoId": null,
+    "transcriptContext": "Se necesitan políticas valientes contra el cambio climático.",
+    "pronunciation": "سي نيسيسيتان پوليتيكاس باليينتيس كونترا إل كامبيو كليماتيكو.",
+    "words": [
+      {
+        "w": "valiente",
+        "m_en": "brave",
+        "m_ar": "شجاع / جريء"
+      },
+      {
+        "w": "política",
+        "m_en": "policy",
+        "m_ar": "سياسة"
+      }
+    ],
+    "grammar_en": "\"Se necesitan\" is plural because \"políticas\" is plural.",
+    "grammar_ar": "«se necesitan» جمع لأنّ «políticas» جمع.",
+    "alternatives": [
+      {
+        "text": "Hacen falta políticas ambiciosas contra el cambio climático.",
+        "note_en": "\"Hacer falta\" = to be needed",
+        "note_ar": "«hacer falta» = يلزم"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7290,
+    "text": "La reforma educativa ha dividido a la opinión pública.",
+    "translation_ar": "قسّم الإصلاح التعليمي الرأي العامّ.",
+    "level": "C1",
+    "situation": "education",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 118,
+    "videoId": null,
+    "transcriptContext": "La reforma educativa ha dividido a la opinión pública.",
+    "pronunciation": "لا ريفورما إدوكاتيبا آ ديبيديدو آ لا أوپينيون پوبليكا.",
+    "words": [
+      {
+        "w": "dividir",
+        "m_en": "to divide",
+        "m_ar": "يقسّم"
+      },
+      {
+        "w": "opinión pública",
+        "m_en": "public opinion",
+        "m_ar": "الرأي العامّ"
+      }
+    ],
+    "grammar_en": "\"Dividir a\" has the personal \"a\" before a group of people.",
+    "grammar_ar": "يأتي حرف «a» الشخصي في «dividir a» قبل جماعة من الناس.",
+    "alternatives": [
+      {
+        "text": "La reforma educativa ha polarizado a la opinión pública.",
+        "note_en": "\"Polarizar\" = to polarise",
+        "note_ar": "«polarizar» = يستقطب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7291,
+    "text": "La prevención sigue siendo la mejor forma de cuidado.",
+    "translation_ar": "تبقى الوقاية أفضل أشكال الرعاية.",
+    "level": "C1",
+    "situation": "health",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 135,
+    "videoId": null,
+    "transcriptContext": "La prevención sigue siendo la mejor forma de cuidado.",
+    "pronunciation": "لا پريبينسيون سيغي سييندو لا ميخور فورما ديه كوييدادو.",
+    "words": [
+      {
+        "w": "prevención",
+        "m_en": "prevention",
+        "m_ar": "وقاية"
+      },
+      {
+        "w": "seguir siendo",
+        "m_en": "to remain",
+        "m_ar": "يظلّ"
+      }
+    ],
+    "grammar_en": "\"Seguir siendo\" means \"to remain\".",
+    "grammar_ar": "تعني «seguir siendo» «يظلّ».",
+    "alternatives": [
+      {
+        "text": "Más vale prevenir que curar.",
+        "note_en": "Prevention is better than cure",
+        "note_ar": "الوقاية خير من العلاج"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7292,
+    "text": "El sistema sanitario está sometido a una gran presión.",
+    "translation_ar": "يخضع النظام الصحّي لضغط كبير.",
+    "level": "C1",
+    "situation": "health",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 152,
+    "videoId": null,
+    "transcriptContext": "El sistema sanitario está sometido a una gran presión.",
+    "pronunciation": "إل سيستيما سانيتاريو إستا سوميتيدو آ أونا غران پريسيون.",
+    "words": [
+      {
+        "w": "sistema sanitario",
+        "m_en": "health system",
+        "m_ar": "النظام الصحّي"
+      },
+      {
+        "w": "sometido a",
+        "m_en": "subjected to",
+        "m_ar": "خاضع لـ"
+      }
+    ],
+    "grammar_en": "\"Someter a\" means \"to subject to\".",
+    "grammar_ar": "تعني «someter a» «يُخضع لـ».",
+    "alternatives": [
+      {
+        "text": "El sistema sanitario soporta mucha presión.",
+        "note_en": "\"Soportar\" = to bear",
+        "note_ar": "«soportar» = يتحمّل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7293,
+    "text": "El festival celebra la riqueza del patrimonio local.",
+    "translation_ar": "يحتفي المهرجان بثراء التراث المحلّي.",
+    "level": "C1",
+    "situation": "celebrations",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 169,
+    "videoId": null,
+    "transcriptContext": "El festival celebra la riqueza del patrimonio local.",
+    "pronunciation": "إل فيستيبال سيليبرا لا ريكيسا ديل پاتريمونيو لوكال.",
+    "words": [
+      {
+        "w": "patrimonio",
+        "m_en": "heritage",
+        "m_ar": "تراث"
+      },
+      {
+        "w": "celebrar",
+        "m_en": "to celebrate",
+        "m_ar": "يحتفي بـ"
+      }
+    ],
+    "grammar_en": "\"Patrimonio\" means both \"heritage\" and \"assets\".",
+    "grammar_ar": "يعني «patrimonio» «تراثًا» و«ممتلكات» معًا.",
+    "alternatives": [
+      {
+        "text": "El festival pone en valor el patrimonio local.",
+        "note_en": "\"Poner en valor\" = to showcase",
+        "note_ar": "«poner en valor» = يُبرز قيمة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7294,
+    "text": "Los consumidores prestan cada vez más atención al origen de los productos.",
+    "translation_ar": "يولي المستهلكون اهتمامًا متزايدًا بمصدر المنتجات.",
+    "level": "C1",
+    "situation": "shopping",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 186,
+    "videoId": null,
+    "transcriptContext": "Los consumidores prestan cada vez más atención al origen de los productos.",
+    "pronunciation": "لوس كونسوميدوريس پريستان كادا بيس ماس أتينسيون آل أوريخين ديه لوس پروداكتوس.",
+    "words": [
+      {
+        "w": "prestar atención",
+        "m_en": "to pay attention",
+        "m_ar": "يولي اهتمامًا"
+      },
+      {
+        "w": "origen",
+        "m_en": "origin",
+        "m_ar": "مصدر"
+      }
+    ],
+    "grammar_en": "\"Prestar atención a\" takes the preposition \"a\".",
+    "grammar_ar": "يأخذ «prestar atención a» حرف الجرّ «a».",
+    "alternatives": [
+      {
+        "text": "Cada vez más gente mira de dónde vienen los productos.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7295,
+    "text": "El turismo masivo pone en peligro las ciudades históricas.",
+    "translation_ar": "تعرّض السياحة الجماعيّة المدن التاريخيّة للخطر.",
+    "level": "C1",
+    "situation": "travel",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 203,
+    "videoId": null,
+    "transcriptContext": "El turismo masivo pone en peligro las ciudades históricas.",
+    "pronunciation": "إل توريسمو ماسيبو پوني إن پيليغرو لاس سيوداديس إستوريكاس.",
+    "words": [
+      {
+        "w": "turismo masivo",
+        "m_en": "mass tourism",
+        "m_ar": "سياحة جماعيّة"
+      },
+      {
+        "w": "poner en peligro",
+        "m_en": "to endanger",
+        "m_ar": "يعرّض للخطر"
+      }
+    ],
+    "grammar_en": "\"Poner en peligro\" is a fixed expression.",
+    "grammar_ar": "«poner en peligro» تعبير ثابت.",
+    "alternatives": [
+      {
+        "text": "El turismo masivo amenaza las ciudades históricas.",
+        "note_en": "\"Amenazar\" = to threaten",
+        "note_ar": "«amenazar» = يهدّد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7296,
+    "text": "Las negociaciones han llegado a un punto muerto.",
+    "translation_ar": "وصلت المفاوضات إلى طريق مسدود.",
+    "level": "C1",
+    "situation": "meetings",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 220,
+    "videoId": null,
+    "transcriptContext": "Las negociaciones han llegado a un punto muerto.",
+    "pronunciation": "لاس نيغوسياسيونيس آن ييغادو آ أون پونتو مويرتو.",
+    "words": [
+      {
+        "w": "negociación",
+        "m_en": "negotiation",
+        "m_ar": "مفاوضات"
+      },
+      {
+        "w": "punto muerto",
+        "m_en": "deadlock",
+        "m_ar": "طريق مسدود"
+      }
+    ],
+    "grammar_en": "\"Han llegado a\" is the pretérito perfecto with \"haber\".",
+    "grammar_ar": "«han llegado a» الماضي التامّ مع «haber».",
+    "alternatives": [
+      {
+        "text": "Las negociaciones están estancadas.",
+        "note_en": "\"Estancado\" = stalled",
+        "note_ar": "«estancado» = متعثّر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7297,
+    "text": "Hay que encontrar un compromiso aceptable para todos.",
+    "translation_ar": "يجب إيجاد حلّ وسط يقبله الجميع.",
+    "level": "C1",
+    "situation": "meetings",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 237,
+    "videoId": null,
+    "transcriptContext": "Hay que encontrar un compromiso aceptable para todos.",
+    "pronunciation": "آي كيه إنكونترار أون كومپروميسو أسيپتابلي پارا تودوس.",
+    "words": [
+      {
+        "w": "compromiso",
+        "m_en": "compromise",
+        "m_ar": "حلّ وسط"
+      },
+      {
+        "w": "aceptable",
+        "m_en": "acceptable",
+        "m_ar": "مقبول"
+      }
+    ],
+    "grammar_en": "\"Compromiso\" can mean \"compromise\" or \"commitment\", depending on context.",
+    "grammar_ar": "قد تعني «compromiso» «حلًّا وسطًا» أو «التزامًا» بحسب السياق.",
+    "alternatives": [
+      {
+        "text": "Se necesita una solución que satisfaga a todos.",
+        "note_en": "\"Satisfaga\" (subjunctive)",
+        "note_ar": "«satisfaga» (subjuntivo)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7298,
+    "text": "He decidido reciclarme profesionalmente para cambiar de sector.",
+    "translation_ar": "قرّرتُ إعادة تأهيل نفسي مهنيًّا لتغيير القطاع.",
+    "level": "C1",
+    "situation": "career",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 14,
+    "videoId": null,
+    "transcriptContext": "He decidido reciclarme profesionalmente para cambiar de sector.",
+    "pronunciation": "إي ديسيديدو ريسيكلارمي پروفيسيوناليمينتي پارا كامبيار ديه سيكتور.",
+    "words": [
+      {
+        "w": "reciclarse",
+        "m_en": "to retrain",
+        "m_ar": "يعيد تأهيل نفسه"
+      },
+      {
+        "w": "cambiar de",
+        "m_en": "to change (to another)",
+        "m_ar": "يغيّر"
+      }
+    ],
+    "grammar_en": "\"Cambiar de\" + noun means \"to change (something) for another\".",
+    "grammar_ar": "«cambiar de» + اسم = تغيير شيء بآخر.",
+    "alternatives": [
+      {
+        "text": "Quiero reorientar mi carrera hacia otro sector.",
+        "note_en": "\"Reorientar\" = to redirect",
+        "note_ar": "«reorientar» = يعيد التوجيه"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7299,
+    "text": "¿Cuáles son sus puntos fuertes y sus puntos débiles?",
+    "translation_ar": "ما هي نقاط قوّتك ونقاط ضعفك؟",
+    "level": "C1",
+    "situation": "job-interview",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 31,
+    "videoId": null,
+    "transcriptContext": "¿Cuáles son sus puntos fuertes y sus puntos débiles?",
+    "pronunciation": "كوالس سون سوس پونتوس فويرتيس إي سوس پونتوس ديبيليس؟",
+    "words": [
+      {
+        "w": "puntos fuertes",
+        "m_en": "strengths",
+        "m_ar": "نقاط القوّة"
+      },
+      {
+        "w": "puntos débiles",
+        "m_en": "weaknesses",
+        "m_ar": "نقاط الضعف"
+      }
+    ],
+    "grammar_en": "\"Sus\" is the formal plural \"your\" (usted).",
+    "grammar_ar": "«sus» هي «الخاصّة بك» الرسميّة (usted) بصيغة الجمع.",
+    "alternatives": [
+      {
+        "text": "¿Cuáles son tus virtudes y defectos?",
+        "note_en": "Informal: \"virtues and flaws\"",
+        "note_ar": "غير رسمي: «المزايا والعيوب»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7300,
+    "text": "Las redes han amplificado la difusión de noticias falsas.",
+    "translation_ar": "ضخّمت الشبكات انتشار الأخبار الكاذبة.",
+    "level": "C1",
+    "situation": "social-media",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 48,
+    "videoId": null,
+    "transcriptContext": "Las redes han amplificado la difusión de noticias falsas.",
+    "pronunciation": "لاس ريديس آن أمپليفيكادو لا ديفوسيون ديه نوتيسياس فالساس.",
+    "words": [
+      {
+        "w": "amplificar",
+        "m_en": "to amplify",
+        "m_ar": "يضخّم"
+      },
+      {
+        "w": "difusión",
+        "m_en": "spread",
+        "m_ar": "انتشار"
+      }
+    ],
+    "grammar_en": "\"Noticias falsas\" is the Spanish for \"fake news\".",
+    "grammar_ar": "«noticias falsas» هي «الأخبار الكاذبة» بالإسبانية.",
+    "alternatives": [
+      {
+        "text": "Las redes han favorecido la desinformación.",
+        "note_en": "\"Desinformación\" = disinformation",
+        "note_ar": "«desinformación» = التضليل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7301,
+    "text": "Muchos perfiles están gestionados por cuentas automáticas.",
+    "translation_ar": "تُدار كثير من الملفّات بواسطة حسابات آليّة.",
+    "level": "C1",
+    "situation": "social-media",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 65,
+    "videoId": null,
+    "transcriptContext": "Muchos perfiles están gestionados por cuentas automáticas.",
+    "pronunciation": "موتشوس پيرفيليس إستان خيستيونادوس پور كوينتاس أوتوماتيكاس.",
+    "words": [
+      {
+        "w": "gestionar",
+        "m_en": "to manage",
+        "m_ar": "يدير"
+      },
+      {
+        "w": "automático",
+        "m_en": "automatic",
+        "m_ar": "آلي"
+      }
+    ],
+    "grammar_en": "\"Estar gestionado por\" is a passive with \"estar\" and an agent.",
+    "grammar_ar": "«estar gestionado por» مبني للمجهول بـ«estar» مع الفاعل.",
+    "alternatives": [
+      {
+        "text": "Muchos perfiles son en realidad bots.",
+        "note_en": "\"Bots\" = automated programs",
+        "note_ar": "«bots» = برامج آلية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7302,
+    "text": "Le rogamos que nos remita el artículo en su embalaje original.",
+    "translation_ar": "نرجو أن تعيدوا إلينا السلعة في عبوّتها الأصليّة.",
+    "level": "C1",
+    "situation": "returns",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 82,
+    "videoId": null,
+    "transcriptContext": "Le rogamos que nos remita el artículo en su embalaje original.",
+    "pronunciation": "لي روغاموس كيه نوس ريميتا إل أرتيكولو إن سو إمبالاخي أوريخينال.",
+    "words": [
+      {
+        "w": "remitir",
+        "m_en": "to send back",
+        "m_ar": "يرسل / يعيد"
+      },
+      {
+        "w": "embalaje",
+        "m_en": "packaging",
+        "m_ar": "عبوّة"
+      }
+    ],
+    "grammar_en": "\"Rogar que\" takes the subjunctive: \"remita\".",
+    "grammar_ar": "يأخذ «rogar que» subjuntivo: «remita».",
+    "alternatives": [
+      {
+        "text": "Envíenos el artículo en su embalaje original, por favor.",
+        "note_en": "Formal command",
+        "note_ar": "أمر رسمي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7303,
+    "text": "Le agradeceríamos que nos facilitara el número de pedido.",
+    "translation_ar": "نكون ممتنّين لو زوّدتمونا برقم الطلب.",
+    "level": "C1",
+    "situation": "customer-help",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 99,
+    "videoId": null,
+    "transcriptContext": "Le agradeceríamos que nos facilitara el número de pedido.",
+    "pronunciation": "لي أغراديسيرياموس كيه نوس فاسيليتارا إل نوميرو ديه پيديدو.",
+    "words": [
+      {
+        "w": "facilitar",
+        "m_en": "to provide",
+        "m_ar": "يزوّد"
+      },
+      {
+        "w": "número de pedido",
+        "m_en": "order number",
+        "m_ar": "رقم الطلب"
+      }
+    ],
+    "grammar_en": "\"Le agradeceríamos que\" + imperfect subjunctive is very courteous.",
+    "grammar_ar": "«le agradeceríamos que» + الماضي الناقص في subjuntivo صيغة مهذّبة جدًّا.",
+    "alternatives": [
+      {
+        "text": "Por favor, indíquenos su número de pedido.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7304,
+    "text": "Los precios de la vivienda se han disparado en las grandes ciudades.",
+    "translation_ar": "ارتفعت أسعار المساكن ارتفاعًا حادًّا في المدن الكبرى.",
+    "level": "C1",
+    "situation": "real-estate",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 116,
+    "videoId": null,
+    "transcriptContext": "Los precios de la vivienda se han disparado en las grandes ciudades.",
+    "pronunciation": "لوس پريسيوس ديه لا بيبيندا سي آن ديسپارادو إن لاس غرانديس سيوداديس.",
+    "words": [
+      {
+        "w": "vivienda",
+        "m_en": "housing",
+        "m_ar": "مسكن"
+      },
+      {
+        "w": "dispararse",
+        "m_en": "to skyrocket",
+        "m_ar": "يرتفع بحدّة"
+      }
+    ],
+    "grammar_en": "\"Dispararse\" means \"to shoot up\" when talking about prices.",
+    "grammar_ar": "تعني «dispararse» «القفز» عند الحديث عن الأسعار.",
+    "alternatives": [
+      {
+        "text": "El precio de la vivienda ha subido muchísimo.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7305,
+    "text": "Ante cualquier emergencia, mantenga la calma y siga las instrucciones.",
+    "translation_ar": "عند أيّ طارئ حافظ على هدوئك واتّبع التعليمات.",
+    "level": "C1",
+    "situation": "emergency",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 133,
+    "videoId": null,
+    "transcriptContext": "Ante cualquier emergencia, mantenga la calma y siga las instrucciones.",
+    "pronunciation": "أنتي كوالكيير إميرخينسيا، مانتينغا لا كالما إي سيغا لاس إنستروكسيونيس.",
+    "words": [
+      {
+        "w": "mantener",
+        "m_en": "to keep",
+        "m_ar": "يحافظ على"
+      },
+      {
+        "w": "calma",
+        "m_en": "calm",
+        "m_ar": "هدوء"
+      }
+    ],
+    "grammar_en": "\"Mantenga\" and \"siga\" are formal commands.",
+    "grammar_ar": "«mantenga» و«siga» أمران رسميّان.",
+    "alternatives": [
+      {
+        "text": "En caso de emergencia, conserve la calma.",
+        "note_en": "\"Conservar\" = to keep",
+        "note_ar": "«conservar» = يحتفظ بـ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 7306,
+    "text": "El debate público se ha ido empobreciendo progresivamente.",
+    "translation_ar": "أخذ النقاش العامّ يفتقر شيئًا فشيئًا.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 150,
+    "videoId": null,
+    "transcriptContext": "El debate público se ha ido empobreciendo progresivamente.",
+    "pronunciation": "إل ديباتي پوبليكو سي آ إيدو إمپوبريسييندو پروغريسيبامينتي.",
+    "words": [
+      {
+        "w": "empobrecerse",
+        "m_en": "to become poorer",
+        "m_ar": "يزداد فقرًا"
+      },
+      {
+        "w": "progresivamente",
+        "m_en": "gradually",
+        "m_ar": "تدريجيًّا"
+      }
+    ],
+    "grammar_en": "\"Irse\" + gerund shows a gradual process: \"se ha ido empobreciendo\".",
+    "grammar_ar": "يدلّ «irse» + gerundio على تحوّل تدريجي: «se ha ido empobreciendo».",
+    "alternatives": [
+      {
+        "text": "El debate público ha perdido profundidad.",
+        "note_en": "\"Perder profundidad\" = to lose depth",
+        "note_ar": "«perder profundidad» = يفقد العمق"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7307,
+    "text": "Asistimos a una erosión progresiva de la confianza en las instituciones.",
+    "translation_ar": "نشهد تآكلًا تدريجيًّا في الثقة بالمؤسّسات.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 167,
+    "videoId": null,
+    "transcriptContext": "Asistimos a una erosión progresiva de la confianza en las instituciones.",
+    "pronunciation": "أسيستيموس آ أونا إروسيون پروغريسيبا ديه لا كونفيانسا إن لاس إنستيتوسيونيس.",
+    "words": [
+      {
+        "w": "asistir a",
+        "m_en": "to witness",
+        "m_ar": "يشهد"
+      },
+      {
+        "w": "confianza",
+        "m_en": "trust",
+        "m_ar": "ثقة"
+      }
+    ],
+    "grammar_en": "\"Asistir a\" means \"to attend / to witness\", not \"to assist\".",
+    "grammar_ar": "يعني «asistir a» «يحضر / يشهد» لا «يساعد».",
+    "alternatives": [
+      {
+        "text": "Está cayendo la confianza en las instituciones.",
+        "note_en": "\"Caer\" = to fall",
+        "note_ar": "«caer» = يتراجع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7308,
+    "text": "La ambivalencia del progreso no escapa a los más atentos.",
+    "translation_ar": "لا يغيب التباس التقدّم عن أشدّهم انتباهًا.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 184,
+    "videoId": null,
+    "transcriptContext": "La ambivalencia del progreso no escapa a los más atentos.",
+    "pronunciation": "لا أمبيبالينسيا ديل پروغريسو نو إسكاپا آ لوس ماس أتينتوس.",
+    "words": [
+      {
+        "w": "ambivalencia",
+        "m_en": "ambivalence",
+        "m_ar": "ازدواجيّة / التباس"
+      },
+      {
+        "w": "escapar a",
+        "m_en": "to escape",
+        "m_ar": "يفلت من / يغيب عن"
+      }
+    ],
+    "grammar_en": "\"Los más atentos\" means \"the most attentive people\".",
+    "grammar_ar": "تعني «los más atentos» «أشدّهم انتباهًا».",
+    "alternatives": [
+      {
+        "text": "Los atentos perciben la ambivalencia del progreso.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7309,
+    "text": "El consenso, cuando es unánime, despierta siempre alguna sospecha.",
+    "translation_ar": "الإجماع، حين يكون تامًّا، يوقظ دائمًا بعض الريبة.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 201,
+    "videoId": null,
+    "transcriptContext": "El consenso, cuando es unánime, despierta siempre alguna sospecha.",
+    "pronunciation": "إل كونسينسو، كواندو إس أونانيمي، ديسپييرتا سييمپري ألغونا سوسپيتشا.",
+    "words": [
+      {
+        "w": "despertar",
+        "m_en": "to arouse",
+        "m_ar": "يوقظ / يثير"
+      },
+      {
+        "w": "unánime",
+        "m_en": "unanimous",
+        "m_ar": "بالإجماع"
+      }
+    ],
+    "grammar_en": "\"Despertar\" is a stem-changing verb: \"despierta\".",
+    "grammar_ar": "«despertar» فعل يتغيّر جذعه: «despierta».",
+    "alternatives": [
+      {
+        "text": "Un consenso unánime siempre deja dudas.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7310,
+    "text": "Ninguna verdad histórica está a salvo de las interpretaciones.",
+    "translation_ar": "لا حقيقة تاريخيّة بمنأى عن التأويلات.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 218,
+    "videoId": null,
+    "transcriptContext": "Ninguna verdad histórica está a salvo de las interpretaciones.",
+    "pronunciation": "نينغونا بيرداد إستوريكا إستا آ سالبو ديه لاس إنتيرپريتاسيونيس.",
+    "words": [
+      {
+        "w": "a salvo de",
+        "m_en": "safe from",
+        "m_ar": "بمنأى عن"
+      },
+      {
+        "w": "interpretación",
+        "m_en": "interpretation",
+        "m_ar": "تأويل"
+      }
+    ],
+    "grammar_en": "\"Ninguna\" takes a singular verb: \"ninguna verdad está\".",
+    "grammar_ar": "تأخذ «ninguna» فعلًا مفردًا: «ninguna verdad está».",
+    "alternatives": [
+      {
+        "text": "Toda verdad histórica se presta a interpretación.",
+        "note_en": "\"Prestarse a\" = to lend itself to",
+        "note_ar": "«prestarse a» = تقبل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7311,
+    "text": "Lo que se calla, a veces, dice más que lo que se afirma.",
+    "translation_ar": "ما يُسكَت عنه يقول أحيانًا أكثر ممّا يُعلَن.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 235,
+    "videoId": null,
+    "transcriptContext": "Lo que se calla, a veces, dice más que lo que se afirma.",
+    "pronunciation": "لو كيه سي كايا، آ بيسيس، ديسي ماس كيه لو كيه سي أفيرما.",
+    "words": [
+      {
+        "w": "callar",
+        "m_en": "to leave unsaid",
+        "m_ar": "يسكت عن"
+      },
+      {
+        "w": "afirmar",
+        "m_en": "to state",
+        "m_ar": "يؤكّد / يعلن"
+      }
+    ],
+    "grammar_en": "\"Lo que\" means \"what / that which\"; \"se\" makes the verbs impersonal.",
+    "grammar_ar": "«lo que» = «ما / الذي»؛ و«se» تجعل الأفعال غير شخصيّة.",
+    "alternatives": [
+      {
+        "text": "A veces el silencio es más elocuente que las palabras.",
+        "note_en": "Sometimes silence is more eloquent than words",
+        "note_ar": "أحيانًا يكون الصمت أبلغ من الكلام"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 7312,
+    "text": "El tiempo, lejos de atenuar el recuerdo, afila sus contornos.",
+    "translation_ar": "الزمن، بعيدًا عن تخفيف الذكرى، يشحذ ملامحها.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 12,
+    "videoId": null,
+    "transcriptContext": "El tiempo, lejos de atenuar el recuerdo, afila sus contornos.",
+    "pronunciation": "إل تيمپو، ليخوس ديه أتينوار إل ريكويردو، أفيلا سوس كونتورنوس.",
+    "words": [
+      {
+        "w": "atenuar",
+        "m_en": "to soften",
+        "m_ar": "يخفّف"
+      },
+      {
+        "w": "afilar",
+        "m_en": "to sharpen",
+        "m_ar": "يشحذ"
+      }
+    ],
+    "grammar_en": "\"Sus\" refers back to \"el recuerdo\" (\"its\").",
+    "grammar_ar": "تعود «sus» إلى «el recuerdo» («خاصّتها»).",
+    "alternatives": [
+      {
+        "text": "El tiempo no atenúa el recuerdo, lo hace más nítido.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7313,
+    "text": "La ironía es con frecuencia el último refugio de los desengañados.",
+    "translation_ar": "السخرية كثيرًا ما تكون آخر ملاذ للمخذولين.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 29,
+    "videoId": null,
+    "transcriptContext": "La ironía es con frecuencia el último refugio de los desengañados.",
+    "pronunciation": "لا إيرونيا إس كون فريكوينسيا إل أولتيمو ريفوخيو ديه لوس ديسينغانيادوس.",
+    "words": [
+      {
+        "w": "ironía",
+        "m_en": "irony",
+        "m_ar": "سخرية"
+      },
+      {
+        "w": "desengañado",
+        "m_en": "disillusioned",
+        "m_ar": "مخذول"
+      }
+    ],
+    "grammar_en": "\"Con frecuencia\" means \"often\".",
+    "grammar_ar": "تعني «con frecuencia» «كثيرًا».",
+    "alternatives": [
+      {
+        "text": "Quien ha perdido las ilusiones se refugia en la ironía.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7314,
+    "text": "Cada época elabora sus propios mitos y queda prisionera de ellos.",
+    "translation_ar": "كلّ عصر يصوغ أساطيره ويبقى أسيرًا لها.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 46,
+    "videoId": null,
+    "transcriptContext": "Cada época elabora sus propios mitos y queda prisionera de ellos.",
+    "pronunciation": "كادا إپوكا إلابورا سوس پروپيوس ميتوس إي كيدا پريسيونيرا ديه إيوس.",
+    "words": [
+      {
+        "w": "elaborar",
+        "m_en": "to produce",
+        "m_ar": "يصوغ"
+      },
+      {
+        "w": "prisionero",
+        "m_en": "prisoner",
+        "m_ar": "أسير"
+      }
+    ],
+    "grammar_en": "\"Prisionera\" is feminine to agree with \"época\".",
+    "grammar_ar": "«prisionera» مؤنّثة لتتطابق مع «época».",
+    "alternatives": [
+      {
+        "text": "Toda época crea sus mitos y es esclava de ellos.",
+        "note_en": "\"Esclava\" = slave",
+        "note_ar": "«esclava» = عبدة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7315,
+    "text": "La lengua no es solo un instrumento, sino también un lugar de pertenencia.",
+    "translation_ar": "اللغة ليست أداة فحسب بل هي أيضًا مكان انتماء.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 63,
+    "videoId": null,
+    "transcriptContext": "La lengua no es solo un instrumento, sino también un lugar de pertenencia.",
+    "pronunciation": "لا لينغوا نو إس سولو أون إنسترومينتو، سينو تامبيين أون لوغار ديه پيرتينينسيا.",
+    "words": [
+      {
+        "w": "pertenencia",
+        "m_en": "belonging",
+        "m_ar": "انتماء"
+      },
+      {
+        "w": "instrumento",
+        "m_en": "tool",
+        "m_ar": "أداة"
+      }
+    ],
+    "grammar_en": "\"No solo... sino también...\" means \"not only... but also...\".",
+    "grammar_ar": "«no solo... sino también...» = ليس فقط... بل أيضًا....",
+    "alternatives": [
+      {
+        "text": "La lengua también es un sentido de pertenencia.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 7316,
+    "text": "Habría que devolverle la dignidad a la palabra pública.",
+    "translation_ar": "ينبغي إعادة الاعتبار إلى الكلمة العامّة.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 80,
+    "videoId": null,
+    "transcriptContext": "Habría que devolverle la dignidad a la palabra pública.",
+    "pronunciation": "أبريا كيه ديبولبيرلي لا ديغنيداد آ لا پالابرا پوبليكا.",
+    "words": [
+      {
+        "w": "devolver",
+        "m_en": "to give back",
+        "m_ar": "يعيد"
+      },
+      {
+        "w": "dignidad",
+        "m_en": "dignity",
+        "m_ar": "كرامة"
+      }
+    ],
+    "grammar_en": "\"Habría que\" (conditional) is a soft \"one should\".",
+    "grammar_ar": "«habría que» (شرطي) تعني «ينبغي» بنبرة خفيفة.",
+    "alternatives": [
+      {
+        "text": "Convendría restituir la dignidad a la palabra pública.",
+        "note_en": "\"Restituir\" = to restore",
+        "note_ar": "«restituir» = يُعيد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7317,
+    "text": "Los matices, más que las certezas, revelan la complejidad de lo real.",
+    "translation_ar": "الفروق الدقيقة، أكثر من اليقينيّات، تكشف تعقيد الواقع.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 97,
+    "videoId": null,
+    "transcriptContext": "Los matices, más que las certezas, revelan la complejidad de lo real.",
+    "pronunciation": "لوس ماتيسيس، ماس كيه لاس سيرتيساس، ريبيلان لا كومپليخيداد ديه لو ريال.",
+    "words": [
+      {
+        "w": "matiz",
+        "m_en": "nuance",
+        "m_ar": "فرق دقيق"
+      },
+      {
+        "w": "certeza",
+        "m_en": "certainty",
+        "m_ar": "يقين"
+      }
+    ],
+    "grammar_en": "\"Lo real\" is an adjective used as a noun: \"reality\".",
+    "grammar_ar": "«lo real» صفة استُعملت اسمًا: «الواقع».",
+    "alternatives": [
+      {
+        "text": "Son los matices los que revelan la complejidad de lo real.",
+        "note_en": "Cleft structure",
+        "note_ar": "بنية تأكيديّة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 7318,
+    "text": "Su conducta es intachable en el plano profesional.",
+    "translation_ar": "سلوكه لا غبار عليه من الناحية المهنيّة.",
+    "level": "C2",
+    "situation": "workplace",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 114,
+    "videoId": null,
+    "transcriptContext": "Su conducta es intachable en el plano profesional.",
+    "pronunciation": "سو كوندوكتا إس إنتاتشابلي إن إل پلانو پروفيسيونال.",
+    "words": [
+      {
+        "w": "intachable",
+        "m_en": "impeccable",
+        "m_ar": "لا غبار عليه"
+      },
+      {
+        "w": "conducta",
+        "m_en": "conduct",
+        "m_ar": "سلوك"
+      }
+    ],
+    "grammar_en": "\"Intachable\" is a formal adjective: nothing to criticise.",
+    "grammar_ar": "«intachable» صفة رسميّة: لا يوجد ما يُنتقد.",
+    "alternatives": [
+      {
+        "text": "Su comportamiento profesional es impecable.",
+        "note_en": "\"Impecable\" = flawless",
+        "note_ar": "«impecable» = لا يشوبه عيب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7319,
+    "text": "La empresa ha optado por una estrategia a largo plazo.",
+    "translation_ar": "اختارت الشركة استراتيجيّة بعيدة المدى.",
+    "level": "C2",
+    "situation": "workplace",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 131,
+    "videoId": null,
+    "transcriptContext": "La empresa ha optado por una estrategia a largo plazo.",
+    "pronunciation": "لا إمپريسا آ أوپتادو پور أونا إستراتيخيا آ لارغو پلاسو.",
+    "words": [
+      {
+        "w": "optar por",
+        "m_en": "to opt for",
+        "m_ar": "يختار"
+      },
+      {
+        "w": "largo plazo",
+        "m_en": "long term",
+        "m_ar": "بعيد المدى"
+      }
+    ],
+    "grammar_en": "\"A largo plazo\" means \"in the long term\".",
+    "grammar_ar": "تعني «a largo plazo» «على المدى البعيد».",
+    "alternatives": [
+      {
+        "text": "La empresa ha elegido una estrategia de futuro.",
+        "note_en": "\"De futuro\" = forward-looking",
+        "note_ar": "«de futuro» = تنظر إلى المستقبل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7320,
+    "text": "La delegación reiteró su disposición al diálogo.",
+    "translation_ar": "أكّد الوفد مجدّدًا استعداده للحوار.",
+    "level": "C2",
+    "situation": "meetings",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 148,
+    "videoId": null,
+    "transcriptContext": "La delegación reiteró su disposición al diálogo.",
+    "pronunciation": "لا ديليغاسيون ريإيتيرو سو ديسپوسيسيون آل ديالوغو.",
+    "words": [
+      {
+        "w": "delegación",
+        "m_en": "delegation",
+        "m_ar": "وفد"
+      },
+      {
+        "w": "disposición",
+        "m_en": "willingness",
+        "m_ar": "استعداد"
+      }
+    ],
+    "grammar_en": "\"Disposición a\" takes the preposition \"a\": \"disposición al diálogo\".",
+    "grammar_ar": "يأخذ «disposición a» حرف الجرّ «a»: «disposición al diálogo».",
+    "alternatives": [
+      {
+        "text": "La delegación se mostró dispuesta a dialogar.",
+        "note_en": "\"Dispuesta a\" = willing to",
+        "note_ar": "«dispuesta a» = مستعدّة لـ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7321,
+    "text": "No se vislumbra, por ahora, una salida consensuada.",
+    "translation_ar": "لا يلوح حاليًّا مخرج متّفق عليه.",
+    "level": "C2",
+    "situation": "meetings",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 165,
+    "videoId": null,
+    "transcriptContext": "No se vislumbra, por ahora, una salida consensuada.",
+    "pronunciation": "نو سي بيسلومبرا، پور أورا، أونا ساليدا كونسينسوادا.",
+    "words": [
+      {
+        "w": "vislumbrar",
+        "m_en": "to glimpse",
+        "m_ar": "يلوح / يُلمح"
+      },
+      {
+        "w": "salida",
+        "m_en": "way out",
+        "m_ar": "مخرج"
+      }
+    ],
+    "grammar_en": "\"Vislumbrar\" is a formal, slightly literary verb.",
+    "grammar_ar": "«vislumbrar» فعل رسمي وأدبي قليلًا.",
+    "alternatives": [
+      {
+        "text": "Por ahora no se ve una solución acordada.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7322,
+    "text": "La volatilidad de los mercados desalienta la inversión a largo plazo.",
+    "translation_ar": "يثبّط تقلّب الأسواق الاستثمار طويل الأجل.",
+    "level": "C2",
+    "situation": "finance",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 182,
+    "videoId": null,
+    "transcriptContext": "La volatilidad de los mercados desalienta la inversión a largo plazo.",
+    "pronunciation": "لا بولاتيليداد ديه لوس ميركادوس ديساليينتا لا إنبيرسيون آ لارغو پلاسو.",
+    "words": [
+      {
+        "w": "volatilidad",
+        "m_en": "volatility",
+        "m_ar": "تقلّب"
+      },
+      {
+        "w": "desalentar",
+        "m_en": "to discourage",
+        "m_ar": "يثبّط"
+      }
+    ],
+    "grammar_en": "\"Desalentar\" is the opposite of \"alentar\".",
+    "grammar_ar": "«desalentar» عكس «alentar».",
+    "alternatives": [
+      {
+        "text": "La inestabilidad frena la inversión a largo plazo.",
+        "note_en": "\"Frenar\" = to hold back",
+        "note_ar": "«frenar» = يكبح"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7323,
+    "text": "Hacienda ha endurecido los controles sobre las transacciones sospechosas.",
+    "translation_ar": "شدّدت مصلحة الضرائب الرقابة على المعاملات المشبوهة.",
+    "level": "C2",
+    "situation": "finance",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 199,
+    "videoId": null,
+    "transcriptContext": "Hacienda ha endurecido los controles sobre las transacciones sospechosas.",
+    "pronunciation": "أسييندا آ إندوريسيدو لوس كونترولس سوبري لاس ترانساكسيونيس سوسپيتشوساس.",
+    "words": [
+      {
+        "w": "Hacienda",
+        "m_en": "tax authority",
+        "m_ar": "مصلحة الضرائب"
+      },
+      {
+        "w": "endurecer",
+        "m_en": "to tighten",
+        "m_ar": "يشدّد"
+      }
+    ],
+    "grammar_en": "\"Hacienda\" (with a capital H) means the tax authority in Spain.",
+    "grammar_ar": "«Hacienda» (بحرف كبير) تعني مصلحة الضرائب في إسبانيا.",
+    "alternatives": [
+      {
+        "text": "Hacienda ha reforzado los controles sobre operaciones sospechosas.",
+        "note_en": "\"Reforzar\" = to strengthen",
+        "note_ar": "«reforzar» = يعزّز"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7324,
+    "text": "El deterioro del planeta exige decisiones que no admiten más dilaciones.",
+    "translation_ar": "يتطلّب تدهور الكوكب قرارات لا تحتمل مزيدًا من التأجيل.",
+    "level": "C2",
+    "situation": "environment",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 216,
+    "videoId": null,
+    "transcriptContext": "El deterioro del planeta exige decisiones que no admiten más dilaciones.",
+    "pronunciation": "إل ديتيريورو ديل پلانيتا إكسيخي ديسيسيونيس كيه نو أدميتين ماس ديلاسيونيس.",
+    "words": [
+      {
+        "w": "deterioro",
+        "m_en": "deterioration",
+        "m_ar": "تدهور"
+      },
+      {
+        "w": "dilación",
+        "m_en": "delay",
+        "m_ar": "تأجيل"
+      }
+    ],
+    "grammar_en": "\"Que no admiten\" is a relative clause: \"that do not allow\".",
+    "grammar_ar": "«que no admiten» جملة موصولة: «التي لا تسمح».",
+    "alternatives": [
+      {
+        "text": "Hay que decidir ya, sin más demoras.",
+        "note_en": "We must decide now",
+        "note_ar": "يجب أن نقرّر الآن دون مزيد من التأخير"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7325,
+    "text": "El equilibrio psicofísico depende también de la calidad del descanso.",
+    "translation_ar": "يتوقّف التوازن النفسي والجسدي أيضًا على جودة الراحة.",
+    "level": "C2",
+    "situation": "health",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 233,
+    "videoId": null,
+    "transcriptContext": "El equilibrio psicofísico depende también de la calidad del descanso.",
+    "pronunciation": "إل إكيليبريو سيكوفيسيكو ديپيندي تامبيين ديه لا كاليداد ديل ديسكانسو.",
+    "words": [
+      {
+        "w": "psicofísico",
+        "m_en": "psychophysical",
+        "m_ar": "نفسي جسدي"
+      },
+      {
+        "w": "descanso",
+        "m_en": "rest",
+        "m_ar": "راحة"
+      }
+    ],
+    "grammar_en": "\"Psicofísico\" combines \"psico-\" (mind) and \"físico\" (body).",
+    "grammar_ar": "تجمع «psicofísico» «psico-» (النفس) و«físico» (الجسد).",
+    "alternatives": [
+      {
+        "text": "El descanso también influye en el equilibrio psicofísico.",
+        "note_en": "\"Influir en\" = to affect",
+        "note_ar": "«influir en» = يؤثّر في"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7326,
+    "text": "La escuela debería formar ciudadanos críticos, no meros ejecutores.",
+    "translation_ar": "ينبغي أن تُكوّن المدرسة مواطنين نقديّين لا مجرّد منفّذين.",
+    "level": "C2",
+    "situation": "education",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 10,
+    "videoId": null,
+    "transcriptContext": "La escuela debería formar ciudadanos críticos, no meros ejecutores.",
+    "pronunciation": "لا إسكويلا ديبيريا فورمار سيودادانوس كريتيكوس، نو ميروس إخيكوتوريس.",
+    "words": [
+      {
+        "w": "formar",
+        "m_en": "to form, to train",
+        "m_ar": "يُكوّن"
+      },
+      {
+        "w": "mero",
+        "m_en": "mere",
+        "m_ar": "مجرّد"
+      }
+    ],
+    "grammar_en": "\"Mero\" means \"mere\" and comes before the noun.",
+    "grammar_ar": "تعني «mero» «مجرّد» وتأتي قبل الاسم.",
+    "alternatives": [
+      {
+        "text": "La escuela debería formar personas capaces de pensar.",
+        "note_en": "\"Capaces de pensar\"",
+        "note_ar": "«قادرة على التفكير»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7327,
+    "text": "Cada celebración es un pretexto para redescubrir lo que nos une.",
+    "translation_ar": "كلّ احتفال ذريعة لإعادة اكتشاف ما يجمعنا.",
+    "level": "C2",
+    "situation": "celebrations",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 27,
+    "videoId": null,
+    "transcriptContext": "Cada celebración es un pretexto para redescubrir lo que nos une.",
+    "pronunciation": "كادا سيليبراسيون إس أون پريتيكستو پارا ريديسكوبرير لو كيه نوس أوني.",
+    "words": [
+      {
+        "w": "pretexto",
+        "m_en": "pretext",
+        "m_ar": "ذريعة"
+      },
+      {
+        "w": "redescubrir",
+        "m_en": "to rediscover",
+        "m_ar": "يعيد اكتشاف"
+      }
+    ],
+    "grammar_en": "\"Nos\" here is the object \"us\": \"lo que nos une\".",
+    "grammar_ar": "«nos» هنا ضمير المفعول: «lo que nos une».",
+    "alternatives": [
+      {
+        "text": "Toda fiesta es una ocasión para reencontrar lo que nos une.",
+        "note_en": "\"Reencontrar\" = to find again",
+        "note_ar": "«reencontrar» = يجد من جديد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 7328,
+    "text": "El pluralismo es una conquista frágil que hay que defender a diario.",
+    "translation_ar": "التعدّديّة مكسب هشّ ينبغي الدفاع عنه يوميًّا.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 44,
+    "videoId": null,
+    "transcriptContext": "El pluralismo es una conquista frágil que hay que defender a diario.",
+    "pronunciation": "إل پلوراليسمو إس أونا كونكيستا فراخيل كيه آي كيه ديفيندير آ ديياريو.",
+    "words": [
+      {
+        "w": "conquista",
+        "m_en": "achievement",
+        "m_ar": "مكسب"
+      },
+      {
+        "w": "frágil",
+        "m_en": "fragile",
+        "m_ar": "هشّ"
+      }
+    ],
+    "grammar_en": "\"Hay que\" + infinitive means \"one must\".",
+    "grammar_ar": "«hay que» + المصدر = «يجب».",
+    "alternatives": [
+      {
+        "text": "El pluralismo debe defenderse cada día.",
+        "note_en": "\"Debe defenderse\"",
+        "note_ar": "«debe defenderse» = يجب الدفاع عنه"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  },
+  {
+    "id": 7329,
+    "text": "Nos corresponde a nosotros decidir qué memoria queremos dejar.",
+    "translation_ar": "يعود إلينا نحن أن نقرّر أيّ ذاكرة نريد أن نتركها.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "ES",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (ES)",
+    "timestamp": 61,
+    "videoId": null,
+    "transcriptContext": "Nos corresponde a nosotros decidir qué memoria queremos dejar.",
+    "pronunciation": "نوس كوريسپونديه آ نوسوتروس ديسيدير كيه ميموريا كيريموس ديخار.",
+    "words": [
+      {
+        "w": "corresponder",
+        "m_en": "to be up to",
+        "m_ar": "يعود إلى"
+      },
+      {
+        "w": "dejar",
+        "m_en": "to leave",
+        "m_ar": "يترك"
+      }
+    ],
+    "grammar_en": "\"Nos corresponde\" means \"it's up to us\".",
+    "grammar_ar": "«nos corresponde» = الأمر متروك لنا.",
+    "alternatives": [
+      {
+        "text": "Depende de nosotros elegir qué memoria dejar.",
+        "note_en": "\"Depender de\"",
+        "note_ar": "«depender de» = يتوقّف على"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
   }
 ]
