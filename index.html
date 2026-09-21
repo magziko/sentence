@@ -1018,6 +1018,7 @@ const State = {
   theme: localStorage.getItem('sg_theme') || 'light',
   level: 'all',
   variety: 'all',
+  situation: '',
   currentQuery: '',
   currentResults: [],
   currentSimilar: [],
@@ -1099,6 +1100,83 @@ function situationQuery(item){
   if(State.learnLang!=='de') return item.q;
   const match = DEMO_SENTENCES_EN.find(s=>s.text===item.q);
   return (match && match.translation_de) ? match.translation_de : item.q;
+}
+
+/* ---------------------------------------------------------------------- */
+/* PRACTICE BY SITUATION — data-driven filter                               */
+/* Learning languages listed here don't have their situation prompts        */
+/* translated (situationQuery() would just search the English prompt), so   */
+/* their cards are built straight from each sentence's own `situation`      */
+/* field: pick a situation (+ optional CEFR level) and the matching         */
+/* sentences are listed. Add 'fr', 'ru', 'es' or 'de' here to switch a      */
+/* language over once its dataset carries the same `situation` keys.        */
+/* ---------------------------------------------------------------------- */
+const SITUATION_FILTER_LANGS = ['it'];
+const SITUATION_LEVELS = ['A1','A2','B1','B2','C1','C2'];
+const SITUATION_COUNT_WORD = {ar:'جملة', de:'Sätze', fr:'phrases', en:'sentences'};
+/* Situations that exist in the datasets but have no card in SITUATIONS. */
+const EXTRA_SITUATIONS = {
+  society:{en:"Society & Ideas", ar:"المجتمع والأفكار", de:"Gesellschaft & Ideen", icon:"🏛️"},
+  time:{en:"Time & Dates", ar:"الوقت والتواريخ", de:"Zeit & Datum", icon:"🕒"}
+};
+function situationMeta(key){
+  return SITUATIONS[key] || EXTRA_SITUATIONS[key] || {en:key, icon:'💬'};
+}
+function browseBySituation(key){
+  const pool = DEMO_SENTENCES
+    .filter(s => s.situation === key)
+    .filter(s => State.level==='all' || s.level===State.level)
+    .filter(s => State.variety==='all' || s.variety===State.variety)
+    .sort((a,b) => SITUATION_LEVELS.indexOf(a.level) - SITUATION_LEVELS.indexOf(b.level));
+  State.currentQuery = '';
+  State.situation = key;
+  State.currentResults = pool.map(s=>({sentence:s, score:1}));
+  State.currentSimilar = [];
+  const meta = situationMeta(key);
+  const levelPart = State.level==='all' ? '' : ` · ${State.level}`;
+  document.getElementById('searchInput').value = '';
+  document.getElementById('yourSentenceText').textContent = `${meta.icon} ${meta[State.lang]||meta.en}${levelPart}`;
+  document.getElementById('results-section').classList.add('show');
+  const note = document.getElementById('youglishNote');
+  if(note) note.textContent = '';
+  const mount = document.getElementById('youglishMount');
+  if(mount) mount.innerHTML = '';
+  renderResults();
+  renderSimilar();
+  hideSuggestions();
+  window.scrollTo({top: document.getElementById('results-section').offsetTop - 70, behavior:'smooth'});
+}
+function renderSituationsByData(grid){
+  const keys = [...Object.keys(SITUATIONS), ...Object.keys(EXTRA_SITUATIONS)];
+  keys.forEach(key=>{
+    const pool = DEMO_SENTENCES.filter(s => s.situation === key);
+    if(!pool.length) return;
+    const meta = situationMeta(key);
+    const card = document.createElement('div');
+    card.className = 'situation-card';
+    card.innerHTML = `
+      <h3>${meta.icon} ${meta[State.lang]||meta.en}</h3>
+      <div class="count">${pool.length} ${SITUATION_COUNT_WORD[State.lang]||SITUATION_COUNT_WORD.en}</div>
+      <ul class="situation-list"></ul>`;
+    const list = card.querySelector('.situation-list');
+    const options = [['all', pool.length]].concat(
+      SITUATION_LEVELS.map(lv => [lv, pool.filter(s => s.level===lv).length]).filter(o => o[1] > 0)
+    );
+    options.forEach(([lv, n])=>{
+      const li = document.createElement('li');
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.textContent = `${lv==='all' ? t('allLevels') : lv} (${n})`;
+      b.addEventListener('click', ()=>{
+        State.level = lv;
+        renderLevelPills();
+        browseBySituation(key);
+      });
+      li.appendChild(b);
+      list.appendChild(li);
+    });
+    grid.appendChild(card);
+  });
 }
 
 const SITUATIONS = {
@@ -1888,6 +1966,7 @@ function renderExamples(){
 function renderSituations(){
   const grid = document.getElementById('situationsGrid');
   grid.innerHTML = '';
+  if(SITUATION_FILTER_LANGS.includes(State.learnLang)){ renderSituationsByData(grid); return; }
   Object.keys(SITUATIONS).forEach(key=>{
     const sit = SITUATIONS[key];
     const seenSituationQueries = new Set();
@@ -1947,7 +2026,7 @@ function renderLevelPills(){
     p.addEventListener('click', ()=>{
       State.level = p.dataset.level;
       renderLevelPills();
-      if(State.currentQuery){ runSearch(State.currentQuery); } else { browseByLevel(State.level); }
+      if(State.currentQuery){ runSearch(State.currentQuery); } else if(State.situation){ browseBySituation(State.situation); } else { browseByLevel(State.level); }
     });
   });
 }
@@ -1955,6 +2034,7 @@ function renderLevelPills(){
    Triggered by the level pills, which now live outside the results
    section so they're visible and usable from the first page load. */
 function browseByLevel(level){
+  State.situation = '';
   const pool = DEMO_SENTENCES
     .filter(s => level==='all' || s.level===level)
     .filter(s => State.variety==='all' || s.variety===State.variety);
@@ -1991,7 +2071,7 @@ function renderVarietyPills(){
     p.addEventListener('click', ()=>{
       State.variety = p.dataset.variety;
       renderVarietyPills();
-      if(State.currentQuery){ runSearch(State.currentQuery); } else { browseByLevel(State.level); }
+      if(State.currentQuery){ runSearch(State.currentQuery); } else if(State.situation){ browseBySituation(State.situation); } else { browseByLevel(State.level); }
     });
   });
 }
@@ -2132,6 +2212,7 @@ function renderHistory(){
 function runSearch(query){
   query = (query||'').trim();
   if(!query) return;
+  State.situation = '';
   State.currentQuery = query;
   State.currentResults = searchSentence(query);
   State.currentSimilar = findSimilarSentences(query, DEMO_SENTENCES, 6)
@@ -2578,7 +2659,7 @@ function applyLearnLang(){
   State.favorites = JSON.parse(localStorage.getItem('sg_favorites_' + State.learnLang) || '[]');
   State.history = JSON.parse(localStorage.getItem('sg_history_' + State.learnLang) || '[]');
   State.currentQuery=''; State.currentResults=[]; State.currentSimilar=[]; State.activeSentence=null;
-  State.level='all'; State.variety='all';
+  State.level='all'; State.variety='all'; State.situation='';
   document.getElementById('results-section').classList.remove('show');
   closeDetail();
   ygWidget = null; // force a fresh widget instance bound to the new language
