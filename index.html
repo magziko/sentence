@@ -1110,14 +1110,16 @@ function situationQuery(item){
 /* field: pick a situation (+ optional CEFR level) and the matching         */
 /* sentences are listed. Add 'fr', 'ru', 'es' or 'de' here to switch a      */
 /* language over once its dataset carries the same `situation` keys.        */
+/* English keeps its hand-written prompt cards (they search English text).  */
 /* ---------------------------------------------------------------------- */
-const SITUATION_FILTER_LANGS = ['it'];
+const SITUATION_FILTER_LANGS = ['it','de','fr','ru','es'];
 const SITUATION_LEVELS = ['A1','A2','B1','B2','C1','C2'];
 const SITUATION_COUNT_WORD = {ar:'جملة', de:'Sätze', fr:'phrases', en:'sentences'};
 /* Situations that exist in the datasets but have no card in SITUATIONS. */
 const EXTRA_SITUATIONS = {
   society:{en:"Society & Ideas", ar:"المجتمع والأفكار", de:"Gesellschaft & Ideen", icon:"🏛️"},
-  time:{en:"Time & Dates", ar:"الوقت والتواريخ", de:"Zeit & Datum", icon:"🕒"}
+  time:{en:"Time & Dates", ar:"الوقت والتواريخ", de:"Zeit & Datum", icon:"🕒"},
+  communication:{en:"Communication", ar:"التواصل", de:"Kommunikation", icon:"💬"}
 };
 function situationMeta(key){
   return SITUATIONS[key] || EXTRA_SITUATIONS[key] || {en:key, icon:'💬'};
