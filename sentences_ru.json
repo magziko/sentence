@@ -6,9 +6,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 5,
     "videoId": null,
     "transcriptContext": "Здравствуйте!",
     "pronunciation": "زدراستفويتيه!",
@@ -28,7 +28,8 @@
         "note_ar": "غير رسمي بين الأصدقاء"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5002,
@@ -37,9 +38,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 22,
     "videoId": null,
     "transcriptContext": "Добрый вечер!",
     "pronunciation": "دوبري ڤيتشير!",
@@ -59,7 +60,8 @@
         "note_ar": "تُقال عند الوداع"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5003,
@@ -68,9 +70,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 39,
     "videoId": null,
     "transcriptContext": "Спокойной ночи!",
     "pronunciation": "سپاكويناي نوتشي!",
@@ -90,7 +92,8 @@
         "note_ar": "أحلامًا سعيدة"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5004,
@@ -99,9 +102,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 56,
     "videoId": null,
     "transcriptContext": "Спасибо!",
     "pronunciation": "سپاسيبا!",
@@ -121,7 +124,8 @@
         "note_ar": "شكرًا جزيلًا"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5005,
@@ -130,9 +134,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 73,
     "videoId": null,
     "transcriptContext": "Пожалуйста.",
     "pronunciation": "پاجالوستا.",
@@ -152,7 +156,8 @@
         "note_ar": "طلب مهذب"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5006,
@@ -161,9 +166,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 90,
     "videoId": null,
     "transcriptContext": "Да, пожалуйста.",
     "pronunciation": "دا، پاجالوستا.",
@@ -183,7 +188,8 @@
         "note_ar": "نعم، بكل سرور"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5007,
@@ -192,9 +198,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 107,
     "videoId": null,
     "transcriptContext": "Нет, спасибо.",
     "pronunciation": "نيت، سپاسيبا.",
@@ -214,7 +220,8 @@
         "note_ar": "أكثر مباشرة"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5008,
@@ -223,9 +230,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 124,
     "videoId": null,
     "transcriptContext": "Извините!",
     "pronunciation": "إزڤينيتيه!",
@@ -245,7 +252,8 @@
         "note_ar": "أكثر رسمية قليلًا"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5009,
@@ -254,9 +262,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 141,
     "videoId": null,
     "transcriptContext": "До свидания!",
     "pronunciation": "دا سڤيدانيا!",
@@ -276,7 +284,8 @@
         "note_ar": "وداع عامي"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5010,
@@ -285,9 +294,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 158,
     "videoId": null,
     "transcriptContext": "До завтра!",
     "pronunciation": "دا زافترا!",
@@ -307,7 +316,8 @@
         "note_ar": "أراك قريبًا"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5011,
@@ -316,9 +326,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 175,
     "videoId": null,
     "transcriptContext": "Как вы поживаете?",
     "pronunciation": "كاك ڤي پاجيڤايتيه؟",
@@ -338,7 +348,8 @@
         "note_ar": "كيف الأحوال؟"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5012,
@@ -347,9 +358,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 192,
     "videoId": null,
     "transcriptContext": "У меня всё хорошо, спасибо.",
     "pronunciation": "أو مينيا ڤسيو خاراشو، سپاسيبا.",
@@ -369,7 +380,8 @@
         "note_ar": "كل شيء على ما يرام"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 2
   },
   {
     "id": 5013,
@@ -378,9 +390,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 209,
     "videoId": null,
     "transcriptContext": "Как тебя зовут?",
     "pronunciation": "كاك تيبيا زاڤوت؟",
@@ -400,7 +412,8 @@
         "note_ar": "ما اسمك؟"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5014,
@@ -409,9 +422,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 226,
     "videoId": null,
     "transcriptContext": "Меня зовут Сара.",
     "pronunciation": "مينيا زاڤوت سارا.",
@@ -431,7 +444,8 @@
         "note_ar": "أنا سارة"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5015,
@@ -440,9 +454,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 3,
     "videoId": null,
     "transcriptContext": "Очень приятно!",
     "pronunciation": "أوتشين پريياتنا!",
@@ -462,7 +476,8 @@
         "note_ar": "سعيد بلقائك"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5016,
@@ -471,9 +486,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 20,
     "videoId": null,
     "transcriptContext": "Откуда вы?",
     "pronunciation": "أتكودا ڤي؟",
@@ -493,7 +508,8 @@
         "note_ar": "من أي بلد أنت أصلًا؟"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5017,
@@ -502,9 +518,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 37,
     "videoId": null,
     "transcriptContext": "Я из Египта.",
     "pronunciation": "يا إز إيجيپتا.",
@@ -524,7 +540,8 @@
         "note_ar": "أنا مصري"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5018,
@@ -533,9 +550,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 54,
     "videoId": null,
     "transcriptContext": "Который час?",
     "pronunciation": "كاتوري تشاس؟",
@@ -555,7 +572,8 @@
         "note_ar": "كم الوقت؟"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5019,
@@ -564,9 +582,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 71,
     "videoId": null,
     "transcriptContext": "Я не понимаю.",
     "pronunciation": "يا نيه پانيمايو.",
@@ -586,7 +604,8 @@
         "note_ar": "لا أفهمك"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5020,
@@ -595,9 +614,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 88,
     "videoId": null,
     "transcriptContext": "Повторите, пожалуйста.",
     "pronunciation": "پافتاريتيه، پاجالوستا.",
@@ -617,7 +636,8 @@
         "note_ar": "هل يمكنك التكرار؟"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5021,
@@ -626,9 +646,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 105,
     "videoId": null,
     "transcriptContext": "Я хотел бы кофе, пожалуйста.",
     "pronunciation": "يا خاتيل بي كوفيه، پاجالوستا.",
@@ -648,7 +668,8 @@
         "note_ar": "قهوة من فضلك"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 2
   },
   {
     "id": 5022,
@@ -657,9 +678,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 122,
     "videoId": null,
     "transcriptContext": "Сколько это стоит?",
     "pronunciation": "سكولكا إتا ستويت؟",
@@ -679,7 +700,8 @@
         "note_ar": "بكم؟"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5023,
@@ -688,9 +710,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 139,
     "videoId": null,
     "transcriptContext": "Где туалет?",
     "pronunciation": "گدييه توالييت؟",
@@ -710,7 +732,8 @@
         "note_ar": "أين دورة المياه هنا؟"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5024,
@@ -719,9 +742,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 156,
     "videoId": null,
     "transcriptContext": "Мне очень жаль.",
     "pronunciation": "منييه أوتشين جال.",
@@ -741,7 +764,8 @@
         "note_ar": "اعذرني"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5025,
@@ -750,9 +774,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 173,
     "videoId": null,
     "transcriptContext": "Ничего страшного.",
     "pronunciation": "نيتشيڤو ستراشنافا.",
@@ -772,7 +796,8 @@
         "note_ar": "مختصرة وعامية"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5026,
@@ -781,9 +806,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 190,
     "videoId": null,
     "transcriptContext": "Я хочу есть.",
     "pronunciation": "يا خاتشو يست.",
@@ -803,7 +828,8 @@
         "note_ar": "أنا جائع"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5027,
@@ -812,9 +838,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 207,
     "videoId": null,
     "transcriptContext": "Я хочу пить.",
     "pronunciation": "يا خاتشو پيت.",
@@ -834,7 +860,8 @@
         "note_ar": "أشعر بالعطش"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5028,
@@ -843,9 +870,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 224,
     "videoId": null,
     "transcriptContext": "Мне нужна помощь.",
     "pronunciation": "منييه نوجنا پوموش.",
@@ -865,7 +892,8 @@
         "note_ar": "ساعدوني من فضلكم!"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5029,
@@ -874,9 +902,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 1,
     "videoId": null,
     "transcriptContext": "Я не знаю.",
     "pronunciation": "يا نيه زنايو.",
@@ -896,7 +924,8 @@
         "note_ar": "ليست لدي أدنى فكرة"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5030,
@@ -905,9 +934,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 18,
     "videoId": null,
     "transcriptContext": "Вы говорите по-английски?",
     "pronunciation": "ڤي گاڤاريتيه پا-أنگليسكي؟",
@@ -927,7 +956,8 @@
         "note_ar": "غير رسمي"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5031,
@@ -936,9 +966,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 35,
     "videoId": null,
     "transcriptContext": "Я немного говорю по-русски.",
     "pronunciation": "يا نيمنوگا گاڤاريو پا-روسكي.",
@@ -958,7 +988,8 @@
         "note_ar": "أتحدث الروسية بشكل ضعيف"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 2
   },
   {
     "id": 5032,
@@ -967,9 +998,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 52,
     "videoId": null,
     "transcriptContext": "Сколько вам лет?",
     "pronunciation": "سكولكا ڤام ليت؟",
@@ -989,7 +1020,8 @@
         "note_ar": "غير رسمي"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5033,
@@ -998,9 +1030,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 69,
     "videoId": null,
     "transcriptContext": "Мне двадцать пять лет.",
     "pronunciation": "منييه دڤاتسات پيات ليت.",
@@ -1020,7 +1052,8 @@
         "note_ar": "صيغة مختصرة"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 2
   },
   {
     "id": 5034,
@@ -1029,9 +1062,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 86,
     "videoId": null,
     "transcriptContext": "Какая сегодня погода?",
     "pronunciation": "كاكايا سيڤودنيا پاگودا؟",
@@ -1051,7 +1084,8 @@
         "note_ar": "كيف الطقس؟"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5035,
@@ -1060,9 +1094,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 103,
     "videoId": null,
     "transcriptContext": "Сегодня хорошая погода.",
     "pronunciation": "سيڤودنيا خاراشايا پاگودا.",
@@ -1082,7 +1116,8 @@
         "note_ar": "الجو دافئ جدًا اليوم"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5036,
@@ -1091,9 +1126,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 120,
     "videoId": null,
     "transcriptContext": "Я живу в Москве.",
     "pronunciation": "يا جيڤو ڤ ماسكڤيه.",
@@ -1113,7 +1148,8 @@
         "note_ar": "أسكن في القاهرة"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 2
   },
   {
     "id": 5037,
@@ -1122,9 +1158,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 137,
     "videoId": null,
     "transcriptContext": "Кем вы работаете?",
     "pronunciation": "كيم ڤي رابوتايتيه؟",
@@ -1144,7 +1180,8 @@
         "note_ar": "ما مهنتك؟"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5038,
@@ -1153,9 +1190,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 154,
     "videoId": null,
     "transcriptContext": "Я студент.",
     "pronunciation": "يا ستوديينت.",
@@ -1175,7 +1212,8 @@
         "note_ar": "أنا طالبة"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5039,
@@ -1184,9 +1222,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 171,
     "videoId": null,
     "transcriptContext": "Вы можете мне помочь, пожалуйста?",
     "pronunciation": "ڤي موجيتيه منييه پاموتش، پاجالوستا؟",
@@ -1206,7 +1244,8 @@
         "note_ar": "غير رسمي"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 2
   },
   {
     "id": 5040,
@@ -1215,9 +1254,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 188,
     "videoId": null,
     "transcriptContext": "Где вокзал?",
     "pronunciation": "گدييه ڤاكزال؟",
@@ -1237,7 +1276,8 @@
         "note_ar": "كيف أصل إلى المحطة؟"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5041,
@@ -1246,9 +1286,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 205,
     "videoId": null,
     "transcriptContext": "Это налево.",
     "pronunciation": "إتا ناليڤا.",
@@ -1268,7 +1308,8 @@
         "note_ar": "اذهب يسارًا"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5042,
@@ -1277,9 +1318,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 222,
     "videoId": null,
     "transcriptContext": "Это направо.",
     "pronunciation": "إتا نابراڤا.",
@@ -1299,7 +1340,8 @@
         "note_ar": "اذهب يمينًا"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5043,
@@ -1308,9 +1350,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 239,
     "videoId": null,
     "transcriptContext": "Прямо.",
     "pronunciation": "پريما.",
@@ -1330,7 +1372,8 @@
         "note_ar": "اذهب مباشرة"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5044,
@@ -1339,9 +1382,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 16,
     "videoId": null,
     "transcriptContext": "Я хотел бы заказать столик.",
     "pronunciation": "يا خاتيل بي زاكازات ستوليك.",
@@ -1361,7 +1404,8 @@
         "note_ar": "أريد حجز طاولة"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 2
   },
   {
     "id": 5045,
@@ -1370,9 +1414,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 33,
     "videoId": null,
     "transcriptContext": "Счёт, пожалуйста.",
     "pronunciation": "شيوت، پاجالوستا.",
@@ -1392,7 +1436,8 @@
         "note_ar": "هل يمكنني الحصول على الفاتورة؟"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5046,
@@ -1401,9 +1446,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 50,
     "videoId": null,
     "transcriptContext": "Очень вкусно!",
     "pronunciation": "أوتشين ڤكوسنا!",
@@ -1423,7 +1468,8 @@
         "note_ar": "هذا لذيذ جدًا!"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5047,
@@ -1432,9 +1478,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 67,
     "videoId": null,
     "transcriptContext": "Я устал.",
     "pronunciation": "يا أوستال.",
@@ -1454,7 +1500,8 @@
         "note_ar": "أنا متعبة جدًا"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5048,
@@ -1463,9 +1510,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 84,
     "videoId": null,
     "transcriptContext": "У меня болит голова.",
     "pronunciation": "أو مينيا بالييت گالاڤا.",
@@ -1485,7 +1532,8 @@
         "note_ar": "رأسي يؤلمني"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 2
   },
   {
     "id": 5049,
@@ -1494,9 +1542,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 101,
     "videoId": null,
     "transcriptContext": "Вызовите врача, пожалуйста!",
     "pronunciation": "ڤيزاڤيتيه ڤراتشا، پاجالوستا!",
@@ -1516,7 +1564,8 @@
         "note_ar": "أحتاج إلى طبيب!"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
   },
   {
     "id": 5050,
@@ -1525,9 +1574,9 @@
     "level": "A1",
     "situation": "social",
     "variety": "RU",
-    "channel": "demo",
+    "channel": "SentenceGlish Practice",
     "speaker": "Native speaker (RU)",
-    "timestamp": 0,
+    "timestamp": 118,
     "videoId": null,
     "transcriptContext": "Хорошего дня!",
     "pronunciation": "خاراشيڤا دنيا!",
@@ -1547,6 +1596,5002 @@
         "note_ar": "كل الخير"
       }
     ],
-    "similar": []
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 5051,
+    "text": "Я встаю в семь часов.",
+    "translation_ar": "أستيقظ في السابعة.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 135,
+    "videoId": null,
+    "transcriptContext": "Я встаю в семь часов.",
+    "pronunciation": "يا ڤستايو ڤ سيم چاسوڤ.",
+    "words": [
+      {
+        "w": "вставать",
+        "m_en": "to get up",
+        "m_ar": "ينهض / يستيقظ"
+      },
+      {
+        "w": "семь",
+        "m_en": "seven",
+        "m_ar": "سبعة"
+      }
+    ],
+    "grammar_en": "Russian verbs already show the subject through their ending, but the pronoun \"я\" is still normally used.",
+    "grammar_ar": "يدلّ الفعل الروسي على الفاعل من خلال لاحقته، لكن الضمير «я» يُستعمل عادةً رغم ذلك.",
+    "alternatives": [
+      {
+        "text": "Я просыпаюсь в семь.",
+        "note_en": "I wake up at seven",
+        "note_ar": "أستيقظ في السابعة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5052,
+    "text": "После работы я иду в спортзал.",
+    "translation_ar": "بعد العمل أذهب إلى النادي الرياضي.",
+    "level": "A2",
+    "situation": "daily",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 152,
+    "videoId": null,
+    "transcriptContext": "После работы я иду в спортзал.",
+    "pronunciation": "پوسليه رابوتي يا إيدو ڤ سپارتزال.",
+    "words": [
+      {
+        "w": "после",
+        "m_en": "after",
+        "m_ar": "بعد"
+      },
+      {
+        "w": "спортзал",
+        "m_en": "gym",
+        "m_ar": "نادٍ رياضي"
+      }
+    ],
+    "grammar_en": "\"После\" is followed by the genitive case: \"после работы\".",
+    "grammar_ar": "يليها حالة المضاف إليه (родительный падеж): «после работы».",
+    "alternatives": [
+      {
+        "text": "Я хожу в спортзал после работы.",
+        "note_en": "Reordered",
+        "note_ar": "بترتيب آخر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5053,
+    "text": "У меня привычка ложиться рано, потому что я рано встаю.",
+    "translation_ar": "اعتدتُ النوم مبكرًا لأنني أستيقظ مبكرًا.",
+    "level": "B1",
+    "situation": "daily",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 169,
+    "videoId": null,
+    "transcriptContext": "У меня привычка ложиться рано, потому что я рано встаю.",
+    "pronunciation": "أو مينيا پريڤيتشكا لاجيتسيا رانا، پاتاموشتا يا رانا ڤستايو.",
+    "words": [
+      {
+        "w": "привычка",
+        "m_en": "habit",
+        "m_ar": "عادة"
+      },
+      {
+        "w": "рано",
+        "m_en": "early",
+        "m_ar": "مبكرًا"
+      }
+    ],
+    "grammar_en": "\"У меня привычка\" means \"I have a habit\" (literally \"by me there is a habit\").",
+    "grammar_ar": "تعني «у меня привычка» «لديّ عادة» (حرفيًّا: «عندي عادة»).",
+    "alternatives": [
+      {
+        "text": "Обычно я рано ложусь спать.",
+        "note_en": "\"Обычно\" = usually",
+        "note_ar": "«обычно» = عادةً"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 5054,
+    "text": "Мне трудно привыкать к изменениям в распорядке дня.",
+    "translation_ar": "أجد صعوبة في التكيّف مع تغيّر الروتين اليومي.",
+    "level": "B2",
+    "situation": "daily",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 186,
+    "videoId": null,
+    "transcriptContext": "Мне трудно привыкать к изменениям в распорядке дня.",
+    "pronunciation": "منييه تروندا پريفيكات ك إيزمينينيام ڤ راسپاريادكيه دنيا.",
+    "words": [
+      {
+        "w": "привыкать к",
+        "m_en": "to get used to",
+        "m_ar": "يعتاد على"
+      },
+      {
+        "w": "изменение",
+        "m_en": "change",
+        "m_ar": "تغيّر"
+      }
+    ],
+    "grammar_en": "\"Мне трудно\" + infinitive means \"it's hard for me to\".",
+    "grammar_ar": "«мне трудно» + المصدر = «يصعب عليّ».",
+    "alternatives": [
+      {
+        "text": "Я тяжело адаптируюсь к переменам.",
+        "note_en": "\"Тяжело\" = with difficulty",
+        "note_ar": "«тяжело» = بصعوبة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5055,
+    "text": "Как прошли выходные?",
+    "translation_ar": "كيف كانت عطلة نهاية الأسبوع؟",
+    "level": "A2",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 203,
+    "videoId": null,
+    "transcriptContext": "Как прошли выходные?",
+    "pronunciation": "كاك پراشلي ڤيخادنييه؟",
+    "words": [
+      {
+        "w": "выходные",
+        "m_en": "weekend",
+        "m_ar": "عطلة نهاية الأسبوع"
+      },
+      {
+        "w": "пройти",
+        "m_en": "to go, to pass",
+        "m_ar": "يمرّ / يمضي"
+      }
+    ],
+    "grammar_en": "\"Как прошли\" asks how something went (past tense of \"проходить\").",
+    "grammar_ar": "تسأل «как прошли» عن كيفيّة سير الأمر (ماضي «проходить»).",
+    "alternatives": [
+      {
+        "text": "Как вы провели выходные?",
+        "note_en": "How did you spend the weekend?",
+        "note_ar": "كيف قضيتَ عطلتك؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5056,
+    "text": "Вы не против, если я здесь сяду?",
+    "translation_ar": "هل تمانع أن أجلس هنا؟",
+    "level": "B1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 220,
+    "videoId": null,
+    "transcriptContext": "Вы не против, если я здесь сяду?",
+    "pronunciation": "ڤي نيه پروتيف، يسلي يا زديس سيادو؟",
+    "words": [
+      {
+        "w": "против",
+        "m_en": "against, opposed",
+        "m_ar": "ضدّ / يمانع"
+      },
+      {
+        "w": "сесть",
+        "m_en": "to sit down",
+        "m_ar": "يجلس"
+      }
+    ],
+    "grammar_en": "\"Не против\" + \"если\" is a polite way to ask permission.",
+    "grammar_ar": "«не против» + «если» طريقة مهذّبة لطلب الإذن.",
+    "alternatives": [
+      {
+        "text": "Можно мне здесь сесть?",
+        "note_en": "Can I sit here?",
+        "note_ar": "هل يمكنني الجلوس هنا؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 5057,
+    "text": "Мы давно не виделись!",
+    "translation_ar": "مضى وقت طويل لم نلتقِ فيه!",
+    "level": "B1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 237,
+    "videoId": null,
+    "transcriptContext": "Мы давно не виделись!",
+    "pronunciation": "مي دافنا نيه ڤيدييليس!",
+    "words": [
+      {
+        "w": "давно",
+        "m_en": "a long time ago",
+        "m_ar": "منذ زمن طويل"
+      },
+      {
+        "w": "видеться",
+        "m_en": "to see each other",
+        "m_ar": "يرى بعضهم بعضًا"
+      }
+    ],
+    "grammar_en": "\"Давно не\" + past tense describes a long gap since something last happened.",
+    "grammar_ar": "يصف «давно не» + الماضي فجوة زمنيّة طويلة منذ آخر مرّة.",
+    "alternatives": [
+      {
+        "text": "Сколько лет, сколько зим!",
+        "note_en": "Long time no see! (idiom)",
+        "note_ar": "مضى وقت طويل! (تعبير مسكوكّ)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5058,
+    "text": "Я искренне благодарю вас за любезное приглашение.",
+    "translation_ar": "أشكركم بصدق على دعوتكم الكريمة.",
+    "level": "C1",
+    "situation": "social",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 14,
+    "videoId": null,
+    "transcriptContext": "Я искренне благодарю вас за любезное приглашение.",
+    "pronunciation": "يا إسكرينّيه بلاغادريو ڤاس زا ليوبيزنايه پريگلاشينييه.",
+    "words": [
+      {
+        "w": "благодарить",
+        "m_en": "to thank",
+        "m_ar": "يشكر"
+      },
+      {
+        "w": "любезный",
+        "m_en": "kind",
+        "m_ar": "كريم / لطيف"
+      }
+    ],
+    "grammar_en": "\"Благодарить\" takes the accusative for the person and \"за\" + accusative for the reason.",
+    "grammar_ar": "يأخذ «благодарить» حالة المفعول به للشخص و«за» + المفعول به للسبب.",
+    "alternatives": [
+      {
+        "text": "Большое спасибо за приглашение.",
+        "note_en": "Simpler",
+        "note_ar": "أبسط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5059,
+    "text": "У меня два брата.",
+    "translation_ar": "لديّ أخوان.",
+    "level": "A1",
+    "situation": "family",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 31,
+    "videoId": null,
+    "transcriptContext": "У меня два брата.",
+    "pronunciation": "أو مينيا دڤا براتا.",
+    "words": [
+      {
+        "w": "брат",
+        "m_en": "brother",
+        "m_ar": "أخ"
+      },
+      {
+        "w": "два",
+        "m_en": "two",
+        "m_ar": "اثنان"
+      }
+    ],
+    "grammar_en": "\"У меня\" + genitive means \"I have\" (literally \"by me there is\").",
+    "grammar_ar": "«у меня» + المضاف إليه = «لديّ» (حرفيًّا: «عندي»).",
+    "alternatives": [
+      {
+        "text": "У меня есть брат и сестра.",
+        "note_en": "I have a brother and a sister",
+        "note_ar": "لديّ أخ وأخت"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5060,
+    "text": "Моя бабушка очень хорошо готовит.",
+    "translation_ar": "جدّتي تطبخ بشكل ممتاز.",
+    "level": "A2",
+    "situation": "family",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 48,
+    "videoId": null,
+    "transcriptContext": "Моя бабушка очень хорошо готовит.",
+    "pronunciation": "مايا بابوشكا أوتشين خاراشو گاتوفيت.",
+    "words": [
+      {
+        "w": "бабушка",
+        "m_en": "grandmother",
+        "m_ar": "جدّة"
+      },
+      {
+        "w": "готовить",
+        "m_en": "to cook",
+        "m_ar": "يطبخ"
+      }
+    ],
+    "grammar_en": "\"Моя\" agrees with the feminine \"бабушка\".",
+    "grammar_ar": "تتطابق «моя» مع المؤنّث «бабушка».",
+    "alternatives": [
+      {
+        "text": "Моя бабушка отлично готовит.",
+        "note_en": "\"Отлично\" = excellently",
+        "note_ar": "«отлично» = ببراعة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5061,
+    "text": "Мои родители познакомились в университете.",
+    "translation_ar": "التقى والداي في الجامعة.",
+    "level": "B1",
+    "situation": "family",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 65,
+    "videoId": null,
+    "transcriptContext": "Мои родители познакомились в университете.",
+    "pronunciation": "مايي راديتيلي پازناكوميليس ڤ أونيڤيرسيتيتيه.",
+    "words": [
+      {
+        "w": "родители",
+        "m_en": "parents",
+        "m_ar": "والدان"
+      },
+      {
+        "w": "познакомиться",
+        "m_en": "to meet",
+        "m_ar": "يتعرّف / يلتقي"
+      }
+    ],
+    "grammar_en": "\"Познакомиться\" is reflexive and implies a mutual first meeting.",
+    "grammar_ar": "فعل «познакомиться» انعكاسي ويدلّ على تعارف متبادل أوّل.",
+    "alternatives": [
+      {
+        "text": "Мои родители встретились в институте.",
+        "note_en": "\"Институт\" = institute (informal for university)",
+        "note_ar": "«институт» = معهد (تُستعمل للجامعة أحيانًا)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5062,
+    "text": "Вся семья собирается вместе каждый раз, когда есть праздник.",
+    "translation_ar": "تجتمع العائلة كلّها كلّما كانت هناك مناسبة.",
+    "level": "B2",
+    "situation": "family",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 82,
+    "videoId": null,
+    "transcriptContext": "Вся семья собирается вместе каждый раз, когда есть праздник.",
+    "pronunciation": "ڤسيا سيميا سابيرايتسيا ڤمييستيه كاجدي راز، كاگدا يست پرازدنيك.",
+    "words": [
+      {
+        "w": "собираться",
+        "m_en": "to get together",
+        "m_ar": "يجتمع"
+      },
+      {
+        "w": "каждый раз",
+        "m_en": "every time",
+        "m_ar": "كلّ مرّة"
+      }
+    ],
+    "grammar_en": "\"Каждый раз, когда\" + present/future means \"every time that\".",
+    "grammar_ar": "«каждый раз, когда» + المضارع/المستقبل = «كلّ مرّة».",
+    "alternatives": [
+      {
+        "text": "Вся семья встречается на каждый праздник.",
+        "note_en": "\"Встречаться\" = to meet up",
+        "note_ar": "«встречаться» = يلتقي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5063,
+    "text": "В доме три спальни.",
+    "translation_ar": "للمنزل ثلاث غرف نوم.",
+    "level": "A1",
+    "situation": "home",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 99,
+    "videoId": null,
+    "transcriptContext": "В доме три спальни.",
+    "pronunciation": "ڤ دوميه تري سپالني.",
+    "words": [
+      {
+        "w": "спальня",
+        "m_en": "bedroom",
+        "m_ar": "غرفة نوم"
+      },
+      {
+        "w": "три",
+        "m_en": "three",
+        "m_ar": "ثلاثة"
+      }
+    ],
+    "grammar_en": "\"В доме\" + genitive-like construction: \"there are three bedrooms in the house\".",
+    "grammar_ar": "«в доме» + بنية شبيهة بالمضاف: «في المنزل ثلاث غرف نوم».",
+    "alternatives": [
+      {
+        "text": "У дома три спальни.",
+        "note_en": "There are three bedrooms in the house",
+        "note_ar": "للمنزل ثلاث غرف نوم"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5064,
+    "text": "Ванная находится в конце коридора.",
+    "translation_ar": "الحمّام في نهاية الممرّ.",
+    "level": "A2",
+    "situation": "home",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 116,
+    "videoId": null,
+    "transcriptContext": "Ванная находится в конце коридора.",
+    "pronunciation": "ڤانّايا ناخوديتسيا ڤ كانتسيه كاريدارا.",
+    "words": [
+      {
+        "w": "коридор",
+        "m_en": "corridor",
+        "m_ar": "ممرّ"
+      },
+      {
+        "w": "в конце",
+        "m_en": "at the end of",
+        "m_ar": "في نهاية"
+      }
+    ],
+    "grammar_en": "\"В конце\" + genitive means \"at the end of\".",
+    "grammar_ar": "«в конце» + المضاف إليه = «في نهاية».",
+    "alternatives": [
+      {
+        "text": "Ванная в конце коридора.",
+        "note_en": "Simpler",
+        "note_ar": "أبسط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5065,
+    "text": "Мне нужно починить кран на кухне.",
+    "translation_ar": "عليّ إصلاح صنبور المطبخ.",
+    "level": "B1",
+    "situation": "home",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 133,
+    "videoId": null,
+    "transcriptContext": "Мне нужно починить кран на кухне.",
+    "pronunciation": "منييه نوجنا پاتشينيت كران نا كوخنيه.",
+    "words": [
+      {
+        "w": "чинить",
+        "m_en": "to fix",
+        "m_ar": "يصلح"
+      },
+      {
+        "w": "кран",
+        "m_en": "tap",
+        "m_ar": "صنبور"
+      }
+    ],
+    "grammar_en": "\"Мне нужно\" + infinitive expresses necessity.",
+    "grammar_ar": "«мне нужно» + المصدر تعبّر عن الضرورة.",
+    "alternatives": [
+      {
+        "text": "Надо починить кухонный кран.",
+        "note_en": "\"Надо\" = it is necessary",
+        "note_ar": "«надо» = يجب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5066,
+    "text": "Мы планируем сделать ремонт на кухне в следующем году.",
+    "translation_ar": "نخطّط لتجديد المطبخ العام القادم.",
+    "level": "B2",
+    "situation": "home",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 150,
+    "videoId": null,
+    "transcriptContext": "Мы планируем сделать ремонт на кухне в следующем году.",
+    "pronunciation": "مي پلانيرويم سديلات ريمونت نا كوخنيه ڤ سلييدويوشيم گادو.",
+    "words": [
+      {
+        "w": "ремонт",
+        "m_en": "renovation",
+        "m_ar": "تجديد"
+      },
+      {
+        "w": "следующий год",
+        "m_en": "next year",
+        "m_ar": "العام القادم"
+      }
+    ],
+    "grammar_en": "\"Планировать\" + infinitive expresses a plan.",
+    "grammar_ar": "يعبّر «планировать» + المصدر عن خطّة.",
+    "alternatives": [
+      {
+        "text": "Мы хотим отремонтировать кухню в следующем году.",
+        "note_en": "\"Отремонтировать\" = to renovate",
+        "note_ar": "«отремонтировать» = يجدّد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5067,
+    "text": "Сколько стоит эта рубашка?",
+    "translation_ar": "كم سعر هذا القميص؟",
+    "level": "A1",
+    "situation": "shopping",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 167,
+    "videoId": null,
+    "transcriptContext": "Сколько стоит эта рубашка?",
+    "pronunciation": "سكولكا ستويت إتا روباشكا؟",
+    "words": [
+      {
+        "w": "рубашка",
+        "m_en": "shirt",
+        "m_ar": "قميص"
+      },
+      {
+        "w": "эта",
+        "m_en": "this (fem.)",
+        "m_ar": "هذه"
+      }
+    ],
+    "grammar_en": "\"Эта\" is feminine to agree with \"рубашка\".",
+    "grammar_ar": "«эта» مؤنّثة لتتطابق مع «рубашка».",
+    "alternatives": [
+      {
+        "text": "Какая цена этой рубашки?",
+        "note_en": "What price is this shirt?",
+        "note_ar": "ما سعر هذا القميص؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5068,
+    "text": "У вас есть эта куртка другого размера?",
+    "translation_ar": "هل لديكم هذه السترة بمقاس آخر؟",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 184,
+    "videoId": null,
+    "transcriptContext": "У вас есть эта куртка другого размера?",
+    "pronunciation": "أو ڤاس يست إتا كورتكا دروگافا رازميرا؟",
+    "words": [
+      {
+        "w": "размер",
+        "m_en": "size",
+        "m_ar": "مقاس"
+      },
+      {
+        "w": "куртка",
+        "m_en": "jacket",
+        "m_ar": "سترة"
+      }
+    ],
+    "grammar_en": "\"Другого размера\" is genitive, meaning \"of another size\".",
+    "grammar_ar": "«другого размера» بحالة المضاف إليه بمعنى «من مقاس آخر».",
+    "alternatives": [
+      {
+        "text": "Можно её примерить?",
+        "note_en": "Can I try it on?",
+        "note_ar": "هل يمكنني تجربتها؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5069,
+    "text": "Я хочу вернуть эти брюки, они мне не подходят.",
+    "translation_ar": "أريد إرجاع هذا البنطال فهو لا يناسبني.",
+    "level": "B1",
+    "situation": "shopping",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 201,
+    "videoId": null,
+    "transcriptContext": "Я хочу вернуть эти брюки, они мне не подходят.",
+    "pronunciation": "يا خاتشو ڤيرنوت إتي بريوكي، أني منييه نيه پادخوديات.",
+    "words": [
+      {
+        "w": "вернуть",
+        "m_en": "to return",
+        "m_ar": "يُرجع"
+      },
+      {
+        "w": "подходить",
+        "m_en": "to suit",
+        "m_ar": "يناسب"
+      }
+    ],
+    "grammar_en": "\"Подходить\" is conjugated to agree with plural \"брюки\": \"подходят\".",
+    "grammar_ar": "يتصرّف «подходить» ليتّفق مع الجمع «брюки»: «подходят».",
+    "alternatives": [
+      {
+        "text": "Эти брюки мне велики.",
+        "note_en": "These trousers are too big for me",
+        "note_ar": "هذا البنطال واسع عليّ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 5070,
+    "text": "Если товар придёт повреждённым, мы вернём вам деньги полностью.",
+    "translation_ar": "إذا وصل المنتج تالفًا نردّ لكم المبلغ كاملًا.",
+    "level": "B2",
+    "situation": "shopping",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 218,
+    "videoId": null,
+    "transcriptContext": "Если товар придёт повреждённым, мы вернём вам деньги полностью.",
+    "pronunciation": "يسلي تاڤار پريديوت پاڤريجدينّيم، مي ڤيرنيوم ڤام دينگي پولناستيو.",
+    "words": [
+      {
+        "w": "повреждённый",
+        "m_en": "damaged",
+        "m_ar": "تالف"
+      },
+      {
+        "w": "полностью",
+        "m_en": "in full",
+        "m_ar": "كاملًا"
+      }
+    ],
+    "grammar_en": "\"Если\" + future tense expresses a real condition.",
+    "grammar_ar": "«если» + المستقبل يعبّر عن شرط واقعي.",
+    "alternatives": [
+      {
+        "text": "В случае повреждения товара мы вернём всю сумму.",
+        "note_en": "\"В случае\" = in the case of",
+        "note_ar": "«в случае» = في حالة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5071,
+    "text": "Столик на двоих, пожалуйста.",
+    "translation_ar": "طاولة لشخصين من فضلك.",
+    "level": "A1",
+    "situation": "restaurant",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 235,
+    "videoId": null,
+    "transcriptContext": "Столик на двоих, пожалуйста.",
+    "pronunciation": "ستوليك نا دڤايخ، پاجالوستا.",
+    "words": [
+      {
+        "w": "столик",
+        "m_en": "table",
+        "m_ar": "طاولة"
+      },
+      {
+        "w": "на двоих",
+        "m_en": "for two",
+        "m_ar": "لشخصين"
+      }
+    ],
+    "grammar_en": "\"На двоих\" means \"for two people\".",
+    "grammar_ar": "تعني «на двоих» «لشخصين».",
+    "alternatives": [
+      {
+        "text": "У вас есть столик на двоих?",
+        "note_en": "Do you have a table for two?",
+        "note_ar": "هل لديكم طاولة لشخصين؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5072,
+    "text": "На первое я возьму суп, а на второе — рыбу.",
+    "translation_ar": "كطبق أوّل سآخذ الشوربة وكطبق ثانٍ السمك.",
+    "level": "A2",
+    "situation": "restaurant",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 12,
+    "videoId": null,
+    "transcriptContext": "На первое я возьму суп, а на второе — рыбу.",
+    "pronunciation": "نا پيرڤايه يا ڤازميو سوپ، آ نا فتاروييه — ريبو.",
+    "words": [
+      {
+        "w": "первое",
+        "m_en": "first course",
+        "m_ar": "الطبق الأوّل"
+      },
+      {
+        "w": "рыба",
+        "m_en": "fish",
+        "m_ar": "سمك"
+      }
+    ],
+    "grammar_en": "\"На первое / на второе\" means \"as a first / second course\".",
+    "grammar_ar": "«на первое / на второе» = «كطبق أوّل / ثانٍ».",
+    "alternatives": [
+      {
+        "text": "Я закажу суп, а потом рыбу.",
+        "note_en": "I'll order the soup, then the fish",
+        "note_ar": "سأطلب الشوربة ثم السمك"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 5073,
+    "text": "В этом блюде есть острые ингредиенты?",
+    "translation_ar": "هل يحتوي هذا الطبق على مكوّنات حارّة؟",
+    "level": "B1",
+    "situation": "restaurant",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 29,
+    "videoId": null,
+    "transcriptContext": "В этом блюде есть острые ингредиенты?",
+    "pronunciation": "ڤ إتام بليوديه يست أستريه إينگريدييينتي؟",
+    "words": [
+      {
+        "w": "острый",
+        "m_en": "spicy",
+        "m_ar": "حارّ"
+      },
+      {
+        "w": "блюдо",
+        "m_en": "dish",
+        "m_ar": "طبق"
+      }
+    ],
+    "grammar_en": "\"В этом блюде есть\" means \"does this dish contain\".",
+    "grammar_ar": "تعني «в этом блюде есть» «هل يحتوي هذا الطبق على».",
+    "alternatives": [
+      {
+        "text": "Это блюдо острое?",
+        "note_en": "Is this dish spicy?",
+        "note_ar": "هل هذا الطبق حارّ؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5074,
+    "text": "Еда была вкусной, но обслуживание было немного медленным.",
+    "translation_ar": "كان الطعام لذيذًا لكنّ الخدمة كانت بطيئة نوعًا ما.",
+    "level": "B2",
+    "situation": "restaurant",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 46,
+    "videoId": null,
+    "transcriptContext": "Еда была вкусной, но обслуживание было немного медленным.",
+    "pronunciation": "يدا بيلا ڤكوسنوي، نو أپسلوجيڤانييه بيلا نيمنوگا ميدلينّيم.",
+    "words": [
+      {
+        "w": "обслуживание",
+        "m_en": "service",
+        "m_ar": "خدمة"
+      },
+      {
+        "w": "медленный",
+        "m_en": "slow",
+        "m_ar": "بطيء"
+      }
+    ],
+    "grammar_en": "The past tense of \"быть\" agrees with gender: \"была\" (fem.), \"было\" (neut.).",
+    "grammar_ar": "يتطابق ماضي «быть» مع الجنس: «была» (مؤنّث) و«было» (محايد).",
+    "alternatives": [
+      {
+        "text": "Еда была хорошей, но нам пришлось долго ждать.",
+        "note_en": "But we had to wait a long time",
+        "note_ar": "لكنّنا اضطررنا إلى الانتظار طويلًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5075,
+    "text": "У меня болит живот.",
+    "translation_ar": "أشعر بألم في بطني.",
+    "level": "A1",
+    "situation": "health",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 63,
+    "videoId": null,
+    "transcriptContext": "У меня болит живот.",
+    "pronunciation": "أو مينيا باليت جيڤوت.",
+    "words": [
+      {
+        "w": "болеть",
+        "m_en": "to hurt",
+        "m_ar": "يؤلم"
+      },
+      {
+        "w": "живот",
+        "m_en": "stomach, belly",
+        "m_ar": "بطن"
+      }
+    ],
+    "grammar_en": "With \"болеть\", the body part is the subject: \"у меня болит живот\".",
+    "grammar_ar": "مع «болеть» يكون العضو هو الفاعل: «у меня болит живот».",
+    "alternatives": [
+      {
+        "text": "У меня болит желудок.",
+        "note_en": "I have a stomachache",
+        "note_ar": "لديّ ألم في المعدة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5076,
+    "text": "У меня кашель и болит горло со вчерашнего дня.",
+    "translation_ar": "لديّ سعال وألم في الحلق منذ أمس.",
+    "level": "A2",
+    "situation": "health",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 80,
+    "videoId": null,
+    "transcriptContext": "У меня кашель и болит горло со вчерашнего дня.",
+    "pronunciation": "أو مينيا كاشيل إي باليت گورلا سا فتشيراشنيفا دنيا.",
+    "words": [
+      {
+        "w": "кашель",
+        "m_en": "cough",
+        "m_ar": "سعال"
+      },
+      {
+        "w": "горло",
+        "m_en": "throat",
+        "m_ar": "حلق"
+      }
+    ],
+    "grammar_en": "\"Со вчерашнего дня\" means \"since yesterday\".",
+    "grammar_ar": "تعني «со вчерашнего дня» «منذ أمس».",
+    "alternatives": [
+      {
+        "text": "У меня болит горло со вчера.",
+        "note_en": "Simpler",
+        "note_ar": "أبسط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 5077,
+    "text": "Врач посоветовал мне отдыхать и пить много воды.",
+    "translation_ar": "نصحني الطبيب بالراحة وشرب الكثير من الماء.",
+    "level": "B1",
+    "situation": "health",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 97,
+    "videoId": null,
+    "transcriptContext": "Врач посоветовал мне отдыхать и пить много воды.",
+    "pronunciation": "ڤراتش پاسافيتافال منييه أتديخات إي پيت منوگا فادي.",
+    "words": [
+      {
+        "w": "советовать",
+        "m_en": "to advise",
+        "m_ar": "ينصح"
+      },
+      {
+        "w": "отдыхать",
+        "m_en": "to rest",
+        "m_ar": "يستريح"
+      }
+    ],
+    "grammar_en": "\"Советовать\" + dative + infinitive means \"to advise someone to do\".",
+    "grammar_ar": "«советовать» + حالة المفعول به غير المباشر + المصدر = «ينصح فلانًا بفعل».",
+    "alternatives": [
+      {
+        "text": "Врач рекомендовал мне отдых.",
+        "note_en": "\"Отдых\" = rest (noun)",
+        "note_ar": "«отدых» = الراحة (اسم)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 5078,
+    "text": "Рекомендуется проходить медосмотр раз в год.",
+    "translation_ar": "يُنصح بإجراء فحص طبّي شامل مرّة في السنة.",
+    "level": "B2",
+    "situation": "health",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 114,
+    "videoId": null,
+    "transcriptContext": "Рекомендуется проходить медосмотр раз в год.",
+    "pronunciation": "ريكاميندويتسيا پراخاديت ميداسمور راز ڤ گود.",
+    "words": [
+      {
+        "w": "медосмотр",
+        "m_en": "check-up",
+        "m_ar": "فحص طبّي شامل"
+      },
+      {
+        "w": "раз в год",
+        "m_en": "once a year",
+        "m_ar": "مرّة في السنة"
+      }
+    ],
+    "grammar_en": "\"Рекомендуется\" + infinitive is an impersonal recommendation.",
+    "grammar_ar": "«рекомендуется» + المصدر توصية غير شخصيّة.",
+    "alternatives": [
+      {
+        "text": "Ежегодный медосмотр — это разумно.",
+        "note_en": "An annual check-up is sensible",
+        "note_ar": "الفحص السنوي أمر معقول"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5079,
+    "text": "Совещание начинается в десять часов во второй комнате.",
+    "translation_ar": "يبدأ الاجتماع في العاشرة في الغرفة الثانية.",
+    "level": "A2",
+    "situation": "workplace",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 131,
+    "videoId": null,
+    "transcriptContext": "Совещание начинается в десять часов во второй комнате.",
+    "pronunciation": "ساڤيشانييه ناتشيناييتسيا ڤ ديسيات چاسوڤ ڤا فتاروي كومناتيه.",
+    "words": [
+      {
+        "w": "совещание",
+        "m_en": "meeting",
+        "m_ar": "اجتماع"
+      },
+      {
+        "w": "комната",
+        "m_en": "room",
+        "m_ar": "غرفة"
+      }
+    ],
+    "grammar_en": "\"Начинаться\" is reflexive: the meeting \"begins itself\".",
+    "grammar_ar": "«начинаться» فعل انعكاسي: الاجتماع «يبدأ نفسه».",
+    "alternatives": [
+      {
+        "text": "Совещание стартует в десять.",
+        "note_en": "\"Стартовать\" = to start (informal)",
+        "note_ar": "«стартовать» = يبدأ (عاميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5080,
+    "text": "Можешь прислать мне отчёт до пятницы?",
+    "translation_ar": "هل يمكنك أن ترسل لي التقرير قبل الجمعة؟",
+    "level": "B1",
+    "situation": "workplace",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 148,
+    "videoId": null,
+    "transcriptContext": "Можешь прислать мне отчёт до пятницы?",
+    "pronunciation": "موجيش پريسلات منييه أتشيوت دا پياتنيتسي؟",
+    "words": [
+      {
+        "w": "присылать",
+        "m_en": "to send",
+        "m_ar": "يرسل"
+      },
+      {
+        "w": "отчёт",
+        "m_en": "report",
+        "m_ar": "تقرير"
+      }
+    ],
+    "grammar_en": "\"До\" + noun means \"before / until\".",
+    "grammar_ar": "«до» + اسم = «قبل».",
+    "alternatives": [
+      {
+        "text": "Ты можешь отправить отчёт к пятнице?",
+        "note_en": "\"К пятнице\" = by Friday",
+        "note_ar": "«к пятнице» = بحلول الجمعة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5081,
+    "text": "Мы уложились в сроки, несмотря на трудности.",
+    "translation_ar": "التزمنا بالمواعيد النهائيّة رغم الصعوبات.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 165,
+    "videoId": null,
+    "transcriptContext": "Мы уложились в сроки, несмотря на трудности.",
+    "pronunciation": "مي أولاجيليس ڤ سروكي، نيسماتريا نا تروندناستي.",
+    "words": [
+      {
+        "w": "сроки",
+        "m_en": "deadlines",
+        "m_ar": "مواعيد نهائيّة"
+      },
+      {
+        "w": "несмотря на",
+        "m_en": "despite",
+        "m_ar": "رغم"
+      }
+    ],
+    "grammar_en": "\"Несмотря на\" + accusative means \"despite\".",
+    "grammar_ar": "«несмотря на» + المفعول به = «رغم».",
+    "alternatives": [
+      {
+        "text": "Несмотря на трудности, сроки соблюдены.",
+        "note_en": "\"Соблюдены\" = observed",
+        "note_ar": "«соблюدены» = روعيت"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5082,
+    "text": "Компания выбрала путь постепенной реструктуризации.",
+    "translation_ar": "اختارت الشركة طريق إعادة الهيكلة التدريجيّة.",
+    "level": "C1",
+    "situation": "workplace",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 182,
+    "videoId": null,
+    "transcriptContext": "Компания выбрала путь постепенной реструктуризации.",
+    "pronunciation": "كامپانيا ڤيبرالا پوت پاستيپينّاي ريستروكتوريزاتسي.",
+    "words": [
+      {
+        "w": "выбрать",
+        "m_en": "to choose",
+        "m_ar": "يختار"
+      },
+      {
+        "w": "реструктуризация",
+        "m_en": "restructuring",
+        "m_ar": "إعادة هيكلة"
+      }
+    ],
+    "grammar_en": "\"Выбрать путь\" is a formal way of saying \"to opt for\".",
+    "grammar_ar": "«выбрать путь» طريقة رسميّة لقول «يختار».",
+    "alternatives": [
+      {
+        "text": "Компания решила реструктурироваться постепенно.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5083,
+    "text": "Я работаю инженером в небольшой компании.",
+    "translation_ar": "أعمل مهندسًا في شركة صغيرة.",
+    "level": "A2",
+    "situation": "career",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 199,
+    "videoId": null,
+    "transcriptContext": "Я работаю инженером в небольшой компании.",
+    "pronunciation": "يا رابوتايو إينجينيرام ڤ نيبالشوي كامپانيي.",
+    "words": [
+      {
+        "w": "инженер",
+        "m_en": "engineer",
+        "m_ar": "مهندس"
+      },
+      {
+        "w": "компания",
+        "m_en": "company",
+        "m_ar": "شركة"
+      }
+    ],
+    "grammar_en": "\"Работать\" + instrumental case means \"to work as\": \"инженером\".",
+    "grammar_ar": "«работать» + حالة الأداة (творительный падеж) = «يعمل بصفة»: «инженером».",
+    "alternatives": [
+      {
+        "text": "Я инженер в небольшой компании.",
+        "note_en": "I'm an engineer at a small company",
+        "note_ar": "أنا مهندس في شركة صغيرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5084,
+    "text": "Я работаю в этой компании уже пять лет и хочу перемен.",
+    "translation_ar": "أعمل في هذه الشركة منذ خمس سنوات وأريد التغيير.",
+    "level": "B1",
+    "situation": "career",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 216,
+    "videoId": null,
+    "transcriptContext": "Я работаю в этой компании уже пять лет и хочу перемен.",
+    "pronunciation": "يا رابوتايو ڤ إتاي كامپانيي أوجيه پيات ليت إي خاتشو پيريمين.",
+    "words": [
+      {
+        "w": "перемена",
+        "m_en": "change",
+        "m_ar": "تغيير"
+      },
+      {
+        "w": "уже",
+        "m_en": "already",
+        "m_ar": "بالفعل"
+      }
+    ],
+    "grammar_en": "\"Уже\" + duration means \"for... already\".",
+    "grammar_ar": "«уже» + مدّة = «منذ... بالفعل».",
+    "alternatives": [
+      {
+        "text": "Пять лет я работаю здесь и хочу что-то изменить.",
+        "note_en": "Different phrasing",
+        "note_ar": "صياغة مختلفة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 5085,
+    "text": "Я стремлюсь к должности с большей ответственностью.",
+    "translation_ar": "أطمح إلى منصب فيه مسؤوليّة أكبر.",
+    "level": "B2",
+    "situation": "career",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 233,
+    "videoId": null,
+    "transcriptContext": "Я стремлюсь к должности с большей ответственностью.",
+    "pronunciation": "يا ستريمليوس ك دولجناستي س بولشيي أتفيتستفينّاستيو.",
+    "words": [
+      {
+        "w": "стремиться к",
+        "m_en": "to strive for",
+        "m_ar": "يطمح إلى"
+      },
+      {
+        "w": "ответственность",
+        "m_en": "responsibility",
+        "m_ar": "مسؤوليّة"
+      }
+    ],
+    "grammar_en": "\"Стремиться к\" takes the dative case.",
+    "grammar_ar": "يأخذ «стремиться к» حالة المضاف إليه (дательный падеж).",
+    "alternatives": [
+      {
+        "text": "Я хочу должность с большей ответственностью.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5086,
+    "text": "Моя главная сильная сторона — умение работать в команде.",
+    "translation_ar": "أكبر ميزاتي هي قدرتي على العمل ضمن فريق.",
+    "level": "B1",
+    "situation": "job-interview",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 10,
+    "videoId": null,
+    "transcriptContext": "Моя главная сильная сторона — умение работать в команде.",
+    "pronunciation": "مايا گلاڤنايا سيلنايا ستارانا — أومينييه رابوتات ڤ كامانديه.",
+    "words": [
+      {
+        "w": "сильная сторона",
+        "m_en": "strength",
+        "m_ar": "نقطة قوّة"
+      },
+      {
+        "w": "команда",
+        "m_en": "team",
+        "m_ar": "فريق"
+      }
+    ],
+    "grammar_en": "\"Умение\" + infinitive means \"the ability to\".",
+    "grammar_ar": "«умение» + المصدر = «القدرة على».",
+    "alternatives": [
+      {
+        "text": "Я умею хорошо работать в команде.",
+        "note_en": "I know how to work well in a team",
+        "note_ar": "أُجيد العمل ضمن فريق"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 5087,
+    "text": "Я считаю себя организованным и нацеленным на результат человеком.",
+    "translation_ar": "أعدّ نفسي شخصًا منظّمًا وموجّهًا نحو النتائج.",
+    "level": "B2",
+    "situation": "job-interview",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 27,
+    "videoId": null,
+    "transcriptContext": "Я считаю себя организованным и нацеленным на результат человеком.",
+    "pronunciation": "يا سچيتايو سيبيا أرگانيزاڤانّيم إي ناتسيلينّيم نا ريزولتات تشيلاڤيكام.",
+    "words": [
+      {
+        "w": "считать себя",
+        "m_en": "to consider oneself",
+        "m_ar": "يعدّ نفسه"
+      },
+      {
+        "w": "нацеленный на",
+        "m_en": "geared toward",
+        "m_ar": "موجّه نحو"
+      }
+    ],
+    "grammar_en": "\"Считать себя\" + instrumental case.",
+    "grammar_ar": "«считать себя» + حالة الأداة.",
+    "alternatives": [
+      {
+        "text": "Я организованный человек, нацеленный на результат.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5088,
+    "text": "Как вы справляетесь с давлением, когда сроки сжаты?",
+    "translation_ar": "كيف تتعامل مع الضغط حين تكون المواعيد النهائيّة ضيّقة؟",
+    "level": "C1",
+    "situation": "job-interview",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 44,
+    "videoId": null,
+    "transcriptContext": "Как вы справляетесь с давлением, когда сроки сжаты?",
+    "pronunciation": "كاك ڤي سپرافليايتيس س داڤلينييم، كاگدا سروكي سجاتي؟",
+    "words": [
+      {
+        "w": "справляться с",
+        "m_en": "to handle",
+        "m_ar": "يتعامل مع"
+      },
+      {
+        "w": "сжатый",
+        "m_en": "tight",
+        "m_ar": "ضيّق"
+      }
+    ],
+    "grammar_en": "\"Справляться с\" takes the instrumental case.",
+    "grammar_ar": "يأخذ «справляться с» حالة الأداة.",
+    "alternatives": [
+      {
+        "text": "Как вы работаете под давлением?",
+        "note_en": "How do you work under pressure?",
+        "note_ar": "كيف تعمل تحت الضغط؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5089,
+    "text": "Начнём с первого пункта, хорошо?",
+    "translation_ar": "لنبدأ بالنقطة الأولى، موافقون؟",
+    "level": "A2",
+    "situation": "meetings",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 61,
+    "videoId": null,
+    "transcriptContext": "Начнём с первого пункта, хорошо?",
+    "pronunciation": "ناتشنيوم س پيرڤاگا پونكتا، خاراشو؟",
+    "words": [
+      {
+        "w": "пункт",
+        "m_en": "point",
+        "m_ar": "نقطة"
+      },
+      {
+        "w": "начать",
+        "m_en": "to begin",
+        "m_ar": "يبدأ"
+      }
+    ],
+    "grammar_en": "\"Начнём\" is the \"let's\" form (perfective future for \"we\").",
+    "grammar_ar": "«начнём» صيغة «لنفعل» (المستقبل التامّ للمتكلّمين).",
+    "alternatives": [
+      {
+        "text": "Давайте начнём с первого пункта.",
+        "note_en": "\"Давайте\" adds politeness",
+        "note_ar": "«давайте» تضيف تهذيبًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5090,
+    "text": "Я согласен с тобой, но у меня есть сомнение.",
+    "translation_ar": "أتّفق معك لكن يساورني شكّ.",
+    "level": "B1",
+    "situation": "meetings",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 78,
+    "videoId": null,
+    "transcriptContext": "Я согласен с тобой, но у меня есть сомнение.",
+    "pronunciation": "يا ساگلاسين س تابوي، نو أو مينيا يست سامنييه.",
+    "words": [
+      {
+        "w": "согласен",
+        "m_en": "in agreement (masc.)",
+        "m_ar": "متّفق"
+      },
+      {
+        "w": "сомнение",
+        "m_en": "doubt",
+        "m_ar": "شكّ"
+      }
+    ],
+    "grammar_en": "\"Согласен\" changes for gender: \"согласна\" for a woman speaking.",
+    "grammar_ar": "تتغيّر «согласен» بحسب الجنس: «согласна» إن كانت المتكلّمة امرأة.",
+    "alternatives": [
+      {
+        "text": "Я разделяю твоё мнение, но есть нюанс.",
+        "note_en": "\"Разделять мнение\"",
+        "note_ar": "«разделять мнение» = يشاطر الرأي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 5091,
+    "text": "Я предлагаю отложить решение до получения новых данных.",
+    "translation_ar": "أقترح تأجيل القرار حتى تتوفّر بيانات جديدة.",
+    "level": "B2",
+    "situation": "meetings",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 95,
+    "videoId": null,
+    "transcriptContext": "Я предлагаю отложить решение до получения новых данных.",
+    "pronunciation": "يا پريدلاگايو أتلاجيت ريشينييه دا پالوتشينيا نافيخ داننيخ.",
+    "words": [
+      {
+        "w": "откладывать",
+        "m_en": "to postpone",
+        "m_ar": "يؤجّل"
+      },
+      {
+        "w": "данные",
+        "m_en": "data",
+        "m_ar": "بيانات"
+      }
+    ],
+    "grammar_en": "\"Предлагать\" + infinitive means \"to propose to\".",
+    "grammar_ar": "«предлагать» + المصدر = «يقترح».",
+    "alternatives": [
+      {
+        "text": "Предлагаю подождать с решением.",
+        "note_en": "\"Подождать с\" = to wait on",
+        "note_ar": "«подождать с» = ينتظر بخصوص"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5092,
+    "text": "Стоило бы пересмотреть подход, прежде чем двигаться дальше.",
+    "translation_ar": "ينبغي إعادة النظر في المنهج قبل المضيّ قدمًا.",
+    "level": "C1",
+    "situation": "meetings",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 112,
+    "videoId": null,
+    "transcriptContext": "Стоило бы пересмотреть подход, прежде чем двигаться дальше.",
+    "pronunciation": "ستويلا بي پيريسماتريت پادخود، پريجدي تشيم دڤيگاتسيا دالشيه.",
+    "words": [
+      {
+        "w": "пересматривать",
+        "m_en": "to rethink",
+        "m_ar": "يعيد النظر"
+      },
+      {
+        "w": "подход",
+        "m_en": "approach",
+        "m_ar": "منهج"
+      }
+    ],
+    "grammar_en": "\"Стоило бы\" (conditional) softens \"it would be worth\".",
+    "grammar_ar": "«стоило бы» (شرطي) تلطّف معنى «يستحقّ / ينبغي».",
+    "alternatives": [
+      {
+        "text": "Нужно пересмотреть подход.",
+        "note_en": "\"Нужно\"",
+        "note_ar": "«нужно» = يجب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5093,
+    "text": "Позиции сторон остаются далеки от точки соприкосновения.",
+    "translation_ar": "ما زالت مواقف الأطراف بعيدة عن أرضيّة اتّفاق.",
+    "level": "C2",
+    "situation": "meetings",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 129,
+    "videoId": null,
+    "transcriptContext": "Позиции сторон остаются далеки от точки соприкосновения.",
+    "pronunciation": "پازيتسي ستارون أستايوتسيا دالكي أت توتشكي ساپريكاسناڤينيا.",
+    "words": [
+      {
+        "w": "далёкий",
+        "m_en": "far",
+        "m_ar": "بعيد"
+      },
+      {
+        "w": "точка соприкосновения",
+        "m_en": "common ground",
+        "m_ar": "نقطة التقاء"
+      }
+    ],
+    "grammar_en": "\"Оставаться\" + short adjective means \"to remain\".",
+    "grammar_ar": "«оставаться» + صفة مختصرة = «يظلّ».",
+    "alternatives": [
+      {
+        "text": "Стороны так и не нашли общей почвы.",
+        "note_en": "\"Общая почва\" = common ground",
+        "note_ar": "«общая почва» = أرضيّة مشتركة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 5094,
+    "text": "У меня разрядился телефон.",
+    "translation_ar": "لم يعد في هاتفي شحن.",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 146,
+    "videoId": null,
+    "transcriptContext": "У меня разрядился телефон.",
+    "pronunciation": "أو مينيا رازريديلسيا تيليفون.",
+    "words": [
+      {
+        "w": "телефон",
+        "m_en": "phone",
+        "m_ar": "هاتف"
+      },
+      {
+        "w": "разрядиться",
+        "m_en": "to run out (battery)",
+        "m_ar": "ينفد شحنه"
+      }
+    ],
+    "grammar_en": "\"Разрядиться\" is reflexive: \"the battery drained itself\".",
+    "grammar_ar": "فعل «разрядиться» انعكاسي: «فرغت البطارية نفسها».",
+    "alternatives": [
+      {
+        "text": "У меня телефон сел.",
+        "note_en": "\"Сесть\" (colloquial) = to die (battery)",
+        "note_ar": "«сесть» (عاميّة) = ينفد شحنها"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5095,
+    "text": "Я не могу подключиться к wifi.",
+    "translation_ar": "لا أستطيع الاتّصال بالواي فاي.",
+    "level": "B1",
+    "situation": "technology",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 163,
+    "videoId": null,
+    "transcriptContext": "Я не могу подключиться к wifi.",
+    "pronunciation": "يا نيه ماگو پاتكليوتشيتسيا ك واي-فاي.",
+    "words": [
+      {
+        "w": "подключиться к",
+        "m_en": "to connect to",
+        "m_ar": "يتّصل بـ"
+      },
+      {
+        "w": "wifi",
+        "m_en": "wifi",
+        "m_ar": "واي فاي"
+      }
+    ],
+    "grammar_en": "\"Подключиться к\" takes the dative case.",
+    "grammar_ar": "يأخذ «подключиться к» حالة المضاف إليه.",
+    "alternatives": [
+      {
+        "text": "У меня не получается подключиться к wifi.",
+        "note_en": "\"У меня не получается\" = I'm not managing to",
+        "note_ar": "«у меня не получается» = لا أنجح في"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5096,
+    "text": "Приложение само закрывается каждый раз, когда я пытаюсь его открыть.",
+    "translation_ar": "يُغلق التطبيق من تلقاء نفسه كلّما حاولتُ فتحه.",
+    "level": "B2",
+    "situation": "technology",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 180,
+    "videoId": null,
+    "transcriptContext": "Приложение само закрывается каждый раз, когда я пытаюсь его открыть.",
+    "pronunciation": "پريلاجينييه سامو زاكريڤايتسيا كاجدي راز، كاگدا يا پيتايوس يفو أتكريت.",
+    "words": [
+      {
+        "w": "закрываться",
+        "m_en": "to close (by itself)",
+        "m_ar": "يُغلق"
+      },
+      {
+        "w": "пытаться",
+        "m_en": "to try",
+        "m_ar": "يحاول"
+      }
+    ],
+    "grammar_en": "\"Само\" means \"by itself\" (neuter, agreeing with \"приложение\").",
+    "grammar_ar": "تعني «само» «من تلقاء نفسه» (محايد، متّفقة مع «приложение»).",
+    "alternatives": [
+      {
+        "text": "Оно постоянно вылетает.",
+        "note_en": "\"Вылетать\" (colloquial) = to crash",
+        "note_ar": "«вылетать» (عاميّة) = يتعطّل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5097,
+    "text": "Искусственный интеллект поднимает этические вопросы, которые нельзя игнорировать.",
+    "translation_ar": "يثير الذكاء الاصطناعي مسائل أخلاقيّة لا يمكن تجاهلها.",
+    "level": "C1",
+    "situation": "technology",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 197,
+    "videoId": null,
+    "transcriptContext": "Искусственный интеллект поднимает этические вопросы, которые нельзя игнорировать.",
+    "pronunciation": "إيسكوستڤينّي إينتيليكت پاديمايت إتيتشيسكيه ڤاپروسي، كاتاريه نيلزيا إيگناريرافات.",
+    "words": [
+      {
+        "w": "поднимать вопрос",
+        "m_en": "to raise a question",
+        "m_ar": "يثير مسألة"
+      },
+      {
+        "w": "игнорировать",
+        "m_en": "to ignore",
+        "m_ar": "يتجاهل"
+      }
+    ],
+    "grammar_en": "\"Которые\" is a relative pronoun agreeing with plural \"вопросы\".",
+    "grammar_ar": "«которые» ضمير موصول يتّفق مع الجمع «вопросы».",
+    "alternatives": [
+      {
+        "text": "ИИ ставит этические вопросы, которые нельзя обойти.",
+        "note_en": "\"ИИ\" = AI",
+        "note_ar": "«ИИ» = ذكاء اصطناعي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5098,
+    "text": "Алло! Кто говорит?",
+    "translation_ar": "ألو؟ من المتحدّث؟",
+    "level": "A1",
+    "situation": "phone-calls",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 214,
+    "videoId": null,
+    "transcriptContext": "Алло! Кто говорит?",
+    "pronunciation": "آلّو! كتو گاڤاريت؟",
+    "words": [
+      {
+        "w": "алло",
+        "m_en": "hello (on the phone)",
+        "m_ar": "ألو"
+      },
+      {
+        "w": "говорить",
+        "m_en": "to speak",
+        "m_ar": "يتحدّث"
+      }
+    ],
+    "grammar_en": "\"Алло\" is only used when answering the phone.",
+    "grammar_ar": "تُستعمل «алло» فقط عند الردّ على الهاتف.",
+    "alternatives": [
+      {
+        "text": "Кто это звонит?",
+        "note_en": "Who's calling?",
+        "note_ar": "من المتّصل؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 5099,
+    "text": "Его сейчас нет, хотите оставить сообщение?",
+    "translation_ar": "ليس موجودًا الآن، هل تودّ ترك رسالة؟",
+    "level": "A2",
+    "situation": "phone-calls",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 231,
+    "videoId": null,
+    "transcriptContext": "Его сейчас нет, хотите оставить сообщение?",
+    "pronunciation": "يفو سيتشاس نيت، خاتيتيه أستاڤيت سابشينييه؟",
+    "words": [
+      {
+        "w": "сообщение",
+        "m_en": "message",
+        "m_ar": "رسالة"
+      },
+      {
+        "w": "оставить",
+        "m_en": "to leave",
+        "m_ar": "يترك"
+      }
+    ],
+    "grammar_en": "\"Хотите\" is the formal/plural \"do you want\".",
+    "grammar_ar": "«хотите» صيغة رسميّة/جمع بمعنى «هل تريد».",
+    "alternatives": [
+      {
+        "text": "Передать ему что-нибудь?",
+        "note_en": "Shall I pass along a message?",
+        "note_ar": "هل أنقل له شيئًا؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5100,
+    "text": "Я перезвоню позже, сейчас я на совещании.",
+    "translation_ar": "سأعاود الاتّصال بك لاحقًا، أنا الآن في اجتماع.",
+    "level": "B1",
+    "situation": "phone-calls",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 8,
+    "videoId": null,
+    "transcriptContext": "Я перезвоню позже, сейчас я на совещании.",
+    "pronunciation": "يا پيريزفانيو پازجيه، سيتشاس يا نا ساڤيشانيي.",
+    "words": [
+      {
+        "w": "перезвонить",
+        "m_en": "to call back",
+        "m_ar": "يعاود الاتّصال"
+      },
+      {
+        "w": "позже",
+        "m_en": "later",
+        "m_ar": "لاحقًا"
+      }
+    ],
+    "grammar_en": "The perfective future \"перезвоню\" describes a completed future action.",
+    "grammar_ar": "يصف المستقبل التامّ «перезвоню» فعلًا مستقبليًّا مكتملًا.",
+    "alternatives": [
+      {
+        "text": "Я тебе перезвоню чуть позже.",
+        "note_en": "\"Чуть позже\" = a bit later",
+        "note_ar": "«چوت پوزجيه» = بعد قليل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 5101,
+    "text": "Я люблю читать и слушать музыку.",
+    "translation_ar": "أحبّ القراءة والاستماع إلى الموسيقى.",
+    "level": "A1",
+    "situation": "leisure",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 25,
+    "videoId": null,
+    "transcriptContext": "Я люблю читать и слушать музыку.",
+    "pronunciation": "يا ليوبليو تشيتات إي سلوشات موزيكو.",
+    "words": [
+      {
+        "w": "читать",
+        "m_en": "to read",
+        "m_ar": "يقرأ"
+      },
+      {
+        "w": "слушать",
+        "m_en": "to listen",
+        "m_ar": "يستمع"
+      }
+    ],
+    "grammar_en": "\"Любить\" + infinitive says what you like doing.",
+    "grammar_ar": "يعبّر «любить» + المصدر عمّا تحبّ فعله.",
+    "alternatives": [
+      {
+        "text": "Я обожаю музыку.",
+        "note_en": "I love music",
+        "note_ar": "أعشق الموسيقى"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5102,
+    "text": "Хочешь пойти в кино в субботу?",
+    "translation_ar": "هل تريد الذهاب إلى السينما يوم السبت؟",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 42,
+    "videoId": null,
+    "transcriptContext": "Хочешь пойти в кино в субботу?",
+    "pronunciation": "خوتشيش پايتي ڤ كينو ڤ سوبّوتو؟",
+    "words": [
+      {
+        "w": "кино",
+        "m_en": "cinema",
+        "m_ar": "سينما"
+      },
+      {
+        "w": "суббота",
+        "m_en": "Saturday",
+        "m_ar": "السبت"
+      }
+    ],
+    "grammar_en": "Days of the week are lowercase in Russian.",
+    "grammar_ar": "أسماء الأيّام بحرف صغير في الروسية.",
+    "alternatives": [
+      {
+        "text": "Пойдём в кино в субботу?",
+        "note_en": "Shall we go to the cinema on Saturday?",
+        "note_ar": "هل نذهب إلى السينما يوم السبت؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5103,
+    "text": "Я записался на курс фотографии, чтобы развиваться.",
+    "translation_ar": "سجّلتُ في دورة تصوير لأتطوّر.",
+    "level": "B1",
+    "situation": "leisure",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 59,
+    "videoId": null,
+    "transcriptContext": "Я записался на курс фотографии, чтобы развиваться.",
+    "pronunciation": "يا زاپيسالسيا نا كورس فاتاگرافيي، شتوبي رازفيڤاتسيا.",
+    "words": [
+      {
+        "w": "записаться на",
+        "m_en": "to sign up for",
+        "m_ar": "يسجّل في"
+      },
+      {
+        "w": "развиваться",
+        "m_en": "to develop",
+        "m_ar": "يتطوّر"
+      }
+    ],
+    "grammar_en": "\"Чтобы\" + infinitive expresses purpose.",
+    "grammar_ar": "«чтобы» + المصدر تعبّر عن الغاية.",
+    "alternatives": [
+      {
+        "text": "Я пошёл на курс фотографии для саморазвития.",
+        "note_en": "\"Для саморазвития\" = for self-development",
+        "note_ar": "«للتطوّر الذاتي»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 5104,
+    "text": "Я играю в футбол по воскресеньям.",
+    "translation_ar": "ألعب كرة القدم أيّام الأحد.",
+    "level": "A1",
+    "situation": "sports",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 76,
+    "videoId": null,
+    "transcriptContext": "Я играю в футбол по воскресеньям.",
+    "pronunciation": "يا إيگرايو ڤ فوتبول پا ڤاسكريسينيام.",
+    "words": [
+      {
+        "w": "играть в",
+        "m_en": "to play",
+        "m_ar": "يلعب"
+      },
+      {
+        "w": "футбол",
+        "m_en": "football",
+        "m_ar": "كرة القدم"
+      }
+    ],
+    "grammar_en": "\"Играть в\" + accusative for sports and games.",
+    "grammar_ar": "«играть в» + حالة المفعول به مع الرياضات والألعاب.",
+    "alternatives": [
+      {
+        "text": "По воскресеньям я играю в футбол.",
+        "note_en": "Reordered",
+        "note_ar": "بترتيب آخر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5105,
+    "text": "Я хожу в спортзал три раза в неделю.",
+    "translation_ar": "أذهب إلى النادي الرياضي ثلاث مرّات في الأسبوع.",
+    "level": "A2",
+    "situation": "sports",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 93,
+    "videoId": null,
+    "transcriptContext": "Я хожу в спортзал три раза в неделю.",
+    "pronunciation": "يا خاجو ڤ سپارتزال تري رازا ڤ نيدييليو.",
+    "words": [
+      {
+        "w": "спортзал",
+        "m_en": "gym",
+        "m_ar": "نادٍ رياضي"
+      },
+      {
+        "w": "раз",
+        "m_en": "time (occasion)",
+        "m_ar": "مرّة"
+      }
+    ],
+    "grammar_en": "\"Раз в неделю\" means \"times per week\".",
+    "grammar_ar": "تعني «раз в неделю» «مرّات في الأسبوع».",
+    "alternatives": [
+      {
+        "text": "Я занимаюсь спортом трижды в неделю.",
+        "note_en": "\"Трижды\" = three times",
+        "note_ar": "«трижды» = ثلاث مرّات"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5106,
+    "text": "Команда отыгралась в последние минуты матча.",
+    "translation_ar": "قلب الفريق نتيجة المباراة في الدقائق الأخيرة.",
+    "level": "B2",
+    "situation": "sports",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 110,
+    "videoId": null,
+    "transcriptContext": "Команда отыгралась в последние минуты матча.",
+    "pronunciation": "كامندا أتيگرالاس ڤ پاسلييدنييه مينوتي ماتتشا.",
+    "words": [
+      {
+        "w": "отыграться",
+        "m_en": "to come from behind",
+        "m_ar": "يقلب النتيجة"
+      },
+      {
+        "w": "матч",
+        "m_en": "match",
+        "m_ar": "مباراة"
+      }
+    ],
+    "grammar_en": "\"Отыграться\" is reflexive: the team \"played itself back\".",
+    "grammar_ar": "فعل «отыграться» انعكاسي: الفريق «لعب نفسه للعودة».",
+    "alternatives": [
+      {
+        "text": "Команда сравняла счёт в конце матча.",
+        "note_en": "\"Сравнять счёт\" = to level the score",
+        "note_ar": "«сравнять счёт» = يعادل النتيجة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5107,
+    "text": "Сегодня идёт сильный дождь.",
+    "translation_ar": "تمطر بغزارة اليوم.",
+    "level": "A1",
+    "situation": "weather",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 127,
+    "videoId": null,
+    "transcriptContext": "Сегодня идёт сильный дождь.",
+    "pronunciation": "سيڤودنيا إيديوت سيلني دوجد.",
+    "words": [
+      {
+        "w": "дождь",
+        "m_en": "rain",
+        "m_ar": "مطر"
+      },
+      {
+        "w": "сильный",
+        "m_en": "strong",
+        "m_ar": "شديد / بغزارة"
+      }
+    ],
+    "grammar_en": "Weather verbs use \"идти\": \"идёт дождь\" means \"it's raining\".",
+    "grammar_ar": "يُستعمل الفعل «идти» للطقس: «идёт дождь» = «تمطر».",
+    "alternatives": [
+      {
+        "text": "Сегодня льёт как из ведра.",
+        "note_en": "It's pouring (idiom)",
+        "note_ar": "إنها تمطر بغزارة (تعبير مسكوكّ)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5108,
+    "text": "Завтра будет холодно и ветрено.",
+    "translation_ar": "غدًا سيكون الجوّ باردًا وعاصفًا.",
+    "level": "A2",
+    "situation": "weather",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 144,
+    "videoId": null,
+    "transcriptContext": "Завтра будет холодно и ветрено.",
+    "pronunciation": "زاڤترا بوديت خولادنا إي ڤيتريّنا.",
+    "words": [
+      {
+        "w": "холодно",
+        "m_en": "cold",
+        "m_ar": "بارد"
+      },
+      {
+        "w": "ветрено",
+        "m_en": "windy",
+        "m_ar": "عاصف / رياح"
+      }
+    ],
+    "grammar_en": "\"Будет\" is the future of \"быть\": \"будет холодно\".",
+    "grammar_ar": "«будет» مستقبل «быть»: «будет холодно».",
+    "alternatives": [
+      {
+        "text": "Завтра ожидается холодная погода.",
+        "note_en": "\"Ожидается\" = is expected",
+        "note_ar": "«ожидается» = يُتوقّع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5109,
+    "text": "Если завтра пойдёт дождь, мы отменим экскурсию.",
+    "translation_ar": "إذا أمطرت غدًا فسنلغي الرحلة.",
+    "level": "B1",
+    "situation": "weather",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 161,
+    "videoId": null,
+    "transcriptContext": "Если завтра пойдёт дождь, мы отменим экскурсию.",
+    "pronunciation": "يسلي زاڤترا پايديوت دوجد، مي أتمينيم إكسكورسيو.",
+    "words": [
+      {
+        "w": "отменить",
+        "m_en": "to cancel",
+        "m_ar": "يلغي"
+      },
+      {
+        "w": "экскурсия",
+        "m_en": "outing",
+        "m_ar": "رحلة"
+      }
+    ],
+    "grammar_en": "\"Если\" + future, then future: a real condition.",
+    "grammar_ar": "«если» + المستقبل ثم المستقبل: شرط واقعي.",
+    "alternatives": [
+      {
+        "text": "Если будет плохая погода, экскурсии не будет.",
+        "note_en": "\"Плохая погода\" = bad weather",
+        "note_ar": "«плохая погода» = طقس سيّئ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 5110,
+    "text": "У меня экзамен по истории в понедельник.",
+    "translation_ar": "لديّ امتحان في التاريخ يوم الاثنين.",
+    "level": "A2",
+    "situation": "education",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 178,
+    "videoId": null,
+    "transcriptContext": "У меня экзамен по истории в понедельник.",
+    "pronunciation": "أو مينيا إكزامين پا إيستوريي ڤ پانيديلنيك.",
+    "words": [
+      {
+        "w": "экзамен",
+        "m_en": "exam",
+        "m_ar": "امتحان"
+      },
+      {
+        "w": "история",
+        "m_en": "history",
+        "m_ar": "تاريخ"
+      }
+    ],
+    "grammar_en": "\"По истории\" means \"in history\" (subject).",
+    "grammar_ar": "تعني «по истории» «في مادّة التاريخ».",
+    "alternatives": [
+      {
+        "text": "В понедельник у меня экзамен по истории.",
+        "note_en": "Time first",
+        "note_ar": "الزمن أوّلًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5111,
+    "text": "Я учу русский язык уже год и сильно продвинулся.",
+    "translation_ar": "أتعلّم الروسية منذ سنة وقد تطوّرتُ كثيرًا.",
+    "level": "B1",
+    "situation": "education",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 195,
+    "videoId": null,
+    "transcriptContext": "Я учу русский язык уже год и сильно продвинулся.",
+    "pronunciation": "يا أوتشو روسكي يازيك أوجيه گود إي سيلنا پرادڤينولسيا.",
+    "words": [
+      {
+        "w": "учить",
+        "m_en": "to learn",
+        "m_ar": "يتعلّم"
+      },
+      {
+        "w": "продвинуться",
+        "m_en": "to make progress",
+        "m_ar": "يتطوّر / يتقدّم"
+      }
+    ],
+    "grammar_en": "\"Уже год\" + present tense describes an ongoing action.",
+    "grammar_ar": "«уже год» + المضارع تصف فعلًا مستمرًّا.",
+    "alternatives": [
+      {
+        "text": "Я изучаю русский год и заметно улучшил его.",
+        "note_en": "\"Заметно\" = noticeably",
+        "note_ar": "«заметно» = بشكل ملحوظ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 5112,
+    "text": "Программа требует постоянной вовлечённости.",
+    "translation_ar": "يتطلّب البرنامج التزامًا متواصلًا.",
+    "level": "B2",
+    "situation": "education",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 212,
+    "videoId": null,
+    "transcriptContext": "Программа требует постоянной вовлечённости.",
+    "pronunciation": "پراگراما تريبويت پاستايانّاي فافليتشينّاستي.",
+    "words": [
+      {
+        "w": "требовать",
+        "m_en": "to require",
+        "m_ar": "يتطلّب"
+      },
+      {
+        "w": "вовлечённость",
+        "m_en": "commitment",
+        "m_ar": "التزام / انخراط"
+      }
+    ],
+    "grammar_en": "\"Требовать\" takes the genitive case.",
+    "grammar_ar": "يأخذ «требовать» حالة المضاف إليه.",
+    "alternatives": [
+      {
+        "text": "Программа требует постоянства.",
+        "note_en": "\"Постоянство\" = perseverance",
+        "note_ar": "«постоянство» = المثابرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5113,
+    "text": "Образование должно развивать критическое мышление, а не только запоминание.",
+    "translation_ar": "ينبغي أن يعزّز التعليم التفكير النقدي لا الحفظ وحده.",
+    "level": "C1",
+    "situation": "education",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 229,
+    "videoId": null,
+    "transcriptContext": "Образование должно развивать критическое мышление, а не только запоминание.",
+    "pronunciation": "أبرازاڤانييه دولجنو رازفيڤات كريتيتشيسكاييه ميشلينييه، آ نيه تولكا زاپاميناني.",
+    "words": [
+      {
+        "w": "развивать",
+        "m_en": "to develop",
+        "m_ar": "يعزّز / ينمّي"
+      },
+      {
+        "w": "критическое мышление",
+        "m_en": "critical thinking",
+        "m_ar": "التفكير النقدي"
+      }
+    ],
+    "grammar_en": "\"Должно\" (neuter) agrees with \"образование\".",
+    "grammar_ar": "تتطابق «должно» (محايد) مع «образование».",
+    "alternatives": [
+      {
+        "text": "Школа должна учить думать, а не только запоминать.",
+        "note_en": "\"Думать\" vs \"запоминать\"",
+        "note_ar": "«التفكير» مقابل «الحفظ»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5114,
+    "text": "Идите прямо, потом поверните на второй улице направо.",
+    "translation_ar": "سِر مستقيمًا ثم انعطف يمينًا عند الشارع الثاني.",
+    "level": "A2",
+    "situation": "directions",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 6,
+    "videoId": null,
+    "transcriptContext": "Идите прямо, потом поверните на второй улице направо.",
+    "pronunciation": "إديتيه پريما، پوتام پاڤيرنيتيه نا فتاروي أوليتسيه ناپراڤا.",
+    "words": [
+      {
+        "w": "поворачивать",
+        "m_en": "to turn",
+        "m_ar": "ينعطف"
+      },
+      {
+        "w": "улица",
+        "m_en": "street",
+        "m_ar": "شارع"
+      }
+    ],
+    "grammar_en": "\"Идите\" and \"поверните\" are formal/plural commands (вы).",
+    "grammar_ar": "«идите» و«поверните» أمران رسميّان/جمع (вы).",
+    "alternatives": [
+      {
+        "text": "Иди прямо и поверни на второй направо.",
+        "note_en": "Informal (ты)",
+        "note_ar": "غير رسمي (ты)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5115,
+    "text": "Здесь поблизости есть автобусная остановка?",
+    "translation_ar": "هل توجد محطّة حافلات قريبة من هنا؟",
+    "level": "A2",
+    "situation": "directions",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 23,
+    "videoId": null,
+    "transcriptContext": "Здесь поблизости есть автобусная остановка?",
+    "pronunciation": "زدييس پابليزاستي يست أفتوبوسنايا أستانوفكا؟",
+    "words": [
+      {
+        "w": "остановка",
+        "m_en": "stop",
+        "m_ar": "محطّة توقّف"
+      },
+      {
+        "w": "поблизости",
+        "m_en": "nearby",
+        "m_ar": "قريب من هنا"
+      }
+    ],
+    "grammar_en": "\"Есть\" means \"there is / there are\" for existence.",
+    "grammar_ar": "تُستعمل «есть» للتعبير عن الوجود.",
+    "alternatives": [
+      {
+        "text": "Где ближайшая автобусная остановка?",
+        "note_en": "Where is the nearest bus stop?",
+        "note_ar": "أين أقرب محطّة حافلات؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5116,
+    "text": "Отсюда примерно десять минут пешком до площади.",
+    "translation_ar": "يبعد نحو عشر دقائق سيرًا على الأقدام عن الساحة.",
+    "level": "B1",
+    "situation": "directions",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 40,
+    "videoId": null,
+    "transcriptContext": "Отсюда примерно десять минут пешком до площади.",
+    "pronunciation": "أتسويدا پريميرنا ديسيات مينوت پيشكوم دا پلوشادي.",
+    "words": [
+      {
+        "w": "пешком",
+        "m_en": "on foot",
+        "m_ar": "سيرًا على الأقدام"
+      },
+      {
+        "w": "площадь",
+        "m_en": "square",
+        "m_ar": "ساحة"
+      }
+    ],
+    "grammar_en": "\"Примерно\" + number means \"about\".",
+    "grammar_ar": "«примерно» + عدد = «حوالي».",
+    "alternatives": [
+      {
+        "text": "Туда можно дойти за десять минут.",
+        "note_en": "\"Дойти\" = to get there",
+        "note_ar": "«дойти» = يصل سيرًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 5117,
+    "text": "Чтобы добраться до музея, быстрее всего на метро, выйти на третьей остановке.",
+    "translation_ar": "للوصول إلى المتحف، الأسرع هو ركوب المترو والنزول عند المحطّة الثالثة.",
+    "level": "B2",
+    "situation": "directions",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 57,
+    "videoId": null,
+    "transcriptContext": "Чтобы добраться до музея, быстрее всего на метро, выйти на третьей остановке.",
+    "pronunciation": "شتوبي دابراتسيا دا موزييا، بيسترييه ڤسيفو نا ميترو، ڤييتي نا تريتييي أستانوفكيه.",
+    "words": [
+      {
+        "w": "добраться",
+        "m_en": "to get to",
+        "m_ar": "يصل إلى"
+      },
+      {
+        "w": "быстрее всего",
+        "m_en": "the fastest way",
+        "m_ar": "الأسرع"
+      }
+    ],
+    "grammar_en": "\"Быстрее всего\" is a superlative comparison: \"fastest of all\".",
+    "grammar_ar": "«быстрее всего» صيغة تفضيل عليا: «الأسرع من الكلّ».",
+    "alternatives": [
+      {
+        "text": "Лучше всего доехать на метро.",
+        "note_en": "\"Лучше всего\" = the best way",
+        "note_ar": "«lучше всего» = الأفضل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5118,
+    "text": "Во сколько отправляется поезд?",
+    "translation_ar": "في أيّ ساعة يغادر القطار؟",
+    "level": "A1",
+    "situation": "transport",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 74,
+    "videoId": null,
+    "transcriptContext": "Во сколько отправляется поезд?",
+    "pronunciation": "ڤا سكولكا أتپراڤلياتسيا پويزد؟",
+    "words": [
+      {
+        "w": "отправляться",
+        "m_en": "to leave",
+        "m_ar": "يغادر"
+      },
+      {
+        "w": "поезд",
+        "m_en": "train",
+        "m_ar": "قطار"
+      }
+    ],
+    "grammar_en": "\"Во сколько\" means \"at what time\".",
+    "grammar_ar": "تعني «во сколько» «في أيّ ساعة».",
+    "alternatives": [
+      {
+        "text": "Когда отходит поезд?",
+        "note_en": "When does the train leave?",
+        "note_ar": "متى يغادر القطار؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5119,
+    "text": "Я хотел бы билет туда и обратно до Санкт-Петербурга.",
+    "translation_ar": "أودّ تذكرة ذهاب وإياب إلى سان بطرسبرج.",
+    "level": "A2",
+    "situation": "transport",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 91,
+    "videoId": null,
+    "transcriptContext": "Я хотел бы билет туда и обратно до Санкт-Петербурга.",
+    "pronunciation": "يا خاتيل بي بيلييت تودا إي أبراتنا دا سانكت-پيتيربورگا.",
+    "words": [
+      {
+        "w": "билет",
+        "m_en": "ticket",
+        "m_ar": "تذكرة"
+      },
+      {
+        "w": "туда и обратно",
+        "m_en": "round trip",
+        "m_ar": "ذهاب وإياب"
+      }
+    ],
+    "grammar_en": "\"Туда и обратно\" means \"there and back\".",
+    "grammar_ar": "تعني «туда и обратно» «ذهابًا وإيابًا».",
+    "alternatives": [
+      {
+        "text": "Один билет в оба конца до Петербурга.",
+        "note_en": "\"В оба конца\" = round trip",
+        "note_ar": "«в оба конца» = ذهاب وإياب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 5120,
+    "text": "Поезд опоздает из-за технической неисправности.",
+    "translation_ar": "سيصل القطار متأخّرًا بسبب عطل فني.",
+    "level": "B1",
+    "situation": "transport",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 108,
+    "videoId": null,
+    "transcriptContext": "Поезд опоздает из-за технической неисправности.",
+    "pronunciation": "پويزد أپازدايت إز-زا تيخنيتشيسكاي نييسپراڤناستي.",
+    "words": [
+      {
+        "w": "опоздать",
+        "m_en": "to be late",
+        "m_ar": "يتأخّر"
+      },
+      {
+        "w": "неисправность",
+        "m_en": "breakdown",
+        "m_ar": "عطل"
+      }
+    ],
+    "grammar_en": "\"Из-за\" + genitive means \"because of\".",
+    "grammar_ar": "«из-за» + المضاف إليه = «بسبب».",
+    "alternatives": [
+      {
+        "text": "Поезд задерживается из-за поломки.",
+        "note_en": "\"Задерживаться\" = to be delayed",
+        "note_ar": "«задерживаться» = يتأخّر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5121,
+    "text": "Автобусное сообщение приостановлено из-за забастовки.",
+    "translation_ar": "خدمات الحافلات متوقّفة بسبب الإضراب.",
+    "level": "B2",
+    "situation": "transport",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 125,
+    "videoId": null,
+    "transcriptContext": "Автобусное сообщение приостановлено из-за забастовки.",
+    "pronunciation": "أفتوبوسنايه سابشيّينييه پريأستانوڤلينا إز-زا زاباستوفكي.",
+    "words": [
+      {
+        "w": "забастовка",
+        "m_en": "strike",
+        "m_ar": "إضراب"
+      },
+      {
+        "w": "приостановлен",
+        "m_en": "suspended",
+        "m_ar": "متوقّف مؤقّتًا"
+      }
+    ],
+    "grammar_en": "\"Приостановлен\" is the short passive participle.",
+    "grammar_ar": "«приостановлен» اسم مفعول مختصر مبني للمجهول.",
+    "alternatives": [
+      {
+        "text": "Сегодня забастовка транспорта.",
+        "note_en": "There's a transport strike today",
+        "note_ar": "اليوم إضراب في المواصلات"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5122,
+    "text": "Я хочу забронировать рейс до Казани на понедельник.",
+    "translation_ar": "أودّ حجز رحلة جوّية إلى قازان يوم الاثنين.",
+    "level": "A2",
+    "situation": "travel",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 142,
+    "videoId": null,
+    "transcriptContext": "Я хочу забронировать рейс до Казани на понедельник.",
+    "pronunciation": "يا خاتشو زابرانيرافات رييس دا كازاني نا پانيديلنيك.",
+    "words": [
+      {
+        "w": "рейс",
+        "m_en": "flight",
+        "m_ar": "رحلة جوّية"
+      },
+      {
+        "w": "забронировать",
+        "m_en": "to book",
+        "m_ar": "يحجز"
+      }
+    ],
+    "grammar_en": "\"На понедельник\" means \"for Monday\".",
+    "grammar_ar": "تعني «на понедельник» «ليوم الاثنين».",
+    "alternatives": [
+      {
+        "text": "Хочу заказать рейс на понедельник.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5123,
+    "text": "Мы взяли машину напрокат, чтобы объехать побережье.",
+    "translation_ar": "استأجرنا سيّارة لنجوب الساحل.",
+    "level": "B1",
+    "situation": "travel",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 159,
+    "videoId": null,
+    "transcriptContext": "Мы взяли машину напрокат, чтобы объехать побережье.",
+    "pronunciation": "مي ڤزيالي ماشينو ناپراكات، شتوبي أبيخات پابيرييجييه.",
+    "words": [
+      {
+        "w": "напрокат",
+        "m_en": "for rent",
+        "m_ar": "للاستئجار"
+      },
+      {
+        "w": "побережье",
+        "m_en": "coast",
+        "m_ar": "ساحل"
+      }
+    ],
+    "grammar_en": "\"Взять напрокат\" means \"to rent / hire\".",
+    "grammar_ar": "تعني «взять напрокат» «يستأجر».",
+    "alternatives": [
+      {
+        "text": "Мы арендовали машину для поездки по побережью.",
+        "note_en": "\"Арендовать\" = to rent (formal)",
+        "note_ar": "«арендовать» = يستأجر (رسمي)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 5124,
+    "text": "Лучше бронировать заранее, особенно в высокий сезон.",
+    "translation_ar": "يُستحسن الحجز مسبقًا، خاصّةً في الموسم المرتفع.",
+    "level": "B2",
+    "situation": "travel",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 176,
+    "videoId": null,
+    "transcriptContext": "Лучше бронировать заранее, особенно в высокий сезон.",
+    "pronunciation": "لوتشيه براناريڤات زارانييه، أسابينا ڤ ڤيسوكي سيزون.",
+    "words": [
+      {
+        "w": "заранее",
+        "m_en": "in advance",
+        "m_ar": "مسبقًا"
+      },
+      {
+        "w": "высокий сезон",
+        "m_en": "high season",
+        "m_ar": "موسم مرتفع"
+      }
+    ],
+    "grammar_en": "\"Лучше\" + infinitive is an impersonal recommendation.",
+    "grammar_ar": "«лучше» + المصدر توصية غير شخصيّة.",
+    "alternatives": [
+      {
+        "text": "Рекомендуется бронировать заблаговременно.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5125,
+    "text": "У меня бронь на имя Ахмед.",
+    "translation_ar": "لديّ حجز باسم أحمد.",
+    "level": "A2",
+    "situation": "hotel",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 193,
+    "videoId": null,
+    "transcriptContext": "У меня бронь на имя Ахмед.",
+    "pronunciation": "أو مينيا برون نا إيميا أخميد.",
+    "words": [
+      {
+        "w": "бронь",
+        "m_en": "booking",
+        "m_ar": "حجز"
+      },
+      {
+        "w": "на имя",
+        "m_en": "in the name of",
+        "m_ar": "باسم"
+      }
+    ],
+    "grammar_en": "\"На имя\" + name.",
+    "grammar_ar": "«на имя» + الاسم.",
+    "alternatives": [
+      {
+        "text": "Я забронировал на имя Ахмед.",
+        "note_en": "I booked under the name Ahmed",
+        "note_ar": "حجزتُ باسم أحمد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5126,
+    "text": "Во сколько нужно освободить номер?",
+    "translation_ar": "في أيّ ساعة يجب إخلاء الغرفة؟",
+    "level": "B1",
+    "situation": "hotel",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 210,
+    "videoId": null,
+    "transcriptContext": "Во сколько нужно освободить номер?",
+    "pronunciation": "ڤا سكولكا نوجنا أسڤاباديت نومير؟",
+    "words": [
+      {
+        "w": "освободить",
+        "m_en": "to vacate",
+        "m_ar": "يُخلي"
+      },
+      {
+        "w": "номер",
+        "m_en": "room",
+        "m_ar": "غرفة"
+      }
+    ],
+    "grammar_en": "\"Нужно\" + infinitive is an impersonal \"must\".",
+    "grammar_ar": "«нужно» + المصدر = «يجب» غير شخصيّة.",
+    "alternatives": [
+      {
+        "text": "Когда время выезда?",
+        "note_en": "What's the check-out time?",
+        "note_ar": "متى موعد المغادرة؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5127,
+    "text": "Номер выходит на шумную улицу, можно ли его поменять?",
+    "translation_ar": "تطلّ الغرفة على شارع صاخب، هل يمكن تغييرها؟",
+    "level": "B2",
+    "situation": "hotel",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 227,
+    "videoId": null,
+    "transcriptContext": "Номер выходит на шумную улицу, можно ли его поменять?",
+    "pronunciation": "نومير ڤيخوديت نا شومنويو أوليتسو، موجنا لي يفو پاميّنيات؟",
+    "words": [
+      {
+        "w": "выходить на",
+        "m_en": "to face",
+        "m_ar": "يطلّ على"
+      },
+      {
+        "w": "шумный",
+        "m_en": "noisy",
+        "m_ar": "صاخب"
+      }
+    ],
+    "grammar_en": "\"Выходить на\" means \"to look onto\".",
+    "grammar_ar": "تعني «выходить на» «يطلّ على».",
+    "alternatives": [
+      {
+        "text": "Не могли бы вы дать нам более тихий номер?",
+        "note_en": "Could you give us a quieter room?",
+        "note_ar": "هل يمكن أن تمنحونا غرفة أهدأ؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5128,
+    "text": "Где стойка регистрации?",
+    "translation_ar": "أين مكتب إنهاء إجراءات السفر؟",
+    "level": "A2",
+    "situation": "airport",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 4,
+    "videoId": null,
+    "transcriptContext": "Где стойка регистрации?",
+    "pronunciation": "گدييه ستويكا ريگيستراتسيي؟",
+    "words": [
+      {
+        "w": "стойка",
+        "m_en": "counter",
+        "m_ar": "مكتب استقبال"
+      },
+      {
+        "w": "регистрация",
+        "m_en": "check-in",
+        "m_ar": "إنهاء إجراءات السفر"
+      }
+    ],
+    "grammar_en": "\"Регистрация\" is used for checking in luggage and passengers.",
+    "grammar_ar": "تُستعمل «регистрация» لتسجيل الأمتعة والركّاب.",
+    "alternatives": [
+      {
+        "text": "Где можно зарегистрировать багаж?",
+        "note_en": "Where can I check in my luggage?",
+        "note_ar": "أين يمكنني تسجيل أمتعتي؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5129,
+    "text": "Мой чемодан не прибыл, мне нужно подать жалобу.",
+    "translation_ar": "لم تصل حقيبتي وعليّ تقديم شكوى.",
+    "level": "B1",
+    "situation": "airport",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 21,
+    "videoId": null,
+    "transcriptContext": "Мой чемодан не прибыл, мне нужно подать жалобу.",
+    "pronunciation": "موي تشيمادان نيه پريبيل، منييه نوجنا پادات جالابو.",
+    "words": [
+      {
+        "w": "чемодан",
+        "m_en": "suitcase",
+        "m_ar": "حقيبة سفر"
+      },
+      {
+        "w": "жалоба",
+        "m_en": "complaint",
+        "m_ar": "شكوى"
+      }
+    ],
+    "grammar_en": "\"Подать жалобу\" means \"to file a complaint\".",
+    "grammar_ar": "«подать жалобу» = تقديم شكوى.",
+    "alternatives": [
+      {
+        "text": "Мой багаж потеряли.",
+        "note_en": "They've lost my luggage",
+        "note_ar": "أضاعوا أمتعتي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 5130,
+    "text": "Посадка закроется за двадцать минут до вылета.",
+    "translation_ar": "سيُغلق الصعود إلى الطائرة قبل الإقلاع بعشرين دقيقة.",
+    "level": "B2",
+    "situation": "airport",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 38,
+    "videoId": null,
+    "transcriptContext": "Посадка закроется за двадцать минут до вылета.",
+    "pronunciation": "پاسادكا زاكرويتسيا زا دڤاتسات مينوت دا ڤيلييتا.",
+    "words": [
+      {
+        "w": "посадка",
+        "m_en": "boarding",
+        "m_ar": "صعود إلى الطائرة"
+      },
+      {
+        "w": "вылет",
+        "m_en": "departure (flight)",
+        "m_ar": "إقلاع"
+      }
+    ],
+    "grammar_en": "\"За... до\" means \"... before\": \"за двадцать минут до\".",
+    "grammar_ar": "«за... до» = «قبل... بـ»: «за двадцать минут до».",
+    "alternatives": [
+      {
+        "text": "Посадку закроют за двадцать минут до вылета.",
+        "note_en": "Active voice",
+        "note_ar": "صيغة الفاعل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5131,
+    "text": "Я хочу открыть банковский счёт.",
+    "translation_ar": "أودّ فتح حساب مصرفي.",
+    "level": "A2",
+    "situation": "banking",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 55,
+    "videoId": null,
+    "transcriptContext": "Я хочу открыть банковский счёт.",
+    "pronunciation": "يا خاتشو أتكريت بانكاڤسكي سچيوت.",
+    "words": [
+      {
+        "w": "счёт",
+        "m_en": "account",
+        "m_ar": "حساب"
+      },
+      {
+        "w": "открыть",
+        "m_en": "to open",
+        "m_ar": "يفتح"
+      }
+    ],
+    "grammar_en": "\"Счёт\" also means \"bill\" in a restaurant.",
+    "grammar_ar": "تعني «счёт» أيضًا «الفاتورة» في المطعم.",
+    "alternatives": [
+      {
+        "text": "Хочу открыть счёт в банке.",
+        "note_en": "I want to open a bank account",
+        "note_ar": "أريد فتح حساب في المصرف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5132,
+    "text": "Здесь поблизости есть банкомат?",
+    "translation_ar": "هل يوجد صرّاف آلي قريب من هنا؟",
+    "level": "B1",
+    "situation": "banking",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 72,
+    "videoId": null,
+    "transcriptContext": "Здесь поблизости есть банкомат?",
+    "pronunciation": "زدييس پابليزاستي يست بانكامات؟",
+    "words": [
+      {
+        "w": "банкомат",
+        "m_en": "ATM",
+        "m_ar": "صرّاف آلي"
+      },
+      {
+        "w": "поблизости",
+        "m_en": "nearby",
+        "m_ar": "قريب من هنا"
+      }
+    ],
+    "grammar_en": "\"Есть\" is used to ask whether something exists somewhere.",
+    "grammar_ar": "تُستعمل «есть» للسؤال عن وجود شيء في مكان ما.",
+    "alternatives": [
+      {
+        "text": "Где я могу снять деньги?",
+        "note_en": "Where can I withdraw money?",
+        "note_ar": "أين يمكنني سحب المال؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5133,
+    "text": "Перевод поступит на счёт в течение двадцати четырёх часов.",
+    "translation_ar": "سيُودَع التحويل خلال أربع وعشرين ساعة.",
+    "level": "B2",
+    "situation": "banking",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 89,
+    "videoId": null,
+    "transcriptContext": "Перевод поступит на счёт в течение двадцати четырёх часов.",
+    "pronunciation": "پيريڤود پاستوپيت نا سچيوت ڤ تيتشيني دڤاتساتي تشيتيريوخ چاسوڤ.",
+    "words": [
+      {
+        "w": "перевод",
+        "m_en": "transfer",
+        "m_ar": "تحويل"
+      },
+      {
+        "w": "в течение",
+        "m_en": "within",
+        "m_ar": "خلال"
+      }
+    ],
+    "grammar_en": "\"В течение\" + genitive means \"within (a period)\".",
+    "grammar_ar": "«в течение» + المضاف إليه = «خلال (مدّة)».",
+    "alternatives": [
+      {
+        "text": "Вы получите перевод в течение суток.",
+        "note_en": "Active voice",
+        "note_ar": "صيغة الفاعل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5134,
+    "text": "Мне нужно заплатить за квартиру до конца месяца.",
+    "translation_ar": "عليّ دفع الإيجار قبل نهاية الشهر.",
+    "level": "B1",
+    "situation": "finance",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 106,
+    "videoId": null,
+    "transcriptContext": "Мне нужно заплатить за квартиру до конца месяца.",
+    "pronunciation": "منييه نوجنا زاپلاتيت زا كڤارتيرو دا كانتسا مييسيتسا.",
+    "words": [
+      {
+        "w": "квартира",
+        "m_en": "flat, apartment (rent)",
+        "m_ar": "إيجار"
+      },
+      {
+        "w": "конец месяца",
+        "m_en": "end of the month",
+        "m_ar": "نهاية الشهر"
+      }
+    ],
+    "grammar_en": "\"Нужно\" + infinitive expresses necessity.",
+    "grammar_ar": "«нужно» + المصدر تعبّر عن الضرورة.",
+    "alternatives": [
+      {
+        "text": "Аренду нужно оплатить к концу месяца.",
+        "note_en": "\"Аренда\" = rent (noun)",
+        "note_ar": "«аренда» = الإيجار (اسم)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 5135,
+    "text": "Рекомендуется откладывать часть доходов на сбережения.",
+    "translation_ar": "من المستحسن تخصيص جزء من الدخل للادّخار.",
+    "level": "B2",
+    "situation": "finance",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 123,
+    "videoId": null,
+    "transcriptContext": "Рекомендуется откладывать часть доходов на сбережения.",
+    "pronunciation": "ريكاميندويتسيا أتكلاديڤات تشاست داخادوف نا سبيريجينيا.",
+    "words": [
+      {
+        "w": "сбережения",
+        "m_en": "savings",
+        "m_ar": "ادّخار"
+      },
+      {
+        "w": "доходы",
+        "m_en": "income",
+        "m_ar": "دخل"
+      }
+    ],
+    "grammar_en": "\"Рекомендуется\" + infinitive is an impersonal recommendation.",
+    "grammar_ar": "«рекомендуется» + المصدر توصية غير شخصيّة.",
+    "alternatives": [
+      {
+        "text": "Стоит откладывать часть зарплаты.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5136,
+    "text": "Инфляция значительно снизила покупательную способность семей.",
+    "translation_ar": "خفّض التضخّم القدرة الشرائيّة للأسر بشكل كبير.",
+    "level": "C1",
+    "situation": "finance",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 140,
+    "videoId": null,
+    "transcriptContext": "Инфляция значительно снизила покупательную способность семей.",
+    "pronunciation": "إينفلياتسيا زناتشيتيلنا سنيزيلا پاكوپاتيلنويو سپاسوبناست سيمي.",
+    "words": [
+      {
+        "w": "покупательная способность",
+        "m_en": "purchasing power",
+        "m_ar": "القدرة الشرائيّة"
+      },
+      {
+        "w": "семья",
+        "m_en": "household, family",
+        "m_ar": "أسرة"
+      }
+    ],
+    "grammar_en": "\"Снизить\" is the perfective of \"снижать\" (a completed action).",
+    "grammar_ar": "«снизить» صيغة تامّة من «снижать» (فعل مكتمل).",
+    "alternatives": [
+      {
+        "text": "Инфляция сильно ударила по доходам семей.",
+        "note_en": "\"Ударить по\" = to hit",
+        "note_ar": "«ударить по» = يضرّ بـ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5137,
+    "text": "Я ищу двухкомнатную квартиру в центре.",
+    "translation_ar": "أبحث عن شقّة من غرفتين في وسط المدينة.",
+    "level": "A2",
+    "situation": "real-estate",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 157,
+    "videoId": null,
+    "transcriptContext": "Я ищу двухкомнатную квартиру в центре.",
+    "pronunciation": "يا إيشو دفوخكومناتنويو كڤارتيرو ڤ تسينتريه.",
+    "words": [
+      {
+        "w": "квартира",
+        "m_en": "flat",
+        "m_ar": "شقّة"
+      },
+      {
+        "w": "центр",
+        "m_en": "city centre",
+        "m_ar": "وسط المدينة"
+      }
+    ],
+    "grammar_en": "\"Двухкомнатная\" counts rooms not including the kitchen and bathroom.",
+    "grammar_ar": "تُحسب «двухкомнатная» الغرف باستثناء المطبخ والحمّام.",
+    "alternatives": [
+      {
+        "text": "Ищу двушку в центре.",
+        "note_en": "\"Двушка\" (colloquial) = two-room flat",
+        "note_ar": "«двушка» (عاميّة) = شقّة من غرفتين"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5138,
+    "text": "Коммунальные платежи входят в стоимость аренды?",
+    "translation_ar": "هل تشمل الأجرة نفقات الخدمات المشتركة؟",
+    "level": "B1",
+    "situation": "real-estate",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 174,
+    "videoId": null,
+    "transcriptContext": "Коммунальные платежи входят в стоимость аренды?",
+    "pronunciation": "كامّونالنيه پلاتيجي فخوديات ڤ ستويماست أريندي؟",
+    "words": [
+      {
+        "w": "коммунальные платежи",
+        "m_en": "utility charges",
+        "m_ar": "نفقات الخدمات"
+      },
+      {
+        "w": "входить в",
+        "m_en": "to be included in",
+        "m_ar": "يشمل / يدخل في"
+      }
+    ],
+    "grammar_en": "\"Входить в\" takes the accusative case.",
+    "grammar_ar": "يأخذ «входить в» حالة المفعول به.",
+    "alternatives": [
+      {
+        "text": "Коммуналка включена в аренду?",
+        "note_en": "\"Коммуналка\" (colloquial)",
+        "note_ar": "«коммуналка» (عاميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5139,
+    "text": "Залог равен двум месяцам аренды и возвращается по окончании договора.",
+    "translation_ar": "يعادل التأمين إيجار شهرين ويُردّ عند انتهاء العقد.",
+    "level": "B2",
+    "situation": "real-estate",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 191,
+    "videoId": null,
+    "transcriptContext": "Залог равен двум месяцам аренды и возвращается по окончании договора.",
+    "pronunciation": "زالوگ راڤين دڤوم مييسياتسام أريندي إي ڤازفراشاييتسيا پا أكانتشاني داگاڤارا.",
+    "words": [
+      {
+        "w": "залог",
+        "m_en": "deposit",
+        "m_ar": "تأمين / وديعة"
+      },
+      {
+        "w": "договор",
+        "m_en": "contract",
+        "m_ar": "عقد"
+      }
+    ],
+    "grammar_en": "\"По окончании\" + genitive means \"upon the ending of\".",
+    "grammar_ar": "«по окончании» + المضاف إليه = «عند انتهاء».",
+    "alternatives": [
+      {
+        "text": "Залог вернут в конце договора.",
+        "note_en": "\"Вернут\" active voice",
+        "note_ar": "«вернут» صيغة الفاعل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5140,
+    "text": "Мой сосед всегда здоровается с улыбкой.",
+    "translation_ar": "جاري يحيّي دائمًا بابتسامة.",
+    "level": "A2",
+    "situation": "community",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 208,
+    "videoId": null,
+    "transcriptContext": "Мой сосед всегда здоровается с улыбкой.",
+    "pronunciation": "موي سوسيد ڤسيگدا زداروڤاييتسيا س أوليبكاي.",
+    "words": [
+      {
+        "w": "сосед",
+        "m_en": "neighbour",
+        "m_ar": "جار"
+      },
+      {
+        "w": "здороваться",
+        "m_en": "to greet",
+        "m_ar": "يحيّي"
+      }
+    ],
+    "grammar_en": "\"С улыбкой\" means \"with a smile\".",
+    "grammar_ar": "تعني «с улыбкой» «بابتسامة».",
+    "alternatives": [
+      {
+        "text": "Мой сосед очень приветливый.",
+        "note_en": "My neighbour is very friendly",
+        "note_ar": "جاري ودود جدًّا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5141,
+    "text": "Мне нужен читательский билет, чтобы брать книги.",
+    "translation_ar": "أحتاج إلى بطاقة المكتبة لأستعير الكتب.",
+    "level": "B1",
+    "situation": "community",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 225,
+    "videoId": null,
+    "transcriptContext": "Мне нужен читательский билет, чтобы брать книги.",
+    "pronunciation": "منييه نوجين تشيتاتيلسكي بيلييت، شتوبي براتي كنيگي.",
+    "words": [
+      {
+        "w": "читательский билет",
+        "m_en": "library card",
+        "m_ar": "بطاقة المكتبة"
+      },
+      {
+        "w": "брать",
+        "m_en": "to borrow",
+        "m_ar": "يستعير"
+      }
+    ],
+    "grammar_en": "\"Брать\" means \"to borrow\"; \"давать\" means \"to lend\".",
+    "grammar_ar": "«брать» = يستعير؛ و«давать» = يعير.",
+    "alternatives": [
+      {
+        "text": "Хочу брать книги в библиотеке.",
+        "note_en": "I want to borrow books from the library",
+        "note_ar": "أريد استعارة كتب من المكتبة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 5142,
+    "text": "Мэрия начала сбор подписей по этому вопросу.",
+    "translation_ar": "بدأت البلديّة حملة جمع توقيعات حول هذا الموضوع.",
+    "level": "B2",
+    "situation": "community",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 2,
+    "videoId": null,
+    "transcriptContext": "Мэрия начала сбор подписей по этому вопросу.",
+    "pronunciation": "ميريا ناتشالا سبور پادپيسي پا إتامو ڤاپروسو.",
+    "words": [
+      {
+        "w": "мэрия",
+        "m_en": "town hall",
+        "m_ar": "بلديّة"
+      },
+      {
+        "w": "сбор подписей",
+        "m_en": "signature collection",
+        "m_ar": "جمع توقيعات"
+      }
+    ],
+    "grammar_en": "\"Начать\" + accusative noun means \"to start something\".",
+    "grammar_ar": "«начать» + مفعول به = «يبدأ شيئًا».",
+    "alternatives": [
+      {
+        "text": "Мэрия запустила сбор подписей.",
+        "note_en": "\"Запустить\" = to launch",
+        "note_ar": "«запустить» = يُطلق"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5143,
+    "text": "Концерт начинается в восемь вечера.",
+    "translation_ar": "تبدأ الحفلة الموسيقيّة في الثامنة مساءً.",
+    "level": "A2",
+    "situation": "events",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 19,
+    "videoId": null,
+    "transcriptContext": "Концерт начинается в восемь вечера.",
+    "pronunciation": "كانتسيرت ناتشيناييتسيا ڤ ڤوسيم ڤيتشيرا.",
+    "words": [
+      {
+        "w": "концерт",
+        "m_en": "concert",
+        "m_ar": "حفلة موسيقيّة"
+      },
+      {
+        "w": "вечер",
+        "m_en": "evening",
+        "m_ar": "مساء"
+      }
+    ],
+    "grammar_en": "\"В восемь вечера\" specifies \"eight in the evening\" as opposed to morning.",
+    "grammar_ar": "تحدّد «в восемь вечера» «الثامنة مساءً» تمييزًا عن الصباح.",
+    "alternatives": [
+      {
+        "text": "Концерт стартует в восемь.",
+        "note_en": "\"Стартует\" = starts (informal)",
+        "note_ar": "«стартует» = يبدأ (عاميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5144,
+    "text": "Билеты на субботу уже все проданы.",
+    "translation_ar": "نفدت تذاكر يوم السبت بالكامل.",
+    "level": "B1",
+    "situation": "events",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 36,
+    "videoId": null,
+    "transcriptContext": "Билеты на субботу уже все проданы.",
+    "pronunciation": "بيلييتي نا سوبّوتو أوجيه ڤسيه پروداني.",
+    "words": [
+      {
+        "w": "билет",
+        "m_en": "ticket",
+        "m_ar": "تذكرة"
+      },
+      {
+        "w": "проданный",
+        "m_en": "sold",
+        "m_ar": "مباع"
+      }
+    ],
+    "grammar_en": "\"Уже\" means \"already\".",
+    "grammar_ar": "تعني «уже» «بالفعل».",
+    "alternatives": [
+      {
+        "text": "На субботу билетов больше нет.",
+        "note_en": "There are no more tickets for Saturday",
+        "note_ar": "لم تعد هناك تذاكر ليوم السبت"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5145,
+    "text": "Мероприятие перенесут до особого распоряжения из соображений безопасности.",
+    "translation_ar": "سيؤجَّل الحدث حتى إشعار آخر لأسباب أمنيّة.",
+    "level": "B2",
+    "situation": "events",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 53,
+    "videoId": null,
+    "transcriptContext": "Мероприятие перенесут до особого распоряжения из соображений безопасности.",
+    "pronunciation": "ميرايپرياتييه پيرينيسوت دا أسوباڤا راسپاريجينيا إز سابراجيني بيزاپاسناستي.",
+    "words": [
+      {
+        "w": "перенести",
+        "m_en": "to postpone",
+        "m_ar": "يؤجّل"
+      },
+      {
+        "w": "до особого распоряжения",
+        "m_en": "until further notice",
+        "m_ar": "حتى إشعار آخر"
+      }
+    ],
+    "grammar_en": "\"Перенесут\" is the plural future of \"перенести\" (impersonal \"they will\").",
+    "grammar_ar": "«перенесут» مستقبل جمع من «перенести» (فاعل غير محدّد «هم»).",
+    "alternatives": [
+      {
+        "text": "Мероприятие отложили до особого распоряжения.",
+        "note_en": "Past tense",
+        "note_ar": "صيغة الماضي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5146,
+    "text": "Я хочу записаться на приём к врачу.",
+    "translation_ar": "أودّ حجز موعد مع الطبيب.",
+    "level": "A2",
+    "situation": "appointments",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 70,
+    "videoId": null,
+    "transcriptContext": "Я хочу записаться на приём к врачу.",
+    "pronunciation": "يا خاتشو زاپيساتسيا نا پريوم ك ڤراتشو.",
+    "words": [
+      {
+        "w": "приём",
+        "m_en": "appointment",
+        "m_ar": "موعد"
+      },
+      {
+        "w": "врач",
+        "m_en": "doctor",
+        "m_ar": "طبيب"
+      }
+    ],
+    "grammar_en": "\"Записаться на приём\" is the usual way to book an appointment.",
+    "grammar_ar": "«записаться на приём» الطريقة المعتادة لحجز موعد.",
+    "alternatives": [
+      {
+        "text": "Хочу записаться к врачу на завтра.",
+        "note_en": "I'd like an appointment for tomorrow",
+        "note_ar": "أودّ موعدًا لغد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5147,
+    "text": "Можем ли мы перенести встречу на четверг во второй половине дня?",
+    "translation_ar": "هل يمكننا نقل الموعد إلى بعد ظهر الخميس؟",
+    "level": "B1",
+    "situation": "appointments",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 87,
+    "videoId": null,
+    "transcriptContext": "Можем ли мы перенести встречу на четверг во второй половине дня?",
+    "pronunciation": "موجيم لي مي پيرينيستي ڤستريتشو نا تشيتفيرگ ڤا فتاروي پالاڤينيه دنيا؟",
+    "words": [
+      {
+        "w": "перенести",
+        "m_en": "to move",
+        "m_ar": "ينقل"
+      },
+      {
+        "w": "четверг",
+        "m_en": "Thursday",
+        "m_ar": "الخميس"
+      }
+    ],
+    "grammar_en": "\"Можем ли мы\" (formal/polite) softens the request.",
+    "grammar_ar": "«можем ли мы» (رسمي/مهذّب) تلطّف الطلب.",
+    "alternatives": [
+      {
+        "text": "Можно перенести встречу на четверг?",
+        "note_en": "Simpler",
+        "note_ar": "أبسط"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 5148,
+    "text": "Подтверждаем вашу запись на среду на десять тридцать.",
+    "translation_ar": "نؤكّد لكم موعدكم يوم الأربعاء في العاشرة والنصف.",
+    "level": "B2",
+    "situation": "appointments",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 104,
+    "videoId": null,
+    "transcriptContext": "Подтверждаем вашу запись на среду на десять тридцать.",
+    "pronunciation": "پادتڤيرجدايم ڤاشو زاپيس نا سريدو نا ديسيات تريتسات.",
+    "words": [
+      {
+        "w": "подтверждать",
+        "m_en": "to confirm",
+        "m_ar": "يؤكّد"
+      },
+      {
+        "w": "запись",
+        "m_en": "appointment",
+        "m_ar": "موعد"
+      }
+    ],
+    "grammar_en": "Russian clock times use the number of minutes: \"десять тридцать\".",
+    "grammar_ar": "تُستعمل الروسية عدد الدقائق للوقت: «десять тридцать».",
+    "alternatives": [
+      {
+        "text": "Ваша запись подтверждена на среду.",
+        "note_en": "\"Подтверждена\"",
+        "note_ar": "«подтверждена»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5149,
+    "text": "Приносим извинения за доставленные неудобства.",
+    "translation_ar": "نأسف للإزعاج الذي سبّبناه.",
+    "level": "B1",
+    "situation": "customer-service",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 121,
+    "videoId": null,
+    "transcriptContext": "Приносим извинения за доставленные неудобства.",
+    "pronunciation": "پريناسيم إيزفينيا زا داستاڤليّينّيه نيودوبستفا.",
+    "words": [
+      {
+        "w": "неудобство",
+        "m_en": "inconvenience",
+        "m_ar": "إزعاج"
+      },
+      {
+        "w": "извинение",
+        "m_en": "apology",
+        "m_ar": "اعتذار"
+      }
+    ],
+    "grammar_en": "\"Приносить извинения\" is a formal way to apologise.",
+    "grammar_ar": "«приносить извинения» طريقة رسميّة للاعتذار.",
+    "alternatives": [
+      {
+        "text": "Извините за неудобства.",
+        "note_en": "We're sorry for the trouble",
+        "note_ar": "نأسف للمتاعب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5150,
+    "text": "Мы обязуемся решить вашу проблему в течение сорока восьми часов.",
+    "translation_ar": "نتعهّد بحلّ مشكلتكم خلال ثمانٍ وأربعين ساعة.",
+    "level": "B2",
+    "situation": "customer-service",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 138,
+    "videoId": null,
+    "transcriptContext": "Мы обязуемся решить вашу проблему в течение сорока восьми часов.",
+    "pronunciation": "مي أبيازويمسيا ريشيت ڤاشو پرابليمو ڤ تيتشيني سوراكا ڤاسمي چاسوڤ.",
+    "words": [
+      {
+        "w": "обязываться",
+        "m_en": "to commit to",
+        "m_ar": "يتعهّد بـ"
+      },
+      {
+        "w": "в течение",
+        "m_en": "within",
+        "m_ar": "خلال"
+      }
+    ],
+    "grammar_en": "\"Обязываться\" + infinitive.",
+    "grammar_ar": "«обязываться» + المصدر.",
+    "alternatives": [
+      {
+        "text": "Мы решим проблему в течение двух дней.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5151,
+    "text": "Благодарим за терпение и гарантируем ответ до пятницы.",
+    "translation_ar": "نشكركم على صبركم ونضمن لكم ردًّا قبل يوم الجمعة.",
+    "level": "C1",
+    "situation": "customer-service",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 155,
+    "videoId": null,
+    "transcriptContext": "Благодарим за терпение и гарантируем ответ до пятницы.",
+    "pronunciation": "بلاگادريم زا تيرپينييه إي گارانتيرويم أتڤيت دا پياتنيتسي.",
+    "words": [
+      {
+        "w": "гарантировать",
+        "m_en": "to guarantee",
+        "m_ar": "يضمن"
+      },
+      {
+        "w": "ответ",
+        "m_en": "reply",
+        "m_ar": "ردّ"
+      }
+    ],
+    "grammar_en": "\"Благодарить\" takes the accusative for the person and \"за\" for the reason.",
+    "grammar_ar": "يأخذ «благодарить» المفعول به للشخص و«за» للسبب.",
+    "alternatives": [
+      {
+        "text": "Мы обеспечим ответ до пятницы.",
+        "note_en": "\"Обеспечить\" = to ensure",
+        "note_ar": "«обеспечить» = يضمن"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5152,
+    "text": "Мне нужна помощь, чтобы найти этот товар.",
+    "translation_ar": "أحتاج إلى مساعدة لأجد هذا المنتج.",
+    "level": "A2",
+    "situation": "customer-help",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 172,
+    "videoId": null,
+    "transcriptContext": "Мне нужна помощь, чтобы найти этот товар.",
+    "pronunciation": "منييه نوجنا پوماش، شتوبي نايتي إتات تاڤار.",
+    "words": [
+      {
+        "w": "найти",
+        "m_en": "to find",
+        "m_ar": "يجد"
+      },
+      {
+        "w": "товар",
+        "m_en": "product",
+        "m_ar": "منتج"
+      }
+    ],
+    "grammar_en": "\"Чтобы\" + infinitive expresses purpose.",
+    "grammar_ar": "«чтобы» + المصدر تعبّر عن الغاية.",
+    "alternatives": [
+      {
+        "text": "Поможете найти этот товар?",
+        "note_en": "Would you help me find it?",
+        "note_ar": "هل تساعدني في إيجاد هذا المنتج؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5153,
+    "text": "Я не могу войти в аккаунт, он пишет, что пароль неверный.",
+    "translation_ar": "لا أستطيع تسجيل الدخول؛ يقول لي إنّ كلمة المرور غير صحيحة.",
+    "level": "B1",
+    "situation": "customer-help",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 189,
+    "videoId": null,
+    "transcriptContext": "Я не могу войти в аккаунт, он пишет, что пароль неверный.",
+    "pronunciation": "يا نيه ماگو ڤايتي ڤ آكّاونت، أون پيشيت، شتو پارول نيفيرني.",
+    "words": [
+      {
+        "w": "пароль",
+        "m_en": "password",
+        "m_ar": "كلمة المرور"
+      },
+      {
+        "w": "войти в",
+        "m_en": "to log in",
+        "m_ar": "يسجّل الدخول"
+      }
+    ],
+    "grammar_en": "\"Войти в\" means \"to log in\"; \"выйти из\" means \"to log out\".",
+    "grammar_ar": "«войти в» = تسجيل الدخول؛ و«выйти из» = تسجيل الخروج.",
+    "alternatives": [
+      {
+        "text": "У меня не получается зайти в аккаунт.",
+        "note_en": "I can't get into my account",
+        "note_ar": "لا أستطيع الدخول إلى حسابي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 5154,
+    "text": "Буду признателен, если вы рассмотрите мой запрос как можно скорее.",
+    "translation_ar": "أكون ممتنًّا لو راجعتَ طلبي في أقرب وقت ممكن.",
+    "level": "B2",
+    "situation": "customer-help",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 206,
+    "videoId": null,
+    "transcriptContext": "Буду признателен, если вы рассмотрите мой запрос как можно скорее.",
+    "pronunciation": "بودو پريزناتيلين، يسلي ڤي راسماتريتيه موي زاپروس كاك موجنا سكاريه.",
+    "words": [
+      {
+        "w": "признательный",
+        "m_en": "grateful",
+        "m_ar": "ممتنّ"
+      },
+      {
+        "w": "как можно скорее",
+        "m_en": "as soon as possible",
+        "m_ar": "في أقرب وقت"
+      }
+    ],
+    "grammar_en": "\"Буду признателен, если\" + future tense is a polite formal phrase.",
+    "grammar_ar": "«буду признателен, если» + المستقبل صيغة رسميّة مهذّبة.",
+    "alternatives": [
+      {
+        "text": "Прошу рассмотреть мой запрос поскорее.",
+        "note_en": "Shorter",
+        "note_ar": "أقصر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5155,
+    "text": "Наш продукт подстраивается под нужды каждого клиента.",
+    "translation_ar": "يتكيّف منتجنا مع احتياجات كلّ عميل.",
+    "level": "B1",
+    "situation": "support",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 223,
+    "videoId": null,
+    "transcriptContext": "Наш продукт подстраивается под нужды каждого клиента.",
+    "pronunciation": "ناش پرادوكت پاتستريڤايتسيا پاد نوجدي كاجداگا كلييينتا.",
+    "words": [
+      {
+        "w": "подстраиваться под",
+        "m_en": "to adapt to",
+        "m_ar": "يتكيّف مع"
+      },
+      {
+        "w": "нужда",
+        "m_en": "need",
+        "m_ar": "حاجة"
+      }
+    ],
+    "grammar_en": "\"Каждого\" is genitive, agreeing with \"клиента\".",
+    "grammar_ar": "«каждого» بحالة المضاف إليه لتتّفق مع «клиента».",
+    "alternatives": [
+      {
+        "text": "Мы учитываем потребности каждого клиента.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 5156,
+    "text": "Я понимаю ваше беспокойство насчёт цены, но качество это оправдывает.",
+    "translation_ar": "أتفهّم قلقكم من السعر لكنّ الجودة تبرّره.",
+    "level": "B2",
+    "situation": "support",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 0,
+    "videoId": null,
+    "transcriptContext": "Я понимаю ваше беспокойство насчёт цены, но качество это оправдывает.",
+    "pronunciation": "يا پانيمايو ڤاشيه بيسپاكويستفا ناشيوت تسيني، نو كاتشيستفا إتا أپراڤديڤايت.",
+    "words": [
+      {
+        "w": "беспокойство",
+        "m_en": "concern",
+        "m_ar": "قلق"
+      },
+      {
+        "w": "оправдывать",
+        "m_en": "to justify",
+        "m_ar": "يبرّر"
+      }
+    ],
+    "grammar_en": "\"Насчёт\" + genitive means \"regarding / about\".",
+    "grammar_ar": "«насчёт» + المضاف إليه = «بخصوص».",
+    "alternatives": [
+      {
+        "text": "Я знаю, что цена вас беспокоит, но это того стоит.",
+        "note_en": "\"Того стоит\" = it's worth it",
+        "note_ar": "«того стоит» = يستحقّ العناء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5157,
+    "text": "Мы готовы обсуждать условия, пока сохраняется качество.",
+    "translation_ar": "نحن مستعدّون لمناقشة الشروط ما دامت الجودة محفوظة.",
+    "level": "C1",
+    "situation": "support",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 17,
+    "videoId": null,
+    "transcriptContext": "Мы готовы обсуждать условия, пока сохраняется качество.",
+    "pronunciation": "مي گاتوفي أبسوجدات أوسلاڤيا، پاكا ساخرانياييتسيا كاتشيستفا.",
+    "words": [
+      {
+        "w": "готов",
+        "m_en": "willing",
+        "m_ar": "مستعدّ"
+      },
+      {
+        "w": "сохраняться",
+        "m_en": "to be maintained",
+        "m_ar": "يُحفظ"
+      }
+    ],
+    "grammar_en": "\"Пока\" + present/imperfective expresses \"as long as\".",
+    "grammar_ar": "«пока» + المضارع/الناقص يعبّر عن «ما دام».",
+    "alternatives": [
+      {
+        "text": "Мы обсудим условия, пока качество не пострадает.",
+        "note_en": "\"Пострадает\" = suffers",
+        "note_ar": "«пострадает» = يتضرّر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5158,
+    "text": "Вы пробовали перезагрузить компьютер?",
+    "translation_ar": "هل جرّبتَ إعادة تشغيل الحاسوب؟",
+    "level": "B1",
+    "situation": "technical-support",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 34,
+    "videoId": null,
+    "transcriptContext": "Вы пробовали перезагрузить компьютер?",
+    "pronunciation": "ڤي پروباڤالي پيريزاگروزيت كامپيوتير؟",
+    "words": [
+      {
+        "w": "перезагрузить",
+        "m_en": "to restart",
+        "m_ar": "يعيد التشغيل"
+      },
+      {
+        "w": "компьютер",
+        "m_en": "computer",
+        "m_ar": "حاسوب"
+      }
+    ],
+    "grammar_en": "\"Пробовать\" + infinitive means \"to try doing\".",
+    "grammar_ar": "«пробовать» + المصدر = يجرّب فعل شيء.",
+    "alternatives": [
+      {
+        "text": "Вы уже перезагружали устройство?",
+        "note_en": "\"Устройство\" = device",
+        "note_ar": "«устройство» = جهاز"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5159,
+    "text": "Ошибка сохраняется, хотя мы обновили программу.",
+    "translation_ar": "يستمرّ الخطأ رغم أنّنا حدّثنا البرنامج.",
+    "level": "B2",
+    "situation": "technical-support",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 51,
+    "videoId": null,
+    "transcriptContext": "Ошибка сохраняется, хотя мы обновили программу.",
+    "pronunciation": "أشيبكا ساخرانياييتسيا، خاتيا مي أبناڤيلي پراگرامو.",
+    "words": [
+      {
+        "w": "сохраняться",
+        "m_en": "to persist",
+        "m_ar": "يستمرّ"
+      },
+      {
+        "w": "обновить",
+        "m_en": "to update",
+        "m_ar": "يحدّث"
+      }
+    ],
+    "grammar_en": "\"Хотя\" + past tense states a known fact.",
+    "grammar_ar": "«хотя» + الماضي تذكر واقعة معروفة.",
+    "alternatives": [
+      {
+        "text": "Ошибка всё ещё есть, несмотря на обновление.",
+        "note_en": "\"Несмотря на\" = despite",
+        "note_ar": "«несмотря на» = رغم"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5160,
+    "text": "Всё указывает на то, что сбой связан с настройками сети.",
+    "translation_ar": "كلّ المؤشّرات تدلّ على أنّ العطل مرتبط بإعدادات الشبكة.",
+    "level": "C1",
+    "situation": "technical-support",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 68,
+    "videoId": null,
+    "transcriptContext": "Всё указывает на то, что сбой связан с настройками сети.",
+    "pronunciation": "ڤسيو أوكازيڤايت نا تو، شتو سبوي سفيازان س ناستروياكامي سيتي.",
+    "words": [
+      {
+        "w": "сбой",
+        "m_en": "fault",
+        "m_ar": "عطل"
+      },
+      {
+        "w": "сеть",
+        "m_en": "network",
+        "m_ar": "شبكة"
+      }
+    ],
+    "grammar_en": "\"Всё указывает на то, что\" means \"everything suggests that\".",
+    "grammar_ar": "«всё указывает на то, что» = «كلّ شيء يدلّ على أنّ».",
+    "alternatives": [
+      {
+        "text": "Вероятно, проблема в настройках сети.",
+        "note_en": "\"Вероятно\" = probably",
+        "note_ar": "«вероятно» = من المحتمل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5161,
+    "text": "Помогите! Вызовите полицию!",
+    "translation_ar": "النجدة! اتّصلوا بالشرطة!",
+    "level": "A1",
+    "situation": "emergency",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 85,
+    "videoId": null,
+    "transcriptContext": "Помогите! Вызовите полицию!",
+    "pronunciation": "پاماگيتيه! ڤيزاڤيتيه پاليتسيو!",
+    "words": [
+      {
+        "w": "помощь",
+        "m_en": "help",
+        "m_ar": "نجدة"
+      },
+      {
+        "w": "полиция",
+        "m_en": "police",
+        "m_ar": "شرطة"
+      }
+    ],
+    "grammar_en": "\"Вызовите\" is the formal/plural command.",
+    "grammar_ar": "«вызовите» أمر رسمي/جمع.",
+    "alternatives": [
+      {
+        "text": "На помощь!",
+        "note_en": "Help!",
+        "note_ar": "النجدة!"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 5162,
+    "text": "Произошла авария, нам нужна скорая помощь.",
+    "translation_ar": "وقع حادث، نحتاج إلى سيّارة إسعاف.",
+    "level": "A2",
+    "situation": "emergency",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 102,
+    "videoId": null,
+    "transcriptContext": "Произошла авария, нам нужна скорая помощь.",
+    "pronunciation": "پرايزاشلا آڤاريا، نام نوجنا سكورايا پوماش.",
+    "words": [
+      {
+        "w": "авария",
+        "m_en": "accident",
+        "m_ar": "حادث"
+      },
+      {
+        "w": "скорая помощь",
+        "m_en": "ambulance",
+        "m_ar": "سيّارة إسعاف"
+      }
+    ],
+    "grammar_en": "\"Произошла\" is the feminine past of \"произойти\" (perfective).",
+    "grammar_ar": "«произошла» الماضي المؤنّث من «произойти» (تامّ).",
+    "alternatives": [
+      {
+        "text": "Случилась авария.",
+        "note_en": "An accident has happened",
+        "note_ar": "وقع حادث"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5163,
+    "text": "У меня украли кошелёк, и я потерял документы.",
+    "translation_ar": "سُرقت محفظتي وفقدتُ وثائقي.",
+    "level": "B2",
+    "situation": "emergency",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 119,
+    "videoId": null,
+    "transcriptContext": "У меня украли кошелёк, и я потерял документы.",
+    "pronunciation": "أو مينيا أوكرالي كاشيليوك، إي يا پاتيريال داكومينتي.",
+    "words": [
+      {
+        "w": "украсть",
+        "m_en": "to steal",
+        "m_ar": "يسرق"
+      },
+      {
+        "w": "кошелёк",
+        "m_en": "wallet",
+        "m_ar": "محفظة"
+      }
+    ],
+    "grammar_en": "\"У меня украли\" uses an unspecified subject: \"they stole from me\".",
+    "grammar_ar": "تستعمل «у меня украли» فاعلًا غير محدّد: «سرقوا منّي».",
+    "alternatives": [
+      {
+        "text": "Мой кошелёк украли.",
+        "note_en": "My wallet was stolen",
+        "note_ar": "سُرقت محفظتي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5164,
+    "text": "С днём рождения!",
+    "translation_ar": "عيد ميلاد سعيد!",
+    "level": "A1",
+    "situation": "celebrations",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 136,
+    "videoId": null,
+    "transcriptContext": "С днём рождения!",
+    "pronunciation": "س دنيوم رازدينيا!",
+    "words": [
+      {
+        "w": "день рождения",
+        "m_en": "birthday",
+        "m_ar": "عيد ميلاد"
+      },
+      {
+        "w": "с",
+        "m_en": "with, congratulating on",
+        "m_ar": "مع (للتهنئة)"
+      }
+    ],
+    "grammar_en": "Congratulations use \"с\" + instrumental case: \"с днём рождения\".",
+    "grammar_ar": "تُستعمل التهاني بـ«с» + حالة الأداة: «с днём рождения».",
+    "alternatives": [
+      {
+        "text": "Поздравляю с днём рождения!",
+        "note_en": "Happy birthday!",
+        "note_ar": "عيد ميلاد سعيد!"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 5165,
+    "text": "Ты приглашён на мою вечеринку в субботу.",
+    "translation_ar": "أنت مدعوّ إلى حفلتي يوم السبت.",
+    "level": "A2",
+    "situation": "celebrations",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 153,
+    "videoId": null,
+    "transcriptContext": "Ты приглашён на мою вечеринку в субботу.",
+    "pronunciation": "تي پريگلاشون نا مايو ڤيتشيرينكو ڤ سوبّوتو.",
+    "words": [
+      {
+        "w": "приглашён",
+        "m_en": "invited",
+        "m_ar": "مدعوّ"
+      },
+      {
+        "w": "вечеринка",
+        "m_en": "party",
+        "m_ar": "حفلة"
+      }
+    ],
+    "grammar_en": "\"Приглашён\" is the short passive participle.",
+    "grammar_ar": "«приглашён» اسم مفعول مختصر مبني للمجهول.",
+    "alternatives": [
+      {
+        "text": "Приглашаю тебя на мою вечеринку.",
+        "note_en": "I invite you to my party",
+        "note_ar": "أدعوك إلى حفلتي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5166,
+    "text": "Давайте выпьем за успехи, которых мы достигли вместе.",
+    "translation_ar": "لنرفع نخب النجاحات التي حقّقناها معًا.",
+    "level": "B2",
+    "situation": "celebrations",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 170,
+    "videoId": null,
+    "transcriptContext": "Давайте выпьем за успехи, которых мы достигли вместе.",
+    "pronunciation": "داڤايتيه ڤيپييم زا أوسپيخي، كاتوريخ مي داستيگلي ڤمييستيه.",
+    "words": [
+      {
+        "w": "выпить за",
+        "m_en": "to drink to, to toast",
+        "m_ar": "يرفع نخبًا"
+      },
+      {
+        "w": "достигнуть",
+        "m_en": "to achieve",
+        "m_ar": "يحقّق"
+      }
+    ],
+    "grammar_en": "\"Давайте\" + verb is the \"let's\" form.",
+    "grammar_ar": "«давайте» + الفعل صيغة «لنفعل».",
+    "alternatives": [
+      {
+        "text": "Поднимем бокалы за наши достижения!",
+        "note_en": "\"Let's raise our glasses\"",
+        "note_ar": "«لنرفع الكؤوس»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5167,
+    "text": "Нарежь лук и обжарь его на масле.",
+    "translation_ar": "قطّع البصل وقلّه في الزيت.",
+    "level": "A2",
+    "situation": "cooking",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 187,
+    "videoId": null,
+    "transcriptContext": "Нарежь лук и обжарь его на масле.",
+    "pronunciation": "ناريج لوك إي أبجار يفو نا ماسليه.",
+    "words": [
+      {
+        "w": "резать",
+        "m_en": "to cut",
+        "m_ar": "يقطّع"
+      },
+      {
+        "w": "обжарить",
+        "m_en": "to fry",
+        "m_ar": "يقلي"
+      }
+    ],
+    "grammar_en": "\"Нарежь\" is the informal perfective imperative.",
+    "grammar_ar": "«нарежь» أمر تامّ للمخاطب.",
+    "alternatives": [
+      {
+        "text": "Порежь лук и обжарь его.",
+        "note_en": "\"Порезать\" is a synonym of \"нарезать\"",
+        "note_ar": "«порезать» مرادف لـ«нарезать»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5168,
+    "text": "Тесту нужно дать постоять час.",
+    "translation_ar": "يجب ترك العجين يرتاح لمدّة ساعة.",
+    "level": "B1",
+    "situation": "cooking",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 204,
+    "videoId": null,
+    "transcriptContext": "Тесту нужно дать постоять час.",
+    "pronunciation": "تيستو نوجنا دات پاستايات چاس.",
+    "words": [
+      {
+        "w": "тесто",
+        "m_en": "dough",
+        "m_ar": "عجين"
+      },
+      {
+        "w": "постоять",
+        "m_en": "to sit, to rest",
+        "m_ar": "يرتاح"
+      }
+    ],
+    "grammar_en": "\"Дать\" + infinitive means \"to let something...\".",
+    "grammar_ar": "«дать» + المصدر = «ترك الشيء ...».",
+    "alternatives": [
+      {
+        "text": "Тесто должно постоять час.",
+        "note_en": "\"Должно\" = must",
+        "note_ar": "«должно» = يجب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5169,
+    "text": "Если у вас нет масла, можно заменить его оливковым маслом.",
+    "translation_ar": "إن لم يكن لديكم زبدة يمكنكم استبدالها بزيت الزيتون.",
+    "level": "B2",
+    "situation": "cooking",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 221,
+    "videoId": null,
+    "transcriptContext": "Если у вас нет масла, можно заменить его оливковым маслом.",
+    "pronunciation": "يسلي أو ڤاس نيت ماسلا، موجنا زاميّينيت يفو أليفكاڤيم ماسلام.",
+    "words": [
+      {
+        "w": "заменить",
+        "m_en": "to replace",
+        "m_ar": "يستبدل"
+      },
+      {
+        "w": "масло",
+        "m_en": "butter",
+        "m_ar": "زبدة"
+      }
+    ],
+    "grammar_en": "\"Заменить X на/Y\" means \"to replace X with Y\" (instrumental case here).",
+    "grammar_ar": "«заменить X + حالة الأداة» = استبدال X بـ Y.",
+    "alternatives": [
+      {
+        "text": "Можете использовать оливковое масло вместо сливочного.",
+        "note_en": "\"Вместо\" = instead of",
+        "note_ar": "«вместо» = بدلًا من"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5170,
+    "text": "Я сортирую мусор, чтобы перерабатывать пластик и бумагу.",
+    "translation_ar": "أفرز نفاياتي لإعادة تدوير البلاستيك والورق.",
+    "level": "A2",
+    "situation": "environment",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 238,
+    "videoId": null,
+    "transcriptContext": "Я сортирую мусор, чтобы перерабатывать пластик и бумагу.",
+    "pronunciation": "يا سارتيريو موسار، شتوبي پيريراباتيفات پلاستيك إي بوماگو.",
+    "words": [
+      {
+        "w": "перерабатывать",
+        "m_en": "to recycle",
+        "m_ar": "يعيد التدوير"
+      },
+      {
+        "w": "мусор",
+        "m_en": "rubbish",
+        "m_ar": "نفايات"
+      }
+    ],
+    "grammar_en": "\"Чтобы\" + infinitive expresses purpose.",
+    "grammar_ar": "«чтобы» + المصدر تعبّر عن الغاية.",
+    "alternatives": [
+      {
+        "text": "Я перерабатываю пластик и бумагу.",
+        "note_en": "I recycle plastic and paper",
+        "note_ar": "أعيد تدوير البلاستيك والورق"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 5171,
+    "text": "Нам стоило бы чаще пользоваться общественным транспортом, чтобы уменьшить загрязнение.",
+    "translation_ar": "ينبغي أن نستخدم المواصلات العامّة أكثر لنقلّل التلوّث.",
+    "level": "B1",
+    "situation": "environment",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 15,
+    "videoId": null,
+    "transcriptContext": "Нам стоило бы чаще пользоваться общественным транспортом, чтобы уменьшить загрязнение.",
+    "pronunciation": "نام ستويلا بي تشاشيه پولزاڤاتسيا أبشيستفينّيم ترانسپورتام، شتوبي أومينشيت زاگريازنينييه.",
+    "words": [
+      {
+        "w": "стоило бы",
+        "m_en": "we should",
+        "m_ar": "ينبغي أن"
+      },
+      {
+        "w": "загрязнение",
+        "m_en": "pollution",
+        "m_ar": "تلوّث"
+      }
+    ],
+    "grammar_en": "\"Стоило бы\" (conditional) gives advice.",
+    "grammar_ar": "«стоило бы» (شرطي) تفيد النصيحة.",
+    "alternatives": [
+      {
+        "text": "Лучше чаще ездить на общественном транспорте.",
+        "note_en": "It would be better",
+        "note_ar": "سيكون من الأفضل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 5172,
+    "text": "Необходимо сократить выбросы, чтобы замедлить изменение климата.",
+    "translation_ar": "لا غنى عن خفض الانبعاثات لكبح التغيّر المناخي.",
+    "level": "B2",
+    "situation": "environment",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 32,
+    "videoId": null,
+    "transcriptContext": "Необходимо сократить выбросы, чтобы замедлить изменение климата.",
+    "pronunciation": "نيابخاديما ساكراتيت ڤيبروسي، شتوبي زاميدليت إيزمينييني كليماتا.",
+    "words": [
+      {
+        "w": "необходимо",
+        "m_en": "essential",
+        "m_ar": "لا غنى عنه"
+      },
+      {
+        "w": "сократить",
+        "m_en": "to reduce",
+        "m_ar": "يخفّض"
+      }
+    ],
+    "grammar_en": "\"Необходимо\" + infinitive expresses impersonal necessity.",
+    "grammar_ar": "«необходимо» + المصدر = ضرورة غير شخصيّة.",
+    "alternatives": [
+      {
+        "text": "Нужно снижать выбросы без промедления.",
+        "note_en": "\"Без промедления\" = without delay",
+        "note_ar": "«без промедления» = دون تأخير"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5173,
+    "text": "Ледники отступают тревожными темпами из-за глобального потепления.",
+    "translation_ar": "تتراجع الأنهار الجليديّة بوتيرة مقلقة بسبب الاحتباس الحراري.",
+    "level": "C1",
+    "situation": "environment",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 49,
+    "videoId": null,
+    "transcriptContext": "Ледники отступают тревожными темпами из-за глобального потепления.",
+    "pronunciation": "ليدنيكي أتستوپايوت تريڤوجنيمي تيمپامي إز-زا گلاباناگا پاتيپلينيا.",
+    "words": [
+      {
+        "w": "отступать",
+        "m_en": "to retreat",
+        "m_ar": "يتراجع"
+      },
+      {
+        "w": "глобальное потепление",
+        "m_en": "global warming",
+        "m_ar": "الاحتباس الحراري"
+      }
+    ],
+    "grammar_en": "\"Тревожными темпами\" means \"at an alarming pace\" (instrumental).",
+    "grammar_ar": "«тревожными темпами» (حالة الأداة) = «بوتيرة مقلقة».",
+    "alternatives": [
+      {
+        "text": "Ледники тают с пугающей скоростью.",
+        "note_en": "\"Таять\" = to melt",
+        "note_ar": "«таять» = يذوب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5174,
+    "text": "Сейчас половина четвёртого.",
+    "translation_ar": "الساعة الثالثة والنصف.",
+    "level": "A1",
+    "situation": "time",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 66,
+    "videoId": null,
+    "transcriptContext": "Сейчас половина четвёртого.",
+    "pronunciation": "سيتشاس پالاڤينا تشيتفيرتاگا.",
+    "words": [
+      {
+        "w": "половина",
+        "m_en": "half",
+        "m_ar": "نصف"
+      },
+      {
+        "w": "четвёртый",
+        "m_en": "fourth",
+        "m_ar": "رابع"
+      }
+    ],
+    "grammar_en": "Russian says \"half of the fourth [hour]\" to mean 3:30.",
+    "grammar_ar": "تقول الروسية «نصف الرابعة» بمعنى الثالثة والنصف.",
+    "alternatives": [
+      {
+        "text": "Сейчас три тридцать.",
+        "note_en": "Digital reading",
+        "note_ar": "قراءة رقمية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 5175,
+    "text": "Сегодня вторник, пятнадцатое марта.",
+    "translation_ar": "اليوم الثلاثاء الخامس عشر من مارس.",
+    "level": "A1",
+    "situation": "time",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 83,
+    "videoId": null,
+    "transcriptContext": "Сегодня вторник, пятнадцатое марта.",
+    "pronunciation": "سيڤودنيا فتورنيك، پيتناتساتاييه مارتا.",
+    "words": [
+      {
+        "w": "вторник",
+        "m_en": "Tuesday",
+        "m_ar": "الثلاثاء"
+      },
+      {
+        "w": "март",
+        "m_en": "March",
+        "m_ar": "مارس"
+      }
+    ],
+    "grammar_en": "Dates use the ordinal in the neuter genitive: \"пятнадцатое марта\".",
+    "grammar_ar": "تُستعمل الأعداد الترتيبيّة بالمضاف إليه المحايد: «пятнадцатое марта».",
+    "alternatives": [
+      {
+        "text": "Сегодня пятнадцатое марта.",
+        "note_en": "\"Today is March 15th\"",
+        "note_ar": "«اليوم الخامس عشر من مارس»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5176,
+    "text": "Поезд отправляется через двадцать минут.",
+    "translation_ar": "يغادر القطار بعد عشرين دقيقة.",
+    "level": "A2",
+    "situation": "time",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 100,
+    "videoId": null,
+    "transcriptContext": "Поезд отправляется через двадцать минут.",
+    "pronunciation": "پويزد أتپراڤلياتسيا تشيريز دڤاتسات مينوت.",
+    "words": [
+      {
+        "w": "через",
+        "m_en": "in (a period of time)",
+        "m_ar": "بعد"
+      },
+      {
+        "w": "минута",
+        "m_en": "minute",
+        "m_ar": "دقيقة"
+      }
+    ],
+    "grammar_en": "\"Через\" + time means \"in\" (future).",
+    "grammar_ar": "«через» + مدّة = «بعد» (المستقبل).",
+    "alternatives": [
+      {
+        "text": "Поезд идёт через двадцать минут.",
+        "note_en": "Shorter",
+        "note_ar": "أقصر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 5177,
+    "text": "Всё больше молодёжи уезжает за границу в поисках возможностей.",
+    "translation_ar": "يغادر مزيد من الشباب إلى الخارج بحثًا عن فرص.",
+    "level": "B2",
+    "situation": "society",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 117,
+    "videoId": null,
+    "transcriptContext": "Всё больше молодёжи уезжает за границу в поисках возможностей.",
+    "pronunciation": "ڤسيو بولشيه مالاديجي أوييزجايت زا گرانيتسو ڤ پاييسكاخ ڤازموجناستيي.",
+    "words": [
+      {
+        "w": "за границу",
+        "m_en": "abroad",
+        "m_ar": "إلى الخارج"
+      },
+      {
+        "w": "в поисках",
+        "m_en": "in search of",
+        "m_ar": "بحثًا عن"
+      }
+    ],
+    "grammar_en": "\"Всё больше\" + noun means \"more and more\".",
+    "grammar_ar": "«всё больше» + اسم = «أكثر فأكثر».",
+    "alternatives": [
+      {
+        "text": "Многие молодые люди эмигрируют в поисках возможностей.",
+        "note_en": "\"Эмигрировать\" = to emigrate",
+        "note_ar": "«эмигрировать» = يهاجر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5178,
+    "text": "Удалённая работа изменила то, как мы общаемся.",
+    "translation_ar": "غيّر العمل عن بُعد طريقة تواصلنا.",
+    "level": "B2",
+    "situation": "society",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 134,
+    "videoId": null,
+    "transcriptContext": "Удалённая работа изменила то, как мы общаемся.",
+    "pronunciation": "أوداليّينّايا رابوتا إيزميّينيلا تو، كاك مي أبشايمسيا.",
+    "words": [
+      {
+        "w": "удалённая работа",
+        "m_en": "remote work",
+        "m_ar": "عمل عن بُعد"
+      },
+      {
+        "w": "общаться",
+        "m_en": "to communicate",
+        "m_ar": "يتواصل"
+      }
+    ],
+    "grammar_en": "\"То, как\" means \"the way in which\".",
+    "grammar_ar": "«то, как» = «الطريقة التي».",
+    "alternatives": [
+      {
+        "text": "Удалёнка изменила наше общение.",
+        "note_en": "\"Удалёнка\" (colloquial) = remote work",
+        "note_ar": "«удалёнка» (عاميّة) = العمل عن بُعد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 5179,
+    "text": "Разрыв между богатыми и бедными продолжает увеличиваться.",
+    "translation_ar": "لا تتوقّف الفجوة بين الأغنياء والفقراء عن الاتّساع.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 151,
+    "videoId": null,
+    "transcriptContext": "Разрыв между богатыми и бедными продолжает увеличиваться.",
+    "pronunciation": "رازريف مييجدو باگاتيمي إي بيدنيمي پرادالجايت أوڤيليتشيڤاتسيا.",
+    "words": [
+      {
+        "w": "разрыв",
+        "m_en": "gap",
+        "m_ar": "فجوة"
+      },
+      {
+        "w": "увеличиваться",
+        "m_en": "to widen",
+        "m_ar": "يتّسع"
+      }
+    ],
+    "grammar_en": "\"Продолжать\" + infinitive means \"to keep on doing\".",
+    "grammar_ar": "«продолжать» + المصدر = «يواصل فعل شيء».",
+    "alternatives": [
+      {
+        "text": "Неравенство продолжает расти.",
+        "note_en": "\"Расти\" = to grow",
+        "note_ar": "«расти» = يتّسع / ينمو"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5180,
+    "text": "Нельзя забывать, что консенсус строится через усилия.",
+    "translation_ar": "لا ينبغي أن ننسى أنّ التوافق يُبنى بالجهد.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 168,
+    "videoId": null,
+    "transcriptContext": "Нельзя забывать, что консенсус строится через усилия.",
+    "pronunciation": "نيلزيا زابيڤات، شتو كانسينسوس ستروييتسيا تشيريز أوسيليا.",
+    "words": [
+      {
+        "w": "консенсус",
+        "m_en": "consensus",
+        "m_ar": "توافق"
+      },
+      {
+        "w": "усилие",
+        "m_en": "effort",
+        "m_ar": "جهد"
+      }
+    ],
+    "grammar_en": "\"Нельзя\" + infinitive is an impersonal \"one must not\".",
+    "grammar_ar": "«нельзя» + المصدر = «لا يجب» غير شخصيّة.",
+    "alternatives": [
+      {
+        "text": "Не забудем, что консенсус требует усилий.",
+        "note_en": "\"Не забудем\" = let's not forget",
+        "note_ar": "«не забудем» = لا ننسَ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5181,
+    "text": "Вместо решения проблемы, эта мера только усугубила её.",
+    "translation_ar": "بدلًا من حلّ المشكلة فاقمها هذا الإجراء.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 185,
+    "videoId": null,
+    "transcriptContext": "Вместо решения проблемы, эта мера только усугубила её.",
+    "pronunciation": "ڤمييستا ريشينيا پرابليمي، إتا ميرا تولكا أوسوگوبيلا يّو.",
+    "words": [
+      {
+        "w": "усугубить",
+        "m_en": "to worsen",
+        "m_ar": "يفاقم"
+      },
+      {
+        "w": "мера",
+        "m_en": "measure",
+        "m_ar": "إجراء"
+      }
+    ],
+    "grammar_en": "\"Вместо\" + genitive means \"instead of\".",
+    "grammar_ar": "«вместо» + المضاف إليه = «بدلًا من».",
+    "alternatives": [
+      {
+        "text": "Мера не решила проблему, а усугубила её.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 5182,
+    "text": "Молчание, более красноречивое, чем любая речь, давило на собрание.",
+    "translation_ar": "كان الصمت، وهو أبلغ من أيّ خطاب، يُثقل على الحاضرين.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 202,
+    "videoId": null,
+    "transcriptContext": "Молчание, более красноречивое, чем любая речь, давило на собрание.",
+    "pronunciation": "مالتشانييه، بوليه كراسنارييتشيڤاييه، تشيم ليوبايا ريتش، دافيلا نا سابرانييه.",
+    "words": [
+      {
+        "w": "красноречивый",
+        "m_en": "eloquent",
+        "m_ar": "بليغ"
+      },
+      {
+        "w": "давить на",
+        "m_en": "to weigh on",
+        "m_ar": "يثقل على"
+      }
+    ],
+    "grammar_en": "\"Более... чем\" compares; \"давило\" is the neuter past (agreeing with \"молчание\").",
+    "grammar_ar": "«более... чем» للمقارنة؛ و«давило» ماضٍ محايد يتّفق مع «молчание».",
+    "alternatives": [
+      {
+        "text": "Молчание говорило больше, чем любые слова.",
+        "note_en": "\"Said more than any words\"",
+        "note_ar": "«كان يقول أكثر من أيّ كلمات»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 5183,
+    "text": "Никто не застрахован от неоднозначности, которую несёт в себе любая интерпретация.",
+    "translation_ar": "لا أحد بمنأى عن الغموض الذي ينطوي عليه كلّ تأويل.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 219,
+    "videoId": null,
+    "transcriptContext": "Никто не застрахован от неоднозначности, которую несёт в себе любая интерпретация.",
+    "pronunciation": "نيكتو نيه زاستراخوڤان أت نيادناناچناستي، كاتوريو نيسيوت ڤ سيبيه ليوبايا إينتيرپريتاتسيا.",
+    "words": [
+      {
+        "w": "неоднозначность",
+        "m_en": "ambiguity",
+        "m_ar": "غموض"
+      },
+      {
+        "w": "интерпретация",
+        "m_en": "interpretation",
+        "m_ar": "تأويل"
+      }
+    ],
+    "grammar_en": "\"Никто\" takes a singular verb: \"никто не застрахован\".",
+    "grammar_ar": "تأخذ «никто» فعلًا مفردًا: «никто не застрахован».",
+    "alternatives": [
+      {
+        "text": "Любая интерпретация несёт в себе долю неоднозначности.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 5184,
+    "text": "Мы больше не можем позволить себе откладывать экологический переход.",
+    "translation_ar": "لم يعد بإمكاننا تأجيل التحوّل البيئي.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 236,
+    "videoId": null,
+    "transcriptContext": "Мы больше не можем позволить себе откладывать экологический переход.",
+    "pronunciation": "مي بولشيه نيه موجيم پازڤاليت سيبيه أتكلاديڤات إكالاگيتشيسكي پيريخود.",
+    "words": [
+      {
+        "w": "позволить себе",
+        "m_en": "to afford",
+        "m_ar": "يتحمّل / يقدر على"
+      },
+      {
+        "w": "экологический переход",
+        "m_en": "ecological transition",
+        "m_ar": "التحوّل البيئي"
+      }
+    ],
+    "grammar_en": "\"Позволить себе\" + infinitive means \"to be able to afford to\".",
+    "grammar_ar": "«позволить себе» + المصدر = «يقدر على».",
+    "alternatives": [
+      {
+        "text": "Больше нет времени откладывать экологический переход.",
+        "note_en": "\"There's no more time to lose\"",
+        "note_ar": "«لم يعد هناك وقت لنضيّعه»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 5185,
+    "text": "Тот, кто молчит, не всегда согласен; иногда ему просто нечего сказать.",
+    "translation_ar": "من سكت لا يوافق دائمًا؛ فأحيانًا لا يجد ما يقوله.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "RU",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (RU)",
+    "timestamp": 13,
+    "videoId": null,
+    "transcriptContext": "Тот, кто молчит, не всегда согласен; иногда ему просто нечего сказать.",
+    "pronunciation": "توت، كتو مالتشيت، نيه ڤسيگدا ساگلاسين؛ إيناگدا يمو پروستا نيتشيگا سكازات.",
+    "words": [
+      {
+        "w": "молчать",
+        "m_en": "to be silent",
+        "m_ar": "يصمت"
+      },
+      {
+        "w": "согласен",
+        "m_en": "in agreement",
+        "m_ar": "موافق"
+      }
+    ],
+    "grammar_en": "\"Молчание — знак согласия\" is the Russian proverb: silence means consent.",
+    "grammar_ar": "«молчание — знак согласия» هي الصيغة الروسيّة للمَثَل: السكوت علامة الرضا.",
+    "alternatives": [
+      {
+        "text": "Молчание не всегда означает согласие.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
   }
 ]
