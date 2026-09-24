@@ -477,6 +477,7 @@ footer .wrap{display:flex; flex-wrap:wrap; gap:10px; justify-content:space-betwe
         <option value="ru">🇷🇺 Русский</option>
         <option value="it">🇮🇹 Italiano</option>
         <option value="es">🇪🇸 Español</option>
+        <option value="ur">🇵🇰 اردو</option>
       </select>
       </label>
       <label class="lang-field" for="langToggle">
@@ -1063,6 +1064,7 @@ let DEMO_SENTENCES_FR = [];
 let DEMO_SENTENCES_RU = [];
 let DEMO_SENTENCES_IT = [];
 let DEMO_SENTENCES_ES = [];
+let DEMO_SENTENCES_UR = [];
 async function fetchJson(url){
   try{
     const res = await fetch(url);
@@ -1079,16 +1081,18 @@ function datasetForLearnLang(lang){
   if(lang==='ru') return DEMO_SENTENCES_RU;
   if(lang==='it') return DEMO_SENTENCES_IT;
   if(lang==='es') return DEMO_SENTENCES_ES;
+  if(lang==='ur') return DEMO_SENTENCES_UR;
   return DEMO_SENTENCES_EN;
 }
 async function loadSentences(){
-  [DEMO_SENTENCES_EN, DEMO_SENTENCES_DE, DEMO_SENTENCES_FR, DEMO_SENTENCES_RU, DEMO_SENTENCES_IT, DEMO_SENTENCES_ES] = await Promise.all([
+  [DEMO_SENTENCES_EN, DEMO_SENTENCES_DE, DEMO_SENTENCES_FR, DEMO_SENTENCES_RU, DEMO_SENTENCES_IT, DEMO_SENTENCES_ES, DEMO_SENTENCES_UR] = await Promise.all([
     fetchJson('sentences.json'),
     fetchJson('sentences_de.json'),
     fetchJson('sentences_fr.json'),
     fetchJson('sentences_ru.json'),
     fetchJson('sentences_it.json'),
-    fetchJson('sentences_es.json')
+    fetchJson('sentences_es.json'),
+    fetchJson('sentences_ur.json')
   ]);
   DEMO_SENTENCES = datasetForLearnLang(State.learnLang);
 }
@@ -1112,7 +1116,7 @@ function situationQuery(item){
 /* language over once its dataset carries the same `situation` keys.        */
 /* English keeps its hand-written prompt cards (they search English text).  */
 /* ---------------------------------------------------------------------- */
-const SITUATION_FILTER_LANGS = ['it','de','fr','ru','es'];
+const SITUATION_FILTER_LANGS = ['it','de','fr','ru','es','ur'];
 const SITUATION_LEVELS = ['A1','A2','B1','B2','C1','C2'];
 const SITUATION_COUNT_WORD = {ar:'جملة', de:'Sätze', fr:'phrases', en:'sentences'};
 /* Situations that exist in the datasets but have no card in SITUATIONS. */
@@ -1660,6 +1664,7 @@ function targetLangCode(){
   if(State.learnLang==='ru') return 'ru-RU';
   if(State.learnLang==='it') return 'it-IT';
   if(State.learnLang==='es') return 'es-ES';
+  if(State.learnLang==='ur') return 'ur-PK';
   return 'en-US';
 }
 
@@ -2062,6 +2067,7 @@ function renderVarietyPills(){
     ru: [['all', t('allVarieties'),'🌍'],['RU','Россия','🇷🇺']],
     it: [['all', t('allVarieties'),'🌍'],['IT','Italia','🇮🇹']],
     es: [['all', t('allVarieties'),'🌍'],['ES','España','🇪🇸']],
+    ur: [['all', t('allVarieties'),'🌍'],['UR','پاکستان','🇵🇰']],
     en: [['all', t('allVarieties'),'🌍'],['US', t('us'),'🇺🇸'],['GB', t('gb'),'🇬🇧'],['AU', t('au'),'🇦🇺'],['CA', t('ca'),'🇨🇦']]
   };
   const varieties = VARIETY_SETS[State.learnLang] || VARIETY_SETS.en;
@@ -2614,7 +2620,7 @@ document.getElementById('langToggle').addEventListener('change', (e)=>{
 
 /* Learning-language toggle — switches which sentence set (English or
    German) the whole app searches, quizzes and speaks. */
-const LEARN_CYCLE = ['en','de','fr','ru','it','es'];
+const LEARN_CYCLE = ['en','de','fr','ru','it','es','ur'];
 const LEARN_LABELS = { en: '🇬🇧 English', de: '🇩🇪 Deutsch', fr: '🇫🇷 Français', ru: '🇷🇺 Русский', it: '🇮🇹 Italiano', es: '🇪🇸 Español' };
 function otherLearnLang(l){ return LEARN_CYCLE[(LEARN_CYCLE.indexOf(l)+1)%LEARN_CYCLE.length]; }
 
