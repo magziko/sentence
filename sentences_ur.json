@@ -1,5 +1,704 @@
 [
   {
+    "id": 8048,
+    "text": "السلام علیکم!",
+    "translation_ar": "السلام عليكم!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 5,
+    "videoId": null,
+    "transcriptContext": "السلام علیکم!",
+    "pronunciation": "أَسَّلامُ عَلَيْکُم!",
+    "words": [
+      {
+        "w": "سلام",
+        "m_en": "peace / greeting",
+        "m_ar": "سلام"
+      }
+    ],
+    "grammar_en": "The standard greeting among Urdu speakers, used at any time of day. The reply is \"Wa alaikum assalam\".",
+    "grammar_ar": "التحية المعتادة بين متحدثي الأوردية، تُستخدم في أي وقت من اليوم. والرد عليها \"وعليكم السلام\".",
+    "alternatives": [
+      {
+        "text": "وعلیکم السلام!",
+        "note_en": "The reply: and peace be upon you too",
+        "note_ar": "الرد: وعليكم السلام أيضًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8049,
+    "text": "آداب!",
+    "translation_ar": "تحياتي!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 22,
+    "videoId": null,
+    "transcriptContext": "آداب!",
+    "pronunciation": "آداب!",
+    "words": [
+      {
+        "w": "آداب",
+        "m_en": "greetings (formal/cultural)",
+        "m_ar": "تحية رسمية"
+      }
+    ],
+    "grammar_en": "A traditional, non-religious greeting common in Urdu culture, often paired with a slight bow.",
+    "grammar_ar": "تحية تقليدية غير دينية شائعة في الثقافة الأوردية، وتُقترن غالبًا بانحناء خفيف.",
+    "alternatives": [
+      {
+        "text": "السلام علیکم!",
+        "note_en": "More common, everyday greeting",
+        "note_ar": "أكثر شيوعًا في الاستخدام اليومي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8050,
+    "text": "صبح بخیر!",
+    "translation_ar": "صباح الخير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 39,
+    "videoId": null,
+    "transcriptContext": "صبح بخیر!",
+    "pronunciation": "صُبح بَخَیر!",
+    "words": [
+      {
+        "w": "صبح",
+        "m_en": "morning",
+        "m_ar": "صباح"
+      },
+      {
+        "w": "بخیر",
+        "m_en": "well, good",
+        "m_ar": "بخير"
+      }
+    ],
+    "grammar_en": "Used only in the morning.",
+    "grammar_ar": "تُستخدم في الصباح فقط.",
+    "alternatives": [
+      {
+        "text": "گڈ مارننگ!",
+        "note_en": "Borrowed from English, common in casual speech",
+        "note_ar": "مستعارة من الإنجليزية، شائعة في العامية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8051,
+    "text": "شام بخیر!",
+    "translation_ar": "مساء الخير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 56,
+    "videoId": null,
+    "transcriptContext": "شام بخیر!",
+    "pronunciation": "شام بَخَیر!",
+    "words": [
+      {
+        "w": "شام",
+        "m_en": "evening",
+        "m_ar": "مساء"
+      }
+    ],
+    "grammar_en": "Used in the evening, after the afternoon ends.",
+    "grammar_ar": "تُستخدم في المساء، بعد انتهاء بعد الظهر.",
+    "alternatives": [],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8052,
+    "text": "شب بخیر!",
+    "translation_ar": "تصبح على خير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 73,
+    "videoId": null,
+    "transcriptContext": "شب بخیر!",
+    "pronunciation": "شَب بَخَیر!",
+    "words": [
+      {
+        "w": "شب",
+        "m_en": "night",
+        "m_ar": "ليل"
+      }
+    ],
+    "grammar_en": "Said only when going to bed.",
+    "grammar_ar": "تُقال فقط عند النوم.",
+    "alternatives": [],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8053,
+    "text": "شکریہ!",
+    "translation_ar": "شكرًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 90,
+    "videoId": null,
+    "transcriptContext": "شکریہ!",
+    "pronunciation": "شُکریہ!",
+    "words": [
+      {
+        "w": "شکریہ",
+        "m_en": "thank you",
+        "m_ar": "شكرًا"
+      }
+    ],
+    "grammar_en": "The general word for \"thank you\", used in every situation.",
+    "grammar_ar": "الكلمة العامة لـ«شكرًا»، تُستخدم في كل المواقف.",
+    "alternatives": [
+      {
+        "text": "بہت شکریہ!",
+        "note_en": "Thanks a lot",
+        "note_ar": "شكرًا جزيلاً"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8054,
+    "text": "براہ کرم۔",
+    "translation_ar": "من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 107,
+    "videoId": null,
+    "transcriptContext": "براہ کرم۔",
+    "pronunciation": "بَراہِ کَرَم۔",
+    "words": [
+      {
+        "w": "براہ کرم",
+        "m_en": "please",
+        "m_ar": "من فضلك"
+      }
+    ],
+    "grammar_en": "A formal way to say \"please\"; usually placed before the request.",
+    "grammar_ar": "طريقة رسمية لقول «من فضلك»؛ تُوضع عادةً قبل الطلب.",
+    "alternatives": [
+      {
+        "text": "پلیز۔",
+        "note_en": "Borrowed from English, very common casually",
+        "note_ar": "مستعارة من الإنجليزية، شائعة جدًا في العامية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8055,
+    "text": "جی ہاں۔",
+    "translation_ar": "نعم.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 124,
+    "videoId": null,
+    "transcriptContext": "جی ہاں۔",
+    "pronunciation": "جی ہاں۔",
+    "words": [
+      {
+        "w": "جی",
+        "m_en": "polite particle",
+        "m_ar": "أداة تهذيب"
+      },
+      {
+        "w": "ہاں",
+        "m_en": "yes",
+        "m_ar": "نعم"
+      }
+    ],
+    "grammar_en": "\"Jee\" is added before yes/no to sound polite and respectful.",
+    "grammar_ar": "تُضاف «جی» قبل الإجابة بنعم أو لا لتبدو مهذبة ومحترمة.",
+    "alternatives": [
+      {
+        "text": "ہاں۔",
+        "note_en": "Casual \"yes\"",
+        "note_ar": "نعم بصيغة عامية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8056,
+    "text": "جی نہیں۔",
+    "translation_ar": "لا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 141,
+    "videoId": null,
+    "transcriptContext": "جی نہیں۔",
+    "pronunciation": "جی نَہیں۔",
+    "words": [
+      {
+        "w": "نہیں",
+        "m_en": "no",
+        "m_ar": "لا"
+      }
+    ],
+    "grammar_en": "A polite way to say \"no\".",
+    "grammar_ar": "طريقة مهذبة لقول «لا».",
+    "alternatives": [
+      {
+        "text": "نہیں۔",
+        "note_en": "Casual \"no\"",
+        "note_ar": "لا بصيغة عامية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8057,
+    "text": "معاف کیجیے گا۔",
+    "translation_ar": "عفوًا / المعذرة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 158,
+    "videoId": null,
+    "transcriptContext": "معاف کیجیے گا۔",
+    "pronunciation": "مُعاف کیجیے گا۔",
+    "words": [
+      {
+        "w": "معاف",
+        "m_en": "forgive, excuse",
+        "m_ar": "عفو"
+      }
+    ],
+    "grammar_en": "Used to politely get someone's attention or to apologize.",
+    "grammar_ar": "تُستخدم لجذب انتباه أحدهم بلطف أو للاعتذار.",
+    "alternatives": [
+      {
+        "text": "سوری۔",
+        "note_en": "Borrowed from English \"sorry\", casual",
+        "note_ar": "مستعارة من الإنجليزية «sorry»، عامية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 8058,
+    "text": "خدا حافظ!",
+    "translation_ar": "مع السلامة!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 175,
+    "videoId": null,
+    "transcriptContext": "خدا حافظ!",
+    "pronunciation": "خُدا حافِظ!",
+    "words": [
+      {
+        "w": "خدا",
+        "m_en": "God",
+        "m_ar": "الله"
+      },
+      {
+        "w": "حافظ",
+        "m_en": "protector",
+        "m_ar": "حافظ"
+      }
+    ],
+    "grammar_en": "Literally \"may God protect you\"; the standard way to say goodbye.",
+    "grammar_ar": "حرفيًا «الله يحفظك»؛ الطريقة المعتادة لقول وداعًا.",
+    "alternatives": [
+      {
+        "text": "اللہ حافظ!",
+        "note_en": "Very common alternative form",
+        "note_ar": "صيغة بديلة شائعة جدًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8059,
+    "text": "پھر ملیں گے۔",
+    "translation_ar": "سنلتقي مجددًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 192,
+    "videoId": null,
+    "transcriptContext": "پھر ملیں گے۔",
+    "pronunciation": "پِھر مِلیں گے۔",
+    "words": [
+      {
+        "w": "ملنا",
+        "m_en": "to meet",
+        "m_ar": "يقابل / يلتقي"
+      }
+    ],
+    "grammar_en": "\"Ge\" at the end marks the future tense for \"we\".",
+    "grammar_ar": "تشير «گے» في النهاية إلى زمن المستقبل مع ضمير «نحن».",
+    "alternatives": [],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 8060,
+    "text": "آپ کا نام کیا ہے؟",
+    "translation_ar": "ما اسمك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 209,
+    "videoId": null,
+    "transcriptContext": "آپ کا نام کیا ہے؟",
+    "pronunciation": "آپ کا نام کیا ہے؟",
+    "words": [
+      {
+        "w": "نام",
+        "m_en": "name",
+        "m_ar": "اسم"
+      },
+      {
+        "w": "آپ",
+        "m_en": "you (respectful)",
+        "m_ar": "أنتَ (بصيغة الاحترام)"
+      }
+    ],
+    "grammar_en": "\"Aap\" is the respectful form of \"you\", used with strangers and elders.",
+    "grammar_ar": "«آپ» صيغة احترام لـ«أنتَ»، تُستخدم مع الغرباء وكبار السن.",
+    "alternatives": [
+      {
+        "text": "تمہارا نام کیا ہے؟",
+        "note_en": "Informal version, used with friends",
+        "note_ar": "صيغة غير رسمية، تُستخدم مع الأصدقاء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 8061,
+    "text": "میرا نام علی ہے۔",
+    "translation_ar": "اسمي علي.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 226,
+    "videoId": null,
+    "transcriptContext": "میرا نام علی ہے۔",
+    "pronunciation": "میرا نام علی ہے۔",
+    "words": [
+      {
+        "w": "میرا",
+        "m_en": "my",
+        "m_ar": "اسمي / لي"
+      }
+    ],
+    "grammar_en": "\"Mera\" (my) changes form depending on the gender of the noun that follows it.",
+    "grammar_ar": "تتغيّر «میرا» (لي) حسب جنس الاسم الذي يليها.",
+    "alternatives": [],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 8062,
+    "text": "آپ کیسے ہیں؟",
+    "translation_ar": "كيف حالك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 243,
+    "videoId": null,
+    "transcriptContext": "آپ کیسے ہیں؟",
+    "pronunciation": "آپ کَیسے ہَیں؟",
+    "words": [
+      {
+        "w": "کیسے",
+        "m_en": "how",
+        "m_ar": "كيف"
+      }
+    ],
+    "grammar_en": "Asked to a man; for a woman it becomes \"Aap kaisi hain?\".",
+    "grammar_ar": "تُسأل لرجل؛ ولامرأة تصبح «Aap kaisi hain?».",
+    "alternatives": [
+      {
+        "text": "آپ کیسی ہیں؟",
+        "note_en": "The same question asked to a woman",
+        "note_ar": "نفس السؤال يُوجّه لامرأة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 8063,
+    "text": "میں ٹھیک ہوں، شکریہ۔",
+    "translation_ar": "أنا بخير، شكرًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 260,
+    "videoId": null,
+    "transcriptContext": "میں ٹھیک ہوں، شکریہ۔",
+    "pronunciation": "میں ٹھیک ہوں، شُکریہ۔",
+    "words": [
+      {
+        "w": "ٹھیک",
+        "m_en": "fine, okay",
+        "m_ar": "بخير / حسنًا"
+      }
+    ],
+    "grammar_en": "The standard reply to \"how are you?\".",
+    "grammar_ar": "الرد المعتاد على «كيف حالك؟».",
+    "alternatives": [],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8064,
+    "text": "ایک، دو، تین۔",
+    "translation_ar": "واحد، اثنان، ثلاثة.",
+    "level": "A1",
+    "situation": "numbers",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 277,
+    "videoId": null,
+    "transcriptContext": "ایک، دو، تین۔",
+    "pronunciation": "ایک، دو، تین۔",
+    "words": [
+      {
+        "w": "ایک",
+        "m_en": "one",
+        "m_ar": "واحد"
+      },
+      {
+        "w": "دو",
+        "m_en": "two",
+        "m_ar": "اثنان"
+      },
+      {
+        "w": "تین",
+        "m_en": "three",
+        "m_ar": "ثلاثة"
+      }
+    ],
+    "grammar_en": "The first three cardinal numbers in Urdu.",
+    "grammar_ar": "أول ثلاثة أرقام أساسية في الأوردية.",
+    "alternatives": [],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8065,
+    "text": "چار، پانچ، چھ۔",
+    "translation_ar": "أربعة، خمسة، ستة.",
+    "level": "A1",
+    "situation": "numbers",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 294,
+    "videoId": null,
+    "transcriptContext": "چار، پانچ، چھ۔",
+    "pronunciation": "چار، پانچ، چھ۔",
+    "words": [
+      {
+        "w": "چار",
+        "m_en": "four",
+        "m_ar": "أربعة"
+      },
+      {
+        "w": "پانچ",
+        "m_en": "five",
+        "m_ar": "خمسة"
+      },
+      {
+        "w": "چھ",
+        "m_en": "six",
+        "m_ar": "ستة"
+      }
+    ],
+    "grammar_en": "Numbers four to six.",
+    "grammar_ar": "الأرقام من أربعة إلى ستة.",
+    "alternatives": [],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8066,
+    "text": "سات، آٹھ، نو، دس۔",
+    "translation_ar": "سبعة، ثمانية، تسعة، عشرة.",
+    "level": "A1",
+    "situation": "numbers",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 311,
+    "videoId": null,
+    "transcriptContext": "سات، آٹھ، نو، دس۔",
+    "pronunciation": "سات، آٹھ، نو، دَس۔",
+    "words": [
+      {
+        "w": "سات",
+        "m_en": "seven",
+        "m_ar": "سبعة"
+      },
+      {
+        "w": "دس",
+        "m_en": "ten",
+        "m_ar": "عشرة"
+      }
+    ],
+    "grammar_en": "Numbers seven to ten.",
+    "grammar_ar": "الأرقام من سبعة إلى عشرة.",
+    "alternatives": [],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8067,
+    "text": "یہ لال ہے۔",
+    "translation_ar": "هذا أحمر.",
+    "level": "A1",
+    "situation": "colors",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 328,
+    "videoId": null,
+    "transcriptContext": "یہ لال ہے۔",
+    "pronunciation": "یہ لال ہے۔",
+    "words": [
+      {
+        "w": "لال",
+        "m_en": "red",
+        "m_ar": "أحمر"
+      },
+      {
+        "w": "یہ",
+        "m_en": "this",
+        "m_ar": "هذا"
+      }
+    ],
+    "grammar_en": "\"Yeh\" (this) is used regardless of gender in Urdu.",
+    "grammar_ar": "تُستخدم «یہ» (هذا) بلا تغيير حسب الجنس في الأوردية.",
+    "alternatives": [],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8068,
+    "text": "یہ نیلا ہے۔",
+    "translation_ar": "هذا أزرق.",
+    "level": "A1",
+    "situation": "colors",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 345,
+    "videoId": null,
+    "transcriptContext": "یہ نیلا ہے۔",
+    "pronunciation": "یہ نیلا ہے۔",
+    "words": [
+      {
+        "w": "نیلا",
+        "m_en": "blue",
+        "m_ar": "أزرق"
+      }
+    ],
+    "grammar_en": "Color words like this usually come right before \"hai\" (is) in simple sentences.",
+    "grammar_ar": "تأتي كلمات الألوان عادةً قبل «ہے» (يكون) مباشرة في الجمل البسيطة.",
+    "alternatives": [],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 8069,
+    "text": "مجھے سبز رنگ پسند ہے۔",
+    "translation_ar": "أنا أحب اللون الأخضر.",
+    "level": "A2",
+    "situation": "colors",
+    "variety": "UR",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (UR)",
+    "timestamp": 362,
+    "videoId": null,
+    "transcriptContext": "مجھے سبز رنگ پسند ہے۔",
+    "pronunciation": "مُجھے سَبز رَنگ پَسَند ہے۔",
+    "words": [
+      {
+        "w": "سبز",
+        "m_en": "green",
+        "m_ar": "أخضر"
+      },
+      {
+        "w": "پسند",
+        "m_en": "liked, favorite",
+        "m_ar": "مفضّل"
+      }
+    ],
+    "grammar_en": "\"Mujhe... pasand hai\" literally means \"to me... is liked\" — the standard way to say you like something.",
+    "grammar_ar": "تعني «Mujhe... pasand hai» حرفيًا «لي... محبَّب» — وهي الطريقة المعتادة للتعبير عن حبّ شيء.",
+    "alternatives": [
+      {
+        "text": "میں سبز رنگ پسند کرتا ہوں۔",
+        "note_en": "Less common alternative phrasing",
+        "note_ar": "صياغة بديلة أقل شيوعًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
     "id": 8001,
     "text": "میں سات بجے اٹھتا ہوں۔",
     "translation_ar": "أستيقظ في السابعة.",
@@ -74,43 +773,6 @@
     "difficulty": 3
   },
   {
-    "id": 8003,
-    "text": "مجھے جلدی سونے کی عادت ہے کیونکہ میں جلدی اٹھتا ہوں۔",
-    "translation_ar": "اعتدتُ النوم مبكرًا لأنني أستيقظ مبكرًا.",
-    "level": "B1",
-    "situation": "daily",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 39,
-    "videoId": null,
-    "transcriptContext": "مجھے جلدی سونے کی عادت ہے کیونکہ میں جلدی اٹھتا ہوں۔",
-    "pronunciation": "مجھے جلدی سونے کی عادت ہے کیونکہ مَیں جلدی اُٹھتا ہوں۔",
-    "words": [
-      {
-        "w": "عادت",
-        "m_en": "habit",
-        "m_ar": "عادة"
-      },
-      {
-        "w": "جلدی",
-        "m_en": "early",
-        "m_ar": "مبكرًا"
-      }
-    ],
-    "grammar_en": "\"مجھے... کی عادت ہے\" means \"I have a habit of...\" (literally \"to me is a habit of\").",
-    "grammar_ar": "تعني «مجھے... کی عادت ہے» «لديّ عادة...» (حرفيًّا: «إليّ عادة...»).",
-    "alternatives": [
-      {
-        "text": "میں عام طور پر جلدی سو جاتا ہوں۔",
-        "note_en": "I usually go to sleep early",
-        "note_ar": "عادةً أنام مبكرًا"
-      }
-    ],
-    "similar": [],
-    "difficulty": 6
-  },
-  {
     "id": 8004,
     "text": "ویک اینڈ کیسا رہا؟",
     "translation_ar": "كيف كانت عطلة نهاية الأسبوع؟",
@@ -146,43 +808,6 @@
     ],
     "similar": [],
     "difficulty": 2
-  },
-  {
-    "id": 8005,
-    "text": "ہم بہت دنوں بعد ملے ہیں!",
-    "translation_ar": "التقينا بعد أيّام طويلة!",
-    "level": "B1",
-    "situation": "social",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 73,
-    "videoId": null,
-    "transcriptContext": "ہم بہت دنوں بعد ملے ہیں!",
-    "pronunciation": "ہم بہت دنوں بعد مِلے ہیں!",
-    "words": [
-      {
-        "w": "دن",
-        "m_en": "day",
-        "m_ar": "يوم"
-      },
-      {
-        "w": "ملنا",
-        "m_en": "to meet",
-        "m_ar": "يلتقي"
-      }
-    ],
-    "grammar_en": "\"بہت دنوں بعد\" means \"after many days\".",
-    "grammar_ar": "تعني «بہت دنوں بعد» «بعد أيّام كثيرة».",
-    "alternatives": [
-      {
-        "text": "کتنا عرصہ ہو گیا ملے ہوئے!",
-        "note_en": "It's been so long since we met!",
-        "note_ar": "مضى وقت طويل منذ أن التقينا!"
-      }
-    ],
-    "similar": [],
-    "difficulty": 3
   },
   {
     "id": 8006,
@@ -253,43 +878,6 @@
         "text": "میری دادی کھانا بہت اچھا بناتی ہیں۔",
         "note_en": "My grandmother makes very good food",
         "note_ar": "جدّتي تُعِدّ طعامًا لذيذًا جدًّا"
-      }
-    ],
-    "similar": [],
-    "difficulty": 3
-  },
-  {
-    "id": 8008,
-    "text": "میرے والدین یونیورسٹی میں ملے تھے۔",
-    "translation_ar": "التقى والداي في الجامعة.",
-    "level": "B1",
-    "situation": "family",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 124,
-    "videoId": null,
-    "transcriptContext": "میرے والدین یونیورسٹی میں ملے تھے۔",
-    "pronunciation": "میرے والدین یونیورسٹی میں مِلے تھے۔",
-    "words": [
-      {
-        "w": "والدین",
-        "m_en": "parents",
-        "m_ar": "والدان"
-      },
-      {
-        "w": "یونیورسٹی",
-        "m_en": "university",
-        "m_ar": "جامعة"
-      }
-    ],
-    "grammar_en": "\"تھے\" marks the past tense for a plural/formal subject: \"had met\".",
-    "grammar_ar": "تدلّ «تھے» على الماضي لفاعل جمع أو رسمي: «التقيا».",
-    "alternatives": [
-      {
-        "text": "امی اور ابو کی ملاقات کالج میں ہوئی تھی۔",
-        "note_en": "Mom and dad met in college",
-        "note_ar": "التقت أمّي وأبي في الكلّية"
       }
     ],
     "similar": [],
@@ -370,43 +958,6 @@
     "difficulty": 3
   },
   {
-    "id": 8011,
-    "text": "مجھے باورچی خانے کا نل ٹھیک کروانا ہے۔",
-    "translation_ar": "عليّ إصلاح صنبور المطبخ.",
-    "level": "B1",
-    "situation": "home",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 175,
-    "videoId": null,
-    "transcriptContext": "مجھے باورچی خانے کا نل ٹھیک کروانا ہے۔",
-    "pronunciation": "مجھے باورچی خانے کا نَل ٹھیک کروانا ہے۔",
-    "words": [
-      {
-        "w": "نل",
-        "m_en": "tap",
-        "m_ar": "صنبور"
-      },
-      {
-        "w": "باورچی خانہ",
-        "m_en": "kitchen",
-        "m_ar": "مطبخ"
-      }
-    ],
-    "grammar_en": "\"کروانا\" is the causative form: \"to get (something) done\".",
-    "grammar_ar": "«کروانا» صيغة سببيّة: «يجعل الأمر يُنجَز».",
-    "alternatives": [
-      {
-        "text": "باورچی خانے کا نل خراب ہے، ٹھیک کرانا ہے۔",
-        "note_en": "The kitchen tap is broken, it needs fixing",
-        "note_ar": "صنبور المطبخ معطّل، يحتاج إلى إصلاح"
-      }
-    ],
-    "similar": [],
-    "difficulty": 4
-  },
-  {
     "id": 8012,
     "text": "یہ قمیض کتنے کی ہے؟",
     "translation_ar": "كم سعر هذا القميص؟",
@@ -479,43 +1030,6 @@
     ],
     "similar": [],
     "difficulty": 3
-  },
-  {
-    "id": 8014,
-    "text": "میں یہ پتلون واپس کرنا چاہتا ہوں، یہ میرے لیے ٹھیک نہیں ہے۔",
-    "translation_ar": "أريد إرجاع هذا البنطال، فهو لا يناسبني.",
-    "level": "B1",
-    "situation": "shopping",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 226,
-    "videoId": null,
-    "transcriptContext": "میں یہ پتلون واپس کرنا چاہتا ہوں، یہ میرے لیے ٹھیک نہیں ہے۔",
-    "pronunciation": "مَیں یہ پتلون واپس کرنا چاہتا ہوں، یہ میرے لیے ٹھیک نہیں ہے۔",
-    "words": [
-      {
-        "w": "واپس کرنا",
-        "m_en": "to return",
-        "m_ar": "يُرجع"
-      },
-      {
-        "w": "پتلون",
-        "m_en": "trousers",
-        "m_ar": "بنطال"
-      }
-    ],
-    "grammar_en": "\"چاہتا ہوں\" (masc.) / \"چاہتی ہوں\" (fem.) means \"I want to\".",
-    "grammar_ar": "«چاہتا ہوں» (مذكّر) / «چاہتی ہوں» (مؤنّث) تعني «أريد أن».",
-    "alternatives": [
-      {
-        "text": "یہ پتلون مجھے فٹ نہیں آ رہی۔",
-        "note_en": "These trousers don't fit me",
-        "note_ar": "هذا البنطال لا يناسبني"
-      }
-    ],
-    "similar": [],
-    "difficulty": 6
   },
   {
     "id": 8015,
@@ -592,43 +1106,6 @@
     "difficulty": 2
   },
   {
-    "id": 8017,
-    "text": "کیا اس ڈش میں کوئی تیز مرچ والی چیز ہے؟",
-    "translation_ar": "هل يحتوي هذا الطبق على مكوّن حارّ؟",
-    "level": "B1",
-    "situation": "restaurant",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 37,
-    "videoId": null,
-    "transcriptContext": "کیا اس ڈش میں کوئی تیز مرچ والی چیز ہے؟",
-    "pronunciation": "کیا اس ڈِش میں کوئی تیز مرچ والی چیز ہے؟",
-    "words": [
-      {
-        "w": "تیز",
-        "m_en": "spicy, strong",
-        "m_ar": "حارّ / حادّ"
-      },
-      {
-        "w": "ڈش",
-        "m_en": "dish",
-        "m_ar": "طبق"
-      }
-    ],
-    "grammar_en": "\"کوئی\" here means \"any\" in a question.",
-    "grammar_ar": "تعني «کوئی» هنا «أيّ» في السؤال.",
-    "alternatives": [
-      {
-        "text": "یہ ڈش کتنی تیز ہے؟",
-        "note_en": "How spicy is this dish?",
-        "note_ar": "ما مدى حرارة هذا الطبق؟"
-      }
-    ],
-    "similar": [],
-    "difficulty": 5
-  },
-  {
     "id": 8018,
     "text": "مجھے پیٹ میں درد ہے۔",
     "translation_ar": "أشعر بألم في بطني.",
@@ -703,43 +1180,6 @@
     "difficulty": 4
   },
   {
-    "id": 8020,
-    "text": "ڈاکٹر نے مجھے آرام کرنے اور زیادہ پانی پینے کا مشورہ دیا۔",
-    "translation_ar": "نصحني الطبيب بالراحة وشرب الكثير من الماء.",
-    "level": "B1",
-    "situation": "health",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 88,
-    "videoId": null,
-    "transcriptContext": "ڈاکٹر نے مجھے آرام کرنے اور زیادہ پانی پینے کا مشورہ دیا۔",
-    "pronunciation": "ڈاکٹر نے مجھے آرام کرنے اور زیادہ پانی پینے کا مشورہ دیا۔",
-    "words": [
-      {
-        "w": "مشورہ",
-        "m_en": "advice",
-        "m_ar": "نصيحة"
-      },
-      {
-        "w": "آرام",
-        "m_en": "rest",
-        "m_ar": "راحة"
-      }
-    ],
-    "grammar_en": "\"نے\" marks the subject of a past-tense transitive verb (ergative construction).",
-    "grammar_ar": "تُستعمل «نے» لتحديد فاعل الفعل المتعدّي في الماضي (بنية إرغاتيّة).",
-    "alternatives": [
-      {
-        "text": "ڈاکٹر نے آرام کا کہا ہے۔",
-        "note_en": "The doctor told me to rest",
-        "note_ar": "نصحني الطبيب بالراحة"
-      }
-    ],
-    "similar": [],
-    "difficulty": 6
-  },
-  {
     "id": 8021,
     "text": "میٹنگ دس بجے کمرہ نمبر دو میں شروع ہوتی ہے۔",
     "translation_ar": "يبدأ الاجتماع في العاشرة في الغرفة رقم اثنين.",
@@ -775,80 +1215,6 @@
     ],
     "similar": [],
     "difficulty": 4
-  },
-  {
-    "id": 8022,
-    "text": "کیا آپ جمعے سے پہلے رپورٹ بھیج سکتے ہیں؟",
-    "translation_ar": "هل يمكنك أن ترسل التقرير قبل الجمعة؟",
-    "level": "B1",
-    "situation": "workplace",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 122,
-    "videoId": null,
-    "transcriptContext": "کیا آپ جمعے سے پہلے رپورٹ بھیج سکتے ہیں؟",
-    "pronunciation": "کیا آپ جمعے سے پہلے رپورٹ بھیج سکتے ہیں؟",
-    "words": [
-      {
-        "w": "رپورٹ",
-        "m_en": "report",
-        "m_ar": "تقرير"
-      },
-      {
-        "w": "بھیجنا",
-        "m_en": "to send",
-        "m_ar": "يرسل"
-      }
-    ],
-    "grammar_en": "\"سے پہلے\" means \"before\" and follows the reference point.",
-    "grammar_ar": "تعني «سے پہلے» «قبل» وتأتي بعد نقطة الإشارة.",
-    "alternatives": [
-      {
-        "text": "رپورٹ جمعے تک بھیج دیجیے گا۔",
-        "note_en": "Please send the report by Friday",
-        "note_ar": "أرسل التقرير بحلول الجمعة من فضلك"
-      }
-    ],
-    "similar": [],
-    "difficulty": 5
-  },
-  {
-    "id": 8023,
-    "text": "مشکلات کے باوجود ہم نے وقت پر کام مکمل کر لیا۔",
-    "translation_ar": "التزمنا بالمواعيد النهائيّة رغم الصعوبات.",
-    "level": "B2",
-    "situation": "workplace",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 139,
-    "videoId": null,
-    "transcriptContext": "مشکلات کے باوجود ہم نے وقت پر کام مکمل کر لیا۔",
-    "pronunciation": "مشکلات کے باوُجود ہم نے وقت پر کام مکمل کر لیا۔",
-    "words": [
-      {
-        "w": "باوجود",
-        "m_en": "despite",
-        "m_ar": "رغم"
-      },
-      {
-        "w": "مکمل",
-        "m_en": "complete",
-        "m_ar": "مكتمل"
-      }
-    ],
-    "grammar_en": "\"کے باوجود\" means \"despite\" and follows the noun.",
-    "grammar_ar": "تعني «کے باوجود» «رغم» وتأتي بعد الاسم.",
-    "alternatives": [
-      {
-        "text": "مشکلات کے باوجود ڈیڈ لائن پوری ہو گئی۔",
-        "note_en": "Despite the difficulties, the deadline was met",
-        "note_ar": "رغم الصعوبات التُزم بالموعد النهائي"
-      }
-    ],
-    "similar": [],
-    "difficulty": 8
   },
   {
     "id": 8024,
@@ -888,43 +1254,6 @@
     "difficulty": 3
   },
   {
-    "id": 8025,
-    "text": "مجھے ایک دلچسپ نوکری کی پیشکش ملی ہے۔",
-    "translation_ar": "تلقّيتُ عرض عمل مثيرًا للاهتمام.",
-    "level": "B1",
-    "situation": "career",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 173,
-    "videoId": null,
-    "transcriptContext": "مجھے ایک دلچسپ نوکری کی پیشکش ملی ہے۔",
-    "pronunciation": "مجھے ایک دلچسپ نوکری کی پیشکش مِلی ہے۔",
-    "words": [
-      {
-        "w": "پیشکش",
-        "m_en": "offer",
-        "m_ar": "عرض"
-      },
-      {
-        "w": "دلچسپ",
-        "m_en": "interesting",
-        "m_ar": "مثير للاهتمام"
-      }
-    ],
-    "grammar_en": "\"مجھے... ملی ہے\" means \"I have received...\" (literally \"to me has come\").",
-    "grammar_ar": "تعني «مجھے... ملی ہے» «تلقّيتُ...» (حرفيًّا: «وصلني»).",
-    "alternatives": [
-      {
-        "text": "مجھے ایک اچھی نوکری کی آفر ہوئی ہے۔",
-        "note_en": "\"آفر\" is a common English borrowing for \"offer\"",
-        "note_ar": "«آفر» كلمة إنجليزية مستعارة شائعة بمعنى «عرض»"
-      }
-    ],
-    "similar": [],
-    "difficulty": 4
-  },
-  {
     "id": 8026,
     "text": "میرا فون چارج نہیں ہے۔",
     "translation_ar": "هاتفي غير مشحون.",
@@ -960,43 +1289,6 @@
     ],
     "similar": [],
     "difficulty": 2
-  },
-  {
-    "id": 8027,
-    "text": "مجھے وائی فائی سے کنکٹ ہونے میں مسئلہ ہو رہا ہے۔",
-    "translation_ar": "أواجه مشكلة في الاتّصال بالواي فاي.",
-    "level": "B1",
-    "situation": "technology",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 207,
-    "videoId": null,
-    "transcriptContext": "مجھے وائی فائی سے کنکٹ ہونے میں مسئلہ ہو رہا ہے۔",
-    "pronunciation": "مجھے وائی فائی سے کنکٹ ہونے میں مسئلہ ہو رہا ہے۔",
-    "words": [
-      {
-        "w": "مسئلہ",
-        "m_en": "problem",
-        "m_ar": "مشكلة"
-      },
-      {
-        "w": "کنکٹ ہونا",
-        "m_en": "to connect",
-        "m_ar": "يتّصل"
-      }
-    ],
-    "grammar_en": "\"ہو رہا ہے\" marks a present continuous action: \"is happening right now\".",
-    "grammar_ar": "تدلّ «ہو رہا ہے» على فعل مستمرّ حاليًّا: «يحدث الآن».",
-    "alternatives": [
-      {
-        "text": "وائی فائی کنکٹ نہیں ہو رہا۔",
-        "note_en": "The wifi isn't connecting",
-        "note_ar": "الواي فاي لا يتّصل"
-      }
-    ],
-    "similar": [],
-    "difficulty": 6
   },
   {
     "id": 8028,
@@ -1036,43 +1328,6 @@
     "difficulty": 2
   },
   {
-    "id": 8029,
-    "text": "میں بعد میں کال کرتا ہوں، ابھی میٹنگ میں ہوں۔",
-    "translation_ar": "سأتّصل لاحقًا، أنا الآن في اجتماع.",
-    "level": "B1",
-    "situation": "phone-calls",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 1,
-    "videoId": null,
-    "transcriptContext": "میں بعد میں کال کرتا ہوں، ابھی میٹنگ میں ہوں۔",
-    "pronunciation": "مَیں بعد میں کال کرتا ہوں، ابھی میٹنگ میں ہوں۔",
-    "words": [
-      {
-        "w": "بعد میں",
-        "m_en": "later",
-        "m_ar": "لاحقًا"
-      },
-      {
-        "w": "ابھی",
-        "m_en": "right now",
-        "m_ar": "الآن"
-      }
-    ],
-    "grammar_en": "The simple present \"کرتا ہوں\" can express a near-future intention here.",
-    "grammar_ar": "يمكن للمضارع البسيط «کرتا ہوں» أن يعبّر هنا عن نيّة قريبة.",
-    "alternatives": [
-      {
-        "text": "میں تھوڑی دیر بعد کال کروں گا۔",
-        "note_en": "I'll call in a little while",
-        "note_ar": "سأتّصل بعد قليل"
-      }
-    ],
-    "similar": [],
-    "difficulty": 5
-  },
-  {
     "id": 8030,
     "text": "مجھے کتابیں پڑھنا اور موسیقی سننا پسند ہے۔",
     "translation_ar": "أحبّ القراءة والاستماع إلى الموسيقى.",
@@ -1108,43 +1363,6 @@
     ],
     "similar": [],
     "difficulty": 2
-  },
-  {
-    "id": 8031,
-    "text": "میں نے سیکھنے کے لیے فوٹوگرافی کا کورس شروع کیا ہے۔",
-    "translation_ar": "بدأتُ دورة تصوير لأتعلّم.",
-    "level": "B1",
-    "situation": "leisure",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 35,
-    "videoId": null,
-    "transcriptContext": "میں نے سیکھنے کے لیے فوٹوگرافی کا کورس شروع کیا ہے۔",
-    "pronunciation": "مَیں نے سیکھنے کے لیے فوٹوگرافی کا کورس شروع کیا ہے۔",
-    "words": [
-      {
-        "w": "کورس",
-        "m_en": "course",
-        "m_ar": "دورة"
-      },
-      {
-        "w": "سیکھنا",
-        "m_en": "to learn",
-        "m_ar": "يتعلّم"
-      }
-    ],
-    "grammar_en": "\"کے لیے\" + infinitive means \"in order to\".",
-    "grammar_ar": "«کے لیے» + المصدر تعني «من أجل».",
-    "alternatives": [
-      {
-        "text": "میں فوٹوگرافی سیکھ رہا ہوں۔",
-        "note_en": "I'm learning photography",
-        "note_ar": "أتعلّم التصوير"
-      }
-    ],
-    "similar": [],
-    "difficulty": 6
   },
   {
     "id": 8032,
@@ -1258,43 +1476,6 @@
     "difficulty": 1
   },
   {
-    "id": 8035,
-    "text": "سیدھے چلیں اور دوسری سڑک پر دائیں مڑ جائیں۔",
-    "translation_ar": "سِر مستقيمًا ثم انعطف يمينًا عند الشارع الثاني.",
-    "level": "B1",
-    "situation": "directions",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 103,
-    "videoId": null,
-    "transcriptContext": "سیدھے چلیں اور دوسری سڑک پر دائیں مڑ جائیں۔",
-    "pronunciation": "سیدھے چلیں اور دوسری سڑک پر دائیں مُڑ جائیں۔",
-    "words": [
-      {
-        "w": "سڑک",
-        "m_en": "street",
-        "m_ar": "شارع"
-      },
-      {
-        "w": "مڑنا",
-        "m_en": "to turn",
-        "m_ar": "ينعطف"
-      }
-    ],
-    "grammar_en": "\"چلیں\" and \"مڑ جائیں\" are polite imperative forms.",
-    "grammar_ar": "«چلیں» و«مڑ جائیں» صيغتا أمر مهذّبتان.",
-    "alternatives": [
-      {
-        "text": "سیدھا جائیں پھر دوسری سڑک پر دائیں مڑیں۔",
-        "note_en": "Same meaning, informal command",
-        "note_ar": "المعنى نفسه بأمر غير رسمي"
-      }
-    ],
-    "similar": [],
-    "difficulty": 5
-  },
-  {
     "id": 8036,
     "text": "ٹرین کتنے بجے جاتی ہے؟",
     "translation_ar": "في أيّ ساعة يغادر القطار؟",
@@ -1330,43 +1511,6 @@
     ],
     "similar": [],
     "difficulty": 2
-  },
-  {
-    "id": 8037,
-    "text": "ٹرین خرابی کی وجہ سے لیٹ ہو گی۔",
-    "translation_ar": "سيصل القطار متأخّرًا بسبب عطل.",
-    "level": "B1",
-    "situation": "transport",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 137,
-    "videoId": null,
-    "transcriptContext": "ٹرین خرابی کی وجہ سے لیٹ ہو گی۔",
-    "pronunciation": "ٹرین خرابی کی وجہ سے لیٹ ہو گی۔",
-    "words": [
-      {
-        "w": "خرابی",
-        "m_en": "fault, breakdown",
-        "m_ar": "عطل"
-      },
-      {
-        "w": "کی وجہ سے",
-        "m_en": "because of",
-        "m_ar": "بسبب"
-      }
-    ],
-    "grammar_en": "\"کی وجہ سے\" means \"because of\" and follows the noun.",
-    "grammar_ar": "تعني «کی وجہ سے» «بسبب» وتأتي بعد الاسم.",
-    "alternatives": [
-      {
-        "text": "ٹرین ایک خرابی کی وجہ سے تاخیر کا شکار ہے۔",
-        "note_en": "The train is delayed due to a fault",
-        "note_ar": "القطار متأخّر بسبب عطل"
-      }
-    ],
-    "similar": [],
-    "difficulty": 4
   },
   {
     "id": 8038,
@@ -1406,43 +1550,6 @@
     "difficulty": 4
   },
   {
-    "id": 8039,
-    "text": "ہم نے ساحل گھومنے کے لیے گاڑی کرائے پر لی۔",
-    "translation_ar": "استأجرنا سيّارة لنجوب الساحل.",
-    "level": "B1",
-    "situation": "travel",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 171,
-    "videoId": null,
-    "transcriptContext": "ہم نے ساحل گھومنے کے لیے گاڑی کرائے پر لی۔",
-    "pronunciation": "ہم نے ساحل گھومنے کے لیے گاڑی کرائے پر لی۔",
-    "words": [
-      {
-        "w": "کرائے پر",
-        "m_en": "for rent",
-        "m_ar": "للاستئجار"
-      },
-      {
-        "w": "ساحل",
-        "m_en": "coast",
-        "m_ar": "ساحل"
-      }
-    ],
-    "grammar_en": "\"کرائے پر لینا\" means \"to take on rent / to hire\".",
-    "grammar_ar": "تعني «کرائے پر لینا» «يستأجر».",
-    "alternatives": [
-      {
-        "text": "ساحل دیکھنے کے لیے ہم نے کار رینٹ کی۔",
-        "note_en": "\"رینٹ کرنا\" is a common English borrowing",
-        "note_ar": "«رینٹ کرنا» كلمة إنجليزية مستعارة شائعة"
-      }
-    ],
-    "similar": [],
-    "difficulty": 5
-  },
-  {
     "id": 8040,
     "text": "کیا آپ کے پاس خالی کمرہ ہے؟",
     "translation_ar": "هل لديكم غرفة شاغرة؟",
@@ -1478,43 +1585,6 @@
     ],
     "similar": [],
     "difficulty": 2
-  },
-  {
-    "id": 8041,
-    "text": "ناشتہ کس وقت سے کس وقت تک ہے؟",
-    "translation_ar": "من أيّ وقت إلى أيّ وقت الفطور؟",
-    "level": "B1",
-    "situation": "hotel",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 205,
-    "videoId": null,
-    "transcriptContext": "ناشتہ کس وقت سے کس وقت تک ہے؟",
-    "pronunciation": "ناشتہ کس وقت سے کس وقت تک ہے؟",
-    "words": [
-      {
-        "w": "ناشتہ",
-        "m_en": "breakfast",
-        "m_ar": "فطور"
-      },
-      {
-        "w": "سے... تک",
-        "m_en": "from... to",
-        "m_ar": "من... إلى"
-      }
-    ],
-    "grammar_en": "\"سے... تک\" is the standard structure for a time range.",
-    "grammar_ar": "«سے... تک» البنية المعتادة لمدى زمني.",
-    "alternatives": [
-      {
-        "text": "ناشتے کا وقت کیا ہے؟",
-        "note_en": "What is breakfast time?",
-        "note_ar": "ما موعد الفطور؟"
-      }
-    ],
-    "similar": [],
-    "difficulty": 4
   },
   {
     "id": 8042,
@@ -1554,43 +1624,6 @@
     "difficulty": 3
   },
   {
-    "id": 8043,
-    "text": "قریب میں کوئی اے ٹی ایم ہے؟",
-    "translation_ar": "هل يوجد صرّاف آلي قريب من هنا؟",
-    "level": "B1",
-    "situation": "banking",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 239,
-    "videoId": null,
-    "transcriptContext": "قریب میں کوئی اے ٹی ایم ہے؟",
-    "pronunciation": "قریب میں کوئی اے ٹی ایم ہے؟",
-    "words": [
-      {
-        "w": "اے ٹی ایم",
-        "m_en": "ATM",
-        "m_ar": "صرّاف آلي"
-      },
-      {
-        "w": "قریب",
-        "m_en": "nearby",
-        "m_ar": "قريب"
-      }
-    ],
-    "grammar_en": "\"اے ٹی ایم\" (ATM) is used as a borrowed abbreviation.",
-    "grammar_ar": "تُستعمل «اے ٹی ایم» اختصارًا مستعارًا.",
-    "alternatives": [
-      {
-        "text": "میں پیسے کہاں سے نکال سکتا ہوں؟",
-        "note_en": "Where can I withdraw money?",
-        "note_ar": "أين يمكنني سحب المال؟"
-      }
-    ],
-    "similar": [],
-    "difficulty": 4
-  },
-  {
     "id": 8044,
     "text": "مدد کریں! پولیس کو بلائیں!",
     "translation_ar": "النجدة! اتّصلوا بالشرطة!",
@@ -1628,43 +1661,6 @@
     "difficulty": 2
   },
   {
-    "id": 8045,
-    "text": "یہاں ایک حادثہ ہوا ہے، ہمیں ایمبولینس چاہیے۔",
-    "translation_ar": "وقع حادث هنا، نحتاج إلى سيّارة إسعاف.",
-    "level": "B1",
-    "situation": "emergency",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 33,
-    "videoId": null,
-    "transcriptContext": "یہاں ایک حادثہ ہوا ہے، ہمیں ایمبولینس چاہیے۔",
-    "pronunciation": "یہاں ایک حادثہ ہوا ہے، ہمیں ایمبولینس چاہیے۔",
-    "words": [
-      {
-        "w": "حادثہ",
-        "m_en": "accident",
-        "m_ar": "حادث"
-      },
-      {
-        "w": "ایمبولینس",
-        "m_en": "ambulance",
-        "m_ar": "سيّارة إسعاف"
-      }
-    ],
-    "grammar_en": "\"ہمیں... چاہیے\" means \"we need\" (literally \"to us is needed\").",
-    "grammar_ar": "تعني «ہمیں... چاہیے» «نحتاج» (حرفيًّا: «إلينا مطلوب»).",
-    "alternatives": [
-      {
-        "text": "فوری طور پر ایمبولینس بلائیں۔",
-        "note_en": "Call an ambulance immediately",
-        "note_ar": "اتّصلوا بسيّارة إسعاف فورًا"
-      }
-    ],
-    "similar": [],
-    "difficulty": 4
-  },
-  {
     "id": 8046,
     "text": "سالگرہ مبارک ہو!",
     "translation_ar": "عيد ميلاد سعيد!",
@@ -1700,42 +1696,5 @@
     ],
     "similar": [],
     "difficulty": 1
-  },
-  {
-    "id": 8047,
-    "text": "ہم ہر سال پڑوسیوں کے ساتھ نیا سال مناتے ہیں۔",
-    "translation_ar": "نحتفل كلّ عام برأس السنة مع الجيران.",
-    "level": "B1",
-    "situation": "celebrations",
-    "variety": "UR",
-    "channel": "SentenceGlish Practice",
-    "speaker": "Native speaker (UR)",
-    "timestamp": 67,
-    "videoId": null,
-    "transcriptContext": "ہم ہر سال پڑوسیوں کے ساتھ نیا سال مناتے ہیں۔",
-    "pronunciation": "ہم ہر سال پڑوسیوں کے ساتھ نیا سال مناتے ہیں۔",
-    "words": [
-      {
-        "w": "پڑوسی",
-        "m_en": "neighbour",
-        "m_ar": "جار"
-      },
-      {
-        "w": "منانا",
-        "m_en": "to celebrate",
-        "m_ar": "يحتفل بـ"
-      }
-    ],
-    "grammar_en": "\"کے ساتھ\" means \"together with\".",
-    "grammar_ar": "تعني «کے ساتھ» «مع».",
-    "alternatives": [
-      {
-        "text": "نیا سال ہمیشہ پڑوسیوں کے ساتھ مناتے ہیں۔",
-        "note_en": "We always celebrate New Year with the neighbours",
-        "note_ar": "نحتفل دائمًا برأس السنة مع الجيران"
-      }
-    ],
-    "similar": [],
-    "difficulty": 5
   }
 ]
