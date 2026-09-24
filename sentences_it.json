@@ -14529,5 +14529,1966 @@
     ],
     "similar": [],
     "difficulty": 8
+  },
+  {
+    "id": 6399,
+    "text": "Ho una sorella maggiore.",
+    "translation_ar": "لديّ أخت كبرى.",
+    "level": "A1",
+    "situation": "family",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 51,
+    "videoId": null,
+    "transcriptContext": "Ho una sorella maggiore.",
+    "pronunciation": "أو أونا سوريلّا ماجّوريه.",
+    "words": [
+      {
+        "w": "sorella",
+        "m_en": "sister",
+        "m_ar": "أخت"
+      },
+      {
+        "w": "maggiore",
+        "m_en": "older",
+        "m_ar": "أكبر / كبرى"
+      }
+    ],
+    "grammar_en": "\"Maggiore\" is the comparative of \"grande\" used for age between siblings.",
+    "grammar_ar": "«maggiore» مقارن «grande» يُستعمل لعمر الإخوة.",
+    "alternatives": [
+      {
+        "text": "Mia sorella è più grande di me.",
+        "note_en": "My sister is older than me",
+        "note_ar": "أختي أكبر منّي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6400,
+    "text": "I miei genitori abitano in campagna.",
+    "translation_ar": "يعيش والداي في الريف.",
+    "level": "A2",
+    "situation": "family",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 68,
+    "videoId": null,
+    "transcriptContext": "I miei genitori abitano in campagna.",
+    "pronunciation": "إي مييي جينيتوري أبيتانو إن كامپانيا.",
+    "words": [
+      {
+        "w": "genitori",
+        "m_en": "parents",
+        "m_ar": "والدان"
+      },
+      {
+        "w": "campagna",
+        "m_en": "countryside",
+        "m_ar": "ريف"
+      }
+    ],
+    "grammar_en": "\"In campagna\" means \"in the countryside\", without an article.",
+    "grammar_ar": "تعني «in campagna» «في الريف» بلا أداة تعريف.",
+    "alternatives": [
+      {
+        "text": "I miei genitori vivono fuori città.",
+        "note_en": "My parents live outside the city",
+        "note_ar": "والداي يعيشان خارج المدينة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6401,
+    "text": "Mio zio lavora come medico all'ospedale.",
+    "translation_ar": "خالي يعمل طبيبًا في المستشفى.",
+    "level": "A2",
+    "situation": "family",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 85,
+    "videoId": null,
+    "transcriptContext": "Mio zio lavora come medico all'ospedale.",
+    "pronunciation": "ميو تسيو لاڤورا كوميه ميديكو آلّوسپيداله.",
+    "words": [
+      {
+        "w": "zio",
+        "m_en": "uncle",
+        "m_ar": "عمّ / خال"
+      },
+      {
+        "w": "ospedale",
+        "m_en": "hospital",
+        "m_ar": "مستشفى"
+      }
+    ],
+    "grammar_en": "\"Lavorare come\" + profession means \"to work as\".",
+    "grammar_ar": "«lavorare come» + مهنة = «يعمل بصفة».",
+    "alternatives": [
+      {
+        "text": "Mio zio è medico in ospedale.",
+        "note_en": "My uncle is a doctor at the hospital",
+        "note_ar": "عمّي طبيب في المستشفى"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6402,
+    "text": "Da piccolo, passavo le estati dai nonni in montagna.",
+    "translation_ar": "في طفولتي، كنتُ أقضي الصيف عند جدّي في الجبل.",
+    "level": "B1",
+    "situation": "family",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 102,
+    "videoId": null,
+    "transcriptContext": "Da piccolo, passavo le estati dai nonni in montagna.",
+    "pronunciation": "دا پيكّولو، پاسّاڤو له إستاتي داي نونّي إن مونتانيا.",
+    "words": [
+      {
+        "w": "dai nonni",
+        "m_en": "at the grandparents'",
+        "m_ar": "عند الجدّين"
+      },
+      {
+        "w": "montagna",
+        "m_en": "mountain",
+        "m_ar": "جبل"
+      }
+    ],
+    "grammar_en": "\"Da piccolo\" means \"as a child\" (literally \"from small\").",
+    "grammar_ar": "تعني «da piccolo» «في الطفولة» (حرفيًّا: «منذ الصغر»).",
+    "alternatives": [
+      {
+        "text": "Da bambino trascorrevo le vacanze in montagna.",
+        "note_en": "\"Trascorrere\" = to spend (time)",
+        "note_ar": "«trascorrere» = يقضي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 6403,
+    "text": "Nonostante le distanze, la mia famiglia resta molto unita.",
+    "translation_ar": "رغم المسافات، تظلّ عائلتي مترابطة جدًّا.",
+    "level": "B2",
+    "situation": "family",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 119,
+    "videoId": null,
+    "transcriptContext": "Nonostante le distanze, la mia famiglia resta molto unita.",
+    "pronunciation": "نونوستانتيه له ديستانتسه، لا ميا فاميليا ريستا مولتو أونيتا.",
+    "words": [
+      {
+        "w": "nonostante",
+        "m_en": "despite",
+        "m_ar": "رغم"
+      },
+      {
+        "w": "unito",
+        "m_en": "united, close",
+        "m_ar": "مترابط"
+      }
+    ],
+    "grammar_en": "\"Nonostante\" + noun means \"despite\".",
+    "grammar_ar": "«nonostante» + اسم تعني «رغم».",
+    "alternatives": [
+      {
+        "text": "Anche se siamo lontani, siamo una famiglia molto unita.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6404,
+    "text": "Il soggiorno è molto luminoso.",
+    "translation_ar": "غرفة الجلوس مضيئة جدًّا.",
+    "level": "A1",
+    "situation": "home",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 136,
+    "videoId": null,
+    "transcriptContext": "Il soggiorno è molto luminoso.",
+    "pronunciation": "إل سوججورنو إيه مولتو لومينوزو.",
+    "words": [
+      {
+        "w": "soggiorno",
+        "m_en": "living room",
+        "m_ar": "غرفة جلوس"
+      },
+      {
+        "w": "luminoso",
+        "m_en": "bright",
+        "m_ar": "مضيء"
+      }
+    ],
+    "grammar_en": "\"Luminoso\" agrees with the masculine \"soggiorno\".",
+    "grammar_ar": "تتطابق «luminoso» مع المذكّر «soggiorno».",
+    "alternatives": [
+      {
+        "text": "Il salotto ha molta luce.",
+        "note_en": "\"Salotto\" is a synonym of \"soggiorno\"",
+        "note_ar": "«salotto» مرادف لـ«soggiorno»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6405,
+    "text": "Devo fare le pulizie prima di sabato.",
+    "translation_ar": "عليّ تنظيف المنزل قبل السبت.",
+    "level": "A2",
+    "situation": "home",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 153,
+    "videoId": null,
+    "transcriptContext": "Devo fare le pulizie prima di sabato.",
+    "pronunciation": "ديڤو فاره له پوليتسييه پريما دي ساباتو.",
+    "words": [
+      {
+        "w": "pulizie",
+        "m_en": "cleaning",
+        "m_ar": "تنظيف"
+      },
+      {
+        "w": "prima di",
+        "m_en": "before",
+        "m_ar": "قبل"
+      }
+    ],
+    "grammar_en": "\"Fare le pulizie\" means \"to do the cleaning\".",
+    "grammar_ar": "«fare le pulizie» = «تنظيف المنزل».",
+    "alternatives": [
+      {
+        "text": "Devo pulire casa prima di sabato.",
+        "note_en": "\"Pulire\" = to clean",
+        "note_ar": "«pulire» = ينظّف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6406,
+    "text": "Abbiamo appena traslocato in un appartamento più grande.",
+    "translation_ar": "انتقلنا للتوّ إلى شقّة أكبر.",
+    "level": "B1",
+    "situation": "home",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 170,
+    "videoId": null,
+    "transcriptContext": "Abbiamo appena traslocato in un appartamento più grande.",
+    "pronunciation": "أبّيامو آپّينا تراسلوكاتو إن أون أپّارتامينتو پيو غرانديه.",
+    "words": [
+      {
+        "w": "traslocare",
+        "m_en": "to move house",
+        "m_ar": "ينتقل"
+      },
+      {
+        "w": "appena",
+        "m_en": "just, recently",
+        "m_ar": "للتوّ"
+      }
+    ],
+    "grammar_en": "\"Appena\" + passato prossimo means \"just did\".",
+    "grammar_ar": "«appena» + الماضي القريب = «للتوّ».",
+    "alternatives": [
+      {
+        "text": "Ci siamo appena trasferiti in una casa più grande.",
+        "note_en": "\"Trasferirsi\" is a synonym",
+        "note_ar": "«trasferirsi» مرادف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6407,
+    "text": "L'arredamento della casa riflette lo stile dei proprietari.",
+    "translation_ar": "يعكس أثاث المنزل ذوق أصحابه.",
+    "level": "B2",
+    "situation": "home",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 187,
+    "videoId": null,
+    "transcriptContext": "L'arredamento della casa riflette lo stile dei proprietari.",
+    "pronunciation": "لأرّيدامينتو دلّا كازا ريفلتّيه لو ستيليه ديي پروپرييتاري.",
+    "words": [
+      {
+        "w": "arredamento",
+        "m_en": "furnishings",
+        "m_ar": "أثاث"
+      },
+      {
+        "w": "proprietario",
+        "m_en": "owner",
+        "m_ar": "مالك"
+      }
+    ],
+    "grammar_en": "\"Riflettere\" is irregular like \"flettere\".",
+    "grammar_ar": "«riflettere» شاذّ مثل «flettere».",
+    "alternatives": [
+      {
+        "text": "L'arredamento mostra i gusti di chi ci abita.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6408,
+    "text": "Prendo la metro ogni giorno.",
+    "translation_ar": "أستقلّ المترو كلّ يوم.",
+    "level": "A1",
+    "situation": "transport",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 204,
+    "videoId": null,
+    "transcriptContext": "Prendo la metro ogni giorno.",
+    "pronunciation": "پرندو لا ميترو أونّي جورنو.",
+    "words": [
+      {
+        "w": "metro",
+        "m_en": "subway",
+        "m_ar": "مترو"
+      },
+      {
+        "w": "ogni giorno",
+        "m_en": "every day",
+        "m_ar": "كلّ يوم"
+      }
+    ],
+    "grammar_en": "\"Prendere\" is commonly used for \"to take\" transport.",
+    "grammar_ar": "يُستعمل «prendere» عادةً بمعنى «يستقلّ» وسيلة نقل.",
+    "alternatives": [
+      {
+        "text": "Vado al lavoro in metro.",
+        "note_en": "I go to work by subway",
+        "note_ar": "أذهب إلى العمل بالمترو"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6409,
+    "text": "La macchina è dal meccanico.",
+    "translation_ar": "السيّارة عند الميكانيكي.",
+    "level": "A2",
+    "situation": "transport",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 221,
+    "videoId": null,
+    "transcriptContext": "La macchina è dal meccanico.",
+    "pronunciation": "لا ماكّينا إيه دال ميكّانيكو.",
+    "words": [
+      {
+        "w": "macchina",
+        "m_en": "car",
+        "m_ar": "سيّارة"
+      },
+      {
+        "w": "meccanico",
+        "m_en": "mechanic",
+        "m_ar": "ميكانيكي"
+      }
+    ],
+    "grammar_en": "\"Essere da\" + a person means \"to be at someone's place\".",
+    "grammar_ar": "تعني «essere da» + شخص «أن يكون عند».",
+    "alternatives": [
+      {
+        "text": "Ho portato la macchina dal meccanico.",
+        "note_en": "I took the car to the mechanic",
+        "note_ar": "أخذتُ السيّارة إلى الميكانيكي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6410,
+    "text": "Ho preso il taxi perché avevo fretta.",
+    "translation_ar": "استقللتُ سيّارة أجرة لأنّني كنتُ مستعجلًا.",
+    "level": "B1",
+    "situation": "transport",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 238,
+    "videoId": null,
+    "transcriptContext": "Ho preso il taxi perché avevo fretta.",
+    "pronunciation": "أو پرزو إل تاكسي پيركيه آڤيڤو فريتّا.",
+    "words": [
+      {
+        "w": "taxi",
+        "m_en": "taxi",
+        "m_ar": "سيّارة أجرة"
+      },
+      {
+        "w": "avere fretta",
+        "m_en": "to be in a hurry",
+        "m_ar": "يكون مستعجلًا"
+      }
+    ],
+    "grammar_en": "\"Avevo fretta\" is the imperfect: describing the reason (a state).",
+    "grammar_ar": "«avevo fretta» ماضٍ ناقص: يصف السبب (حالة).",
+    "alternatives": [
+      {
+        "text": "Ho chiamato un taxi perché ero di fretta.",
+        "note_en": "\"Essere di fretta\" is a synonym",
+        "note_ar": "«essere di fretta» مرادف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6411,
+    "text": "Il traffico in centro è aumentato negli ultimi mesi.",
+    "translation_ar": "ازداد الازدحام في وسط المدينة في الأشهر الأخيرة.",
+    "level": "B2",
+    "situation": "transport",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 15,
+    "videoId": null,
+    "transcriptContext": "Il traffico in centro è aumentato negli ultimi mesi.",
+    "pronunciation": "إل تراففيكو إن تشينترو إيه أومنتاتو نيلّي أولتيمي ميزي.",
+    "words": [
+      {
+        "w": "traffico",
+        "m_en": "traffic",
+        "m_ar": "ازدحام"
+      },
+      {
+        "w": "centro",
+        "m_en": "city centre",
+        "m_ar": "وسط المدينة"
+      }
+    ],
+    "grammar_en": "\"Aumentare\" takes \"essere\" in the passato prossimo.",
+    "grammar_ar": "يأخذ «aumentare» الفعل «essere» في الماضي القريب.",
+    "alternatives": [
+      {
+        "text": "Il traffico in città è peggiorato ultimamente.",
+        "note_en": "\"Peggiorare\" = to worsen",
+        "note_ar": "«peggiorare» = يزداد سوءًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6412,
+    "text": "Il mio cellulare è spento.",
+    "translation_ar": "هاتفي المحمول مطفأ.",
+    "level": "A1",
+    "situation": "phone-calls",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 32,
+    "videoId": null,
+    "transcriptContext": "Il mio cellulare è spento.",
+    "pronunciation": "إل ميو تشيلّولاره إيه سپينتو.",
+    "words": [
+      {
+        "w": "cellulare",
+        "m_en": "mobile phone",
+        "m_ar": "هاتف محمول"
+      },
+      {
+        "w": "spento",
+        "m_en": "off, switched off",
+        "m_ar": "مطفأ"
+      }
+    ],
+    "grammar_en": "\"Spento\" is the irregular past participle of \"spegnere\".",
+    "grammar_ar": "«spento» اسم المفعول الشاذّ من «spegnere».",
+    "alternatives": [
+      {
+        "text": "Il mio telefono è scarico.",
+        "note_en": "My phone is out of battery",
+        "note_ar": "هاتفي بلا بطارية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6413,
+    "text": "Ti chiamo appena arrivo a casa.",
+    "translation_ar": "سأتّصل بك حالما أصل إلى المنزل.",
+    "level": "A2",
+    "situation": "phone-calls",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 49,
+    "videoId": null,
+    "transcriptContext": "Ti chiamo appena arrivo a casa.",
+    "pronunciation": "تي كيامو آپّينا أرّيڤو آ كازا.",
+    "words": [
+      {
+        "w": "appena",
+        "m_en": "as soon as",
+        "m_ar": "حالما"
+      },
+      {
+        "w": "arrivare",
+        "m_en": "to arrive",
+        "m_ar": "يصل"
+      }
+    ],
+    "grammar_en": "\"Appena\" + present can express an immediate future action.",
+    "grammar_ar": "يمكن لـ«appena» + المضارع أن تعبّر عن فعل مستقبلي فوري.",
+    "alternatives": [
+      {
+        "text": "Ti chiamo non appena sono a casa.",
+        "note_en": "\"Non appena\" is a synonym",
+        "note_ar": "«non appena» مرادف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6414,
+    "text": "La linea cade sempre quando parlo con lui.",
+    "translation_ar": "تنقطع المكالمة دائمًا عندما أتحدّث معه.",
+    "level": "B1",
+    "situation": "phone-calls",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 66,
+    "videoId": null,
+    "transcriptContext": "La linea cade sempre quando parlo con lui.",
+    "pronunciation": "لا لينيا كاديه سيمپريه كواندو پارلو كون لوي.",
+    "words": [
+      {
+        "w": "cadere",
+        "m_en": "to drop",
+        "m_ar": "ينقطع (اتّصال)"
+      },
+      {
+        "w": "linea",
+        "m_en": "line",
+        "m_ar": "خطّ"
+      }
+    ],
+    "grammar_en": "\"Cadere la linea\" is the fixed expression for a dropped call.",
+    "grammar_ar": "«cadere la linea» تعبير ثابت لانقطاع المكالمة.",
+    "alternatives": [
+      {
+        "text": "La chiamata si interrompe sempre con lui.",
+        "note_en": "\"Interrompersi\" is a synonym",
+        "note_ar": "«interrompersi» مرادف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6415,
+    "text": "Mi scusi se la disturbo a quest'ora, ma è urgente.",
+    "translation_ar": "أعتذر عن إزعاجك في هذه الساعة، لكنّ الأمر عاجل.",
+    "level": "B2",
+    "situation": "phone-calls",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 83,
+    "videoId": null,
+    "transcriptContext": "Mi scusi se la disturbo a quest'ora, ma è urgente.",
+    "pronunciation": "مي سكوزي سيه لا ديستوربو آ كوستورا، ما إيه أورجينتيه.",
+    "words": [
+      {
+        "w": "disturbare",
+        "m_en": "to disturb",
+        "m_ar": "يزعج"
+      },
+      {
+        "w": "urgente",
+        "m_en": "urgent",
+        "m_ar": "عاجل"
+      }
+    ],
+    "grammar_en": "\"Mi scusi se\" + present is a formal way to apologise in advance.",
+    "grammar_ar": "«mi scusi se» + المضارع طريقة رسميّة للاعتذار مسبقًا.",
+    "alternatives": [
+      {
+        "text": "Scusi il disturbo, ma si tratta di una cosa urgente.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6416,
+    "text": "La colazione è dalle sette alle dieci.",
+    "translation_ar": "الفطور من السابعة إلى العاشرة.",
+    "level": "A1",
+    "situation": "hotel",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 100,
+    "videoId": null,
+    "transcriptContext": "La colazione è dalle sette alle dieci.",
+    "pronunciation": "لا كولاتسيونيه إيه دالّه سيتّيه آلّيه دييتشي.",
+    "words": [
+      {
+        "w": "colazione",
+        "m_en": "breakfast",
+        "m_ar": "فطور"
+      },
+      {
+        "w": "dalle... alle",
+        "m_en": "from... to",
+        "m_ar": "من... إلى"
+      }
+    ],
+    "grammar_en": "\"Dalle... alle...\" indicates a time range.",
+    "grammar_ar": "تدلّ «dalle... alle...» على مدى زمني.",
+    "alternatives": [
+      {
+        "text": "Si fa colazione dalle sette alle dieci.",
+        "note_en": "Impersonal form",
+        "note_ar": "صيغة غير شخصيّة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6417,
+    "text": "Potete chiamarmi un taxi per l'aeroporto?",
+    "translation_ar": "هل يمكنكم استدعاء سيّارة أجرة لي إلى المطار؟",
+    "level": "A2",
+    "situation": "hotel",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 117,
+    "videoId": null,
+    "transcriptContext": "Potete chiamarmi un taxi per l'aeroporto?",
+    "pronunciation": "پوتيتيه كيامارمي أون تاكسي پير لأيروپورتو؟",
+    "words": [
+      {
+        "w": "chiamare",
+        "m_en": "to call",
+        "m_ar": "يستدعي"
+      },
+      {
+        "w": "aeroporto",
+        "m_en": "airport",
+        "m_ar": "مطار"
+      }
+    ],
+    "grammar_en": "\"Chiamarmi\" = \"chiamare\" + \"mi\" (for me).",
+    "grammar_ar": "«chiamarmi» = «chiamare» + «mi» بمعنى «لي».",
+    "alternatives": [
+      {
+        "text": "Mi potete prenotare un taxi per l'aeroporto?",
+        "note_en": "\"Prenotare\" = to book",
+        "note_ar": "«prenotare» = يحجز"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6418,
+    "text": "Vorrei una camera con vista sul mare, se possibile.",
+    "translation_ar": "أودّ غرفة تطلّ على البحر إن أمكن.",
+    "level": "B1",
+    "situation": "hotel",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 134,
+    "videoId": null,
+    "transcriptContext": "Vorrei una camera con vista sul mare, se possibile.",
+    "pronunciation": "ڤورّاي أونا كاميرا كون ڤيستا سول ماريه، سيه پوسّيبيليه.",
+    "words": [
+      {
+        "w": "vista",
+        "m_en": "view",
+        "m_ar": "إطلالة"
+      },
+      {
+        "w": "mare",
+        "m_en": "sea",
+        "m_ar": "بحر"
+      }
+    ],
+    "grammar_en": "\"Con vista su\" means \"with a view of\".",
+    "grammar_ar": "«con vista su» = «تطلّ على».",
+    "alternatives": [
+      {
+        "text": "Avete camere con vista mare?",
+        "note_en": "Do you have sea-view rooms?",
+        "note_ar": "هل لديكم غرف تطلّ على البحر؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 6419,
+    "text": "Il personale dell'hotel è stato molto disponibile durante il soggiorno.",
+    "translation_ar": "كان طاقم الفندق متعاونًا جدًّا خلال الإقامة.",
+    "level": "B2",
+    "situation": "hotel",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 151,
+    "videoId": null,
+    "transcriptContext": "Il personale dell'hotel è stato molto disponibile durante il soggiorno.",
+    "pronunciation": "إل پيرسوناله دلّأوتيل إيه ستاتو مولتو ديسپونيبيليه دورانتيه إل سوججورنو.",
+    "words": [
+      {
+        "w": "personale",
+        "m_en": "staff",
+        "m_ar": "طاقم"
+      },
+      {
+        "w": "disponibile",
+        "m_en": "helpful, available",
+        "m_ar": "متعاون / متاح"
+      }
+    ],
+    "grammar_en": "\"Durante\" + noun means \"during\".",
+    "grammar_ar": "«durante» + اسم = «خلال».",
+    "alternatives": [
+      {
+        "text": "Lo staff è stato molto gentile durante il nostro soggiorno.",
+        "note_en": "\"Staff\" is a common borrowing",
+        "note_ar": "«staff» كلمة مستعارة شائعة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6420,
+    "text": "Ho dimenticato il codice della carta.",
+    "translation_ar": "نسيتُ رمز البطاقة.",
+    "level": "A1",
+    "situation": "banking",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 168,
+    "videoId": null,
+    "transcriptContext": "Ho dimenticato il codice della carta.",
+    "pronunciation": "أو ديمينتيكاتو إل كوديتشيه دلّا كارتا.",
+    "words": [
+      {
+        "w": "codice",
+        "m_en": "code, PIN",
+        "m_ar": "رمز"
+      },
+      {
+        "w": "carta",
+        "m_en": "card",
+        "m_ar": "بطاقة"
+      }
+    ],
+    "grammar_en": "\"Codice\" here means \"PIN code\".",
+    "grammar_ar": "تعني «codice» هنا «الرمز السرّي».",
+    "alternatives": [
+      {
+        "text": "Ho dimenticato il PIN.",
+        "note_en": "I forgot the PIN",
+        "note_ar": "نسيتُ الرمز السرّي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6421,
+    "text": "Posso controllare il saldo del mio conto?",
+    "translation_ar": "هل يمكنني التحقّق من رصيد حسابي؟",
+    "level": "A2",
+    "situation": "banking",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 185,
+    "videoId": null,
+    "transcriptContext": "Posso controllare il saldo del mio conto?",
+    "pronunciation": "پوسّو كونترولّاره إل سالدو دل ميو كونتو؟",
+    "words": [
+      {
+        "w": "saldo",
+        "m_en": "balance",
+        "m_ar": "رصيد"
+      },
+      {
+        "w": "conto",
+        "m_en": "account",
+        "m_ar": "حساب"
+      }
+    ],
+    "grammar_en": "\"Controllare il saldo\" means \"to check the balance\".",
+    "grammar_ar": "«controllare il saldo» = التحقّق من الرصيد.",
+    "alternatives": [
+      {
+        "text": "Vorrei sapere il saldo del mio conto.",
+        "note_en": "I'd like to know my account balance",
+        "note_ar": "أودّ معرفة رصيد حسابي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6422,
+    "text": "Ho ricevuto un addebito che non riconosco sul mio conto.",
+    "translation_ar": "استلمتُ خصمًا لا أتعرّف عليه في حسابي.",
+    "level": "B1",
+    "situation": "banking",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 202,
+    "videoId": null,
+    "transcriptContext": "Ho ricevuto un addebito che non riconosco sul mio conto.",
+    "pronunciation": "أو ريتشيڤوتو أون أدّيبيتو كيه نون ريكونوسكو سول ميو كونتو.",
+    "words": [
+      {
+        "w": "addebito",
+        "m_en": "charge, debit",
+        "m_ar": "خصم"
+      },
+      {
+        "w": "riconoscere",
+        "m_en": "to recognise",
+        "m_ar": "يتعرّف على"
+      }
+    ],
+    "grammar_en": "\"Non riconoscere\" means \"not to recognise (as one's own)\".",
+    "grammar_ar": "تعني «non riconoscere» «لا يتعرّف عليه (كخاصّته)».",
+    "alternatives": [
+      {
+        "text": "C'è un addebito strano sul mio estratto conto.",
+        "note_en": "\"Estratto conto\" = bank statement",
+        "note_ar": "«estratto conto» = كشف حساب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 6423,
+    "text": "La banca ha bloccato la carta per motivi di sicurezza.",
+    "translation_ar": "أوقف البنك البطاقة لأسباب أمنيّة.",
+    "level": "B2",
+    "situation": "banking",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 219,
+    "videoId": null,
+    "transcriptContext": "La banca ha bloccato la carta per motivi di sicurezza.",
+    "pronunciation": "لا بانكا آ بلوكّاتو لا كارتا پير موتيڤي دي سيكوريتسا.",
+    "words": [
+      {
+        "w": "bloccare",
+        "m_en": "to block",
+        "m_ar": "يوقف / يجمّد"
+      },
+      {
+        "w": "motivi di sicurezza",
+        "m_en": "security reasons",
+        "m_ar": "أسباب أمنيّة"
+      }
+    ],
+    "grammar_en": "\"Per motivi di\" means \"for reasons of\".",
+    "grammar_ar": "تعني «per motivi di» «لأسباب».",
+    "alternatives": [
+      {
+        "text": "La mia carta è stata bloccata per sicurezza.",
+        "note_en": "Passive voice",
+        "note_ar": "صيغة مبنية للمجهول"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 6424,
+    "text": "Domani è il mio compleanno.",
+    "translation_ar": "غدًا عيد ميلادي.",
+    "level": "A1",
+    "situation": "celebrations",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 236,
+    "videoId": null,
+    "transcriptContext": "Domani è il mio compleanno.",
+    "pronunciation": "دوماني إيه إل ميو كومپليانّو.",
+    "words": [
+      {
+        "w": "compleanno",
+        "m_en": "birthday",
+        "m_ar": "عيد ميلاد"
+      },
+      {
+        "w": "domani",
+        "m_en": "tomorrow",
+        "m_ar": "غدًا"
+      }
+    ],
+    "grammar_en": "\"Essere\" is used for stating dates: \"è il mio compleanno\".",
+    "grammar_ar": "يُستعمل «essere» لذكر التواريخ: «è il mio compleanno».",
+    "alternatives": [
+      {
+        "text": "Il mio compleanno è domani.",
+        "note_en": "Different order",
+        "note_ar": "ترتيب مختلف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6425,
+    "text": "Organizziamo una sorpresa per il suo anniversario.",
+    "translation_ar": "ننظّم مفاجأة لعيد زواجه.",
+    "level": "A2",
+    "situation": "celebrations",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 13,
+    "videoId": null,
+    "transcriptContext": "Organizziamo una sorpresa per il suo anniversario.",
+    "pronunciation": "أورغانيتسّيامو أونا سورپريزا پير إل سووو أنّيڤيرساريو.",
+    "words": [
+      {
+        "w": "sorpresa",
+        "m_en": "surprise",
+        "m_ar": "مفاجأة"
+      },
+      {
+        "w": "anniversario",
+        "m_en": "anniversary",
+        "m_ar": "عيد سنوي"
+      }
+    ],
+    "grammar_en": "\"Organizziamo\" is the \"let's\" form (noi imperative-like use).",
+    "grammar_ar": "«organizziamo» صيغة «لنفعل» (استعمال شبيه بأمر noi).",
+    "alternatives": [
+      {
+        "text": "Prepariamo una sorpresa per il loro anniversario.",
+        "note_en": "\"Preparare\" is a synonym",
+        "note_ar": "«preparare» مرادف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6426,
+    "text": "Ogni anno festeggiamo il Capodanno insieme ai vicini.",
+    "translation_ar": "كلّ عام نحتفل برأس السنة مع الجيران.",
+    "level": "B1",
+    "situation": "celebrations",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 30,
+    "videoId": null,
+    "transcriptContext": "Ogni anno festeggiamo il Capodanno insieme ai vicini.",
+    "pronunciation": "أونّي آنّو فستججامو إل كاپودانّو إنسييمه آي ڤيتشيني.",
+    "words": [
+      {
+        "w": "festeggiare",
+        "m_en": "to celebrate",
+        "m_ar": "يحتفل"
+      },
+      {
+        "w": "Capodanno",
+        "m_en": "New Year's Day",
+        "m_ar": "رأس السنة"
+      }
+    ],
+    "grammar_en": "\"Insieme a\" means \"together with\".",
+    "grammar_ar": "تعني «insieme a» «مع».",
+    "alternatives": [
+      {
+        "text": "Festeggiamo sempre il Capodanno con i vicini.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6427,
+    "text": "La cerimonia si è svolta in un'atmosfera molto emozionante.",
+    "translation_ar": "جرى الاحتفال في أجواء مؤثّرة جدًّا.",
+    "level": "B2",
+    "situation": "celebrations",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 47,
+    "videoId": null,
+    "transcriptContext": "La cerimonia si è svolta in un'atmosfera molto emozionante.",
+    "pronunciation": "لا تشيريمونيا سي إيه سڤولتا إن أونأتموسفيرا مولتو إيموتسيوناتنتيه.",
+    "words": [
+      {
+        "w": "cerimonia",
+        "m_en": "ceremony",
+        "m_ar": "احتفال / مراسم"
+      },
+      {
+        "w": "svolgersi",
+        "m_en": "to take place",
+        "m_ar": "يجري"
+      }
+    ],
+    "grammar_en": "\"Svolgersi\" is reflexive and takes \"essere\".",
+    "grammar_ar": "«svolgersi» فعل انعكاسي يأخذ «essere».",
+    "alternatives": [
+      {
+        "text": "È stata una cerimonia molto commovente.",
+        "note_en": "\"Commovente\" = moving",
+        "note_ar": "«commovente» = مؤثّر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6428,
+    "text": "Il sabato guardo un film.",
+    "translation_ar": "يوم السبت أشاهد فيلمًا.",
+    "level": "A1",
+    "situation": "leisure",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 64,
+    "videoId": null,
+    "transcriptContext": "Il sabato guardo un film.",
+    "pronunciation": "إل ساباتو غواردو أون فيلم.",
+    "words": [
+      {
+        "w": "film",
+        "m_en": "film",
+        "m_ar": "فيلم"
+      },
+      {
+        "w": "guardare",
+        "m_en": "to watch",
+        "m_ar": "يشاهد"
+      }
+    ],
+    "grammar_en": "\"Il sabato\" (with the article) means \"on Saturdays\" as a habit.",
+    "grammar_ar": "«il sabato» (مع أداة التعريف) تعني «أيّام السبت» كعادة.",
+    "alternatives": [
+      {
+        "text": "Ogni sabato guardo un film.",
+        "note_en": "Every Saturday I watch a film",
+        "note_ar": "كلّ سبت أشاهد فيلمًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6429,
+    "text": "Vado spesso in biblioteca a studiare.",
+    "translation_ar": "أذهب كثيرًا إلى المكتبة للدراسة.",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 81,
+    "videoId": null,
+    "transcriptContext": "Vado spesso in biblioteca a studiare.",
+    "pronunciation": "ڤادو سپيسّو إن بيبليوتيكا آ ستوديياره.",
+    "words": [
+      {
+        "w": "biblioteca",
+        "m_en": "library",
+        "m_ar": "مكتبة"
+      },
+      {
+        "w": "studiare",
+        "m_en": "to study",
+        "m_ar": "يدرس"
+      }
+    ],
+    "grammar_en": "\"Andare a\" + infinitive means \"to go and do\".",
+    "grammar_ar": "«andare a» + المصدر = «يذهب لفعل».",
+    "alternatives": [
+      {
+        "text": "Studio spesso in biblioteca.",
+        "note_en": "I often study in the library",
+        "note_ar": "أدرس كثيرًا في المكتبة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6430,
+    "text": "Mi rilasso ascoltando musica dopo il lavoro.",
+    "translation_ar": "أرتاح بالاستماع إلى الموسيقى بعد العمل.",
+    "level": "B1",
+    "situation": "leisure",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 98,
+    "videoId": null,
+    "transcriptContext": "Mi rilasso ascoltando musica dopo il lavoro.",
+    "pronunciation": "مي ريلاسّو أسكولتاندو موزيكا دوپو إل لاڤورو.",
+    "words": [
+      {
+        "w": "rilassarsi",
+        "m_en": "to relax",
+        "m_ar": "يرتاح"
+      },
+      {
+        "w": "ascoltare",
+        "m_en": "to listen",
+        "m_ar": "يستمع إلى"
+      }
+    ],
+    "grammar_en": "The gerund \"ascoltando\" expresses the means: \"by listening\".",
+    "grammar_ar": "يعبّر المصدر الحالي «ascoltando» عن الوسيلة: «بالاستماع».",
+    "alternatives": [
+      {
+        "text": "Dopo il lavoro mi rilasso con la musica.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6431,
+    "text": "Mi sono appassionato alla pittura durante il lockdown.",
+    "translation_ar": "أصبحتُ شغوفًا بالرسم أثناء الإغلاق.",
+    "level": "B2",
+    "situation": "leisure",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 115,
+    "videoId": null,
+    "transcriptContext": "Mi sono appassionato alla pittura durante il lockdown.",
+    "pronunciation": "مي سونو أپّاسّيوناتو آلّا پيتّورا دورانتيه إل لوكداون.",
+    "words": [
+      {
+        "w": "appassionarsi a",
+        "m_en": "to become passionate about",
+        "m_ar": "يصبح شغوفًا بـ"
+      },
+      {
+        "w": "pittura",
+        "m_en": "painting",
+        "m_ar": "رسم"
+      }
+    ],
+    "grammar_en": "\"Appassionarsi a\" is reflexive and takes \"essere\".",
+    "grammar_ar": "«appassionarsi a» فعل انعكاسي يأخذ «essere».",
+    "alternatives": [
+      {
+        "text": "Ho scoperto la passione per la pittura durante il lockdown.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6432,
+    "text": "Cerco un lavoro part-time.",
+    "translation_ar": "أبحث عن عمل بدوام جزئي.",
+    "level": "A1",
+    "situation": "career",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 132,
+    "videoId": null,
+    "transcriptContext": "Cerco un lavoro part-time.",
+    "pronunciation": "تشيركو أون لاڤورو پارت-تايم.",
+    "words": [
+      {
+        "w": "lavoro",
+        "m_en": "job",
+        "m_ar": "عمل"
+      },
+      {
+        "w": "part-time",
+        "m_en": "part-time",
+        "m_ar": "دوام جزئي"
+      }
+    ],
+    "grammar_en": "\"Part-time\" is a common English borrowing in Italian.",
+    "grammar_ar": "«part-time» كلمة إنجليزية مستعارة شائعة في الإيطالية.",
+    "alternatives": [
+      {
+        "text": "Sto cercando un impiego part-time.",
+        "note_en": "\"Impiego\" is a synonym of \"lavoro\"",
+        "note_ar": "«impiego» مرادف لـ«lavoro»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6433,
+    "text": "Ho fatto un colloquio di lavoro ieri.",
+    "translation_ar": "أجريتُ مقابلة عمل أمس.",
+    "level": "A2",
+    "situation": "career",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 149,
+    "videoId": null,
+    "transcriptContext": "Ho fatto un colloquio di lavoro ieri.",
+    "pronunciation": "أو فاتّو أون كوللّوكويو دي لاڤورو إيير.",
+    "words": [
+      {
+        "w": "colloquio di lavoro",
+        "m_en": "job interview",
+        "m_ar": "مقابلة عمل"
+      },
+      {
+        "w": "ieri",
+        "m_en": "yesterday",
+        "m_ar": "أمس"
+      }
+    ],
+    "grammar_en": "\"Fare un colloquio\" means \"to have an interview\".",
+    "grammar_ar": "«fare un colloquio» = «إجراء مقابلة».",
+    "alternatives": [
+      {
+        "text": "Ieri ho avuto un colloquio di lavoro.",
+        "note_en": "Same, different order",
+        "note_ar": "نفسها بترتيب مختلف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6434,
+    "text": "Ho ricevuto una proposta di lavoro interessante.",
+    "translation_ar": "تلقّيتُ عرض عمل مثيرًا للاهتمام.",
+    "level": "B1",
+    "situation": "career",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 166,
+    "videoId": null,
+    "transcriptContext": "Ho ricevuto una proposta di lavoro interessante.",
+    "pronunciation": "أو ريتشيڤوتو أونا پروپوستا دي لاڤورو إينتيريسّانتيه.",
+    "words": [
+      {
+        "w": "proposta",
+        "m_en": "offer, proposal",
+        "m_ar": "عرض"
+      },
+      {
+        "w": "interessante",
+        "m_en": "interesting",
+        "m_ar": "مثير للاهتمام"
+      }
+    ],
+    "grammar_en": "\"Ricevere una proposta\" means \"to receive an offer\".",
+    "grammar_ar": "«ricevere una proposta» = «تلقّي عرض».",
+    "alternatives": [
+      {
+        "text": "Mi hanno offerto un lavoro molto interessante.",
+        "note_en": "\"Offrire\" = to offer",
+        "note_ar": "«offrire» = يعرض"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6435,
+    "text": "Ho deciso di dare le dimissioni per motivi personali.",
+    "translation_ar": "قرّرتُ تقديم استقالتي لأسباب شخصيّة.",
+    "level": "B2",
+    "situation": "career",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 183,
+    "videoId": null,
+    "transcriptContext": "Ho deciso di dare le dimissioni per motivi personali.",
+    "pronunciation": "أو ديتشيزو دي داره له ديميسّيوني پير موتيڤي پيرسونالي.",
+    "words": [
+      {
+        "w": "dare le dimissioni",
+        "m_en": "to resign",
+        "m_ar": "يستقيل"
+      },
+      {
+        "w": "motivi personali",
+        "m_en": "personal reasons",
+        "m_ar": "أسباب شخصيّة"
+      }
+    ],
+    "grammar_en": "\"Dare le dimissioni\" is a formal way to say \"to resign\".",
+    "grammar_ar": "«dare le dimissioni» طريقة رسميّة لقول «يستقيل».",
+    "alternatives": [
+      {
+        "text": "Ho deciso di lasciare il mio lavoro.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 6436,
+    "text": "La mostra è aperta fino a domenica.",
+    "translation_ar": "المعرض مفتوح حتى الأحد.",
+    "level": "A1",
+    "situation": "events",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 200,
+    "videoId": null,
+    "transcriptContext": "La mostra è aperta fino a domenica.",
+    "pronunciation": "لا موسترا إيه آپيرتا فينو آ دومينيكا.",
+    "words": [
+      {
+        "w": "mostra",
+        "m_en": "exhibition",
+        "m_ar": "معرض"
+      },
+      {
+        "w": "aperto",
+        "m_en": "open",
+        "m_ar": "مفتوح"
+      }
+    ],
+    "grammar_en": "\"Fino a\" + day means \"until\".",
+    "grammar_ar": "«fino a» + يوم = «حتى».",
+    "alternatives": [
+      {
+        "text": "La mostra resta aperta fino a domenica.",
+        "note_en": "\"Restare aperta\" = to stay open",
+        "note_ar": "«restare aperta» = تبقى مفتوحة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6437,
+    "text": "Quanto costa il biglietto d'ingresso?",
+    "translation_ar": "كم سعر تذكرة الدخول؟",
+    "level": "A2",
+    "situation": "events",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 217,
+    "videoId": null,
+    "transcriptContext": "Quanto costa il biglietto d'ingresso?",
+    "pronunciation": "كوانتو كوستا إل بيليّيتّو دينغرسّو؟",
+    "words": [
+      {
+        "w": "biglietto d'ingresso",
+        "m_en": "entrance ticket",
+        "m_ar": "تذكرة الدخول"
+      },
+      {
+        "w": "costare",
+        "m_en": "to cost",
+        "m_ar": "يكلّف"
+      }
+    ],
+    "grammar_en": "\"Quanto costa\" + singular noun asks about price.",
+    "grammar_ar": "تسأل «quanto costa» + اسم مفرد عن السعر.",
+    "alternatives": [
+      {
+        "text": "Quant'è il prezzo del biglietto?",
+        "note_en": "What's the ticket price?",
+        "note_ar": "كم ثمن التذكرة؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6438,
+    "text": "L'evento si terrà all'aperto, tempo permettendo.",
+    "translation_ar": "سيُقام الحدث في الهواء الطلق إذا سمح الطقس.",
+    "level": "B1",
+    "situation": "events",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 234,
+    "videoId": null,
+    "transcriptContext": "L'evento si terrà all'aperto, tempo permettendo.",
+    "pronunciation": "لڤنتو سي تيرّا آلّآپيرتو، تيمپو پيرمتّينّدو.",
+    "words": [
+      {
+        "w": "all'aperto",
+        "m_en": "outdoors",
+        "m_ar": "في الهواء الطلق"
+      },
+      {
+        "w": "tempo permettendo",
+        "m_en": "weather permitting",
+        "m_ar": "إذا سمح الطقس"
+      }
+    ],
+    "grammar_en": "\"Tempo permettendo\" is a gerund phrase meaning \"weather allowing\".",
+    "grammar_ar": "«tempo permettendo» عبارة بالمصدر الحالي بمعنى «إذا سمح الطقس».",
+    "alternatives": [
+      {
+        "text": "Se il tempo lo permette, l'evento sarà all'aperto.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6439,
+    "text": "L'appartamento è al secondo piano.",
+    "translation_ar": "الشقّة في الطابق الثاني.",
+    "level": "A1",
+    "situation": "real-estate",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 11,
+    "videoId": null,
+    "transcriptContext": "L'appartamento è al secondo piano.",
+    "pronunciation": "لأپّارتامينتو إيه آل سيكوندو پيانو.",
+    "words": [
+      {
+        "w": "piano",
+        "m_en": "floor",
+        "m_ar": "طابق"
+      },
+      {
+        "w": "secondo",
+        "m_en": "second",
+        "m_ar": "الثاني"
+      }
+    ],
+    "grammar_en": "\"Al secondo piano\" means \"on the second floor\".",
+    "grammar_ar": "تعني «al secondo piano» «في الطابق الثاني».",
+    "alternatives": [
+      {
+        "text": "Abito al secondo piano.",
+        "note_en": "I live on the second floor",
+        "note_ar": "أسكن في الطابق الثاني"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6440,
+    "text": "Quanto è l'affitto mensile di questo appartamento?",
+    "translation_ar": "كم الإيجار الشهري لهذه الشقّة؟",
+    "level": "A2",
+    "situation": "real-estate",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 28,
+    "videoId": null,
+    "transcriptContext": "Quanto è l'affitto mensile di questo appartamento?",
+    "pronunciation": "كوانتو إيه لأفّيتّو مينسيله دي كويستو أپّارتامينتو؟",
+    "words": [
+      {
+        "w": "affitto mensile",
+        "m_en": "monthly rent",
+        "m_ar": "إيجار شهري"
+      },
+      {
+        "w": "appartamento",
+        "m_en": "flat",
+        "m_ar": "شقّة"
+      }
+    ],
+    "grammar_en": "\"Quanto è\" asks about an amount.",
+    "grammar_ar": "تسأل «quanto è» عن مقدار.",
+    "alternatives": [
+      {
+        "text": "Qual è il prezzo dell'affitto al mese?",
+        "note_en": "What's the rent price per month?",
+        "note_ar": "كم سعر الإيجار في الشهر؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6441,
+    "text": "Stiamo valutando se comprare o continuare ad affittare.",
+    "translation_ar": "نُقيّم إن كان من الأفضل الشراء أو الاستمرار في الإيجار.",
+    "level": "B1",
+    "situation": "real-estate",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 45,
+    "videoId": null,
+    "transcriptContext": "Stiamo valutando se comprare o continuare ad affittare.",
+    "pronunciation": "ستيامو ڤالوتاندو سيه كومپراره أو كونتينواره أد أفّيتّاره.",
+    "words": [
+      {
+        "w": "valutare",
+        "m_en": "to evaluate, to weigh up",
+        "m_ar": "يُقيّم"
+      },
+      {
+        "w": "continuare a",
+        "m_en": "to keep doing",
+        "m_ar": "يستمرّ في"
+      }
+    ],
+    "grammar_en": "\"Se\" here introduces an indirect question: \"whether to buy\".",
+    "grammar_ar": "تُدخل «se» هنا سؤالًا غير مباشر: «إن كان من الأفضل الشراء».",
+    "alternatives": [
+      {
+        "text": "Non abbiamo ancora deciso se comprare casa.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6442,
+    "text": "Questo non funziona, lo posso cambiare?",
+    "translation_ar": "هذا لا يعمل، هل يمكنني استبداله؟",
+    "level": "A1",
+    "situation": "returns",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 62,
+    "videoId": null,
+    "transcriptContext": "Questo non funziona, lo posso cambiare?",
+    "pronunciation": "كويستو نون فونتسيونا، لو پوسّو كامبياره؟",
+    "words": [
+      {
+        "w": "funzionare",
+        "m_en": "to work",
+        "m_ar": "يعمل"
+      },
+      {
+        "w": "cambiare",
+        "m_en": "to exchange",
+        "m_ar": "يستبدل"
+      }
+    ],
+    "grammar_en": "\"Lo posso cambiare\" puts the pronoun before the modal verb.",
+    "grammar_ar": "توضع «lo» قبل الفعل المساعد في «lo posso cambiare».",
+    "alternatives": [
+      {
+        "text": "Posso cambiarlo, per favore?",
+        "note_en": "Pronoun attached to the infinitive",
+        "note_ar": "الضمير ملتصق بالمصدر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6443,
+    "text": "Ho comprato questo per sbaglio, posso restituirlo?",
+    "translation_ar": "اشتريتُ هذا عن طريق الخطأ، هل يمكنني إرجاعه؟",
+    "level": "A2",
+    "situation": "returns",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 79,
+    "videoId": null,
+    "transcriptContext": "Ho comprato questo per sbaglio, posso restituirlo?",
+    "pronunciation": "أو كومپراتو كويستو پير سباليو، پوسّو رستيتويرلو؟",
+    "words": [
+      {
+        "w": "sbaglio",
+        "m_en": "mistake",
+        "m_ar": "خطأ"
+      },
+      {
+        "w": "restituire",
+        "m_en": "to give back",
+        "m_ar": "يُرجع"
+      }
+    ],
+    "grammar_en": "\"Per sbaglio\" means \"by mistake\".",
+    "grammar_ar": "تعني «per sbaglio» «عن طريق الخطأ».",
+    "alternatives": [
+      {
+        "text": "L'ho preso per errore, lo posso riportare?",
+        "note_en": "\"Riportare\" is a synonym of \"restituire\"",
+        "note_ar": "«riportare» مرادف لـ«restituire»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6444,
+    "text": "Il negozio accetta resi entro trenta giorni dall'acquisto.",
+    "translation_ar": "يقبل المتجر الإرجاع خلال ثلاثين يومًا من الشراء.",
+    "level": "B1",
+    "situation": "returns",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 96,
+    "videoId": null,
+    "transcriptContext": "Il negozio accetta resi entro trenta giorni dall'acquisto.",
+    "pronunciation": "إل نيغوتسيو أتشتّا ريزي إنترو تريينتا جورني دلّأكّويستو.",
+    "words": [
+      {
+        "w": "negozio",
+        "m_en": "shop",
+        "m_ar": "متجر"
+      },
+      {
+        "w": "entro",
+        "m_en": "within",
+        "m_ar": "خلال"
+      }
+    ],
+    "grammar_en": "\"Entro\" + time means \"within (a deadline)\".",
+    "grammar_ar": "«entro» + مدّة = «خلال (مهلة)».",
+    "alternatives": [
+      {
+        "text": "Puoi restituire l'articolo entro un mese.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6445,
+    "text": "Non ho un account su quel social.",
+    "translation_ar": "ليس لديّ حساب على تلك المنصّة.",
+    "level": "A1",
+    "situation": "social-media",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 113,
+    "videoId": null,
+    "transcriptContext": "Non ho un account su quel social.",
+    "pronunciation": "نون أو أون أككاونت سو كويل سوشال.",
+    "words": [
+      {
+        "w": "account",
+        "m_en": "account",
+        "m_ar": "حساب"
+      },
+      {
+        "w": "social",
+        "m_en": "social platform",
+        "m_ar": "منصّة تواصل"
+      }
+    ],
+    "grammar_en": "\"Social\" is a common informal short form for \"social network\".",
+    "grammar_ar": "«social» صيغة عاميّة مختصرة شائعة لـ«social network».",
+    "alternatives": [
+      {
+        "text": "Non uso quel social.",
+        "note_en": "I don't use that platform",
+        "note_ar": "لا أستخدم تلك المنصّة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 6446,
+    "text": "Ho ricevuto molti like sotto la mia ultima foto.",
+    "translation_ar": "حصلتُ على إعجابات كثيرة تحت صورتي الأخيرة.",
+    "level": "A2",
+    "situation": "social-media",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 130,
+    "videoId": null,
+    "transcriptContext": "Ho ricevuto molti like sotto la mia ultima foto.",
+    "pronunciation": "أو ريتشيڤوتو مولتي لايك سوتّو لا ميا أولتيما فوتو.",
+    "words": [
+      {
+        "w": "like",
+        "m_en": "like (social media)",
+        "m_ar": "إعجاب"
+      },
+      {
+        "w": "ultimo",
+        "m_en": "last, latest",
+        "m_ar": "الأخير"
+      }
+    ],
+    "grammar_en": "\"Like\" is used as an invariable masculine noun in Italian.",
+    "grammar_ar": "تُستعمل «like» اسمًا مذكّرًا لا يتغيّر في الإيطالية.",
+    "alternatives": [
+      {
+        "text": "La mia ultima foto ha avuto tanti like.",
+        "note_en": "Different order",
+        "note_ar": "ترتيب مختلف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6447,
+    "text": "Ho disattivato le notifiche per concentrarmi meglio.",
+    "translation_ar": "عطّلتُ الإشعارات لأركّز بشكل أفضل.",
+    "level": "B1",
+    "situation": "social-media",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 147,
+    "videoId": null,
+    "transcriptContext": "Ho disattivato le notifiche per concentrarmi meglio.",
+    "pronunciation": "أو ديزاتّيڤاتو له نوتيفيكيه پير كونتشنترارمي ميلّيو.",
+    "words": [
+      {
+        "w": "notifica",
+        "m_en": "notification",
+        "m_ar": "إشعار"
+      },
+      {
+        "w": "concentrarsi",
+        "m_en": "to concentrate",
+        "m_ar": "يركّز"
+      }
+    ],
+    "grammar_en": "\"Disattivare\" means \"to turn off / deactivate\".",
+    "grammar_ar": "يعني «disattivare» «يعطّل / يُلغي تفعيل».",
+    "alternatives": [
+      {
+        "text": "Ho spento le notifiche per stare più concentrato.",
+        "note_en": "\"Spegnere\" is a synonym here",
+        "note_ar": "«spegnere» مرادف هنا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 6448,
+    "text": "Vorrei restituire questo maglione, è della taglia sbagliata.",
+    "translation_ar": "أودّ إرجاع هذا الكنزة، فهو بالمقاس الخطأ.",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 164,
+    "videoId": null,
+    "transcriptContext": "Vorrei restituire questo maglione, è della taglia sbagliata.",
+    "pronunciation": "ڤورّاي رستيتويره كويستو مالّيونيه، إيه دلّا تالّيا سباليياتا.",
+    "words": [
+      {
+        "w": "maglione",
+        "m_en": "sweater",
+        "m_ar": "كنزة"
+      },
+      {
+        "w": "taglia sbagliata",
+        "m_en": "wrong size",
+        "m_ar": "المقاس الخطأ"
+      }
+    ],
+    "grammar_en": "\"Della taglia sbagliata\" means \"of the wrong size\".",
+    "grammar_ar": "تعني «della taglia sbagliata» «بالمقاس الخطأ».",
+    "alternatives": [
+      {
+        "text": "Questo maglione non è la mia taglia.",
+        "note_en": "This sweater isn't my size",
+        "note_ar": "هذه الكنزة ليست مقاسي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6449,
+    "text": "Sto aspettando i saldi per comprare un cappotto nuovo.",
+    "translation_ar": "أنتظر التنزيلات لشراء معطف جديد.",
+    "level": "B1",
+    "situation": "shopping",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 181,
+    "videoId": null,
+    "transcriptContext": "Sto aspettando i saldi per comprare un cappotto nuovo.",
+    "pronunciation": "ستو أسپتّاندو إي سالدي پير كومپراره أون كاپّوتّو نووڤو.",
+    "words": [
+      {
+        "w": "saldi",
+        "m_en": "sales",
+        "m_ar": "تنزيلات"
+      },
+      {
+        "w": "cappotto",
+        "m_en": "coat",
+        "m_ar": "معطف"
+      }
+    ],
+    "grammar_en": "\"Aspettare\" + noun means \"to wait for\".",
+    "grammar_ar": "«aspettare» + اسم = «ينتظر».",
+    "alternatives": [
+      {
+        "text": "Aspetto i saldi per un cappotto nuovo.",
+        "note_en": "Shorter",
+        "note_ar": "أقصر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 6450,
+    "text": "Devo prendere un appuntamento con l'oculista.",
+    "translation_ar": "عليّ حجز موعد مع طبيب العيون.",
+    "level": "A2",
+    "situation": "health",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 198,
+    "videoId": null,
+    "transcriptContext": "Devo prendere un appuntamento con l'oculista.",
+    "pronunciation": "ديڤو پرنديره أون أپّونتامينتو كون لأوكوليستا.",
+    "words": [
+      {
+        "w": "oculista",
+        "m_en": "eye doctor, optometrist",
+        "m_ar": "طبيب عيون"
+      },
+      {
+        "w": "appuntamento",
+        "m_en": "appointment",
+        "m_ar": "موعد"
+      }
+    ],
+    "grammar_en": "\"Prendere un appuntamento con\" means \"to book an appointment with\".",
+    "grammar_ar": "«prendere un appuntamento con» = حجز موعد مع.",
+    "alternatives": [
+      {
+        "text": "Devo fissare una visita dall'oculista.",
+        "note_en": "\"Fissare una visita\" is a synonym",
+        "note_ar": "«fissare una visita» مرادف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 6451,
+    "text": "Sono allergico ai pollini, soprattutto in primavera.",
+    "translation_ar": "لديّ حساسيّة من حبوب اللقاح، خاصّةً في الربيع.",
+    "level": "B1",
+    "situation": "health",
+    "variety": "IT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (IT)",
+    "timestamp": 215,
+    "videoId": null,
+    "transcriptContext": "Sono allergico ai pollini, soprattutto in primavera.",
+    "pronunciation": "سونو آلّيرجيكو آي پولّيني، سوپراتّوتّو إن پريماڤيرا.",
+    "words": [
+      {
+        "w": "allergico a",
+        "m_en": "allergic to",
+        "m_ar": "حسّاس تجاه / لديه حساسيّة من"
+      },
+      {
+        "w": "polline",
+        "m_en": "pollen",
+        "m_ar": "حبوب اللقاح"
+      }
+    ],
+    "grammar_en": "\"Allergico a\" takes the preposition \"a\".",
+    "grammar_ar": "يأخذ «allergico a» حرف الجرّ «a».",
+    "alternatives": [
+      {
+        "text": "In primavera soffro di allergie ai pollini.",
+        "note_en": "\"Soffrire di\" = to suffer from",
+        "note_ar": "«soffrire di» = يعاني من"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
   }
 ]
