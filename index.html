@@ -1718,9 +1718,12 @@ function initYouglishWidget(){
   });
 }
 function fetchYouglish(query){
-  document.getElementById('youglishNote').textContent = '';
+  const noteEl = document.getElementById('youglishNote');
+  const YG_LANG = { de:'german', fr:'french', ru:'russian', it:'italian', es:'spanish', ur:'hindi' };
+  noteEl.textContent = (State.learnLang==='ur')
+    ? (State.lang==='ar' ? 'اللغة الأردية غير متوفّرة على منصّة النطق، فتُعرض فيديوهات باللغة الهندية (النطق قريب جدًّا من الأردية للكلمات المشتركة).' : "Urdu isn't available on the pronunciation service, so Hindi videos are shown instead (pronunciation is very close for shared vocabulary).")
+    : '';
   if(!ygWidget){ initYouglishWidget(); return; } // will auto-fetch once ready
-  const YG_LANG = { de:'german', fr:'french', ru:'russian', it:'italian', es:'spanish' };
   const ygLang = YG_LANG[State.learnLang] || 'english';
   const accent = State.learnLang==='en' ? VARIETY_TO_ACCENT[State.variety] : null;
   if(accent) ygWidget.fetch(query, ygLang, accent);
@@ -1728,7 +1731,12 @@ function fetchYouglish(query){
 }
 function onYouglishFetchDone(event){
   const note = document.getElementById('youglishNote');
-  if(note) note.textContent = (event && event.totalResult === 0) ? t('youglishNoResults') : '';
+  if(!note) return;
+  const urNote = State.learnLang==='ur'
+    ? (State.lang==='ar' ? 'اللغة الأردية غير متوفّرة على منصّة النطق، فتُعرض فيديوهات باللغة الهندية (النطق قريب جدًّا من الأردية للكلمات المشتركة).' : "Urdu isn't available on the pronunciation service, so Hindi videos are shown instead (pronunciation is very close for shared vocabulary).")
+    : '';
+  const noResults = (event && event.totalResult === 0) ? t('youglishNoResults') : '';
+  note.textContent = [urNote, noResults].filter(Boolean).join(' ');
 }
 
 /* ---------------------------------------------------------------------- */
