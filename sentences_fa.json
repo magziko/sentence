@@ -1,0 +1,3176 @@
+[
+  {
+    "id": 10001,
+    "text": "صبح بخیر!",
+    "translation_ar": "صباح الخير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 5,
+    "videoId": null,
+    "transcriptContext": "صبح بخیر!",
+    "pronunciation": "صُبح بخیر!",
+    "words": [
+      {
+        "w": "صبح",
+        "m_en": "morning",
+        "m_ar": "صباح"
+      },
+      {
+        "w": "بخیر",
+        "m_en": "well, good",
+        "m_ar": "بخير"
+      }
+    ],
+    "grammar_en": "\"بخیر\" attaches after the time of day to form a greeting, exactly like Arabic \"بخير\".",
+    "grammar_ar": "تُضاف «بخیر» بعد وقت اليوم لتكوين تحيّة، تمامًا كما في العربية.",
+    "alternatives": [
+      {
+        "text": "سلام، صبح بخیر!",
+        "note_en": "\"Hello, good morning!\" (سلام adds a friendly greeting)",
+        "note_ar": "«مرحبًا، صباح الخير!» (تضيف «سلام» تحيّة ودّيّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10002,
+    "text": "ظهر بخیر!",
+    "translation_ar": "ظهيرة سعيدة!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 22,
+    "videoId": null,
+    "transcriptContext": "ظهر بخیر!",
+    "pronunciation": "ظُهر بخیر!",
+    "words": [
+      {
+        "w": "ظهر",
+        "m_en": "noon",
+        "m_ar": "ظهيرة"
+      }
+    ],
+    "grammar_en": "\"ظهر بخیر\" is used around midday, distinct from morning and evening greetings.",
+    "grammar_ar": "تُستعمل «ظهر بخیر» في منتصف النهار، بخلاف تحيّتَي الصباح والمساء.",
+    "alternatives": [
+      {
+        "text": "عصر بخیر!",
+        "note_en": "\"Good afternoon!\" (used a bit later, in the afternoon)",
+        "note_ar": "«مساء الخير!» (بعد الظهر) (تُستعمل لاحقًا قليلًا)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10003,
+    "text": "شب بخیر!",
+    "translation_ar": "تصبح على خير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 39,
+    "videoId": null,
+    "transcriptContext": "شب بخیر!",
+    "pronunciation": "شب بخیر!",
+    "words": [
+      {
+        "w": "شب",
+        "m_en": "night",
+        "m_ar": "ليل"
+      }
+    ],
+    "grammar_en": "\"شب بخیر\" is said only when parting for the night, like Arabic \"تصبح على خير\".",
+    "grammar_ar": "تُقال «شب بخیر» فقط عند الافتراق ليلًا، مثل «تصبح على خير» بالعربية.",
+    "alternatives": [
+      {
+        "text": "خواب‌های خوب ببینی!",
+        "note_en": "\"Sweet dreams!\" (a warmer, more casual alternative)",
+        "note_ar": "«أحلامًا سعيدة!» (بديل أكثر دفئًا وعفويّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10004,
+    "text": "متشکرم!",
+    "translation_ar": "شكرًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 56,
+    "videoId": null,
+    "transcriptContext": "متشکرم!",
+    "pronunciation": "متشکّرم!",
+    "words": [
+      {
+        "w": "متشکرم",
+        "m_en": "thank you",
+        "m_ar": "شكرًا"
+      }
+    ],
+    "grammar_en": "\"متشکرم\" is a complete, polite way to say \"thank you\" on its own.",
+    "grammar_ar": "«متشکرم» عبارة مهذّبة كاملة بمعنى «شكرًا» وتُستعمل وحدها.",
+    "alternatives": [
+      {
+        "text": "ممنون!",
+        "note_en": "\"Thanks!\" (shorter, very common in daily speech)",
+        "note_ar": "«شكرًا!» (أقصر، شائعة جدًّا في الحديث اليومي)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10005,
+    "text": "خواهش می‌کنم!",
+    "translation_ar": "من فضلك! / عفوًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 73,
+    "videoId": null,
+    "transcriptContext": "خواهش می‌کنم!",
+    "pronunciation": "خواهش می‌کُنَم!",
+    "words": [
+      {
+        "w": "خواهش",
+        "m_en": "request, wish",
+        "m_ar": "طلب / رجاء"
+      }
+    ],
+    "grammar_en": "\"خواهش می‌کنم\" means both \"please\" and \"you're welcome\" depending on context.",
+    "grammar_ar": "تعني «خواهش می‌کنم» «من فضلك» و«عفوًا» بحسب السياق.",
+    "alternatives": [
+      {
+        "text": "لطفاً!",
+        "note_en": "\"Please!\" (a shorter alternative before a request)",
+        "note_ar": "«من فضلك!» (بديل أقصر قبل الطلب)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10006,
+    "text": "بله، لطفاً.",
+    "translation_ar": "نعم، من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 90,
+    "videoId": null,
+    "transcriptContext": "بله، لطفاً.",
+    "pronunciation": "بَله، لُطفاً۔",
+    "words": [
+      {
+        "w": "بله",
+        "m_en": "yes",
+        "m_ar": "نعم"
+      },
+      {
+        "w": "لطفاً",
+        "m_en": "please",
+        "m_ar": "من فضلك"
+      }
+    ],
+    "grammar_en": "\"بله\" is the standard word for \"yes\" in Persian.",
+    "grammar_ar": "«بله» الكلمة المعتادة لـ«نعم» بالفارسية.",
+    "alternatives": [
+      {
+        "text": "آره، ممنون.",
+        "note_en": "\"Yeah, thanks\" (casual version of \"بله\")",
+        "note_ar": "«آيوه، شكرًا» (صيغة عاميّة من «بله»)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10007,
+    "text": "نه، متشکرم.",
+    "translation_ar": "لا، شكرًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 107,
+    "videoId": null,
+    "transcriptContext": "نه، متشکرم.",
+    "pronunciation": "نَه، متشکّرم۔",
+    "words": [
+      {
+        "w": "نه",
+        "m_en": "no",
+        "m_ar": "لا"
+      }
+    ],
+    "grammar_en": "\"نه\" is placed before \"متشکرم\" to politely decline.",
+    "grammar_ar": "توضع «نه» قبل «متشکرم» للرفض بأدب.",
+    "alternatives": [
+      {
+        "text": "نه، ممنون.",
+        "note_en": "Same meaning, casual \"thanks\"",
+        "note_ar": "المعنى نفسه، مع «ممنون» العاميّة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10008,
+    "text": "ببخشید!",
+    "translation_ar": "المعذرة!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 124,
+    "videoId": null,
+    "transcriptContext": "ببخشید!",
+    "pronunciation": "بِبَخشید!",
+    "words": [
+      {
+        "w": "بخشیدن",
+        "m_en": "to excuse, to forgive",
+        "m_ar": "يعذر / يسامح"
+      }
+    ],
+    "grammar_en": "\"ببخشید\" is used both to apologise and to politely get someone's attention.",
+    "grammar_ar": "تُستعمل «ببخشید» للاعتذار ولجذب انتباه أحد بأدب معًا.",
+    "alternatives": [
+      {
+        "text": "معذرت می‌خوام.",
+        "note_en": "\"I'm sorry\" (very informal, spoken form)",
+        "note_ar": "«آسف» (عاميّة جدًّا في الحديث المنطوق)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10009,
+    "text": "خداحافظ!",
+    "translation_ar": "مع السلامة!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 141,
+    "videoId": null,
+    "transcriptContext": "خداحافظ!",
+    "pronunciation": "خداحافظ!",
+    "words": [
+      {
+        "w": "خدا",
+        "m_en": "God",
+        "m_ar": "الله"
+      },
+      {
+        "w": "حافظ",
+        "m_en": "protector, keeper",
+        "m_ar": "حافظ"
+      }
+    ],
+    "grammar_en": "\"خداحافظ\" literally means \"may God protect you\", used when parting, just like Arabic.",
+    "grammar_ar": "تعني «خداحافظ» حرفيًّا «حفظك الله»، وتُقال عند الوداع، تمامًا مثل العربية.",
+    "alternatives": [
+      {
+        "text": "فعلاً خداحافظ!",
+        "note_en": "\"Bye for now!\" (adds a casual, temporary tone)",
+        "note_ar": "«إلى اللقاء الآن!» (تضيف نبرة عفويّة ومؤقّتة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10010,
+    "text": "فردا می‌بینمت!",
+    "translation_ar": "أراك غدًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 158,
+    "videoId": null,
+    "transcriptContext": "فردا می‌بینمت!",
+    "pronunciation": "فَردا می‌بینَمِت!",
+    "words": [
+      {
+        "w": "فردا",
+        "m_en": "tomorrow",
+        "m_ar": "غدًا"
+      },
+      {
+        "w": "دیدن",
+        "m_en": "to see",
+        "m_ar": "يرى"
+      }
+    ],
+    "grammar_en": "\"می‌بینمت\" combines \"I see\" with the object pronoun \"you\" (informal).",
+    "grammar_ar": "تجمع «می‌بینمت» «أرى» مع ضمير المفعول «أنت» (غير رسمي).",
+    "alternatives": [
+      {
+        "text": "تا فردا!",
+        "note_en": "\"Until tomorrow!\" (shorter)",
+        "note_ar": "«إلى الغد!» (أقصر)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10011,
+    "text": "حالت چطوره؟",
+    "translation_ar": "كيف حالك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 175,
+    "videoId": null,
+    "transcriptContext": "حالت چطوره؟",
+    "pronunciation": "حالِت چِطوره؟",
+    "words": [
+      {
+        "w": "حال",
+        "m_en": "state, condition",
+        "m_ar": "حال"
+      },
+      {
+        "w": "چطور",
+        "m_en": "how",
+        "m_ar": "كيف"
+      }
+    ],
+    "grammar_en": "\"چطوره\" literally asks \"how is (your state)\".",
+    "grammar_ar": "تسأل «چطوره» حرفيًّا «كيف هو (حالك)».",
+    "alternatives": [
+      {
+        "text": "چه خبر؟",
+        "note_en": "\"What's new?\" (a casual alternative greeting)",
+        "note_ar": "«ما الأخبار؟» (تحيّة بديلة عاميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10012,
+    "text": "خوبم، متشکرم.",
+    "translation_ar": "أنا بخير، شكرًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 192,
+    "videoId": null,
+    "transcriptContext": "خوبم، متشکرم.",
+    "pronunciation": "خوبَم، متشکّرم۔",
+    "words": [
+      {
+        "w": "خوب",
+        "m_en": "good, fine",
+        "m_ar": "جيّد / بخير"
+      }
+    ],
+    "grammar_en": "The verb \"am\" is a suffix attached to the adjective: \"خوب\" + \"م\" = \"خوبم\".",
+    "grammar_ar": "الفعل «أكون» لاحقة تُضاف إلى الصفة: «خوب» + «م» = «خوبم».",
+    "alternatives": [
+      {
+        "text": "بد نیستم.",
+        "note_en": "\"I'm not bad\" (a common, modest alternative)",
+        "note_ar": "«لستُ سيّئًا» (بديل متواضع شائع)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10013,
+    "text": "اسم شما چیه؟",
+    "translation_ar": "ما اسمك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 209,
+    "videoId": null,
+    "transcriptContext": "اسم شما چیه؟",
+    "pronunciation": "اسمِ شما چیه؟",
+    "words": [
+      {
+        "w": "اسم",
+        "m_en": "name",
+        "m_ar": "اسم"
+      },
+      {
+        "w": "شما",
+        "m_en": "you (formal/plural)",
+        "m_ar": "أنت (رسمي/جمع)"
+      }
+    ],
+    "grammar_en": "\"شما\" is the respectful form of \"you\", used with elders and strangers.",
+    "grammar_ar": "«شما» صيغة الاحترام لضمير «أنت»، تُستعمل مع الكبار والغرباء.",
+    "alternatives": [
+      {
+        "text": "اسمت چیه؟",
+        "note_en": "Informal version, used with friends",
+        "note_ar": "صيغة غير رسميّة، تُستعمل مع الأصدقاء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10014,
+    "text": "از آشنایی‌تون خوشحالم!",
+    "translation_ar": "سعدتُ بلقائك!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 226,
+    "videoId": null,
+    "transcriptContext": "از آشنایی‌تون خوشحالم!",
+    "pronunciation": "اَز آشنایی‌تون خوشحالَم!",
+    "words": [
+      {
+        "w": "آشنایی",
+        "m_en": "acquaintance, meeting",
+        "m_ar": "معرفة / تعارف"
+      },
+      {
+        "w": "خوشحال",
+        "m_en": "happy",
+        "m_ar": "سعيد"
+      }
+    ],
+    "grammar_en": "\"از... خوشحالم\" means \"I'm happy about...\".",
+    "grammar_ar": "تعني «از... خوشحالم» «أنا سعيد بـ...».",
+    "alternatives": [
+      {
+        "text": "خوشوقتم!",
+        "note_en": "\"Pleased (to meet you)!\" (a shorter, common alternative)",
+        "note_ar": "«سُررتُ!» (بديل أقصر وشائع)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10015,
+    "text": "اهل کجایی؟",
+    "translation_ar": "من أين أنت؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 3,
+    "videoId": null,
+    "transcriptContext": "اهل کجایی؟",
+    "pronunciation": "اَهلِ کُجایی؟",
+    "words": [
+      {
+        "w": "اهل",
+        "m_en": "native of, from",
+        "m_ar": "من أهل"
+      },
+      {
+        "w": "کجا",
+        "m_en": "where",
+        "m_ar": "أين"
+      }
+    ],
+    "grammar_en": "\"اهل کجا\" literally means \"native of where\".",
+    "grammar_ar": "تعني «اهل کجا» حرفيًّا «من أهل أين».",
+    "alternatives": [
+      {
+        "text": "از کجا میای؟",
+        "note_en": "\"Where do you come from?\" (equally common)",
+        "note_ar": "«من أين تأتي؟» (شائعة بالقدر نفسه)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10016,
+    "text": "خوش اومدی!",
+    "translation_ar": "أهلًا وسهلًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 20,
+    "videoId": null,
+    "transcriptContext": "خوش اومدی!",
+    "pronunciation": "خوش اومَدی!",
+    "words": [
+      {
+        "w": "خوش",
+        "m_en": "pleasant, welcome",
+        "m_ar": "سارّ / ترحيب"
+      },
+      {
+        "w": "آمدن",
+        "m_en": "to come",
+        "m_ar": "يأتي"
+      }
+    ],
+    "grammar_en": "\"خوش اومدی\" literally means \"you came pleasantly\", the standard word for \"welcome\".",
+    "grammar_ar": "تعني «خوش اومدی» حرفيًّا «جئتَ بخير»، وهي الكلمة المعتادة لـ«أهلًا وسهلًا».",
+    "alternatives": [
+      {
+        "text": "خیلی خوش اومدی!",
+        "note_en": "\"You're very welcome!\" (warmer version)",
+        "note_ar": "«أهلًا وسهلًا جدًّا بك!» (صيغة أكثر دفئًا)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10017,
+    "text": "بفرمایید بشینید.",
+    "translation_ar": "تفضّل بالجلوس.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 37,
+    "videoId": null,
+    "transcriptContext": "بفرمایید بشینید.",
+    "pronunciation": "بِفَرمایید بِشینید۔",
+    "words": [
+      {
+        "w": "بفرمایید",
+        "m_en": "please (do)",
+        "m_ar": "تفضّل"
+      },
+      {
+        "w": "نشستن",
+        "m_en": "to sit",
+        "m_ar": "يجلس"
+      }
+    ],
+    "grammar_en": "\"بفرمایید\" is a very polite word used before inviting someone to do something.",
+    "grammar_ar": "«بفرمایید» كلمة مهذّبة جدًّا تُستعمل قبل دعوة أحد لفعل شيء.",
+    "alternatives": [
+      {
+        "text": "بشین، راحت باش.",
+        "note_en": "\"Sit down, make yourself comfortable\" (casual)",
+        "note_ar": "«اجلس، كن مرتاحًا» (عاميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10018,
+    "text": "امروز دوشنبه است.",
+    "translation_ar": "اليوم هو الاثنين.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 54,
+    "videoId": null,
+    "transcriptContext": "امروز دوشنبه است.",
+    "pronunciation": "اِمروز دوشَنبه اَست۔",
+    "words": [
+      {
+        "w": "دوشنبه",
+        "m_en": "Monday",
+        "m_ar": "الاثنين"
+      },
+      {
+        "w": "امروز",
+        "m_en": "today",
+        "m_ar": "اليوم"
+      }
+    ],
+    "grammar_en": "Days of the week come right before \"است\" (is) in a simple statement.",
+    "grammar_ar": "تأتي أسماء الأيّام مباشرة قبل «است» (يكون) في الجملة البسيطة.",
+    "alternatives": [
+      {
+        "text": "فردا سه‌شنبه است.",
+        "note_en": "Tomorrow is Tuesday",
+        "note_ar": "غدًا الثلاثاء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10019,
+    "text": "شکمم درد می‌کند.",
+    "translation_ar": "أشعر بألم في بطني.",
+    "level": "A1",
+    "situation": "health",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 71,
+    "videoId": null,
+    "transcriptContext": "شکمم درد می‌کند.",
+    "pronunciation": "شِکَمَم دَرد می‌کُنَد۔",
+    "words": [
+      {
+        "w": "شکم",
+        "m_en": "stomach",
+        "m_ar": "بطن"
+      },
+      {
+        "w": "درد کردن",
+        "m_en": "to hurt",
+        "m_ar": "يؤلم"
+      }
+    ],
+    "grammar_en": "With \"درد کردن\", the body part is the subject: \"shikam-am hurts\".",
+    "grammar_ar": "مع «درد کردن» يكون العضو هو الفاعل: «شکمم» يؤلم.",
+    "alternatives": [
+      {
+        "text": "معده‌ام بهم ریخته.",
+        "note_en": "\"My stomach is upset\" (idiomatic)",
+        "note_ar": "«معدتي مضطربة» (تعبير اصطلاحي)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10020,
+    "text": "صدای شما نمیاد.",
+    "translation_ar": "لا يصلني صوتك.",
+    "level": "A1",
+    "situation": "meetings",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 88,
+    "videoId": null,
+    "transcriptContext": "صدای شما نمیاد.",
+    "pronunciation": "صِدایِ شُما نِمیاد۔",
+    "words": [
+      {
+        "w": "نمیاد",
+        "m_en": "doesn't come (informal)",
+        "m_ar": "لا يصل (عاميّة)"
+      }
+    ],
+    "grammar_en": "\"نمیاد\" is the spoken contraction of \"نمی‌آید\" (doesn't come).",
+    "grammar_ar": "«نمیاد» اختصار محكي لـ«نمی‌آید» (لا يأتي).",
+    "alternatives": [
+      {
+        "text": "صدای شما قطع و وصل می‌شه.",
+        "note_en": "\"Your voice is cutting in and out\"",
+        "note_ar": "صوتك ينقطع ويعود"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10021,
+    "text": "الو، کی هستید؟",
+    "translation_ar": "ألو، من المتحدّث؟",
+    "level": "A1",
+    "situation": "phone-calls",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 105,
+    "videoId": null,
+    "transcriptContext": "الو، کی هستید؟",
+    "pronunciation": "اَلو، کی هَستید؟",
+    "words": [
+      {
+        "w": "الو",
+        "m_en": "hello (on the phone)",
+        "m_ar": "ألو"
+      },
+      {
+        "w": "کی",
+        "m_en": "who",
+        "m_ar": "من"
+      }
+    ],
+    "grammar_en": "\"الو\" is only used when answering the phone.",
+    "grammar_ar": "تُستعمل «الو» فقط عند الردّ على الهاتف.",
+    "alternatives": [
+      {
+        "text": "با کی صحبت می‌کنم؟",
+        "note_en": "\"Who am I speaking with?\" (more formal)",
+        "note_ar": "«مع من أتحدّث؟» (أكثر رسميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10022,
+    "text": "بانک کجاست؟",
+    "translation_ar": "أين البنك؟",
+    "level": "A1",
+    "situation": "directions",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 122,
+    "videoId": null,
+    "transcriptContext": "بانک کجاست؟",
+    "pronunciation": "بانک کُجاست؟",
+    "words": [
+      {
+        "w": "بانک",
+        "m_en": "bank",
+        "m_ar": "بنك"
+      },
+      {
+        "w": "کجا",
+        "m_en": "where",
+        "m_ar": "أين"
+      }
+    ],
+    "grammar_en": "\"کجاست\" combines \"کجا\" (where) with \"است\" (is).",
+    "grammar_ar": "تجمع «کجاست» بين «کجا» (أين) و«است» (يكون).",
+    "alternatives": [
+      {
+        "text": "بانک کدوم طرفه؟",
+        "note_en": "\"Which direction is the bank?\" (casual)",
+        "note_ar": "«في أيّ اتّجاه البنك؟» (عاميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10023,
+    "text": "تولدت مبارک!",
+    "translation_ar": "عيد ميلاد سعيد!",
+    "level": "A1",
+    "situation": "celebrations",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 139,
+    "videoId": null,
+    "transcriptContext": "تولدت مبارک!",
+    "pronunciation": "تَوَلُّدِت مُبارَک!",
+    "words": [
+      {
+        "w": "تولد",
+        "m_en": "birthday",
+        "m_ar": "عيد ميلاد"
+      },
+      {
+        "w": "مبارک",
+        "m_en": "blessed, congratulations",
+        "m_ar": "مبارك"
+      }
+    ],
+    "grammar_en": "\"مبارک\" is the standard congratulatory word for occasions, shared with Arabic.",
+    "grammar_ar": "«مبارک» الكلمة المعتادة للتهنئة بالمناسبات، مشتركة مع العربية.",
+    "alternatives": [
+      {
+        "text": "سال نوت مبارک!",
+        "note_en": "\"Happy new year (of your life)!\" (used on birthdays too)",
+        "note_ar": "«عامًا جديدًا سعيدًا (من عمرك)!» (تُستعمل أيضًا للأعياد الميلاديّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 10024,
+    "text": "اسم من سارا است.",
+    "translation_ar": "اسمي سارة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 156,
+    "videoId": null,
+    "transcriptContext": "اسم من سارا است.",
+    "pronunciation": "اسمِ مَن سارا اَست۔",
+    "words": [
+      {
+        "w": "من",
+        "m_en": "I, my",
+        "m_ar": "أنا / لي"
+      },
+      {
+        "w": "است",
+        "m_en": "is",
+        "m_ar": "يكون"
+      }
+    ],
+    "grammar_en": "\"است\" is the formal written form of \"is\"; spoken Persian usually says \"هست\" or drops it.",
+    "grammar_ar": "«است» الصيغة الرسميّة المكتوبة لـ«يكون»؛ وتقول الفارسية المحكيّة عادةً «هست» أو تحذفها.",
+    "alternatives": [
+      {
+        "text": "من سارا هستم.",
+        "note_en": "\"I am Sara\" (the common spoken form)",
+        "note_ar": "«أنا سارة» (الصيغة المحكيّة الشائعة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10025,
+    "text": "من اهل مصر هستم.",
+    "translation_ar": "أنا من مصر.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 173,
+    "videoId": null,
+    "transcriptContext": "من اهل مصر هستم.",
+    "pronunciation": "مَن اَهلِ مِصر هَستَم۔",
+    "words": [
+      {
+        "w": "مصر",
+        "m_en": "Egypt",
+        "m_ar": "مصر"
+      }
+    ],
+    "grammar_en": "\"اهل\" + place + \"هستم\" means \"I am from...\".",
+    "grammar_ar": "«اهل» + مكان + «هستم» = «أنا من...».",
+    "alternatives": [
+      {
+        "text": "من مصری هستم.",
+        "note_en": "\"I'm Egyptian\" (states the nationality directly)",
+        "note_ar": "«أنا مصري» (تذكر الجنسيّة مباشرة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10026,
+    "text": "من ساعت هفت بیدار می‌شوم.",
+    "translation_ar": "أستيقظ في السابعة.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 190,
+    "videoId": null,
+    "transcriptContext": "من ساعت هفت بیدار می‌شوم.",
+    "pronunciation": "مَن ساعَتِ هَفت بیدار می‌شَوَم۔",
+    "words": [
+      {
+        "w": "بیدار شدن",
+        "m_en": "to wake up",
+        "m_ar": "يستيقظ"
+      },
+      {
+        "w": "هفت",
+        "m_en": "seven",
+        "m_ar": "سبعة"
+      }
+    ],
+    "grammar_en": "Persian verbs come at the end of the sentence, just like the whole predicate.",
+    "grammar_ar": "يأتي الفعل الفارسي في نهاية الجملة دائمًا، مع بقيّة الخبر.",
+    "alternatives": [
+      {
+        "text": "ساعت هفت از خواب بیدار می‌شوم.",
+        "note_en": "\"I wake up from sleep at seven\" (more explicit)",
+        "note_ar": "«أستيقظ من النوم في السابعة» (أكثر تفصيلًا)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10027,
+    "text": "این یک است، این دو است.",
+    "translation_ar": "هذا واحد، هذا اثنان.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 207,
+    "videoId": null,
+    "transcriptContext": "این یک است، این دو است.",
+    "pronunciation": "این یِک اَست، این دو اَست۔",
+    "words": [
+      {
+        "w": "یک",
+        "m_en": "one",
+        "m_ar": "واحد"
+      },
+      {
+        "w": "دو",
+        "m_en": "two",
+        "m_ar": "اثنان"
+      }
+    ],
+    "grammar_en": "\"این\" (this) comes first, followed by the number and \"است\" (is).",
+    "grammar_ar": "تأتي «این» (هذا) أوّلًا، ثم العدد، ثم «است» (يكون).",
+    "alternatives": [
+      {
+        "text": "سه، چهار، پنج.",
+        "note_en": "Three, four, five",
+        "note_ar": "ثلاثة، أربعة، خمسة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10028,
+    "text": "این رنگ قرمز است.",
+    "translation_ar": "هذا اللون أحمر.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 224,
+    "videoId": null,
+    "transcriptContext": "این رنگ قرمز است.",
+    "pronunciation": "این رَنگ قِرمِز اَست۔",
+    "words": [
+      {
+        "w": "قرمز",
+        "m_en": "red",
+        "m_ar": "أحمر"
+      },
+      {
+        "w": "رنگ",
+        "m_en": "colour",
+        "m_ar": "لون"
+      }
+    ],
+    "grammar_en": "Persian adjectives don't change for gender, unlike Arabic.",
+    "grammar_ar": "لا تتغيّر الصفة الفارسيّة بحسب الجنس، بخلاف العربية.",
+    "alternatives": [
+      {
+        "text": "رنگ مورد علاقه‌ام قرمز است.",
+        "note_en": "My favourite colour is red",
+        "note_ar": "لوني المفضّل هو الأحمر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10029,
+    "text": "من دو برادر دارم.",
+    "translation_ar": "لديّ أخوان.",
+    "level": "A1",
+    "situation": "family",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 1,
+    "videoId": null,
+    "transcriptContext": "من دو برادر دارم.",
+    "pronunciation": "مَن دو بَرادَر دارَم۔",
+    "words": [
+      {
+        "w": "برادر",
+        "m_en": "brother",
+        "m_ar": "أخ"
+      },
+      {
+        "w": "دو",
+        "m_en": "two",
+        "m_ar": "اثنان"
+      }
+    ],
+    "grammar_en": "\"دارم\" (I have) does not change for the gender or number of what follows.",
+    "grammar_ar": "لا يتغيّر «دارم» (لديّ) بحسب جنس أو عدد ما يليه.",
+    "alternatives": [
+      {
+        "text": "یک برادر و یک خواهر دارم.",
+        "note_en": "I have one brother and one sister",
+        "note_ar": "لديّ أخ وأخت"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10030,
+    "text": "خانه سه اتاق دارد.",
+    "translation_ar": "للمنزل ثلاث غرف.",
+    "level": "A1",
+    "situation": "home",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 18,
+    "videoId": null,
+    "transcriptContext": "خانه سه اتاق دارد.",
+    "pronunciation": "خانه سه اُتاق دارَد۔",
+    "words": [
+      {
+        "w": "اتاق",
+        "m_en": "room",
+        "m_ar": "غرفة"
+      },
+      {
+        "w": "سه",
+        "m_en": "three",
+        "m_ar": "ثلاثة"
+      }
+    ],
+    "grammar_en": "\"دارد\" (it has) is the third-person of \"داشتن\" (to have).",
+    "grammar_ar": "«دارد» (لديه) صيغة الغائب من «داشتن» (يملك).",
+    "alternatives": [
+      {
+        "text": "خانه‌ام سه اتاق دارد.",
+        "note_en": "My house has three rooms",
+        "note_ar": "منزلي فيه ثلاث غرف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10031,
+    "text": "این پیراهن چند است؟",
+    "translation_ar": "كم سعر هذا القميص؟",
+    "level": "A1",
+    "situation": "shopping",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 35,
+    "videoId": null,
+    "transcriptContext": "این پیراهن چند است؟",
+    "pronunciation": "این پیراهَن چَند اَست؟",
+    "words": [
+      {
+        "w": "پیراهن",
+        "m_en": "shirt",
+        "m_ar": "قميص"
+      },
+      {
+        "w": "چند",
+        "m_en": "how much",
+        "m_ar": "كم"
+      }
+    ],
+    "grammar_en": "\"چند است\" literally means \"how much is it\", the standard way to ask a price.",
+    "grammar_ar": "تعني «چند است» حرفيًّا «كم هو»، وهي الطريقة المعتادة للسؤال عن السعر.",
+    "alternatives": [
+      {
+        "text": "قیمت این پیراهن چقدر است؟",
+        "note_en": "What is the price of this shirt?",
+        "note_ar": "ما ثمن هذا القميص؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10032,
+    "text": "یک لیوان آب می‌خواهم.",
+    "translation_ar": "أريد كأس ماء.",
+    "level": "A1",
+    "situation": "restaurant",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 52,
+    "videoId": null,
+    "transcriptContext": "یک لیوان آب می‌خواهم.",
+    "pronunciation": "یِک لیوانِ آب می‌خواهَم۔",
+    "words": [
+      {
+        "w": "لیوان",
+        "m_en": "glass",
+        "m_ar": "كأس"
+      },
+      {
+        "w": "آب",
+        "m_en": "water",
+        "m_ar": "ماء"
+      }
+    ],
+    "grammar_en": "\"می‌خواهم\" is the present tense of \"خواستن\" (to want).",
+    "grammar_ar": "«می‌خواهم» مضارع «خواستن» (يريد).",
+    "alternatives": [
+      {
+        "text": "یک لیوان آب لطفاً.",
+        "note_en": "A glass of water, please",
+        "note_ar": "كأس ماء من فضلك"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10033,
+    "text": "جلسه داره شروع می‌شه.",
+    "translation_ar": "الاجتماع يبدأ الآن.",
+    "level": "A1",
+    "situation": "meetings",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 69,
+    "videoId": null,
+    "transcriptContext": "جلسه داره شروع می‌شه.",
+    "pronunciation": "جَلسه دارِه شُروع می‌شِه۔",
+    "words": [
+      {
+        "w": "جلسه",
+        "m_en": "meeting",
+        "m_ar": "اجتماع"
+      },
+      {
+        "w": "شروع",
+        "m_en": "start, begin",
+        "m_ar": "بدء"
+      }
+    ],
+    "grammar_en": "\"داره... می‌شه\" is the spoken present continuous: \"is starting\".",
+    "grammar_ar": "«داره... می‌شه» صيغة المضارع المستمرّ المحكيّة: «يبدأ الآن».",
+    "alternatives": [
+      {
+        "text": "جلسه الان شروع می‌شود.",
+        "note_en": "The meeting starts now (formal)",
+        "note_ar": "يبدأ الاجتماع الآن (رسمي)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10034,
+    "text": "صدای من رو می‌شنوید؟",
+    "translation_ar": "هل تستطيع سماعي؟",
+    "level": "A1",
+    "situation": "meetings",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 86,
+    "videoId": null,
+    "transcriptContext": "صدای من رو می‌شنوید؟",
+    "pronunciation": "صِدایِ مَن رو می‌شنَوید؟",
+    "words": [
+      {
+        "w": "صدا",
+        "m_en": "voice",
+        "m_ar": "صوت"
+      },
+      {
+        "w": "شنیدن",
+        "m_en": "to hear",
+        "m_ar": "يسمع"
+      }
+    ],
+    "grammar_en": "\"می‌شنوید\" is the formal/plural present of \"شنیدن\".",
+    "grammar_ar": "«می‌شنوید» مضارع «شنیدن» بصيغة رسمي/جمع.",
+    "alternatives": [
+      {
+        "text": "صدام میاد؟",
+        "note_en": "\"Is my voice coming through?\" (casual)",
+        "note_ar": "«هل يصل صوتي؟» (عاميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10035,
+    "text": "لطفاً میکروفونتون رو خاموش کنید.",
+    "translation_ar": "أطفئ الميكروفون من فضلك.",
+    "level": "A1",
+    "situation": "meetings",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 103,
+    "videoId": null,
+    "transcriptContext": "لطفاً میکروفونتون رو خاموش کنید.",
+    "pronunciation": "لُطفاً میکروفونِتون رو خاموش کُنید۔",
+    "words": [
+      {
+        "w": "میکروفون",
+        "m_en": "microphone",
+        "m_ar": "ميكروفون"
+      },
+      {
+        "w": "خاموش کردن",
+        "m_en": "to turn off",
+        "m_ar": "يطفئ"
+      }
+    ],
+    "grammar_en": "\"کنید\" is the formal/plural imperative of \"کردن\".",
+    "grammar_ar": "«کنید» أمر رسمي/جمع من «کردن».",
+    "alternatives": [
+      {
+        "text": "میکروفون رو ببندید.",
+        "note_en": "\"ببندید\" is a common alternative for muting",
+        "note_ar": "«ببندید» بديل شائع لكتم الصوت"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10036,
+    "text": "یک لحظه صبر کنید، دارم صفحه رو شیر می‌کنم.",
+    "translation_ar": "لحظة، سأشارك الشاشة.",
+    "level": "A1",
+    "situation": "meetings",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 120,
+    "videoId": null,
+    "transcriptContext": "یک لحظه صبر کنید، دارم صفحه رو شیر می‌کنم.",
+    "pronunciation": "یِک لَحظه صَبر کُنید، دارَم صَفحه رو شِیر می‌کُنَم۔",
+    "words": [
+      {
+        "w": "صفحه",
+        "m_en": "screen",
+        "m_ar": "شاشة"
+      },
+      {
+        "w": "شیر کردن",
+        "m_en": "to share",
+        "m_ar": "يشارك"
+      }
+    ],
+    "grammar_en": "\"شیر کردن\" combines the English \"share\" with the Persian verb \"کردن\" (to do).",
+    "grammar_ar": "يجمع «شیر کردن» الكلمة الإنجليزية «share» بالفعل الفارسي «کردن» (يفعل).",
+    "alternatives": [
+      {
+        "text": "صبر کنید، صفحه‌ام رو به اشتراک می‌ذارم.",
+        "note_en": "\"به اشتراک گذاشتن\" is the more formal, native equivalent",
+        "note_ar": "«به اشتراک گذاشتن» المرادف الرسمي الأصيل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10037,
+    "text": "روی این دکمه کلیک کنید.",
+    "translation_ar": "اضغط على هذا الزرّ.",
+    "level": "A1",
+    "situation": "technology",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 137,
+    "videoId": null,
+    "transcriptContext": "روی این دکمه کلیک کنید.",
+    "pronunciation": "رویِ این دُکمه کِلیک کُنید۔",
+    "words": [
+      {
+        "w": "دکمه",
+        "m_en": "button",
+        "m_ar": "زرّ"
+      },
+      {
+        "w": "کلیک کردن",
+        "m_en": "to click",
+        "m_ar": "يضغط"
+      }
+    ],
+    "grammar_en": "\"کلیک کردن\" combines the English \"click\" with \"کردن\" (to do).",
+    "grammar_ar": "يجمع «کلیک کردن» الكلمة الإنجليزية «click» بالفعل «کردن» (يفعل).",
+    "alternatives": [
+      {
+        "text": "اینجا رو کلیک کنید.",
+        "note_en": "Click here",
+        "note_ar": "اضغط هنا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10038,
+    "text": "این اپلیکیشن رو باز کنید.",
+    "translation_ar": "افتح هذا التطبيق.",
+    "level": "A1",
+    "situation": "technology",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 154,
+    "videoId": null,
+    "transcriptContext": "این اپلیکیشن رو باز کنید.",
+    "pronunciation": "این اَپلیکِیشِن رو باز کُنید۔",
+    "words": [
+      {
+        "w": "اپلیکیشن",
+        "m_en": "app",
+        "m_ar": "تطبيق"
+      },
+      {
+        "w": "باز کردن",
+        "m_en": "to open",
+        "m_ar": "يفتح"
+      }
+    ],
+    "grammar_en": "\"باز کنید\" is the formal/plural imperative of \"باز کردن\".",
+    "grammar_ar": "«باز کنید» أمر رسمي/جمع من «باز کردن».",
+    "alternatives": [
+      {
+        "text": "برنامه رو باز کنید.",
+        "note_en": "\"برنامه\" is a synonym of \"اپلیکیشن\" for \"program\"",
+        "note_ar": "«برنامه» مرادف لـ«اپلیکیشن» بمعنى «برنامج»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10039,
+    "text": "فایلتون رو ذخیره کنید.",
+    "translation_ar": "احفظ ملفّك.",
+    "level": "A1",
+    "situation": "technology",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 171,
+    "videoId": null,
+    "transcriptContext": "فایلتون رو ذخیره کنید.",
+    "pronunciation": "فایلِتون رو ذَخیره کُنید۔",
+    "words": [
+      {
+        "w": "فایل",
+        "m_en": "file",
+        "m_ar": "ملف"
+      },
+      {
+        "w": "ذخیره کردن",
+        "m_en": "to save",
+        "m_ar": "يحفظ"
+      }
+    ],
+    "grammar_en": "\"ذخیره کردن\" literally means \"to preserve/store\", used for \"to save\".",
+    "grammar_ar": "تعني «ذخیره کردن» حرفيًّا «يحفظ / يخزّن»، وتُستعمل بمعنى «حفظ الملف».",
+    "alternatives": [
+      {
+        "text": "فایل رو سیو کنید.",
+        "note_en": "\"سیو کردن\" is the common English borrowing \"save\"",
+        "note_ar": "«سیو کردن» كلمة إنجليزية مستعارة بمعنى «يحفظ»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10040,
+    "text": "کتاب خوندن و موسیقی گوش دادن رو دوست دارم.",
+    "translation_ar": "أحبّ القراءة والاستماع إلى الموسيقى.",
+    "level": "A1",
+    "situation": "leisure",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 188,
+    "videoId": null,
+    "transcriptContext": "کتاب خوندن و موسیقی گوش دادن رو دوست دارم.",
+    "pronunciation": "کِتاب خوندَن و موسیقی گوش دادَن رو دوست دارَم۔",
+    "words": [
+      {
+        "w": "خواندن",
+        "m_en": "to read",
+        "m_ar": "يقرأ"
+      },
+      {
+        "w": "گوش دادن",
+        "m_en": "to listen",
+        "m_ar": "يستمع"
+      }
+    ],
+    "grammar_en": "\"دوست دارم\" + infinitive says what you like doing.",
+    "grammar_ar": "يعبّر «دوست دارم» + المصدر عمّا تحبّ فعله.",
+    "alternatives": [
+      {
+        "text": "عاشق موسیقی‌ام.",
+        "note_en": "I love music",
+        "note_ar": "أعشق الموسيقى"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10041,
+    "text": "امروز خیلی بارون میاد.",
+    "translation_ar": "تمطر بغزارة اليوم.",
+    "level": "A1",
+    "situation": "weather",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 205,
+    "videoId": null,
+    "transcriptContext": "امروز خیلی بارون میاد.",
+    "pronunciation": "اِمروز خیلی بارون میاد۔",
+    "words": [
+      {
+        "w": "بارون",
+        "m_en": "rain",
+        "m_ar": "مطر"
+      },
+      {
+        "w": "خیلی",
+        "m_en": "a lot, very",
+        "m_ar": "كثيرًا"
+      }
+    ],
+    "grammar_en": "\"میاد\" is the spoken contraction of \"می‌آید\" (is coming).",
+    "grammar_ar": "«میاد» اختصار محكي لـ«می‌آید» (يأتي).",
+    "alternatives": [
+      {
+        "text": "هوا امروز بارونیه.",
+        "note_en": "\"The weather is rainy today\"",
+        "note_ar": "الجوّ ماطر اليوم"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10042,
+    "text": "قطار ساعت چند حرکت می‌کنه؟",
+    "translation_ar": "في أيّ ساعة يغادر القطار؟",
+    "level": "A1",
+    "situation": "transport",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 222,
+    "videoId": null,
+    "transcriptContext": "قطار ساعت چند حرکت می‌کنه؟",
+    "pronunciation": "قِطار ساعَت چَند حَرَکَت می‌کُنِه؟",
+    "words": [
+      {
+        "w": "قطار",
+        "m_en": "train",
+        "m_ar": "قطار"
+      },
+      {
+        "w": "حرکت کردن",
+        "m_en": "to leave, to move",
+        "m_ar": "يغادر / يتحرّك"
+      }
+    ],
+    "grammar_en": "\"ساعت چند\" means \"at what time\".",
+    "grammar_ar": "تعني «ساعت چند» «في أيّ ساعة».",
+    "alternatives": [
+      {
+        "text": "قطار کی راه می‌افته؟",
+        "note_en": "\"When does the train set off?\" (casual)",
+        "note_ar": "«متى ينطلق القطار؟» (عاميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10043,
+    "text": "کمک کنید! پلیس رو خبر کنید!",
+    "translation_ar": "النجدة! اتّصلوا بالشرطة!",
+    "level": "A1",
+    "situation": "emergency",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 239,
+    "videoId": null,
+    "transcriptContext": "کمک کنید! پلیس رو خبر کنید!",
+    "pronunciation": "کُمَک کُنید! پُلیس رو خَبَر کُنید!",
+    "words": [
+      {
+        "w": "کمک",
+        "m_en": "help",
+        "m_ar": "مساعدة"
+      },
+      {
+        "w": "پلیس",
+        "m_en": "police",
+        "m_ar": "شرطة"
+      }
+    ],
+    "grammar_en": "\"کنید\" is the formal/plural imperative of \"کردن\".",
+    "grammar_ar": "«کنید» أمر رسمي/جمع من «کردن».",
+    "alternatives": [
+      {
+        "text": "به دادم برسید!",
+        "note_en": "\"Come to my aid!\" (a more dramatic cry for help)",
+        "note_ar": "«أغيثوني!» (نداء استغاثة أكثر درامية)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10044,
+    "text": "مادربزرگم غذای خیلی خوبی می‌پزد.",
+    "translation_ar": "جدّتي تطبخ طعامًا لذيذًا جدًّا.",
+    "level": "A2",
+    "situation": "family",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 16,
+    "videoId": null,
+    "transcriptContext": "مادربزرگم غذای خیلی خوبی می‌پزد.",
+    "pronunciation": "مادَربُزُرگَم غَذایِ خیلی خوبی می‌پَزَد۔",
+    "words": [
+      {
+        "w": "مادربزرگ",
+        "m_en": "grandmother",
+        "m_ar": "جدّة"
+      },
+      {
+        "w": "پختن",
+        "m_en": "to cook",
+        "m_ar": "يطبخ"
+      }
+    ],
+    "grammar_en": "\"مادربزرگ\" literally means \"big mother\", the Persian word for grandmother.",
+    "grammar_ar": "تعني «مادربزرگ» حرفيًّا «الأمّ الكبيرة»، وهي الكلمة الفارسيّة للجدّة.",
+    "alternatives": [
+      {
+        "text": "غذای مادربزرگم خیلی خوشمزه است.",
+        "note_en": "My grandmother's food is very tasty",
+        "note_ar": "طعام جدّتي لذيذ جدًّا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10045,
+    "text": "حمام ته راهرو است.",
+    "translation_ar": "الحمّام في نهاية الممرّ.",
+    "level": "A2",
+    "situation": "home",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 33,
+    "videoId": null,
+    "transcriptContext": "حمام ته راهرو است.",
+    "pronunciation": "حَمّام تَهِ راهرو اَست۔",
+    "words": [
+      {
+        "w": "راهرو",
+        "m_en": "corridor",
+        "m_ar": "ممرّ"
+      },
+      {
+        "w": "ته",
+        "m_en": "end",
+        "m_ar": "نهاية"
+      }
+    ],
+    "grammar_en": "\"ته\" means \"the end/bottom of\" and comes before the noun it modifies.",
+    "grammar_ar": "تعني «ته» «نهاية / أسفل» وتأتي قبل الاسم الذي تصفه.",
+    "alternatives": [
+      {
+        "text": "حمام آخر راهرو است.",
+        "note_en": "\"آخر\" is a formal synonym of \"ته\"",
+        "note_ar": "«آخر» مرادف رسمي لـ«ته»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10046,
+    "text": "چی پیشنهاد می‌کنید؟",
+    "translation_ar": "ماذا تنصح؟",
+    "level": "A2",
+    "situation": "restaurant",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 50,
+    "videoId": null,
+    "transcriptContext": "چی پیشنهاد می‌کنید؟",
+    "pronunciation": "چی پیشنِهاد می‌کُنید؟",
+    "words": [
+      {
+        "w": "پیشنهاد",
+        "m_en": "suggestion",
+        "m_ar": "اقتراح"
+      },
+      {
+        "w": "کردن",
+        "m_en": "to do",
+        "m_ar": "يفعل"
+      }
+    ],
+    "grammar_en": "\"می‌کنید\" is the formal/plural present of \"کردن\".",
+    "grammar_ar": "«می‌کنید» مضارع «کردن» بصيغة رسمي/جمع.",
+    "alternatives": [
+      {
+        "text": "اینجا چی خوبه؟",
+        "note_en": "\"What's good here?\" (more casual)",
+        "note_ar": "«ما الجيّد هنا؟» (أكثر عفويّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10047,
+    "text": "اینترنتم یکم کنده، ببخشید.",
+    "translation_ar": "إنترنتي بطيء نوعًا ما، آسف.",
+    "level": "A2",
+    "situation": "meetings",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 67,
+    "videoId": null,
+    "transcriptContext": "اینترنتم یکم کنده، ببخشید.",
+    "pronunciation": "اینتِرنِتَم یِکَم کُندِه، بِبَخشید۔",
+    "words": [
+      {
+        "w": "اینترنت",
+        "m_en": "internet",
+        "m_ar": "إنترنت"
+      },
+      {
+        "w": "کند",
+        "m_en": "slow",
+        "m_ar": "بطيء"
+      }
+    ],
+    "grammar_en": "\"یکم\" (informal for \"یک‌کم\") means \"a little / somewhat\".",
+    "grammar_ar": "تعني «یکم» (عاميّة من «یک‌کم») «قليلًا».",
+    "alternatives": [
+      {
+        "text": "اتصالم ضعیفه.",
+        "note_en": "\"My connection is weak\"",
+        "note_ar": "اتّصالي ضعيف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10048,
+    "text": "بریم سراغ نکته بعدی.",
+    "translation_ar": "لننتقل إلى النقطة التالية.",
+    "level": "A2",
+    "situation": "meetings",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 84,
+    "videoId": null,
+    "transcriptContext": "بریم سراغ نکته بعدی.",
+    "pronunciation": "بریم سِراغِ نُکتِه بَعدی۔",
+    "words": [
+      {
+        "w": "نکته",
+        "m_en": "point",
+        "m_ar": "نقطة"
+      },
+      {
+        "w": "بعدی",
+        "m_en": "next",
+        "m_ar": "التالي"
+      }
+    ],
+    "grammar_en": "\"بریم سراغ\" is a common phrase for \"let's move on to\".",
+    "grammar_ar": "«بریم سراغ» عبارة شائعة بمعنى «لننتقل إلى».",
+    "alternatives": [
+      {
+        "text": "بریم سر نکته بعدی.",
+        "note_en": "Slightly different casual phrasing, same meaning",
+        "note_ar": "صياغة عاميّة مختلفة قليلًا بالمعنى نفسه"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10049,
+    "text": "فیلم جلسه رو بعداً می‌فرستم.",
+    "translation_ar": "سأرسل تسجيل الاجتماع لاحقًا.",
+    "level": "A2",
+    "situation": "meetings",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 101,
+    "videoId": null,
+    "transcriptContext": "فیلم جلسه رو بعداً می‌فرستم.",
+    "pronunciation": "فیلمِ جَلسه رو بَعداً می‌فِرِستَم۔",
+    "words": [
+      {
+        "w": "فیلم",
+        "m_en": "recording",
+        "m_ar": "تسجيل"
+      },
+      {
+        "w": "فرستادن",
+        "m_en": "to send",
+        "m_ar": "يرسل"
+      }
+    ],
+    "grammar_en": "\"فیلم\" is commonly used for a video recording, not just \"movie\".",
+    "grammar_ar": "تُستعمل «فیلم» شائعًا للتسجيل المرئي لا للفيلم السينمائي فقط.",
+    "alternatives": [
+      {
+        "text": "ضبط جلسه رو براتون می‌فرستم.",
+        "note_en": "\"ضبط\" is the more formal word for \"recording\"",
+        "note_ar": "«ضبط» الكلمة الأكثر رسميّة لـ«تسجيل»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10050,
+    "text": "ایشون نیستن، می‌خواید پیام بذارید؟",
+    "translation_ar": "ليس موجودًا، هل تودّ ترك رسالة؟",
+    "level": "A2",
+    "situation": "phone-calls",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 118,
+    "videoId": null,
+    "transcriptContext": "ایشون نیستن، می‌خواید پیام بذارید؟",
+    "pronunciation": "ایشون نیستَن، می‌خواید پَیام بِذارید؟",
+    "words": [
+      {
+        "w": "پیام",
+        "m_en": "message",
+        "m_ar": "رسالة"
+      },
+      {
+        "w": "گذاشتن",
+        "m_en": "to leave",
+        "m_ar": "يترك"
+      }
+    ],
+    "grammar_en": "\"ایشون\" is the respectful third-person pronoun, used for someone not present.",
+    "grammar_ar": "«ایشون» ضمير الغائب المحترم، يُستعمل لشخص غير حاضر.",
+    "alternatives": [
+      {
+        "text": "پیامی هست که بهش برسونم؟",
+        "note_en": "\"Is there a message I should pass on?\"",
+        "note_ar": "«هل هناك رسالة أوصلها له؟»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10051,
+    "text": "شنبه می‌خوای بریم سینما؟",
+    "translation_ar": "هل تريد الذهاب إلى السينما يوم السبت؟",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 135,
+    "videoId": null,
+    "transcriptContext": "شنبه می‌خوای بریم سینما؟",
+    "pronunciation": "شَنبه می‌خوای بریم سینِما؟",
+    "words": [
+      {
+        "w": "سینما",
+        "m_en": "cinema",
+        "m_ar": "سينما"
+      },
+      {
+        "w": "شنبه",
+        "m_en": "Saturday",
+        "m_ar": "السبت"
+      }
+    ],
+    "grammar_en": "In Iran the weekend starts on Friday, but \"شنبه\" (Saturday) is still a normal weekday.",
+    "grammar_ar": "يبدأ أسبوع العطلة في إيران يوم الجمعة، لكن «شنبه» (السبت) يوم عمل عادي.",
+    "alternatives": [
+      {
+        "text": "بریم سینما شنبه؟",
+        "note_en": "Shall we go to the cinema on Saturday?",
+        "note_ar": "هل نذهب إلى السينما يوم السبت؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10052,
+    "text": "امسال تابستون می‌خوام برم استانبول.",
+    "translation_ar": "أريد زيارة إسطنبول هذا الصيف.",
+    "level": "A2",
+    "situation": "travel",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 152,
+    "videoId": null,
+    "transcriptContext": "امسال تابستون می‌خوام برم استانبول.",
+    "pronunciation": "اِمسال تابِستون می‌خوام بِرَم اِستانبول۔",
+    "words": [
+      {
+        "w": "تابستان",
+        "m_en": "summer",
+        "m_ar": "صيف"
+      },
+      {
+        "w": "رفتن",
+        "m_en": "to go",
+        "m_ar": "يذهب"
+      }
+    ],
+    "grammar_en": "\"می‌خوام\" (spoken for \"می‌خواهم\") + infinitive expresses a wish.",
+    "grammar_ar": "يعبّر «می‌خوام» (محكيّة من «می‌خواهم») + المصدر عن رغبة.",
+    "alternatives": [
+      {
+        "text": "دوست دارم امسال تابستون برم استانبول.",
+        "note_en": "More polite, \"I'd love to\"",
+        "note_ar": "أكثر تهذيبًا، «أودّ»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 10053,
+    "text": "بعد از کار به باشگاه می‌روم.",
+    "translation_ar": "بعد العمل أذهب إلى النادي الرياضي.",
+    "level": "A2",
+    "situation": "daily",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 169,
+    "videoId": null,
+    "transcriptContext": "بعد از کار به باشگاه می‌روم.",
+    "pronunciation": "بَعد اَز کار بِه باشگاه می‌رَوَم۔",
+    "words": [
+      {
+        "w": "کار",
+        "m_en": "work",
+        "m_ar": "عمل"
+      },
+      {
+        "w": "باشگاه",
+        "m_en": "gym",
+        "m_ar": "نادٍ رياضي"
+      }
+    ],
+    "grammar_en": "\"بعد از\" means \"after\" and comes before the noun it refers to.",
+    "grammar_ar": "تعني «بعد از» «بعد» وتأتي قبل الاسم الذي تشير إليه.",
+    "alternatives": [
+      {
+        "text": "هر روز به باشگاه می‌روم.",
+        "note_en": "I go to the gym every day",
+        "note_ar": "أذهب إلى النادي كلّ يوم"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10054,
+    "text": "این کاپشن سایز دیگه‌ای هم دارید؟",
+    "translation_ar": "هل هذه السترة متوفّرة بمقاس آخر؟",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 186,
+    "videoId": null,
+    "transcriptContext": "این کاپشن سایز دیگه‌ای هم دارید؟",
+    "pronunciation": "این کاپشُن سایزِ دیگه‌ای هَم دارید؟",
+    "words": [
+      {
+        "w": "سایز",
+        "m_en": "size",
+        "m_ar": "مقاس"
+      },
+      {
+        "w": "کاپشن",
+        "m_en": "jacket",
+        "m_ar": "سترة"
+      }
+    ],
+    "grammar_en": "\"دیگه‌ای\" (informal for \"دیگری\") means \"some other / another one\".",
+    "grammar_ar": "تعني «دیگه‌ای» (عاميّة من «دیگری») «آخر / غيره».",
+    "alternatives": [
+      {
+        "text": "می‌تونم امتحانش کنم؟",
+        "note_en": "Can I try it on?",
+        "note_ar": "هل يمكنني تجربتها؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10055,
+    "text": "از دیروز سرفه می‌کنم و گلودرد دارم.",
+    "translation_ar": "لديّ سعال وألم في الحلق منذ أمس.",
+    "level": "A2",
+    "situation": "health",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 203,
+    "videoId": null,
+    "transcriptContext": "از دیروز سرفه می‌کنم و گلودرد دارم.",
+    "pronunciation": "اَز دیروز سُرفه می‌کُنَم و گُلودَرد دارَم۔",
+    "words": [
+      {
+        "w": "سرفه",
+        "m_en": "cough",
+        "m_ar": "سعال"
+      },
+      {
+        "w": "گلودرد",
+        "m_en": "sore throat",
+        "m_ar": "ألم في الحلق"
+      }
+    ],
+    "grammar_en": "\"از دیروز\" means \"since yesterday\".",
+    "grammar_ar": "تعني «از دیروز» «منذ أمس».",
+    "alternatives": [
+      {
+        "text": "گلوم از دیروز درد می‌کنه.",
+        "note_en": "My throat has hurt since yesterday (casual)",
+        "note_ar": "حلقي يؤلمني منذ أمس (عاميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10056,
+    "text": "من در یک شرکت کوچک مهندس هستم.",
+    "translation_ar": "أعمل مهندسًا في شركة صغيرة.",
+    "level": "A2",
+    "situation": "career",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 220,
+    "videoId": null,
+    "transcriptContext": "من در یک شرکت کوچک مهندس هستم.",
+    "pronunciation": "مَن دَر یِک شِرکَتِ کوچَک مُهَندِس هَستَم۔",
+    "words": [
+      {
+        "w": "مهندس",
+        "m_en": "engineer",
+        "m_ar": "مهندس"
+      },
+      {
+        "w": "شرکت",
+        "m_en": "company",
+        "m_ar": "شركة"
+      }
+    ],
+    "grammar_en": "Professions follow the subject, with \"هستم\" (I am) at the end.",
+    "grammar_ar": "تأتي المهنة بعد الفاعل، مع «هستم» (أنا) في نهاية الجملة.",
+    "alternatives": [
+      {
+        "text": "در یک شرکت کوچک کار می‌کنم.",
+        "note_en": "I work at a small company",
+        "note_ar": "أعمل في شركة صغيرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10057,
+    "text": "می‌تونیم جلسه بعدی رو پنجشنبه بذاریم؟",
+    "translation_ar": "هل يمكننا وضع الاجتماع القادم يوم الخميس؟",
+    "level": "A2",
+    "situation": "meetings",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 237,
+    "videoId": null,
+    "transcriptContext": "می‌تونیم جلسه بعدی رو پنجشنبه بذاریم؟",
+    "pronunciation": "می‌تونیم جَلسِه بَعدی رو پَنجشَنبه بِذاریم؟",
+    "words": [
+      {
+        "w": "پنجشنبه",
+        "m_en": "Thursday",
+        "m_ar": "الخميس"
+      },
+      {
+        "w": "گذاشتن",
+        "m_en": "to set, to put",
+        "m_ar": "يضع"
+      }
+    ],
+    "grammar_en": "\"بذاریم\" (informal for \"بگذاریم\") here means \"to schedule\".",
+    "grammar_ar": "تعني «بذاریم» (عاميّة من «بگذاریم») هنا «يحدّد موعدًا».",
+    "alternatives": [
+      {
+        "text": "جلسه بعدی رو پنجشنبه بذاریم.",
+        "note_en": "\"Let's set the next meeting for Thursday\" (statement form)",
+        "note_ar": "«لنحدّد الاجتماع القادم يوم الخميس» (صيغة تقريريّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10058,
+    "text": "اسم و ایمیلتون رو اینجا بنویسید.",
+    "translation_ar": "اكتب هنا اسمك وبريدك الإلكتروني.",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 14,
+    "videoId": null,
+    "transcriptContext": "اسم و ایمیلتون رو اینجا بنویسید.",
+    "pronunciation": "اِسم و ایمِیلِتون رو اینجا بِنویسید۔",
+    "words": [
+      {
+        "w": "ایمیل",
+        "m_en": "email",
+        "m_ar": "بريد إلكتروني"
+      },
+      {
+        "w": "نوشتن",
+        "m_en": "to write",
+        "m_ar": "يكتب"
+      }
+    ],
+    "grammar_en": "\"بنویسید\" is the formal/plural imperative of \"نوشتن\".",
+    "grammar_ar": "«بنویسید» أمر رسمي/جمع من «نوشتن».",
+    "alternatives": [
+      {
+        "text": "اطلاعاتتون رو اینجا وارد کنید.",
+        "note_en": "\"Enter your information here\" (more formal)",
+        "note_ar": "«أدخل معلوماتك هنا» (أكثر رسميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10059,
+    "text": "برای دیدن گزینه‌های بیشتر، پایین رو اسکرول کنید.",
+    "translation_ar": "مرّر للأسفل لترى بقيّة الخيارات.",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 31,
+    "videoId": null,
+    "transcriptContext": "برای دیدن گزینه‌های بیشتر، پایین رو اسکرول کنید.",
+    "pronunciation": "بَرایِ دیدَنِ گُزینه‌هایِ بیشتَر، پایین رو اِسکرول کُنید۔",
+    "words": [
+      {
+        "w": "اسکرول کردن",
+        "m_en": "to scroll",
+        "m_ar": "يمرّر"
+      },
+      {
+        "w": "گزینه",
+        "m_en": "option",
+        "m_ar": "خيار"
+      }
+    ],
+    "grammar_en": "\"برای\" + infinitive expresses purpose: \"in order to see\".",
+    "grammar_ar": "«برای» + المصدر تعبّر عن الغاية: «لترى».",
+    "alternatives": [
+      {
+        "text": "یکم بیا پایین‌تر، گزینه‌های بیشتری هست.",
+        "note_en": "Go down a bit, there are more options",
+        "note_ar": "انزل قليلًا، هناك خيارات أخرى"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10060,
+    "text": "استفاده از این نرم‌افزار خیلی راحته.",
+    "translation_ar": "استخدام هذا البرنامج سهل جدًّا.",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 48,
+    "videoId": null,
+    "transcriptContext": "استفاده از این نرم‌افزار خیلی راحته.",
+    "pronunciation": "اِستِفاده اَز این نَرم‌اَفزار خیلی راحِتِه۔",
+    "words": [
+      {
+        "w": "نرم‌افزار",
+        "m_en": "software",
+        "m_ar": "برنامج (سوفتوير)"
+      },
+      {
+        "w": "راحت",
+        "m_en": "easy, comfortable",
+        "m_ar": "سهل / مريح"
+      }
+    ],
+    "grammar_en": "\"استفاده از\" + noun means \"the use of\"; combined with \"کردن\" it means \"to use\".",
+    "grammar_ar": "تعني «استفاده از» + اسم «استخدام»؛ وتضاف إلى «کردن» لتعني «يستخدم».",
+    "alternatives": [
+      {
+        "text": "کار کردن با این نرم‌افزار سخت نیست.",
+        "note_en": "This software isn't hard to work with",
+        "note_ar": "العمل بهذا البرنامج ليس صعبًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10061,
+    "text": "فردا هوا سرد می‌شه و باد میاد.",
+    "translation_ar": "غدًا سيكون الجوّ باردًا وستهبّ الرياح.",
+    "level": "A2",
+    "situation": "weather",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 65,
+    "videoId": null,
+    "transcriptContext": "فردا هوا سرد می‌شه و باد میاد.",
+    "pronunciation": "فَردا هَوا سَرد می‌شِه و باد میاد۔",
+    "words": [
+      {
+        "w": "سرد",
+        "m_en": "cold",
+        "m_ar": "بارد"
+      },
+      {
+        "w": "باد",
+        "m_en": "wind",
+        "m_ar": "ريح"
+      }
+    ],
+    "grammar_en": "\"می‌شه\" is the spoken contraction of \"می‌شود\" (becomes).",
+    "grammar_ar": "«می‌شه» اختصار محكي لـ«می‌شود» (يصبح).",
+    "alternatives": [
+      {
+        "text": "فردا هوا سرد خواهد بود.",
+        "note_en": "Formal future version",
+        "note_ar": "الصيغة الرسميّة للمستقبل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10062,
+    "text": "مستقیم برید و توی خیابون دوم بپیچید راست.",
+    "translation_ar": "سِر مستقيمًا ثم انعطف يمينًا عند الشارع الثاني.",
+    "level": "A2",
+    "situation": "directions",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 82,
+    "videoId": null,
+    "transcriptContext": "مستقیم برید و توی خیابون دوم بپیچید راست.",
+    "pronunciation": "مُستَقیم بَرید و توی خیابونِ دُوُم بِپیچید راست۔",
+    "words": [
+      {
+        "w": "خیابان",
+        "m_en": "street",
+        "m_ar": "شارع"
+      },
+      {
+        "w": "پیچیدن",
+        "m_en": "to turn",
+        "m_ar": "ينعطف"
+      }
+    ],
+    "grammar_en": "\"برید\" and \"بپیچید\" are formal/plural imperatives.",
+    "grammar_ar": "«برید» و«بپیچید» أمران رسميّان/جمع.",
+    "alternatives": [
+      {
+        "text": "مستقیم برو و خیابون دوم بپیچ راست.",
+        "note_en": "Informal command",
+        "note_ar": "أمر غير رسمي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10063,
+    "text": "یه بلیط رفت و برگشت به شیراز می‌خواستم.",
+    "translation_ar": "أودّ تذكرة ذهاب وإياب إلى شيراز.",
+    "level": "A2",
+    "situation": "transport",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 99,
+    "videoId": null,
+    "transcriptContext": "یه بلیط رفت و برگشت به شیراز می‌خواستم.",
+    "pronunciation": "یِه بِلیطِ رَفت و بَرگَشت بِه شیراز می‌خواستَم۔",
+    "words": [
+      {
+        "w": "بلیط",
+        "m_en": "ticket",
+        "m_ar": "تذكرة"
+      },
+      {
+        "w": "رفت و برگشت",
+        "m_en": "round trip",
+        "m_ar": "ذهاب وإياب"
+      }
+    ],
+    "grammar_en": "\"می‌خواستم\" (I wanted) is used to make a polite request.",
+    "grammar_ar": "يُستعمل «می‌خواستم» (كنتُ أريد) لطلب مهذّب.",
+    "alternatives": [
+      {
+        "text": "یه بلیط دوطرفه به شیراز، لطفاً.",
+        "note_en": "\"A two-way ticket to Shiraz, please\"",
+        "note_ar": "«تذكرة ذهاب وإياب إلى شيراز من فضلك»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10064,
+    "text": "یه رزرو به اسم احمد دارم.",
+    "translation_ar": "لديّ حجز باسم أحمد.",
+    "level": "A2",
+    "situation": "hotel",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 116,
+    "videoId": null,
+    "transcriptContext": "یه رزرو به اسم احمد دارم.",
+    "pronunciation": "یِه رِزِرو بِه اِسمِ اَحمَد دارَم۔",
+    "words": [
+      {
+        "w": "رزرو",
+        "m_en": "booking",
+        "m_ar": "حجز"
+      },
+      {
+        "w": "به اسم",
+        "m_en": "in the name of",
+        "m_ar": "باسم"
+      }
+    ],
+    "grammar_en": "\"به اسم\" + name means \"in the name of\".",
+    "grammar_ar": "«به اسم» + الاسم = «باسم».",
+    "alternatives": [
+      {
+        "text": "به اسم احمد رزرو کردم.",
+        "note_en": "I booked under the name Ahmed",
+        "note_ar": "حجزتُ باسم أحمد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10065,
+    "text": "می‌خوام یه حساب بانکی باز کنم.",
+    "translation_ar": "أريد فتح حساب مصرفي.",
+    "level": "A2",
+    "situation": "banking",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 133,
+    "videoId": null,
+    "transcriptContext": "می‌خوام یه حساب بانکی باز کنم.",
+    "pronunciation": "می‌خوام یِه حِسابِ بانکی باز کُنَم۔",
+    "words": [
+      {
+        "w": "حساب",
+        "m_en": "account",
+        "m_ar": "حساب"
+      },
+      {
+        "w": "باز کردن",
+        "m_en": "to open",
+        "m_ar": "يفتح"
+      }
+    ],
+    "grammar_en": "\"حساب\" also means \"bill\" in a restaurant context.",
+    "grammar_ar": "تعني «حساب» أيضًا «الفاتورة» في سياق المطعم.",
+    "alternatives": [
+      {
+        "text": "می‌خوام تو بانک حساب باز کنم.",
+        "note_en": "I want to open an account at the bank",
+        "note_ar": "أريد فتح حساب في البنك"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10066,
+    "text": "یه تصادف شده، به آمبولانس نیاز داریم.",
+    "translation_ar": "وقع حادث، نحتاج إلى سيّارة إسعاف.",
+    "level": "A2",
+    "situation": "emergency",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 150,
+    "videoId": null,
+    "transcriptContext": "یه تصادف شده، به آمبولانس نیاز داریم.",
+    "pronunciation": "یِه تَصادُف شُده، بِه آمبولانس نیاز داریم۔",
+    "words": [
+      {
+        "w": "تصادف",
+        "m_en": "accident",
+        "m_ar": "حادث"
+      },
+      {
+        "w": "آمبولانس",
+        "m_en": "ambulance",
+        "m_ar": "سيّارة إسعاف"
+      }
+    ],
+    "grammar_en": "\"شده\" is the passive-like past participle: \"has happened\".",
+    "grammar_ar": "«شده» اسم مفعول شبه مبني للمجهول: «حدث».",
+    "alternatives": [
+      {
+        "text": "یه تصادف اتفاق افتاده.",
+        "note_en": "An accident has happened",
+        "note_ar": "وقع حادث"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10067,
+    "text": "جلسه ساعت ده در اتاق شماره دو شروع می‌شود.",
+    "translation_ar": "يبدأ الاجتماع في العاشرة في الغرفة رقم اثنين.",
+    "level": "A2",
+    "situation": "workplace",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 167,
+    "videoId": null,
+    "transcriptContext": "جلسه ساعت ده در اتاق شماره دو شروع می‌شود.",
+    "pronunciation": "جَلسه ساعَتِ دَه دَر اُتاقِ شُماره دو شُروع می‌شَوَد۔",
+    "words": [
+      {
+        "w": "جلسه",
+        "m_en": "meeting",
+        "m_ar": "اجتماع"
+      },
+      {
+        "w": "شروع شدن",
+        "m_en": "to begin",
+        "m_ar": "يبدأ"
+      }
+    ],
+    "grammar_en": "\"می‌شود\" marks a habitual/scheduled present action.",
+    "grammar_ar": "تدلّ «می‌شود» على فعل معتاد/مجدول في المضارع.",
+    "alternatives": [
+      {
+        "text": "جلسه ساعت ده شروع خواهد شد.",
+        "note_en": "The meeting will start at ten",
+        "note_ar": "سيبدأ الاجتماع في العاشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 10068,
+    "text": "باید شیر آشپزخانه را تعمیر کنم.",
+    "translation_ar": "عليّ إصلاح صنبور المطبخ.",
+    "level": "B1",
+    "situation": "home",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 184,
+    "videoId": null,
+    "transcriptContext": "باید شیر آشپزخانه را تعمیر کنم.",
+    "pronunciation": "باید شیرِ آشپزخانه را تَعمیر کُنَم۔",
+    "words": [
+      {
+        "w": "شیر",
+        "m_en": "tap",
+        "m_ar": "صنبور"
+      },
+      {
+        "w": "آشپزخانه",
+        "m_en": "kitchen",
+        "m_ar": "مطبخ"
+      }
+    ],
+    "grammar_en": "\"باید\" + subjunctive verb expresses obligation: \"I must\".",
+    "grammar_ar": "تعبّر «باید» + فعل الشرط عن الإلزام: «يجب أن».",
+    "alternatives": [
+      {
+        "text": "شیر آشپزخانه خراب است، باید تعمیر شود.",
+        "note_en": "The kitchen tap is broken, it needs fixing",
+        "note_ar": "صنبور المطبخ معطّل، يحتاج إلى إصلاح"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10069,
+    "text": "این غذا فلفل تند داره؟",
+    "translation_ar": "هل يحتوي هذا الطبق على مكوّن حارّ؟",
+    "level": "B1",
+    "situation": "restaurant",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 201,
+    "videoId": null,
+    "transcriptContext": "این غذا فلفل تند داره؟",
+    "pronunciation": "این غَذا فِلفِلِ تُند دارِه؟",
+    "words": [
+      {
+        "w": "تند",
+        "m_en": "spicy",
+        "m_ar": "حارّ"
+      },
+      {
+        "w": "غذا",
+        "m_en": "dish, food",
+        "m_ar": "طبق / طعام"
+      }
+    ],
+    "grammar_en": "\"داره\" is the informal spoken form of \"دارد\" (has).",
+    "grammar_ar": "«داره» صيغة محكيّة عاميّة من «دارد» (لديه).",
+    "alternatives": [
+      {
+        "text": "این غذا چقدر تنده؟",
+        "note_en": "How spicy is this dish?",
+        "note_ar": "ما مدى حرارة هذا الطبق؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10070,
+    "text": "یک پیشنهاد کاری جالب بهم دادن.",
+    "translation_ar": "تلقّيتُ عرض عمل مثيرًا للاهتمام.",
+    "level": "B1",
+    "situation": "career",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 218,
+    "videoId": null,
+    "transcriptContext": "یک پیشنهاد کاری جالب بهم دادن.",
+    "pronunciation": "یِک پیشنِهادِ کاریِ جالِب بِهَم دادَن۔",
+    "words": [
+      {
+        "w": "پیشنهاد",
+        "m_en": "offer",
+        "m_ar": "عرض"
+      },
+      {
+        "w": "جالب",
+        "m_en": "interesting",
+        "m_ar": "مثير للاهتمام"
+      }
+    ],
+    "grammar_en": "\"بهم دادن\" is the impersonal-plural \"they gave to me\" (informal).",
+    "grammar_ar": "«بهم دادن» صيغة «أعطوني» غير الشخصيّة (عاميّة).",
+    "alternatives": [
+      {
+        "text": "یک پیشنهاد کار خوب بهم شد.",
+        "note_en": "\"I got a good job offer\" (alternate phrasing)",
+        "note_ar": "«حصلتُ على عرض عمل جيّد» (صياغة بديلة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10071,
+    "text": "این اطراف عابربانک هست؟",
+    "translation_ar": "هل يوجد صرّاف آلي قريب من هنا؟",
+    "level": "B1",
+    "situation": "banking",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 235,
+    "videoId": null,
+    "transcriptContext": "این اطراف عابربانک هست؟",
+    "pronunciation": "این اَطراف عابِربانک هَست؟",
+    "words": [
+      {
+        "w": "عابربانک",
+        "m_en": "ATM",
+        "m_ar": "صرّاف آلي"
+      },
+      {
+        "w": "این اطراف",
+        "m_en": "around here",
+        "m_ar": "في هذه الأنحاء"
+      }
+    ],
+    "grammar_en": "\"هست\" here asks whether something exists nearby.",
+    "grammar_ar": "تُستعمل «هست» هنا للسؤال عن وجود شيء قريب.",
+    "alternatives": [
+      {
+        "text": "از کجا می‌تونم پول بگیرم؟",
+        "note_en": "\"Where can I get cash?\" (casual)",
+        "note_ar": "«من أين يمكنني الحصول على نقود؟» (عاميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 10072,
+    "text": "می‌خوام این شلوار رو پس بدم، اندازه‌ام نیست.",
+    "translation_ar": "أريد إرجاع هذا البنطال، فهو لا يناسبني.",
+    "level": "B1",
+    "situation": "shopping",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 12,
+    "videoId": null,
+    "transcriptContext": "می‌خوام این شلوار رو پس بدم، اندازه‌ام نیست.",
+    "pronunciation": "می‌خوام این شَلوار رو پَس بِدَم، اَندازِه‌اَم نیست۔",
+    "words": [
+      {
+        "w": "پس دادن",
+        "m_en": "to return",
+        "m_ar": "يُرجع"
+      },
+      {
+        "w": "شلوار",
+        "m_en": "trousers",
+        "m_ar": "بنطال"
+      }
+    ],
+    "grammar_en": "\"اندازه‌ام نیست\" literally means \"it isn't my size\".",
+    "grammar_ar": "تعني «اندازه‌ام نیست» حرفيًّا «ليس مقاسي».",
+    "alternatives": [
+      {
+        "text": "این شلوار برام بزرگه.",
+        "note_en": "This pair of trousers is too big for me",
+        "note_ar": "هذا البنطال واسع عليّ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 10073,
+    "text": "می‌تونید گزارش رو قبل از جمعه بفرستید؟",
+    "translation_ar": "هل يمكنك أن ترسل التقرير قبل الجمعة؟",
+    "level": "B1",
+    "situation": "workplace",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 29,
+    "videoId": null,
+    "transcriptContext": "می‌تونید گزارش رو قبل از جمعه بفرستید؟",
+    "pronunciation": "می‌تونید گِزارِش رو قَبل اَز جُمعه بِفِرِستید؟",
+    "words": [
+      {
+        "w": "گزارش",
+        "m_en": "report",
+        "m_ar": "تقرير"
+      },
+      {
+        "w": "فرستادن",
+        "m_en": "to send",
+        "m_ar": "يرسل"
+      }
+    ],
+    "grammar_en": "\"قبل از\" + noun means \"before\".",
+    "grammar_ar": "«قبل از» + اسم = «قبل».",
+    "alternatives": [
+      {
+        "text": "گزارش رو تا جمعه بفرستید لطفاً.",
+        "note_en": "Please send the report by Friday",
+        "note_ar": "أرسل التقرير بحلول الجمعة من فضلك"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 10074,
+    "text": "اگه برنامه کار نکرد، دوباره اجراش کنید.",
+    "translation_ar": "إذا لم يعمل البرنامج أعد تشغيله.",
+    "level": "B1",
+    "situation": "technology",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 46,
+    "videoId": null,
+    "transcriptContext": "اگه برنامه کار نکرد، دوباره اجراش کنید.",
+    "pronunciation": "اَگه بَرنامه کار نَکَرد، دوباره اِجراش کُنید۔",
+    "words": [
+      {
+        "w": "دوباره",
+        "m_en": "again",
+        "m_ar": "مجدّدًا"
+      },
+      {
+        "w": "کار کردن",
+        "m_en": "to work",
+        "m_ar": "يعمل"
+      }
+    ],
+    "grammar_en": "\"اگه... \" is the spoken form of \"اگر...\" (if...), followed by the result.",
+    "grammar_ar": "«اگه...» صيغة محكيّة من «اگر...» (إن...)، يليها جواب الشرط.",
+    "alternatives": [
+      {
+        "text": "اگه کار نکرد، ریستارتش کنید.",
+        "note_en": "\"ریستارت کردن\" = to restart",
+        "note_ar": "«ریستارت کردن» = يعيد التشغيل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 10075,
+    "text": "بعداً بهت زنگ می‌زنم، الان تو جلسه‌ام.",
+    "translation_ar": "سأتّصل بك لاحقًا، أنا الآن في اجتماع.",
+    "level": "B1",
+    "situation": "phone-calls",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 63,
+    "videoId": null,
+    "transcriptContext": "بعداً بهت زنگ می‌زنم، الان تو جلسه‌ام.",
+    "pronunciation": "بَعداً بِهِت زَنگ می‌زَنَم، اَلان تو جَلسِه‌اَم۔",
+    "words": [
+      {
+        "w": "زنگ زدن",
+        "m_en": "to call",
+        "m_ar": "يتّصل"
+      },
+      {
+        "w": "جلسه",
+        "m_en": "meeting",
+        "m_ar": "اجتماع"
+      }
+    ],
+    "grammar_en": "The present tense here expresses a near-future intention: \"I'll call\".",
+    "grammar_ar": "يعبّر المضارع هنا عن نيّة قريبة في المستقبل: «سأتّصل».",
+    "alternatives": [
+      {
+        "text": "یه‌کم دیگه بهت زنگ می‌زنم.",
+        "note_en": "\"I'll call you in a bit\" (casual)",
+        "note_ar": "«سأتّصل بك بعد قليل» (عاميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 10076,
+    "text": "برای پیشرفت، یه کلاس عکاسی شروع کردم.",
+    "translation_ar": "بدأتُ دورة تصوير لأتطوّر.",
+    "level": "B1",
+    "situation": "leisure",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 80,
+    "videoId": null,
+    "transcriptContext": "برای پیشرفت، یه کلاس عکاسی شروع کردم.",
+    "pronunciation": "بَرایِ پیشرَفت، یِه کِلاسِ عَکّاسی شُروع کَردَم۔",
+    "words": [
+      {
+        "w": "کلاس",
+        "m_en": "class, course",
+        "m_ar": "دورة"
+      },
+      {
+        "w": "پیشرفت",
+        "m_en": "progress",
+        "m_ar": "تطوّر"
+      }
+    ],
+    "grammar_en": "\"برای\" + noun expresses purpose: \"for the sake of progress\".",
+    "grammar_ar": "«برای» + اسم تعبّر عن الغاية: «من أجل التطوّر».",
+    "alternatives": [
+      {
+        "text": "دارم عکاسی یاد می‌گیرم.",
+        "note_en": "I'm learning photography",
+        "note_ar": "أتعلّم التصوير"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 10077,
+    "text": "اگه فردا بارون بیاد، پیک‌نیک رو کنسل می‌کنیم.",
+    "translation_ar": "إذا أمطرت غدًا فسنلغي الرحلة.",
+    "level": "B1",
+    "situation": "weather",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 97,
+    "videoId": null,
+    "transcriptContext": "اگه فردا بارون بیاد، پیک‌نیک رو کنسل می‌کنیم.",
+    "pronunciation": "اَگه فَردا بارون بیاد، پیک‌نیک رو کَنسِل می‌کُنیم۔",
+    "words": [
+      {
+        "w": "کنسل کردن",
+        "m_en": "to cancel",
+        "m_ar": "يلغي"
+      },
+      {
+        "w": "پیک‌نیک",
+        "m_en": "outing, picnic",
+        "m_ar": "رحلة"
+      }
+    ],
+    "grammar_en": "\"اگه... بیاد\" uses the subjunctive after \"اگه\" (if).",
+    "grammar_ar": "يستعمل «اگه... بیاد» صيغة الشرط بعد «اگه» (إن).",
+    "alternatives": [
+      {
+        "text": "اگه هوا بد باشه، پیک‌نیک نمیریم.",
+        "note_en": "\"If the weather is bad, we won't go on the outing\"",
+        "note_ar": "«إن كان الجوّ سيّئًا فلن نذهب في الرحلة»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 10078,
+    "text": "تا میدون تقریباً ده دقیقه پیاده راهه.",
+    "translation_ar": "يبعد نحو عشر دقائق سيرًا على الأقدام عن الساحة.",
+    "level": "B1",
+    "situation": "directions",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 114,
+    "videoId": null,
+    "transcriptContext": "تا میدون تقریباً ده دقیقه پیاده راهه.",
+    "pronunciation": "تا میدون تَقریباً دَه دَقیقه پیاده راهِه۔",
+    "words": [
+      {
+        "w": "پیاده",
+        "m_en": "on foot",
+        "m_ar": "سيرًا على الأقدام"
+      },
+      {
+        "w": "میدان",
+        "m_en": "square",
+        "m_ar": "ساحة"
+      }
+    ],
+    "grammar_en": "\"تقریباً\" + number means \"about / approximately\".",
+    "grammar_ar": "«تقریباً» + عدد = «حوالي».",
+    "alternatives": [
+      {
+        "text": "پیاده تا اونجا ده دقیقه طول می‌کشه.",
+        "note_en": "\"It takes ten minutes to get there on foot\"",
+        "note_ar": "«يستغرق الوصول سيرًا عشر دقائق»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 10079,
+    "text": "قطار به‌خاطر یه مشکل فنی تأخیر داره.",
+    "translation_ar": "سيصل القطار متأخّرًا بسبب عطل فني.",
+    "level": "B1",
+    "situation": "transport",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 131,
+    "videoId": null,
+    "transcriptContext": "قطار به‌خاطر یه مشکل فنی تأخیر داره.",
+    "pronunciation": "قِطار بِه‌خاطِرِ یِه مُشکِلِ فَنّی تَأخیر دارِه۔",
+    "words": [
+      {
+        "w": "تأخیر",
+        "m_en": "delay",
+        "m_ar": "تأخير"
+      },
+      {
+        "w": "به‌خاطر",
+        "m_en": "because of",
+        "m_ar": "بسبب"
+      }
+    ],
+    "grammar_en": "\"به‌خاطر\" + noun means \"because of\".",
+    "grammar_ar": "«به‌خاطر» + اسم = «بسبب».",
+    "alternatives": [
+      {
+        "text": "قطار به علت نقص فنی تأخیر داره.",
+        "note_en": "\"به علت\" is a more formal synonym of \"به‌خاطر\"",
+        "note_ar": "«به علت» مرادف أكثر رسميّة لـ«به‌خاطر»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 10080,
+    "text": "برای گشتن ساحل، یه ماشین کرایه کردیم.",
+    "translation_ar": "استأجرنا سيّارة لنجوب الساحل.",
+    "level": "B1",
+    "situation": "travel",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 148,
+    "videoId": null,
+    "transcriptContext": "برای گشتن ساحل، یه ماشین کرایه کردیم.",
+    "pronunciation": "بَرایِ گَشتَنِ ساحِل، یِه ماشین کِرایه کَردیم۔",
+    "words": [
+      {
+        "w": "کرایه کردن",
+        "m_en": "to rent",
+        "m_ar": "يستأجر"
+      },
+      {
+        "w": "ساحل",
+        "m_en": "coast",
+        "m_ar": "ساحل"
+      }
+    ],
+    "grammar_en": "\"برای\" + gerund-like infinitive expresses purpose: \"for exploring\".",
+    "grammar_ar": "«برای» + مصدر تعبّر عن الغاية: «من أجل التجوال».",
+    "alternatives": [
+      {
+        "text": "یه ماشین گرفتیم تا ساحل رو بگردیم.",
+        "note_en": "\"We got a car to explore the coast\" (casual)",
+        "note_ar": "«حصلنا على سيّارة لنجول الساحل» (عاميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 10081,
+    "text": "تا کی باید اتاق رو تحویل بدم؟",
+    "translation_ar": "في أيّ ساعة يجب إخلاء الغرفة؟",
+    "level": "B1",
+    "situation": "hotel",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 165,
+    "videoId": null,
+    "transcriptContext": "تا کی باید اتاق رو تحویل بدم؟",
+    "pronunciation": "تا کی باید اُتاق رو تَحویل بِدَم؟",
+    "words": [
+      {
+        "w": "اتاق",
+        "m_en": "room",
+        "m_ar": "غرفة"
+      },
+      {
+        "w": "تحویل دادن",
+        "m_en": "to hand over, to vacate",
+        "m_ar": "يُخلي"
+      }
+    ],
+    "grammar_en": "\"باید\" + subjunctive expresses an obligation.",
+    "grammar_ar": "تعبّر «باید» + فعل الشرط عن الإلزام.",
+    "alternatives": [
+      {
+        "text": "ساعت خروج از هتل چیه؟",
+        "note_en": "\"What's the hotel check-out time?\" (more formal)",
+        "note_ar": "«ما موعد المغادرة من الفندق؟» (أكثر رسميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 10082,
+    "text": "من عادت دارم زود بخوابم چون زود بیدار می‌شوم.",
+    "translation_ar": "اعتدتُ النوم مبكرًا لأنني أستيقظ مبكرًا.",
+    "level": "B1",
+    "situation": "daily",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 182,
+    "videoId": null,
+    "transcriptContext": "من عادت دارم زود بخوابم چون زود بیدار می‌شوم.",
+    "pronunciation": "مَن عادَت دارَم زود بِخوابَم چون زود بیدار می‌شَوَم۔",
+    "words": [
+      {
+        "w": "عادت",
+        "m_en": "habit",
+        "m_ar": "عادة"
+      },
+      {
+        "w": "زود",
+        "m_en": "early",
+        "m_ar": "مبكرًا"
+      }
+    ],
+    "grammar_en": "\"عادت دارم\" + subjunctive verb means \"I have a habit of...\".",
+    "grammar_ar": "تعني «عادت دارم» + فعل الشرط «لديّ عادة...».",
+    "alternatives": [
+      {
+        "text": "معمولاً زود می‌خوابم.",
+        "note_en": "I usually go to sleep early",
+        "note_ar": "عادةً أنام مبكرًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 10083,
+    "text": "پدر و مادرم در دانشگاه با هم آشنا شدند.",
+    "translation_ar": "التقى والداي في الجامعة.",
+    "level": "B1",
+    "situation": "family",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 199,
+    "videoId": null,
+    "transcriptContext": "پدر و مادرم در دانشگاه با هم آشنا شدند.",
+    "pronunciation": "پِدَر و مادَرَم دَر دانِشگاه با هَم آشنا شُدَند۔",
+    "words": [
+      {
+        "w": "دانشگاه",
+        "m_en": "university",
+        "m_ar": "جامعة"
+      },
+      {
+        "w": "آشنا شدن",
+        "m_en": "to meet, to become acquainted",
+        "m_ar": "يتعارفان"
+      }
+    ],
+    "grammar_en": "\"با هم\" means \"together / with each other\".",
+    "grammar_ar": "تعني «با هم» «معًا / مع بعضهما».",
+    "alternatives": [
+      {
+        "text": "پدر و مادرم در دانشگاه همدیگر را دیدند.",
+        "note_en": "\"Saw each other\" (a simpler alternative)",
+        "note_ar": "«رأى أحدهما الآخر» (بديل أبسط)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 10084,
+    "text": "اول برید توی تنظیمات، بعد زبان رو عوض کنید.",
+    "translation_ar": "اذهب أوّلًا إلى الإعدادات ثم غيّر اللغة.",
+    "level": "B1",
+    "situation": "meetings",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 216,
+    "videoId": null,
+    "transcriptContext": "اول برید توی تنظیمات، بعد زبان رو عوض کنید.",
+    "pronunciation": "اَوَّل بَرید توی تَنظیمات، بَعد زَبان رو عِوَض کُنید۔",
+    "words": [
+      {
+        "w": "تنظیمات",
+        "m_en": "settings",
+        "m_ar": "إعدادات"
+      },
+      {
+        "w": "عوض کردن",
+        "m_en": "to change",
+        "m_ar": "يغيّر"
+      }
+    ],
+    "grammar_en": "\"اول... بعد...\" means \"first... then...\".",
+    "grammar_ar": "تعني «اول... بعد...» «أوّلًا... ثم...».",
+    "alternatives": [
+      {
+        "text": "تنظیمات رو باز کنید و زبان رو عوض کنید.",
+        "note_en": "Open settings and change the language",
+        "note_ar": "افتح الإعدادات وغيّر اللغة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 10085,
+    "text": "هر سال با همسایه‌ها عید نوروز رو جشن می‌گیریم.",
+    "translation_ar": "نحتفل كلّ عام بعيد النيروز مع الجيران.",
+    "level": "B1",
+    "situation": "celebrations",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 233,
+    "videoId": null,
+    "transcriptContext": "هر سال با همسایه‌ها عید نوروز رو جشن می‌گیریم.",
+    "pronunciation": "هَر سال با هَمسایه‌ها عیدِ نوروز رو جِشن می‌گیریم۔",
+    "words": [
+      {
+        "w": "همسایه",
+        "m_en": "neighbour",
+        "m_ar": "جار"
+      },
+      {
+        "w": "جشن گرفتن",
+        "m_en": "to celebrate",
+        "m_ar": "يحتفل بـ"
+      }
+    ],
+    "grammar_en": "\"نوروز\" is the Persian New Year, the major national celebration.",
+    "grammar_ar": "«نوروز» رأس السنة الفارسيّة، وهو الاحتفال الوطني الأكبر.",
+    "alternatives": [
+      {
+        "text": "هر سال نوروز رو با همسایه‌ها جشن می‌گیریم.",
+        "note_en": "Same meaning, reordered",
+        "note_ar": "نفس المعنى بترتيب مختلف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 10086,
+    "text": "دکتر به من توصیه کرد استراحت کنم و آب زیاد بخورم.",
+    "translation_ar": "نصحني الطبيب بالراحة وشرب الكثير من الماء.",
+    "level": "B1",
+    "situation": "health",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 10,
+    "videoId": null,
+    "transcriptContext": "دکتر به من توصیه کرد استراحت کنم و آب زیاد بخورم.",
+    "pronunciation": "دُکتُر بِه مَن توصیه کَرد اِستِراحَت کُنَم و آبِ زیاد بُخورَم۔",
+    "words": [
+      {
+        "w": "توصیه",
+        "m_en": "advice",
+        "m_ar": "نصيحة"
+      },
+      {
+        "w": "استراحت",
+        "m_en": "rest",
+        "m_ar": "راحة"
+      }
+    ],
+    "grammar_en": "\"توصیه کرد\" + subjunctive means \"advised (me) to do\".",
+    "grammar_ar": "«توصیه کرد» + فعل الشرط = «نصح بأن يفعل».",
+    "alternatives": [
+      {
+        "text": "دکتر گفت استراحت کنم.",
+        "note_en": "The doctor told me to rest",
+        "note_ar": "قال لي الطبيب إنّني يجب أن أستريح"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 10087,
+    "text": "با وجود مشکلات، کار رو سر وقت تمام کردیم.",
+    "translation_ar": "التزمنا بالمواعيد النهائيّة رغم الصعوبات.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "FA",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (FA)",
+    "timestamp": 27,
+    "videoId": null,
+    "transcriptContext": "با وجود مشکلات، کار رو سر وقت تمام کردیم.",
+    "pronunciation": "با وُجودِ مُشکِلات، کار رو سَرِ وَقت تَمام کَردیم۔",
+    "words": [
+      {
+        "w": "با وجود",
+        "m_en": "despite",
+        "m_ar": "رغم"
+      },
+      {
+        "w": "سر وقت",
+        "m_en": "on time",
+        "m_ar": "في الموعد"
+      }
+    ],
+    "grammar_en": "\"با وجود\" + noun means \"despite\".",
+    "grammar_ar": "«با وجود» + اسم تعني «رغم».",
+    "alternatives": [
+      {
+        "text": "با وجود مشکلات، ضرب‌الاجل رو رعایت کردیم.",
+        "note_en": "\"Deadline was met\" using the borrowed term",
+        "note_ar": "«التُزم بالموعد النهائي» باستخدام المصطلح المستعار"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  }
+]
