@@ -478,6 +478,7 @@ footer .wrap{display:flex; flex-wrap:wrap; gap:10px; justify-content:space-betwe
         <option value="it">🇮🇹 Italiano</option>
         <option value="es">🇪🇸 Español</option>
         <option value="ur">🇵🇰 اردو</option>
+        <option value="hi">🇮🇳 हिन्दी</option>
       </select>
       </label>
       <label class="lang-field" for="langToggle">
@@ -777,6 +778,7 @@ const I18N = {
     demoNoVideo:"Demo mode — no licensed video for this sentence yet.",
     demoNoVideoSub:"Connect the YouTube Data API in searchYouTubeSentences() to play real clips here.",
     speechNotSupported:"Speech recognition isn't supported in this browser.",
+    noVoiceForLang:"No Urdu voice is installed on this device, so it may sound off or stay silent. You can add one in your phone/browser's text-to-speech language settings.",
     reSearch:"Search again", removeHistory:"Remove", removeFav:"Remove",
     matchLabel:"Match", secBefore:"starts 2–3s before the sentence for context",
     repeatCountLabel:"Repeat", repeatGapLabel:"Gap", timesUnit:"×", secUnit:"s", speedLabel:"Speed",
@@ -822,6 +824,7 @@ const I18N = {
     demoNoVideo:"وضع تجريبي — لا يوجد فيديو مرخّص لهذه الجملة بعد.",
     demoNoVideoSub:"اربط YouTube Data API داخل دالة searchYouTubeSentences() لتشغيل مقاطع حقيقية هنا.",
     speechNotSupported:"التعرف على الصوت غير مدعوم في هذا المتصفح.",
+    noVoiceForLang:"لا يوجد صوت أردو مثبَّت على هذا الجهاز، فقد يبدو النطق غير صحيح أو لا يصدر صوت. يمكنك إضافته من إعدادات النطق الآلي (text-to-speech) في هاتفك أو متصفّحك.",
     reSearch:"ابحث مرة أخرى", removeHistory:"حذف", removeFav:"حذف",
     matchLabel:"تطابق", secBefore:"يبدأ قبل الجملة بـ ٢-٣ ثوانٍ ليعطيك السياق",
     repeatCountLabel:"التكرار", repeatGapLabel:"الفاصل الزمني", timesUnit:"مرة", secUnit:"ث", speedLabel:"السرعة",
@@ -1065,6 +1068,7 @@ let DEMO_SENTENCES_RU = [];
 let DEMO_SENTENCES_IT = [];
 let DEMO_SENTENCES_ES = [];
 let DEMO_SENTENCES_UR = [];
+let DEMO_SENTENCES_HI = [];
 async function fetchJson(url){
   try{
     const res = await fetch(url);
@@ -1082,17 +1086,19 @@ function datasetForLearnLang(lang){
   if(lang==='it') return DEMO_SENTENCES_IT;
   if(lang==='es') return DEMO_SENTENCES_ES;
   if(lang==='ur') return DEMO_SENTENCES_UR;
+  if(lang==='hi') return DEMO_SENTENCES_HI;
   return DEMO_SENTENCES_EN;
 }
 async function loadSentences(){
-  [DEMO_SENTENCES_EN, DEMO_SENTENCES_DE, DEMO_SENTENCES_FR, DEMO_SENTENCES_RU, DEMO_SENTENCES_IT, DEMO_SENTENCES_ES, DEMO_SENTENCES_UR] = await Promise.all([
+  [DEMO_SENTENCES_EN, DEMO_SENTENCES_DE, DEMO_SENTENCES_FR, DEMO_SENTENCES_RU, DEMO_SENTENCES_IT, DEMO_SENTENCES_ES, DEMO_SENTENCES_UR, DEMO_SENTENCES_HI] = await Promise.all([
     fetchJson('sentences.json'),
     fetchJson('sentences_de.json'),
     fetchJson('sentences_fr.json'),
     fetchJson('sentences_ru.json'),
     fetchJson('sentences_it.json'),
     fetchJson('sentences_es.json'),
-    fetchJson('sentences_ur.json')
+    fetchJson('sentences_ur.json'),
+    fetchJson('sentences_hi.json')
   ]);
   DEMO_SENTENCES = datasetForLearnLang(State.learnLang);
 }
@@ -1116,7 +1122,7 @@ function situationQuery(item){
 /* language over once its dataset carries the same `situation` keys.        */
 /* English keeps its hand-written prompt cards (they search English text).  */
 /* ---------------------------------------------------------------------- */
-const SITUATION_FILTER_LANGS = ['it','de','fr','ru','es','ur'];
+const SITUATION_FILTER_LANGS = ['it','de','fr','ru','es','ur','hi'];
 const SITUATION_LEVELS = ['A1','A2','B1','B2','C1','C2'];
 const SITUATION_COUNT_WORD = {ar:'جملة', de:'Sätze', fr:'phrases', en:'sentences'};
 /* Situations that exist in the datasets but have no card in SITUATIONS. */
@@ -1665,6 +1671,7 @@ function targetLangCode(){
   if(State.learnLang==='it') return 'it-IT';
   if(State.learnLang==='es') return 'es-ES';
   if(State.learnLang==='ur') return 'ur-PK';
+  if(State.learnLang==='hi') return 'hi-IN';
   return 'en-US';
 }
 
@@ -1719,7 +1726,7 @@ function initYouglishWidget(){
 }
 function fetchYouglish(query){
   const noteEl = document.getElementById('youglishNote');
-  const YG_LANG = { de:'german', fr:'french', ru:'russian', it:'italian', es:'spanish', ur:'hindi' };
+  const YG_LANG = { de:'german', fr:'french', ru:'russian', it:'italian', es:'spanish', ur:'hindi', hi:'hindi' };
   noteEl.textContent = (State.learnLang==='ur')
     ? (State.lang==='ar' ? 'اللغة الأردية غير متوفّرة على منصّة النطق، فتُعرض فيديوهات باللغة الهندية (النطق قريب جدًّا من الأردية للكلمات المشتركة).' : "Urdu isn't available on the pronunciation service, so Hindi videos are shown instead (pronunciation is very close for shared vocabulary).")
     : '';
@@ -2076,6 +2083,7 @@ function renderVarietyPills(){
     it: [['all', t('allVarieties'),'🌍'],['IT','Italia','🇮🇹']],
     es: [['all', t('allVarieties'),'🌍'],['ES','España','🇪🇸']],
     ur: [['all', t('allVarieties'),'🌍'],['UR','پاکستان','🇵🇰']],
+    hi: [['all', t('allVarieties'),'🌍'],['HI','भारत','🇮🇳']],
     en: [['all', t('allVarieties'),'🌍'],['US', t('us'),'🇺🇸'],['GB', t('gb'),'🇬🇧'],['AU', t('au'),'🇦🇺'],['CA', t('ca'),'🇨🇦']]
   };
   const varieties = VARIETY_SETS[State.learnLang] || VARIETY_SETS.en;
@@ -2353,6 +2361,7 @@ function renderAudioStage(containerEl, s, textToSpeak){
     if(stopped) return;
     const u = new SpeechSynthesisUtterance(textToSpeak);
     u.lang=targetLangCode(); u.rate=Number(speedSel.value) || 1;
+    warnIfNoVoice(u.lang);
     u.onstart = ()=>{ stage.classList.add('playing'); btn.classList.add('playing'); btn.textContent='❚❚'; };
     u.onend = ()=>{
       if(stopped) return;
@@ -2440,12 +2449,26 @@ function switchMode(mode){
 /* ---------------------------------------------------------------------- */
 /* SPEECH — TTS (listen) + Speech Recognition (practice/speaking)          */
 /* ---------------------------------------------------------------------- */
+function warnIfNoVoice(langCode){
+  if(State.learnLang !== 'ur') return; // targeted: Urdu voices are rarely preinstalled
+  if(!window.speechSynthesis.getVoices) return;
+  const check = () => {
+    const voices = window.speechSynthesis.getVoices();
+    if(voices.length && !voices.some(v => v.lang && v.lang.toLowerCase().startsWith('ur'))){
+      showToast(t('noVoiceForLang'));
+    }
+  };
+  const voices = window.speechSynthesis.getVoices();
+  if(voices.length) check();
+  else window.speechSynthesis.addEventListener('voiceschanged', check, { once:true });
+}
 function speak(text){
   if(!('speechSynthesis' in window)){ showToast(t('speechNotSupported')); return; }
   window.speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(text);
   u.lang = targetLangCode();
   u.rate = 0.95;
+  warnIfNoVoice(u.lang);
   window.speechSynthesis.speak(u);
 }
 
@@ -2628,7 +2651,7 @@ document.getElementById('langToggle').addEventListener('change', (e)=>{
 
 /* Learning-language toggle — switches which sentence set (English or
    German) the whole app searches, quizzes and speaks. */
-const LEARN_CYCLE = ['en','de','fr','ru','it','es','ur'];
+const LEARN_CYCLE = ['en','de','fr','ru','it','es','ur','hi'];
 const LEARN_LABELS = { en: '🇬🇧 English', de: '🇩🇪 Deutsch', fr: '🇫🇷 Français', ru: '🇷🇺 Русский', it: '🇮🇹 Italiano', es: '🇪🇸 Español' };
 function otherLearnLang(l){ return LEARN_CYCLE[(LEARN_CYCLE.indexOf(l)+1)%LEARN_CYCLE.length]; }
 
