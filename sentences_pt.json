@@ -1,0 +1,5455 @@
+[
+  {
+    "id": 3001,
+    "text": "Bom dia!",
+    "translation_ar": "صباح الخير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 5,
+    "videoId": null,
+    "transcriptContext": "Bom dia!",
+    "pronunciation": "بوم دِيا!",
+    "words": [
+      {
+        "w": "bom",
+        "m_en": "good",
+        "m_ar": "جيّد"
+      },
+      {
+        "w": "dia",
+        "m_en": "day",
+        "m_ar": "يوم"
+      }
+    ],
+    "grammar_en": "\"Bom dia\" is used until roughly midday.",
+    "grammar_ar": "تُستعمل «bom dia» حتى الظهر تقريبًا.",
+    "alternatives": [
+      {
+        "text": "Bom dia a todos!",
+        "note_en": "Good morning everyone!",
+        "note_ar": "صباح الخير للجميع!"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3002,
+    "text": "Boa tarde!",
+    "translation_ar": "مساء الخير! (بعد الظهر)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 22,
+    "videoId": null,
+    "transcriptContext": "Boa tarde!",
+    "pronunciation": "بوا تاردِ!",
+    "words": [
+      {
+        "w": "boa",
+        "m_en": "good (fem.)",
+        "m_ar": "جيّد (مؤنّث)"
+      },
+      {
+        "w": "tarde",
+        "m_en": "afternoon",
+        "m_ar": "بعد الظهر"
+      }
+    ],
+    "grammar_en": "\"Boa\" is feminine to agree with \"tarde\".",
+    "grammar_ar": "«boa» مؤنّثة لتتطابق مع «tarde».",
+    "alternatives": [
+      {
+        "text": "Boa tarde para você!",
+        "note_en": "Good afternoon to you!",
+        "note_ar": "مساء خير لك!"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3003,
+    "text": "Boa noite!",
+    "translation_ar": "تصبح على خير! / مساء الخير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 39,
+    "videoId": null,
+    "transcriptContext": "Boa noite!",
+    "pronunciation": "بوا نويچِ!",
+    "words": [
+      {
+        "w": "noite",
+        "m_en": "night",
+        "m_ar": "ليل"
+      }
+    ],
+    "grammar_en": "\"Boa noite\" is used both to greet and to say goodbye at night.",
+    "grammar_ar": "تُستعمل «boa noite» للتحيّة وللوداع ليلًا معًا.",
+    "alternatives": [
+      {
+        "text": "Boa noite, até amanhã!",
+        "note_en": "Good night, see you tomorrow!",
+        "note_ar": "تصبح على خير، أراك غدًا!"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3004,
+    "text": "Obrigado!",
+    "translation_ar": "شكرًا! (متحدّث ذكر)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 56,
+    "videoId": null,
+    "transcriptContext": "Obrigado!",
+    "pronunciation": "أوبريگادو!",
+    "words": [
+      {
+        "w": "obrigado",
+        "m_en": "thank you (masc.)",
+        "m_ar": "شكرًا (مذكّر)"
+      }
+    ],
+    "grammar_en": "\"Obrigado\" changes to \"obrigada\" when a woman is speaking.",
+    "grammar_ar": "تتحوّل «obrigado» إلى «obrigada» إذا كانت المتحدّثة امرأة.",
+    "alternatives": [
+      {
+        "text": "Muito obrigado!",
+        "note_en": "Thank you very much!",
+        "note_ar": "شكرًا جزيلًا!"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3005,
+    "text": "Obrigada!",
+    "translation_ar": "شكرًا! (متحدّثة أنثى)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 73,
+    "videoId": null,
+    "transcriptContext": "Obrigada!",
+    "pronunciation": "أوبريگادا!",
+    "words": [
+      {
+        "w": "obrigada",
+        "m_en": "thank you (fem.)",
+        "m_ar": "شكرًا (مؤنّث)"
+      }
+    ],
+    "grammar_en": "Gender agreement applies to the speaker, not the listener.",
+    "grammar_ar": "تطابق الجنس هنا يخصّ المتحدّث لا المستمع.",
+    "alternatives": [
+      {
+        "text": "Muito obrigada pela ajuda!",
+        "note_en": "Thank you very much for the help!",
+        "note_ar": "شكرًا جزيلًا على المساعدة!"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3006,
+    "text": "Por favor!",
+    "translation_ar": "من فضلك!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 90,
+    "videoId": null,
+    "transcriptContext": "Por favor!",
+    "pronunciation": "پور فاڤور!",
+    "words": [
+      {
+        "w": "por favor",
+        "m_en": "please",
+        "m_ar": "من فضلك"
+      }
+    ],
+    "grammar_en": "\"Por favor\" can come before or after the request.",
+    "grammar_ar": "يمكن لـ«por favor» أن تأتي قبل الطلب أو بعده.",
+    "alternatives": [
+      {
+        "text": "Um café, por favor.",
+        "note_en": "A coffee, please",
+        "note_ar": "قهوة من فضلك"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3007,
+    "text": "Sim, por favor.",
+    "translation_ar": "نعم، من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 107,
+    "videoId": null,
+    "transcriptContext": "Sim, por favor.",
+    "pronunciation": "سيم، پور فاڤور۔",
+    "words": [
+      {
+        "w": "sim",
+        "m_en": "yes",
+        "m_ar": "نعم"
+      }
+    ],
+    "grammar_en": "\"Sim\" is the simple word for \"yes\".",
+    "grammar_ar": "«sim» الكلمة البسيطة لـ«نعم».",
+    "alternatives": [
+      {
+        "text": "Sim, obrigado.",
+        "note_en": "Yes, thank you",
+        "note_ar": "نعم، شكرًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3008,
+    "text": "Não, obrigado.",
+    "translation_ar": "لا، شكرًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 124,
+    "videoId": null,
+    "transcriptContext": "Não, obrigado.",
+    "pronunciation": "ناوْن، أوبريگادو۔",
+    "words": [
+      {
+        "w": "não",
+        "m_en": "no",
+        "m_ar": "لا"
+      }
+    ],
+    "grammar_en": "\"Não\" is placed before the verb to negate a sentence.",
+    "grammar_ar": "توضع «não» قبل الفعل لنفي الجملة.",
+    "alternatives": [
+      {
+        "text": "Não, obrigada.",
+        "note_en": "\"No, thank you\" (feminine speaker)",
+        "note_ar": "لا، شكرًا (متحدّثة أنثى)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3009,
+    "text": "Desculpe!",
+    "translation_ar": "المعذرة!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 141,
+    "videoId": null,
+    "transcriptContext": "Desculpe!",
+    "pronunciation": "دِشكولپِ!",
+    "words": [
+      {
+        "w": "desculpar",
+        "m_en": "to excuse, to forgive",
+        "m_ar": "يعذر / يسامح"
+      }
+    ],
+    "grammar_en": "\"Desculpe\" is the formal imperative used to apologise or get attention.",
+    "grammar_ar": "«دِشكولپِ» أمر رسمي يُستعمل للاعتذار أو جذب الانتباه.",
+    "alternatives": [
+      {
+        "text": "Desculpa!",
+        "note_en": "Informal version, used with friends",
+        "note_ar": "صيغة غير رسميّة، تُستعمل مع الأصدقاء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3010,
+    "text": "Tchau!",
+    "translation_ar": "إلى اللقاء!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 158,
+    "videoId": null,
+    "transcriptContext": "Tchau!",
+    "pronunciation": "تشاو!",
+    "words": [
+      {
+        "w": "tchau",
+        "m_en": "bye",
+        "m_ar": "إلى اللقاء"
+      }
+    ],
+    "grammar_en": "\"Tchau\" (from Italian \"ciao\") is the most common informal goodbye.",
+    "grammar_ar": "«tchau» (من الإيطالية «ciao») أشيع كلمة وداع غير رسميّة.",
+    "alternatives": [
+      {
+        "text": "Até logo!",
+        "note_en": "\"See you soon!\"",
+        "note_ar": "إلى اللقاء قريبًا!"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3011,
+    "text": "Até amanhã!",
+    "translation_ar": "أراك غدًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 175,
+    "videoId": null,
+    "transcriptContext": "Até amanhã!",
+    "pronunciation": "آتِه أمانْيان!",
+    "words": [
+      {
+        "w": "amanhã",
+        "m_en": "tomorrow",
+        "m_ar": "غدًا"
+      },
+      {
+        "w": "até",
+        "m_en": "until",
+        "m_ar": "حتى"
+      }
+    ],
+    "grammar_en": "\"Até\" + a time expression means \"see you at/on...\".",
+    "grammar_ar": "تعني «até» + وقت «أراك في...».",
+    "alternatives": [
+      {
+        "text": "Até segunda!",
+        "note_en": "See you Monday!",
+        "note_ar": "أراك يوم الاثنين!"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3012,
+    "text": "Como vai?",
+    "translation_ar": "كيف حالك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 192,
+    "videoId": null,
+    "transcriptContext": "Como vai?",
+    "pronunciation": "كومو ڤاي؟",
+    "words": [
+      {
+        "w": "como",
+        "m_en": "how",
+        "m_ar": "كيف"
+      },
+      {
+        "w": "ir",
+        "m_en": "to go",
+        "m_ar": "يذهب"
+      }
+    ],
+    "grammar_en": "\"Como vai?\" literally means \"how does it go?\", a common way to ask how someone is.",
+    "grammar_ar": "تعني «كومو ڤاي؟» حرفيًّا «كيف يسير الأمر؟»، وهي طريقة شائعة للسؤال عن الحال.",
+    "alternatives": [
+      {
+        "text": "Tudo bem?",
+        "note_en": "\"Is everything fine?\" (very common alternative)",
+        "note_ar": "«هل كلّ شيء بخير؟» (بديل شائع جدًّا)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3013,
+    "text": "Estou bem, obrigado.",
+    "translation_ar": "أنا بخير، شكرًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 209,
+    "videoId": null,
+    "transcriptContext": "Estou bem, obrigado.",
+    "pronunciation": "إشتو بِيّن، أوبريگادو۔",
+    "words": [
+      {
+        "w": "estar",
+        "m_en": "to be (temporary state)",
+        "m_ar": "يكون (حالة مؤقّتة)"
+      },
+      {
+        "w": "bem",
+        "m_en": "well",
+        "m_ar": "بخير"
+      }
+    ],
+    "grammar_en": "\"Estar\" is used for a current state, not \"ser\" (permanent being).",
+    "grammar_ar": "يُستعمل «estar» لحالة مؤقّتة لا «ser» (الكينونة الدائمة).",
+    "alternatives": [
+      {
+        "text": "Tudo bem, e você?",
+        "note_en": "\"I'm fine, and you?\"",
+        "note_ar": "أنا بخير، وأنت؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3014,
+    "text": "Prazer em conhecê-lo!",
+    "translation_ar": "سعدتُ بلقائك! (لمخاطب ذكر)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 226,
+    "videoId": null,
+    "transcriptContext": "Prazer em conhecê-lo!",
+    "pronunciation": "پرازِير إين كونيسِه-لو!",
+    "words": [
+      {
+        "w": "prazer",
+        "m_en": "pleasure",
+        "m_ar": "سرور"
+      },
+      {
+        "w": "conhecer",
+        "m_en": "to meet, to know",
+        "m_ar": "يتعرّف على"
+      }
+    ],
+    "grammar_en": "\"-lo\" is the object pronoun \"him/you\" attached to the infinitive.",
+    "grammar_ar": "يلتصق ضمير المفعول «-lo» (إيّاه/إيّاك) بالمصدر.",
+    "alternatives": [
+      {
+        "text": "Prazer em conhecê-la!",
+        "note_en": "Same, addressing a woman",
+        "note_ar": "نفسها لمخاطبة امرأة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3015,
+    "text": "Bem-vindo!",
+    "translation_ar": "أهلًا وسهلًا! (لمخاطب ذكر)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 3,
+    "videoId": null,
+    "transcriptContext": "Bem-vindo!",
+    "pronunciation": "بِيّن-ڤيندو!",
+    "words": [
+      {
+        "w": "bem-vindo",
+        "m_en": "welcome (masc.)",
+        "m_ar": "مرحّب به (مذكّر)"
+      }
+    ],
+    "grammar_en": "\"Bem-vindo\" agrees with gender and number: \"bem-vinda\", \"bem-vindos\".",
+    "grammar_ar": "تتطابق «bem-vindo» مع الجنس والعدد: «bem-vinda» و«bem-vindos».",
+    "alternatives": [
+      {
+        "text": "Sejam bem-vindos!",
+        "note_en": "\"Welcome!\" (plural, formal)",
+        "note_ar": "«أهلًا بكم!» (جمع، رسمي)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3016,
+    "text": "Sente-se, por favor.",
+    "translation_ar": "تفضّل بالجلوس من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 20,
+    "videoId": null,
+    "transcriptContext": "Sente-se, por favor.",
+    "pronunciation": "سِينتِ-سِه، پور فاڤور۔",
+    "words": [
+      {
+        "w": "sentar-se",
+        "m_en": "to sit down",
+        "m_ar": "يجلس"
+      }
+    ],
+    "grammar_en": "\"Sente-se\" is the formal imperative of the reflexive verb \"sentar-se\".",
+    "grammar_ar": "«سِينتِ-سِه» أمر رسمي من الفعل الانعكاسي «sentar-se».",
+    "alternatives": [
+      {
+        "text": "Senta aí.",
+        "note_en": "\"Sit there\" (very informal)",
+        "note_ar": "«اجلس هناك» (عاميّة جدًّا)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3017,
+    "text": "Hoje é segunda-feira.",
+    "translation_ar": "اليوم هو الاثنين.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 37,
+    "videoId": null,
+    "transcriptContext": "Hoje é segunda-feira.",
+    "pronunciation": "أوجِ إه سِگوندا-فِيرا۔",
+    "words": [
+      {
+        "w": "segunda-feira",
+        "m_en": "Monday",
+        "m_ar": "الاثنين"
+      },
+      {
+        "w": "hoje",
+        "m_en": "today",
+        "m_ar": "اليوم"
+      }
+    ],
+    "grammar_en": "Weekday names (except Saturday/Sunday) are built from \"-feira\" + a number.",
+    "grammar_ar": "تُبنى أسماء أيّام الأسبوع (عدا السبت والأحد) من «-feira» + عدد.",
+    "alternatives": [
+      {
+        "text": "Amanhã é terça-feira.",
+        "note_en": "Tomorrow is Tuesday",
+        "note_ar": "غدًا الثلاثاء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3018,
+    "text": "Tenho dois irmãos.",
+    "translation_ar": "لديّ أخوان.",
+    "level": "A1",
+    "situation": "family",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 54,
+    "videoId": null,
+    "transcriptContext": "Tenho dois irmãos.",
+    "pronunciation": "تِنيو دويس إيرمانوس۔",
+    "words": [
+      {
+        "w": "irmão",
+        "m_en": "brother",
+        "m_ar": "أخ"
+      },
+      {
+        "w": "dois",
+        "m_en": "two",
+        "m_ar": "اثنان"
+      }
+    ],
+    "grammar_en": "\"Irmãos\" (plural) can mean \"brothers\" or \"siblings\" in general.",
+    "grammar_ar": "قد تعني «irmãos» (جمع) «إخوة ذكورًا» أو «إخوة» عمومًا.",
+    "alternatives": [
+      {
+        "text": "Tenho um irmão e uma irmã.",
+        "note_en": "I have one brother and one sister",
+        "note_ar": "لديّ أخ وأخت"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3019,
+    "text": "Clique neste botão.",
+    "translation_ar": "اضغط على هذا الزرّ.",
+    "level": "A1",
+    "situation": "technology",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 71,
+    "videoId": null,
+    "transcriptContext": "Clique neste botão.",
+    "pronunciation": "كليكِ نِشتِ بوتاون۔",
+    "words": [
+      {
+        "w": "botão",
+        "m_en": "button",
+        "m_ar": "زرّ"
+      },
+      {
+        "w": "clicar",
+        "m_en": "to click",
+        "m_ar": "يضغط"
+      }
+    ],
+    "grammar_en": "\"Clique\" is the formal imperative of \"clicar\".",
+    "grammar_ar": "«كليكِ» أمر رسمي من «clicar».",
+    "alternatives": [
+      {
+        "text": "Clique aqui.",
+        "note_en": "Click here",
+        "note_ar": "اضغط هنا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3020,
+    "text": "Abra este aplicativo.",
+    "translation_ar": "افتح هذا التطبيق.",
+    "level": "A1",
+    "situation": "technology",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 88,
+    "videoId": null,
+    "transcriptContext": "Abra este aplicativo.",
+    "pronunciation": "آبرا إشتِ أپليكاتيڤو۔",
+    "words": [
+      {
+        "w": "aplicativo",
+        "m_en": "app",
+        "m_ar": "تطبيق"
+      },
+      {
+        "w": "abrir",
+        "m_en": "to open",
+        "m_ar": "يفتح"
+      }
+    ],
+    "grammar_en": "\"Abra\" is the formal imperative of \"abrir\".",
+    "grammar_ar": "«آبرا» أمر رسمي من «abrir».",
+    "alternatives": [
+      {
+        "text": "Abra o app.",
+        "note_en": "\"App\" is the common short form of \"aplicativo\"",
+        "note_ar": "«app» الاختصار الشائع لـ«aplicativo»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3021,
+    "text": "Alô, quem fala?",
+    "translation_ar": "ألو، من المتحدّث؟",
+    "level": "A1",
+    "situation": "phone-calls",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 105,
+    "videoId": null,
+    "transcriptContext": "Alô, quem fala?",
+    "pronunciation": "آلو، كِين فالا؟",
+    "words": [
+      {
+        "w": "alô",
+        "m_en": "hello (on the phone)",
+        "m_ar": "ألو"
+      },
+      {
+        "w": "falar",
+        "m_en": "to speak",
+        "m_ar": "يتحدّث"
+      }
+    ],
+    "grammar_en": "\"Alô\" is only used when answering the phone.",
+    "grammar_ar": "تُستعمل «آلو» فقط عند الردّ على الهاتف.",
+    "alternatives": [
+      {
+        "text": "Quem está falando?",
+        "note_en": "Who is speaking?",
+        "note_ar": "من المتحدّث؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3022,
+    "text": "Feliz aniversário!",
+    "translation_ar": "عيد ميلاد سعيد!",
+    "level": "A1",
+    "situation": "celebrations",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 122,
+    "videoId": null,
+    "transcriptContext": "Feliz aniversário!",
+    "pronunciation": "فِليز آنيڤِرساريو!",
+    "words": [
+      {
+        "w": "aniversário",
+        "m_en": "birthday",
+        "m_ar": "عيد ميلاد"
+      },
+      {
+        "w": "feliz",
+        "m_en": "happy",
+        "m_ar": "سعيد"
+      }
+    ],
+    "grammar_en": "\"Feliz\" does not change for gender: \"feliz aniversário\".",
+    "grammar_ar": "لا تتغيّر «feliz» بحسب الجنس: «feliz aniversário».",
+    "alternatives": [
+      {
+        "text": "Parabéns!",
+        "note_en": "\"Congratulations!\" (also used for birthdays)",
+        "note_ar": "مبروك! (تُستعمل أيضًا لأعياد الميلاد)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 3023,
+    "text": "Qual é o seu nome?",
+    "translation_ar": "ما اسمك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 139,
+    "videoId": null,
+    "transcriptContext": "Qual é o seu nome?",
+    "pronunciation": "كوال إه او سيو نومِ؟",
+    "words": [
+      {
+        "w": "nome",
+        "m_en": "name",
+        "m_ar": "اسم"
+      },
+      {
+        "w": "seu",
+        "m_en": "your (formal)",
+        "m_ar": "اسمك (رسمي)"
+      }
+    ],
+    "grammar_en": "\"Qual é\" means \"what is\" for identifying something specific.",
+    "grammar_ar": "تعني «qual é» «ما هو» عند السؤال عن شيء محدّد.",
+    "alternatives": [
+      {
+        "text": "Como você se chama?",
+        "note_en": "\"What do you call yourself?\" (equally common)",
+        "note_ar": "«كيف تُسمّي نفسك؟» (شائعة بالقدر نفسه)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3024,
+    "text": "Meu nome é Sara.",
+    "translation_ar": "اسمي سارة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 156,
+    "videoId": null,
+    "transcriptContext": "Meu nome é Sara.",
+    "pronunciation": "مِيو نومِ إه سارا۔",
+    "words": [
+      {
+        "w": "meu",
+        "m_en": "my (masc.)",
+        "m_ar": "اسمي / لي"
+      }
+    ],
+    "grammar_en": "\"Meu\" agrees with the masculine \"nome\".",
+    "grammar_ar": "تتطابق «meu» مع المذكّر «nome».",
+    "alternatives": [
+      {
+        "text": "Eu me chamo Sara.",
+        "note_en": "\"I call myself Sara\" (equally common way to introduce oneself)",
+        "note_ar": "«أنا أُسمّي نفسي سارة» (طريقة شائعة بالقدر نفسه للتعريف بالنفس)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3025,
+    "text": "De onde você é?",
+    "translation_ar": "من أين أنت؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 173,
+    "videoId": null,
+    "transcriptContext": "De onde você é?",
+    "pronunciation": "دِ اوندِ ڤوسِه إه؟",
+    "words": [
+      {
+        "w": "onde",
+        "m_en": "where",
+        "m_ar": "أين"
+      },
+      {
+        "w": "de onde",
+        "m_en": "from where",
+        "m_ar": "من أين"
+      }
+    ],
+    "grammar_en": "\"De onde\" means \"from where\".",
+    "grammar_ar": "تعني «de onde» «من أين».",
+    "alternatives": [
+      {
+        "text": "Qual é a sua origem?",
+        "note_en": "\"What is your origin?\" (more formal)",
+        "note_ar": "«ما أصلك؟» (أكثر رسميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3026,
+    "text": "Eu sou do Egito.",
+    "translation_ar": "أنا من مصر.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 190,
+    "videoId": null,
+    "transcriptContext": "Eu sou do Egito.",
+    "pronunciation": "إيو سو دو إجيتو۔",
+    "words": [
+      {
+        "w": "Egito",
+        "m_en": "Egypt",
+        "m_ar": "مصر"
+      },
+      {
+        "w": "ser",
+        "m_en": "to be (permanent)",
+        "m_ar": "يكون (دائم)"
+      }
+    ],
+    "grammar_en": "\"Ser\" + \"de\" + place means \"to be from\" (origin, a lasting fact).",
+    "grammar_ar": "«ser» + «de» + مكان = «أن يكون من» (أصل، حقيقة دائمة).",
+    "alternatives": [
+      {
+        "text": "Sou egípcio.",
+        "note_en": "\"I'm Egyptian\" (masc.)",
+        "note_ar": "«أنا مصري» (مذكّر)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3027,
+    "text": "Eu acordo às sete horas.",
+    "translation_ar": "أستيقظ في السابعة.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 207,
+    "videoId": null,
+    "transcriptContext": "Eu acordo às sete horas.",
+    "pronunciation": "إيو أكوردو آس سيچِ أوراس۔",
+    "words": [
+      {
+        "w": "acordar",
+        "m_en": "to wake up",
+        "m_ar": "يستيقظ"
+      },
+      {
+        "w": "sete",
+        "m_en": "seven",
+        "m_ar": "سبعة"
+      }
+    ],
+    "grammar_en": "\"Às\" + hour means \"at\" (clock time), contracting \"a\" + \"as\".",
+    "grammar_ar": "«às» + الساعة = «في» (وقت)، وهي اختصار «a» + «as».",
+    "alternatives": [
+      {
+        "text": "Eu levanto às sete horas.",
+        "note_en": "\"Levantar\" = to get up (out of bed)",
+        "note_ar": "«levantar» = ينهض من السرير"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3028,
+    "text": "Isto é um, isto é dois.",
+    "translation_ar": "هذا واحد، هذا اثنان.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 224,
+    "videoId": null,
+    "transcriptContext": "Isto é um, isto é dois.",
+    "pronunciation": "إيستو إه أون، إيستو إه دويس۔",
+    "words": [
+      {
+        "w": "um",
+        "m_en": "one",
+        "m_ar": "واحد"
+      },
+      {
+        "w": "dois",
+        "m_en": "two",
+        "m_ar": "اثنان"
+      }
+    ],
+    "grammar_en": "\"Isto\" (this, neuter) is used for pointing at something general.",
+    "grammar_ar": "تُستعمل «isto» (هذا، محايد) للإشارة إلى شيء عامّ.",
+    "alternatives": [
+      {
+        "text": "Três, quatro, cinco.",
+        "note_en": "Three, four, five",
+        "note_ar": "ثلاثة، أربعة، خمسة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3029,
+    "text": "Esta cor é vermelha.",
+    "translation_ar": "هذا اللون أحمر.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 1,
+    "videoId": null,
+    "transcriptContext": "Esta cor é vermelha.",
+    "pronunciation": "إشتا كور إه ڤِرمِيليا۔",
+    "words": [
+      {
+        "w": "vermelho",
+        "m_en": "red",
+        "m_ar": "أحمر"
+      },
+      {
+        "w": "cor",
+        "m_en": "colour",
+        "m_ar": "لون"
+      }
+    ],
+    "grammar_en": "\"Vermelha\" agrees with the feminine \"cor\".",
+    "grammar_ar": "تتطابق «vermelha» مع المؤنّث «cor».",
+    "alternatives": [
+      {
+        "text": "Minha cor favorita é vermelha.",
+        "note_en": "My favourite colour is red",
+        "note_ar": "لوني المفضّل هو الأحمر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3030,
+    "text": "A casa tem três quartos.",
+    "translation_ar": "للمنزل ثلاث غرف نوم.",
+    "level": "A1",
+    "situation": "home",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 18,
+    "videoId": null,
+    "transcriptContext": "A casa tem três quartos.",
+    "pronunciation": "آ كازا تِين تريس كوارتوس۔",
+    "words": [
+      {
+        "w": "quarto",
+        "m_en": "bedroom",
+        "m_ar": "غرفة نوم"
+      },
+      {
+        "w": "três",
+        "m_en": "three",
+        "m_ar": "ثلاثة"
+      }
+    ],
+    "grammar_en": "\"Ter\" is used to describe what a house has, like in English.",
+    "grammar_ar": "يُستعمل «ter» لوصف ما يحتويه المنزل، كما في الإنجليزية.",
+    "alternatives": [
+      {
+        "text": "Minha casa tem três quartos.",
+        "note_en": "My house has three bedrooms",
+        "note_ar": "منزلي فيه ثلاث غرف نوم"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3031,
+    "text": "Quanto custa esta camisa?",
+    "translation_ar": "كم سعر هذا القميص؟",
+    "level": "A1",
+    "situation": "shopping",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 35,
+    "videoId": null,
+    "transcriptContext": "Quanto custa esta camisa?",
+    "pronunciation": "كوانتو كوستا إشتا كاميزا؟",
+    "words": [
+      {
+        "w": "camisa",
+        "m_en": "shirt",
+        "m_ar": "قميص"
+      },
+      {
+        "w": "custar",
+        "m_en": "to cost",
+        "m_ar": "يكلّف"
+      }
+    ],
+    "grammar_en": "\"Esta\" is feminine because \"camisa\" is feminine.",
+    "grammar_ar": "«esta» مؤنّثة لأنّ «camisa» مؤنّثة.",
+    "alternatives": [
+      {
+        "text": "Qual é o preço desta camisa?",
+        "note_en": "What is the price of this shirt?",
+        "note_ar": "ما ثمن هذا القميص؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3032,
+    "text": "Um copo de água, por favor.",
+    "translation_ar": "كأس ماء من فضلك.",
+    "level": "A1",
+    "situation": "restaurant",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 52,
+    "videoId": null,
+    "transcriptContext": "Um copo de água, por favor.",
+    "pronunciation": "أون كوپو دِ آگوا، پور فاڤور۔",
+    "words": [
+      {
+        "w": "copo",
+        "m_en": "glass",
+        "m_ar": "كأس"
+      },
+      {
+        "w": "água",
+        "m_en": "water",
+        "m_ar": "ماء"
+      }
+    ],
+    "grammar_en": "\"Um copo de\" + drink names a container of something.",
+    "grammar_ar": "تسمّي «um copo de» + مشروب وعاءً يحتوي شيئًا.",
+    "alternatives": [
+      {
+        "text": "Eu gostaria de um copo de água.",
+        "note_en": "I'd like a glass of water",
+        "note_ar": "أودّ كأس ماء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3033,
+    "text": "Estou com dor de barriga.",
+    "translation_ar": "أشعر بألم في بطني.",
+    "level": "A1",
+    "situation": "health",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 69,
+    "videoId": null,
+    "transcriptContext": "Estou com dor de barriga.",
+    "pronunciation": "إشتو كون دور دِ باريگا۔",
+    "words": [
+      {
+        "w": "barriga",
+        "m_en": "stomach, belly",
+        "m_ar": "بطن"
+      },
+      {
+        "w": "dor",
+        "m_en": "pain",
+        "m_ar": "ألم"
+      }
+    ],
+    "grammar_en": "\"Estar com\" + symptom is the common way to describe how you feel.",
+    "grammar_ar": "«estar com» + عرض الطريقة الشائعة لوصف الشعور.",
+    "alternatives": [
+      {
+        "text": "Meu estômago está ruim.",
+        "note_en": "My stomach is upset",
+        "note_ar": "معدتي مضطربة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3034,
+    "text": "A reunião está começando.",
+    "translation_ar": "الاجتماع يبدأ الآن.",
+    "level": "A1",
+    "situation": "meetings",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 86,
+    "videoId": null,
+    "transcriptContext": "A reunião está começando.",
+    "pronunciation": "آ رِونياون إشتا كومِسانده۔",
+    "words": [
+      {
+        "w": "reunião",
+        "m_en": "meeting",
+        "m_ar": "اجتماع"
+      },
+      {
+        "w": "começar",
+        "m_en": "to start",
+        "m_ar": "يبدأ"
+      }
+    ],
+    "grammar_en": "\"Estar\" + gerund (\"-ndo\") is the present continuous: \"is starting\".",
+    "grammar_ar": "«estar» + مصدر حالي («-ndo») صيغة المضارع المستمرّ: «يبدأ الآن».",
+    "alternatives": [
+      {
+        "text": "A reunião vai começar agora.",
+        "note_en": "The meeting is about to start now",
+        "note_ar": "الاجتماع سيبدأ الآن"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3035,
+    "text": "Você consegue me ouvir?",
+    "translation_ar": "هل تستطيع سماعي؟",
+    "level": "A1",
+    "situation": "meetings",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 103,
+    "videoId": null,
+    "transcriptContext": "Você consegue me ouvir?",
+    "pronunciation": "ڤوسِه كونسِگِ مِه اوڤير؟",
+    "words": [
+      {
+        "w": "ouvir",
+        "m_en": "to hear",
+        "m_ar": "يسمع"
+      },
+      {
+        "w": "conseguir",
+        "m_en": "to manage to",
+        "m_ar": "يستطيع"
+      }
+    ],
+    "grammar_en": "\"Conseguir\" + infinitive means \"to be able to / manage to\".",
+    "grammar_ar": "«conseguir» + المصدر تعني «يستطيع».",
+    "alternatives": [
+      {
+        "text": "Dá para me ouvir?",
+        "note_en": "\"Can you hear me?\" (very common informal phrasing)",
+        "note_ar": "«هل يمكن سماعي؟» (صيغة عاميّة شائعة جدًّا)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3036,
+    "text": "Não estou ouvindo você.",
+    "translation_ar": "لا يصلني صوتك.",
+    "level": "A1",
+    "situation": "meetings",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 120,
+    "videoId": null,
+    "transcriptContext": "Não estou ouvindo você.",
+    "pronunciation": "ناون إشتو اوڤيندو ڤوسِه۔",
+    "words": [
+      {
+        "w": "ouvir",
+        "m_en": "to hear",
+        "m_ar": "يسمع"
+      }
+    ],
+    "grammar_en": "\"Não estou ouvindo\" means \"I'm not hearing\" (present continuous negated).",
+    "grammar_ar": "تعني «não estou ouvindo» «لا أسمع» (مضارع مستمرّ منفي).",
+    "alternatives": [
+      {
+        "text": "Sua voz não está chegando.",
+        "note_en": "Your voice isn't coming through",
+        "note_ar": "صوتك لا يصل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3037,
+    "text": "Desligue o microfone, por favor.",
+    "translation_ar": "أطفئ الميكروفون من فضلك.",
+    "level": "A1",
+    "situation": "meetings",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 137,
+    "videoId": null,
+    "transcriptContext": "Desligue o microfone, por favor.",
+    "pronunciation": "دِسليگِ او ميكروفونِ، پور فاڤور۔",
+    "words": [
+      {
+        "w": "microfone",
+        "m_en": "microphone",
+        "m_ar": "ميكروفون"
+      },
+      {
+        "w": "desligar",
+        "m_en": "to turn off",
+        "m_ar": "يطفئ"
+      }
+    ],
+    "grammar_en": "\"Desligue\" is the formal imperative of \"desligar\".",
+    "grammar_ar": "«دِسليگِ» أمر رسمي من «desligar».",
+    "alternatives": [
+      {
+        "text": "Pode desligar o microfone?",
+        "note_en": "Can you turn off the mic?",
+        "note_ar": "هل يمكنك إطفاء الميكروفون؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3038,
+    "text": "Um momento, vou compartilhar a tela.",
+    "translation_ar": "لحظة، سأشارك الشاشة.",
+    "level": "A1",
+    "situation": "meetings",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 154,
+    "videoId": null,
+    "transcriptContext": "Um momento, vou compartilhar a tela.",
+    "pronunciation": "أون مومِنتو، ڤو كونپارتيليار آ تِلا۔",
+    "words": [
+      {
+        "w": "tela",
+        "m_en": "screen",
+        "m_ar": "شاشة"
+      },
+      {
+        "w": "compartilhar",
+        "m_en": "to share",
+        "m_ar": "يشارك"
+      }
+    ],
+    "grammar_en": "\"Vou\" + infinitive expresses the near future: \"I'm going to\".",
+    "grammar_ar": "«vou» + المصدر يعبّر عن المستقبل القريب: «سأفعل».",
+    "alternatives": [
+      {
+        "text": "Espera, vou compartilhar minha tela.",
+        "note_en": "Wait, I'll share my screen",
+        "note_ar": "انتظر، سأشارك شاشتي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3039,
+    "text": "Salve o seu arquivo.",
+    "translation_ar": "احفظ ملفّك.",
+    "level": "A1",
+    "situation": "technology",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 171,
+    "videoId": null,
+    "transcriptContext": "Salve o seu arquivo.",
+    "pronunciation": "سالڤِ او سِيو آركيڤو۔",
+    "words": [
+      {
+        "w": "arquivo",
+        "m_en": "file",
+        "m_ar": "ملف"
+      },
+      {
+        "w": "salvar",
+        "m_en": "to save",
+        "m_ar": "يحفظ"
+      }
+    ],
+    "grammar_en": "\"Salve\" is the formal imperative of \"salvar\".",
+    "grammar_ar": "«سالڤِ» أمر رسمي من «salvar».",
+    "alternatives": [
+      {
+        "text": "Não esqueça de salvar.",
+        "note_en": "\"Don't forget to save\"",
+        "note_ar": "لا تنسَ الحفظ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3040,
+    "text": "Gosto de ler e ouvir música.",
+    "translation_ar": "أحبّ القراءة والاستماع إلى الموسيقى.",
+    "level": "A1",
+    "situation": "leisure",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 188,
+    "videoId": null,
+    "transcriptContext": "Gosto de ler e ouvir música.",
+    "pronunciation": "گوستو دِ لِر إي أوڤير موزيكا۔",
+    "words": [
+      {
+        "w": "ler",
+        "m_en": "to read",
+        "m_ar": "يقرأ"
+      },
+      {
+        "w": "ouvir",
+        "m_en": "to listen",
+        "m_ar": "يستمع"
+      }
+    ],
+    "grammar_en": "\"Gostar de\" + infinitive says what you like doing.",
+    "grammar_ar": "يعبّر «gostar de» + المصدر عمّا تحبّ فعله.",
+    "alternatives": [
+      {
+        "text": "Adoro música.",
+        "note_en": "I love music",
+        "note_ar": "أعشق الموسيقى"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3041,
+    "text": "Jogo futebol aos domingos.",
+    "translation_ar": "ألعب كرة القدم أيّام الأحد.",
+    "level": "A1",
+    "situation": "sports",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 205,
+    "videoId": null,
+    "transcriptContext": "Jogo futebol aos domingos.",
+    "pronunciation": "جوگو فوتِبول آوس دومينگوس۔",
+    "words": [
+      {
+        "w": "jogar",
+        "m_en": "to play",
+        "m_ar": "يلعب"
+      },
+      {
+        "w": "futebol",
+        "m_en": "football",
+        "m_ar": "كرة القدم"
+      }
+    ],
+    "grammar_en": "\"Aos domingos\" means \"on Sundays\" (a repeated habit).",
+    "grammar_ar": "تعني «aos domingos» «أيّام الأحد» (عادة متكرّرة).",
+    "alternatives": [
+      {
+        "text": "Aos domingos, jogo futebol com amigos.",
+        "note_en": "With friends",
+        "note_ar": "مع الأصدقاء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3042,
+    "text": "Hoje está chovendo muito.",
+    "translation_ar": "تمطر بغزارة اليوم.",
+    "level": "A1",
+    "situation": "weather",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 222,
+    "videoId": null,
+    "transcriptContext": "Hoje está chovendo muito.",
+    "pronunciation": "أوجِ إشتا شوڤِنده مويتو۔",
+    "words": [
+      {
+        "w": "chover",
+        "m_en": "to rain",
+        "m_ar": "يمطر"
+      },
+      {
+        "w": "muito",
+        "m_en": "a lot",
+        "m_ar": "كثيرًا"
+      }
+    ],
+    "grammar_en": "\"Estar\" + gerund describes weather happening right now.",
+    "grammar_ar": "يصف «estar» + المصدر الحالي طقسًا يحدث الآن.",
+    "alternatives": [
+      {
+        "text": "Está chovendo bastante hoje.",
+        "note_en": "\"Bastante\" is a synonym of \"muito\" here",
+        "note_ar": "«bastante» مرادف لـ«muito» هنا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3043,
+    "text": "A que horas sai o trem?",
+    "translation_ar": "في أيّ ساعة يغادر القطار؟",
+    "level": "A1",
+    "situation": "transport",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 239,
+    "videoId": null,
+    "transcriptContext": "A que horas sai o trem?",
+    "pronunciation": "آ كِه اوراس سايِ او تِرِين؟",
+    "words": [
+      {
+        "w": "sair",
+        "m_en": "to leave",
+        "m_ar": "يغادر"
+      },
+      {
+        "w": "trem",
+        "m_en": "train",
+        "m_ar": "قطار"
+      }
+    ],
+    "grammar_en": "\"A que horas\" means \"at what time\".",
+    "grammar_ar": "تعني «a que horas» «في أيّ ساعة».",
+    "alternatives": [
+      {
+        "text": "Quando o trem parte?",
+        "note_en": "When does the train leave?",
+        "note_ar": "متى يغادر القطار؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3044,
+    "text": "Socorro! Chamem a polícia!",
+    "translation_ar": "النجدة! اتّصلوا بالشرطة!",
+    "level": "A1",
+    "situation": "emergency",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 16,
+    "videoId": null,
+    "transcriptContext": "Socorro! Chamem a polícia!",
+    "pronunciation": "سوكورّو! شامِيّن آ پوليسيا!",
+    "words": [
+      {
+        "w": "socorro",
+        "m_en": "help",
+        "m_ar": "نجدة"
+      },
+      {
+        "w": "polícia",
+        "m_en": "police",
+        "m_ar": "شرطة"
+      }
+    ],
+    "grammar_en": "\"Chamem\" is the formal/plural command.",
+    "grammar_ar": "«شامِيّن» أمر رسمي/جمع.",
+    "alternatives": [
+      {
+        "text": "Ajudem!",
+        "note_en": "Help! (plural cry for help)",
+        "note_ar": "ساعدوا! (نداء استغاثة بصيغة الجمع)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3045,
+    "text": "São três e meia.",
+    "translation_ar": "الساعة الثالثة والنصف.",
+    "level": "A1",
+    "situation": "time",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 33,
+    "videoId": null,
+    "transcriptContext": "São três e meia.",
+    "pronunciation": "ساون تريس إي مِيا۔",
+    "words": [
+      {
+        "w": "meia",
+        "m_en": "half",
+        "m_ar": "نصف"
+      },
+      {
+        "w": "três",
+        "m_en": "three",
+        "m_ar": "ثلاثة"
+      }
+    ],
+    "grammar_en": "Hours are plural (\"são as\"), except one o'clock: \"é uma hora\".",
+    "grammar_ar": "الساعات بصيغة الجمع «são as»، عدا الواحدة: «é uma hora».",
+    "alternatives": [
+      {
+        "text": "São três e trinta.",
+        "note_en": "Digital reading",
+        "note_ar": "قراءة رقمية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3046,
+    "text": "Hoje é terça-feira, quinze de março.",
+    "translation_ar": "اليوم الثلاثاء الخامس عشر من مارس.",
+    "level": "A1",
+    "situation": "time",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 50,
+    "videoId": null,
+    "transcriptContext": "Hoje é terça-feira, quinze de março.",
+    "pronunciation": "أوجِ إه تِرسا-فِيرا، كينزِ دِ مارسو۔",
+    "words": [
+      {
+        "w": "terça-feira",
+        "m_en": "Tuesday",
+        "m_ar": "الثلاثاء"
+      },
+      {
+        "w": "março",
+        "m_en": "March",
+        "m_ar": "مارس"
+      }
+    ],
+    "grammar_en": "Dates follow the pattern \"o\" + number + \"de\" + month.",
+    "grammar_ar": "التواريخ بالنمط: «o» + العدد + «de» + الشهر.",
+    "alternatives": [
+      {
+        "text": "Hoje é dia quinze de março.",
+        "note_en": "\"Estamos a\" is used for dates in European Portuguese",
+        "note_ar": "«estamos a» تُستعمل للتواريخ في برتغالية أوروبا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3047,
+    "text": "Minha avó cozinha muito bem.",
+    "translation_ar": "جدّتي تطبخ طعامًا لذيذًا جدًّا.",
+    "level": "A2",
+    "situation": "family",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 67,
+    "videoId": null,
+    "transcriptContext": "Minha avó cozinha muito bem.",
+    "pronunciation": "مينيا آڤو كوزينيا مويتو بِيّن۔",
+    "words": [
+      {
+        "w": "avó",
+        "m_en": "grandmother",
+        "m_ar": "جدّة"
+      },
+      {
+        "w": "cozinhar",
+        "m_en": "to cook",
+        "m_ar": "يطبخ"
+      }
+    ],
+    "grammar_en": "\"Avó\" (grandmother) has an accent to distinguish it from \"avô\" (grandfather).",
+    "grammar_ar": "تحمل «avó» (جدّة) علامة لتمييزها عن «avô» (جدّ).",
+    "alternatives": [
+      {
+        "text": "Minha avó é uma ótima cozinheira.",
+        "note_en": "My grandmother is a great cook",
+        "note_ar": "جدّتي طبّاخة ماهرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3048,
+    "text": "O que você recomenda?",
+    "translation_ar": "ماذا تنصح؟",
+    "level": "A2",
+    "situation": "restaurant",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 84,
+    "videoId": null,
+    "transcriptContext": "O que você recomenda?",
+    "pronunciation": "او كِه ڤوسِه رِكومِندا؟",
+    "words": [
+      {
+        "w": "recomendar",
+        "m_en": "to recommend",
+        "m_ar": "ينصح"
+      },
+      {
+        "w": "o que",
+        "m_en": "what",
+        "m_ar": "ماذا"
+      }
+    ],
+    "grammar_en": "\"Você\" takes the third-person verb form, though it means \"you\".",
+    "grammar_ar": "يأخذ «você» صيغة الغائب في الفعل رغم أنه يعني «أنت».",
+    "alternatives": [
+      {
+        "text": "O que é bom aqui?",
+        "note_en": "\"What's good here?\" (more casual)",
+        "note_ar": "«ما الجيّد هنا؟» (أكثر عفويّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3049,
+    "text": "Vamos ao próximo ponto.",
+    "translation_ar": "لننتقل إلى النقطة التالية.",
+    "level": "A2",
+    "situation": "meetings",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 101,
+    "videoId": null,
+    "transcriptContext": "Vamos ao próximo ponto.",
+    "pronunciation": "ڤاموس آو پروسيمو پونتو۔",
+    "words": [
+      {
+        "w": "ponto",
+        "m_en": "point",
+        "m_ar": "نقطة"
+      },
+      {
+        "w": "próximo",
+        "m_en": "next",
+        "m_ar": "التالي"
+      }
+    ],
+    "grammar_en": "\"Vamos a\" + noun is a common way to say \"let's move on to\".",
+    "grammar_ar": "«vamos a» + اسم طريقة شائعة لقول «لننتقل إلى».",
+    "alternatives": [
+      {
+        "text": "Vamos seguir para o próximo item.",
+        "note_en": "\"Item\" is a formal alternative to \"ponto\"",
+        "note_ar": "«item» بديل رسمي لـ«ponto»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3050,
+    "text": "Quero visitar Lisboa neste verão.",
+    "translation_ar": "أريد زيارة لشبونة هذا الصيف.",
+    "level": "A2",
+    "situation": "travel",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 118,
+    "videoId": null,
+    "transcriptContext": "Quero visitar Lisboa neste verão.",
+    "pronunciation": "كِرو ڤيزيتار ليسبوا نِشتِ ڤِراون۔",
+    "words": [
+      {
+        "w": "visitar",
+        "m_en": "to visit",
+        "m_ar": "يزور"
+      },
+      {
+        "w": "verão",
+        "m_en": "summer",
+        "m_ar": "صيف"
+      }
+    ],
+    "grammar_en": "\"Querer\" + infinitive expresses a wish.",
+    "grammar_ar": "يعبّر «querer» + المصدر عن رغبة.",
+    "alternatives": [
+      {
+        "text": "Eu gostaria de visitar Lisboa neste verão.",
+        "note_en": "More polite",
+        "note_ar": "أكثر تهذيبًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3051,
+    "text": "Quero abrir uma conta bancária.",
+    "translation_ar": "أريد فتح حساب مصرفي.",
+    "level": "A2",
+    "situation": "banking",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 135,
+    "videoId": null,
+    "transcriptContext": "Quero abrir uma conta bancária.",
+    "pronunciation": "كِرو آبرير اوما كونتا بانكاريا۔",
+    "words": [
+      {
+        "w": "conta",
+        "m_en": "account",
+        "m_ar": "حساب"
+      },
+      {
+        "w": "abrir",
+        "m_en": "to open",
+        "m_ar": "يفتح"
+      }
+    ],
+    "grammar_en": "\"Conta\" also means \"bill\" in a restaurant.",
+    "grammar_ar": "تعني «conta» أيضًا «الفاتورة» في المطعم.",
+    "alternatives": [
+      {
+        "text": "Quero abrir uma conta no banco.",
+        "note_en": "I want to open an account at the bank",
+        "note_ar": "أريد فتح حساب في المصرف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 3052,
+    "text": "Depois do trabalho, eu vou à academia.",
+    "translation_ar": "بعد العمل أذهب إلى النادي الرياضي.",
+    "level": "A2",
+    "situation": "daily",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 152,
+    "videoId": null,
+    "transcriptContext": "Depois do trabalho, eu vou à academia.",
+    "pronunciation": "دِپويس دو تراباليو، إيو ڤو آ أكاديميا۔",
+    "words": [
+      {
+        "w": "trabalho",
+        "m_en": "work",
+        "m_ar": "عمل"
+      },
+      {
+        "w": "academia",
+        "m_en": "gym",
+        "m_ar": "نادٍ رياضي"
+      }
+    ],
+    "grammar_en": "\"Depois de\" + noun means \"after\".",
+    "grammar_ar": "«depois de» + اسم = «بعد».",
+    "alternatives": [
+      {
+        "text": "Vou à academia depois do trabalho.",
+        "note_en": "Reordered",
+        "note_ar": "بترتيب آخر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3053,
+    "text": "O banheiro fica no final do corredor.",
+    "translation_ar": "الحمّام في نهاية الممرّ.",
+    "level": "A2",
+    "situation": "home",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 169,
+    "videoId": null,
+    "transcriptContext": "O banheiro fica no final do corredor.",
+    "pronunciation": "او بانييرو فيكا نو فينال دو كورِدور۔",
+    "words": [
+      {
+        "w": "banheiro",
+        "m_en": "bathroom",
+        "m_ar": "حمّام"
+      },
+      {
+        "w": "corredor",
+        "m_en": "corridor",
+        "m_ar": "ممرّ"
+      }
+    ],
+    "grammar_en": "\"Ficar\" is often used instead of \"estar\" for the location of fixed things.",
+    "grammar_ar": "يُستعمل «ficar» غالبًا بدل «estar» لمكان الأشياء الثابتة.",
+    "alternatives": [
+      {
+        "text": "O banheiro está no fim do corredor.",
+        "note_en": "\"Fim\" is a synonym of \"final\"",
+        "note_ar": "«fim» مرادف لـ«final»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3054,
+    "text": "Vocês têm esta jaqueta em outro tamanho?",
+    "translation_ar": "هل لديكم هذه السترة بمقاس آخر؟",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 186,
+    "videoId": null,
+    "transcriptContext": "Vocês têm esta jaqueta em outro tamanho?",
+    "pronunciation": "ڤوسِس تِيّن إشتا جاكِتا إين اوترو تامانيو؟",
+    "words": [
+      {
+        "w": "tamanho",
+        "m_en": "size",
+        "m_ar": "مقاس"
+      },
+      {
+        "w": "jaqueta",
+        "m_en": "jacket",
+        "m_ar": "سترة"
+      }
+    ],
+    "grammar_en": "\"Outro\" means \"another / other\".",
+    "grammar_ar": "تعني «outro» «آخر».",
+    "alternatives": [
+      {
+        "text": "Posso experimentar?",
+        "note_en": "Can I try it on?",
+        "note_ar": "هل يمكنني تجربتها؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3055,
+    "text": "A reunião começa às dez na sala dois.",
+    "translation_ar": "يبدأ الاجتماع في العاشرة في الغرفة الثانية.",
+    "level": "A2",
+    "situation": "workplace",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 203,
+    "videoId": null,
+    "transcriptContext": "A reunião começa às dez na sala dois.",
+    "pronunciation": "آ رِونياون كومِسا آس دِز نا سالا دويس۔",
+    "words": [
+      {
+        "w": "reunião",
+        "m_en": "meeting",
+        "m_ar": "اجتماع"
+      },
+      {
+        "w": "sala",
+        "m_en": "room",
+        "m_ar": "غرفة"
+      }
+    ],
+    "grammar_en": "\"Começar\" is a regular \"-ar\" verb.",
+    "grammar_ar": "«começar» فعل منتظم من زمرة «-ar».",
+    "alternatives": [
+      {
+        "text": "A reunião inicia às dez horas.",
+        "note_en": "\"Iniciar\" is a synonym of \"começar\"",
+        "note_ar": "«iniciar» مرادف لـ«começar»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3056,
+    "text": "Trabalho como engenheiro em uma empresa pequena.",
+    "translation_ar": "أعمل مهندسًا في شركة صغيرة.",
+    "level": "A2",
+    "situation": "career",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 220,
+    "videoId": null,
+    "transcriptContext": "Trabalho como engenheiro em uma empresa pequena.",
+    "pronunciation": "تراباليو كومو إينجِنييرو إين اوما إينپرِزا پِكِنا۔",
+    "words": [
+      {
+        "w": "engenheiro",
+        "m_en": "engineer",
+        "m_ar": "مهندس"
+      },
+      {
+        "w": "empresa",
+        "m_en": "company",
+        "m_ar": "شركة"
+      }
+    ],
+    "grammar_en": "\"Trabalhar como\" means \"to work as\".",
+    "grammar_ar": "«trabalhar como» = يعمل بصفة.",
+    "alternatives": [
+      {
+        "text": "Sou engenheiro em uma empresa pequena.",
+        "note_en": "I'm an engineer at a small company",
+        "note_ar": "أنا مهندس في شركة صغيرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3057,
+    "text": "Minha internet está um pouco lenta, desculpe.",
+    "translation_ar": "إنترنتي بطيء نوعًا ما، آسف.",
+    "level": "A2",
+    "situation": "meetings",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 237,
+    "videoId": null,
+    "transcriptContext": "Minha internet está um pouco lenta, desculpe.",
+    "pronunciation": "مينيا إينتِرنِچ إشتا أون پوكو لِنتا، دِسكولپِ۔",
+    "words": [
+      {
+        "w": "internet",
+        "m_en": "internet",
+        "m_ar": "إنترنت"
+      },
+      {
+        "w": "lenta",
+        "m_en": "slow (fem.)",
+        "m_ar": "بطيء (مؤنّث)"
+      }
+    ],
+    "grammar_en": "\"Um pouco\" softens the adjective: \"a little / somewhat\".",
+    "grammar_ar": "تلطّف «um pouco» الصفة: «قليلًا / نوعًا ما».",
+    "alternatives": [
+      {
+        "text": "Minha conexão está fraca.",
+        "note_en": "\"My connection is weak\"",
+        "note_ar": "اتّصالي ضعيف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3058,
+    "text": "Podemos marcar a próxima reunião para quinta-feira?",
+    "translation_ar": "هل يمكننا وضع الاجتماع القادم يوم الخميس؟",
+    "level": "A2",
+    "situation": "meetings",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 14,
+    "videoId": null,
+    "transcriptContext": "Podemos marcar a próxima reunião para quinta-feira?",
+    "pronunciation": "پودِموس ماركار آ پروسيما رِونياون پارا كينتا-فِيرا؟",
+    "words": [
+      {
+        "w": "marcar",
+        "m_en": "to schedule",
+        "m_ar": "يحدّد موعدًا"
+      },
+      {
+        "w": "quinta-feira",
+        "m_en": "Thursday",
+        "m_ar": "الخميس"
+      }
+    ],
+    "grammar_en": "\"Marcar\" is the standard verb for scheduling appointments and meetings.",
+    "grammar_ar": "«marcar» الفعل المعتاد لتحديد المواعيد والاجتماعات.",
+    "alternatives": [
+      {
+        "text": "Vamos marcar a próxima para quinta?",
+        "note_en": "Shall we set the next one for Thursday?",
+        "note_ar": "هل نحدّد القادم يوم الخميس؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3059,
+    "text": "Vou enviar a gravação da reunião depois.",
+    "translation_ar": "سأرسل تسجيل الاجتماع لاحقًا.",
+    "level": "A2",
+    "situation": "meetings",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 31,
+    "videoId": null,
+    "transcriptContext": "Vou enviar a gravação da reunião depois.",
+    "pronunciation": "ڤو إينڤيار آ گراڤاساون دا رِونياون دِپويس۔",
+    "words": [
+      {
+        "w": "gravação",
+        "m_en": "recording",
+        "m_ar": "تسجيل"
+      },
+      {
+        "w": "enviar",
+        "m_en": "to send",
+        "m_ar": "يرسل"
+      }
+    ],
+    "grammar_en": "\"Vou enviar\" is the near-future \"I'm going to send\".",
+    "grammar_ar": "«vou enviar» المستقبل القريب: «سأرسل».",
+    "alternatives": [
+      {
+        "text": "Depois eu compartilho a gravação.",
+        "note_en": "I'll share the recording afterwards",
+        "note_ar": "سأشارك التسجيل لاحقًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3060,
+    "text": "Escreva seu nome e e-mail aqui.",
+    "translation_ar": "اكتب هنا اسمك وبريدك الإلكتروني.",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 48,
+    "videoId": null,
+    "transcriptContext": "Escreva seu nome e e-mail aqui.",
+    "pronunciation": "إشكرِڤا سِيو نومِ إي إي-مِيّل آكي۔",
+    "words": [
+      {
+        "w": "e-mail",
+        "m_en": "email",
+        "m_ar": "بريد إلكتروني"
+      },
+      {
+        "w": "escrever",
+        "m_en": "to write",
+        "m_ar": "يكتب"
+      }
+    ],
+    "grammar_en": "\"Escreva\" is the formal imperative of \"escrever\".",
+    "grammar_ar": "«إشكرِڤا» أمر رسمي من «escrever».",
+    "alternatives": [
+      {
+        "text": "Preencha seu nome e e-mail aqui.",
+        "note_en": "\"Fill in your name and email here\" (more formal)",
+        "note_ar": "«املأ اسمك وبريدك هنا» (أكثر رسميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3061,
+    "text": "Role para baixo para ver mais opções.",
+    "translation_ar": "مرّر للأسفل لترى بقيّة الخيارات.",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 65,
+    "videoId": null,
+    "transcriptContext": "Role para baixo para ver mais opções.",
+    "pronunciation": "رولِ پارا بايشو پارا ڤِر مايس اوپسوينس۔",
+    "words": [
+      {
+        "w": "rolar",
+        "m_en": "to scroll",
+        "m_ar": "يمرّر"
+      },
+      {
+        "w": "opção",
+        "m_en": "option",
+        "m_ar": "خيار"
+      }
+    ],
+    "grammar_en": "\"Para\" + infinitive expresses purpose: \"in order to see\".",
+    "grammar_ar": "«para» + المصدر تعبّر عن الغاية: «لترى».",
+    "alternatives": [
+      {
+        "text": "Desça um pouco, tem mais opções.",
+        "note_en": "Go down a bit, there are more options",
+        "note_ar": "انزل قليلًا، هناك خيارات أخرى"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3062,
+    "text": "Este software é muito fácil de usar.",
+    "translation_ar": "استخدام هذا البرنامج سهل جدًّا.",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 82,
+    "videoId": null,
+    "transcriptContext": "Este software é muito fácil de usar.",
+    "pronunciation": "إشتِ سوفتْوِيّر إه مويتو فاسيل دِ اوزار۔",
+    "words": [
+      {
+        "w": "software",
+        "m_en": "software",
+        "m_ar": "برنامج (سوفتوير)"
+      },
+      {
+        "w": "fácil",
+        "m_en": "easy",
+        "m_ar": "سهل"
+      }
+    ],
+    "grammar_en": "\"Fácil de\" + infinitive means \"easy to (do)\".",
+    "grammar_ar": "«fácil de» + المصدر تعني «سهل الفعل».",
+    "alternatives": [
+      {
+        "text": "Este programa não é difícil de usar.",
+        "note_en": "This program isn't hard to use",
+        "note_ar": "هذا البرنامج ليس صعب الاستخدام"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3063,
+    "text": "Ele não está, você quer deixar um recado?",
+    "translation_ar": "ليس موجودًا، هل تودّ ترك رسالة؟",
+    "level": "A2",
+    "situation": "phone-calls",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 99,
+    "videoId": null,
+    "transcriptContext": "Ele não está, você quer deixar um recado?",
+    "pronunciation": "إيلِ ناون إشتا، ڤوسِه كِر دِيشار أون رِكادو؟",
+    "words": [
+      {
+        "w": "recado",
+        "m_en": "message",
+        "m_ar": "رسالة"
+      },
+      {
+        "w": "deixar",
+        "m_en": "to leave",
+        "m_ar": "يترك"
+      }
+    ],
+    "grammar_en": "\"Deixar um recado\" means \"to leave a message\".",
+    "grammar_ar": "«deixar um recado» = «ترك رسالة».",
+    "alternatives": [
+      {
+        "text": "Quer que eu anote um recado?",
+        "note_en": "Would you like me to note down a message?",
+        "note_ar": "هل تريد أن أدوّن رسالة؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3064,
+    "text": "Quer ir ao cinema no sábado?",
+    "translation_ar": "هل تريد الذهاب إلى السينما يوم السبت؟",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 116,
+    "videoId": null,
+    "transcriptContext": "Quer ir ao cinema no sábado?",
+    "pronunciation": "كِر إير آو سينِما نو ساباذو؟",
+    "words": [
+      {
+        "w": "cinema",
+        "m_en": "cinema",
+        "m_ar": "سينما"
+      },
+      {
+        "w": "sábado",
+        "m_en": "Saturday",
+        "m_ar": "السبت"
+      }
+    ],
+    "grammar_en": "Days of the week are lowercase in Portuguese.",
+    "grammar_ar": "أسماء الأيّام بحرف صغير في البرتغالية.",
+    "alternatives": [
+      {
+        "text": "Vamos ao cinema no sábado?",
+        "note_en": "Shall we go to the cinema on Saturday?",
+        "note_ar": "هل نذهب إلى السينما يوم السبت؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3065,
+    "text": "Vou à academia três vezes por semana.",
+    "translation_ar": "أذهب إلى النادي الرياضي ثلاث مرّات في الأسبوع.",
+    "level": "A2",
+    "situation": "sports",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 133,
+    "videoId": null,
+    "transcriptContext": "Vou à academia três vezes por semana.",
+    "pronunciation": "ڤو آ أكاديميا تريس ڤِزِس پور سِمانا۔",
+    "words": [
+      {
+        "w": "academia",
+        "m_en": "gym",
+        "m_ar": "نادٍ رياضي"
+      },
+      {
+        "w": "vez",
+        "m_en": "time (occasion)",
+        "m_ar": "مرّة"
+      }
+    ],
+    "grammar_en": "\"Por semana\" means \"per week\".",
+    "grammar_ar": "تعني «por semana» «في الأسبوع».",
+    "alternatives": [
+      {
+        "text": "Treino três vezes por semana.",
+        "note_en": "\"Treinar\" = to train",
+        "note_ar": "«treinar» = يتدرّب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3066,
+    "text": "Amanhã vai fazer frio e vai ventar.",
+    "translation_ar": "غدًا سيكون الجوّ باردًا وستهبّ الرياح.",
+    "level": "A2",
+    "situation": "weather",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 150,
+    "videoId": null,
+    "transcriptContext": "Amanhã vai fazer frio e vai ventar.",
+    "pronunciation": "آمانيان ڤاي فازِر فريو إي ڤاي ڤِنتار۔",
+    "words": [
+      {
+        "w": "frio",
+        "m_en": "cold",
+        "m_ar": "بارد"
+      },
+      {
+        "w": "ventar",
+        "m_en": "to be windy",
+        "m_ar": "تهبّ الرياح"
+      }
+    ],
+    "grammar_en": "\"Vai\" + infinitive expresses the near future.",
+    "grammar_ar": "«vai» + المصدر يعبّر عن المستقبل القريب.",
+    "alternatives": [
+      {
+        "text": "Amanhã vai estar frio.",
+        "note_en": "Tomorrow it's going to be cold",
+        "note_ar": "سيكون الجوّ باردًا غدًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3067,
+    "text": "Tenho uma prova de história na segunda-feira.",
+    "translation_ar": "لديّ امتحان في التاريخ يوم الاثنين.",
+    "level": "A2",
+    "situation": "education",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 167,
+    "videoId": null,
+    "transcriptContext": "Tenho uma prova de história na segunda-feira.",
+    "pronunciation": "تِنيو اوما پروڤا دِ إيستوريا نا سِگوندا-فِيرا۔",
+    "words": [
+      {
+        "w": "prova",
+        "m_en": "exam",
+        "m_ar": "امتحان"
+      },
+      {
+        "w": "história",
+        "m_en": "history",
+        "m_ar": "تاريخ"
+      }
+    ],
+    "grammar_en": "\"Na segunda-feira\" means \"on Monday\" (with the article \"na\").",
+    "grammar_ar": "«na segunda-feira» = يوم الاثنين (مع أداة التعريف «na»).",
+    "alternatives": [
+      {
+        "text": "Na segunda tenho prova de história.",
+        "note_en": "Time first",
+        "note_ar": "الزمن أوّلًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3068,
+    "text": "Tem um ponto de ônibus perto daqui?",
+    "translation_ar": "هل توجد محطّة حافلات قريبة من هنا؟",
+    "level": "A2",
+    "situation": "directions",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 184,
+    "videoId": null,
+    "transcriptContext": "Tem um ponto de ônibus perto daqui?",
+    "pronunciation": "تِين أون پونتو دِ اونيبوس پِرتو داكي؟",
+    "words": [
+      {
+        "w": "ponto de ônibus",
+        "m_en": "bus stop",
+        "m_ar": "محطّة حافلات"
+      },
+      {
+        "w": "perto de",
+        "m_en": "near",
+        "m_ar": "قريب من"
+      }
+    ],
+    "grammar_en": "\"Tem\" is commonly used for \"there is / there are\" in spoken Brazilian Portuguese.",
+    "grammar_ar": "تُستعمل «tem» عاميًّا في البرتغالية البرازيلية بمعنى «يوجد».",
+    "alternatives": [
+      {
+        "text": "Onde fica o ponto de ônibus mais próximo?",
+        "note_en": "Where is the nearest bus stop?",
+        "note_ar": "أين أقرب محطّة حافلات؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3069,
+    "text": "Tenho uma reserva em nome de Ahmed.",
+    "translation_ar": "لديّ حجز باسم أحمد.",
+    "level": "A2",
+    "situation": "hotel",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 201,
+    "videoId": null,
+    "transcriptContext": "Tenho uma reserva em nome de Ahmed.",
+    "pronunciation": "تِنيو اوما رِزِرڤا إين نومِ دِ أحمد۔",
+    "words": [
+      {
+        "w": "reserva",
+        "m_en": "booking",
+        "m_ar": "حجز"
+      },
+      {
+        "w": "em nome de",
+        "m_en": "in the name of",
+        "m_ar": "باسم"
+      }
+    ],
+    "grammar_en": "\"Em nome de\" + name.",
+    "grammar_ar": "«em nome de» + الاسم.",
+    "alternatives": [
+      {
+        "text": "Reservei em nome de Ahmed.",
+        "note_en": "I booked under the name Ahmed",
+        "note_ar": "حجزتُ باسم أحمد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3070,
+    "text": "Onde fica o balcão de check-in?",
+    "translation_ar": "أين مكتب إنهاء إجراءات السفر؟",
+    "level": "A2",
+    "situation": "airport",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 218,
+    "videoId": null,
+    "transcriptContext": "Onde fica o balcão de check-in?",
+    "pronunciation": "اوندِ فيكا او بالكاون دِ تشِك-إين؟",
+    "words": [
+      {
+        "w": "balcão",
+        "m_en": "counter",
+        "m_ar": "مكتب استقبال"
+      },
+      {
+        "w": "check-in",
+        "m_en": "check-in",
+        "m_ar": "إنهاء إجراءات السفر"
+      }
+    ],
+    "grammar_en": "\"Check-in\" is the standard borrowed word used at airports.",
+    "grammar_ar": "«check-in» الكلمة المستعارة المعتادة في المطارات.",
+    "alternatives": [
+      {
+        "text": "Onde posso fazer o check-in da minha mala?",
+        "note_en": "Where can I check in my suitcase?",
+        "note_ar": "أين يمكنني تسجيل حقيبتي؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3071,
+    "text": "Procuro um apartamento de dois quartos no centro.",
+    "translation_ar": "أبحث عن شقّة من غرفتين في وسط المدينة.",
+    "level": "A2",
+    "situation": "real-estate",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 235,
+    "videoId": null,
+    "transcriptContext": "Procuro um apartamento de dois quartos no centro.",
+    "pronunciation": "پروكورو أون آپارتامِنتو دِ دويس كوارتوس نو سِنترو۔",
+    "words": [
+      {
+        "w": "apartamento",
+        "m_en": "flat",
+        "m_ar": "شقّة"
+      },
+      {
+        "w": "centro",
+        "m_en": "city centre",
+        "m_ar": "وسط المدينة"
+      }
+    ],
+    "grammar_en": "\"Quartos\" here counts bedrooms, not all rooms.",
+    "grammar_ar": "تُحسب «quartos» هنا غرف النوم لا كلّ الغرف.",
+    "alternatives": [
+      {
+        "text": "Estou procurando um dois-quartos no centro.",
+        "note_en": "\"Um dois-quartos\" = a two-bedroom flat",
+        "note_ar": "«um dois-quartos» = شقّة من غرفتين"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3072,
+    "text": "Meu vizinho sempre cumprimenta com um sorriso.",
+    "translation_ar": "جاري يحيّي دائمًا بابتسامة.",
+    "level": "A2",
+    "situation": "community",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 12,
+    "videoId": null,
+    "transcriptContext": "Meu vizinho sempre cumprimenta com um sorriso.",
+    "pronunciation": "مِيو ڤيزينيو سِمپرِ كونپريمِنتا كون أون سوريزو۔",
+    "words": [
+      {
+        "w": "vizinho",
+        "m_en": "neighbour",
+        "m_ar": "جار"
+      },
+      {
+        "w": "cumprimentar",
+        "m_en": "to greet",
+        "m_ar": "يحيّي"
+      }
+    ],
+    "grammar_en": "\"Com\" + noun means \"with\": \"com um sorriso\".",
+    "grammar_ar": "«com» + اسم = «مع»: «com um sorriso».",
+    "alternatives": [
+      {
+        "text": "Meu vizinho é muito simpático.",
+        "note_en": "My neighbour is very kind",
+        "note_ar": "جاري لطيف جدًّا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3073,
+    "text": "O show começa às oito da noite.",
+    "translation_ar": "تبدأ الحفلة الموسيقيّة في الثامنة مساءً.",
+    "level": "A2",
+    "situation": "events",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 29,
+    "videoId": null,
+    "transcriptContext": "O show começa às oito da noite.",
+    "pronunciation": "او شو كومِسا آس ويتو دا نويچِ۔",
+    "words": [
+      {
+        "w": "show",
+        "m_en": "concert",
+        "m_ar": "حفلة موسيقيّة"
+      },
+      {
+        "w": "começar",
+        "m_en": "to begin",
+        "m_ar": "يبدأ"
+      }
+    ],
+    "grammar_en": "\"Show\" (from English) is the common word for a live music performance.",
+    "grammar_ar": "«show» (من الإنجليزية) الكلمة الشائعة لحفلة موسيقيّة حيّة.",
+    "alternatives": [
+      {
+        "text": "O show é às oito da noite.",
+        "note_en": "The concert is at eight in the evening",
+        "note_ar": "الحفلة في الثامنة مساءً"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3074,
+    "text": "Quero marcar uma consulta com o médico.",
+    "translation_ar": "أودّ حجز موعد مع الطبيب.",
+    "level": "A2",
+    "situation": "appointments",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 46,
+    "videoId": null,
+    "transcriptContext": "Quero marcar uma consulta com o médico.",
+    "pronunciation": "كِرو ماركار اوما كونسولتا كون او مِديكو۔",
+    "words": [
+      {
+        "w": "consulta",
+        "m_en": "appointment",
+        "m_ar": "موعد"
+      },
+      {
+        "w": "médico",
+        "m_en": "doctor",
+        "m_ar": "طبيب"
+      }
+    ],
+    "grammar_en": "\"Marcar uma consulta\" is the usual way to book a doctor's appointment.",
+    "grammar_ar": "«marcar uma consulta» الطريقة المعتادة لحجز موعد طبيب.",
+    "alternatives": [
+      {
+        "text": "Gostaria de marcar uma consulta para amanhã.",
+        "note_en": "I'd like an appointment for tomorrow",
+        "note_ar": "أودّ موعدًا لغد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3075,
+    "text": "Preciso de ajuda para encontrar este produto.",
+    "translation_ar": "أحتاج إلى مساعدة لأجد هذا المنتج.",
+    "level": "A2",
+    "situation": "customer-help",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 63,
+    "videoId": null,
+    "transcriptContext": "Preciso de ajuda para encontrar este produto.",
+    "pronunciation": "پريسيزو دِ آجودا پارا إينكونترار إشتِ پرودوتو۔",
+    "words": [
+      {
+        "w": "encontrar",
+        "m_en": "to find",
+        "m_ar": "يجد"
+      },
+      {
+        "w": "produto",
+        "m_en": "product",
+        "m_ar": "منتج"
+      }
+    ],
+    "grammar_en": "\"Para\" + infinitive expresses purpose.",
+    "grammar_ar": "«para» + المصدر تعبّر عن الغاية.",
+    "alternatives": [
+      {
+        "text": "Você pode me ajudar a encontrar este produto?",
+        "note_en": "Would you help me find it?",
+        "note_ar": "هل تساعدني في إيجاد هذا المنتج؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3076,
+    "text": "Houve um acidente, precisamos de uma ambulância.",
+    "translation_ar": "وقع حادث، نحتاج إلى سيّارة إسعاف.",
+    "level": "A2",
+    "situation": "emergency",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 80,
+    "videoId": null,
+    "transcriptContext": "Houve um acidente, precisamos de uma ambulância.",
+    "pronunciation": "اووِ أون آسيدِنتِ، پريسيزاموس دِ اوما آنبولانسيا۔",
+    "words": [
+      {
+        "w": "acidente",
+        "m_en": "accident",
+        "m_ar": "حادث"
+      },
+      {
+        "w": "ambulância",
+        "m_en": "ambulance",
+        "m_ar": "سيّارة إسعاف"
+      }
+    ],
+    "grammar_en": "\"Houve\" means \"there was\" (impersonal, from \"haver\").",
+    "grammar_ar": "«houve» = «حدث» (غير شخصيّة، من «haver»).",
+    "alternatives": [
+      {
+        "text": "Aconteceu um acidente.",
+        "note_en": "An accident has happened",
+        "note_ar": "وقع حادث"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3077,
+    "text": "Você está convidado para minha festa no sábado.",
+    "translation_ar": "أنت مدعوّ إلى حفلتي يوم السبت.",
+    "level": "A2",
+    "situation": "celebrations",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 97,
+    "videoId": null,
+    "transcriptContext": "Você está convidado para minha festa no sábado.",
+    "pronunciation": "ڤوسِه إشتا كونڤيدادو پارا مينيا فِشتا نو ساباذو۔",
+    "words": [
+      {
+        "w": "convidado",
+        "m_en": "invited",
+        "m_ar": "مدعوّ"
+      },
+      {
+        "w": "festa",
+        "m_en": "party",
+        "m_ar": "حفلة"
+      }
+    ],
+    "grammar_en": "\"Estar convidado\" uses \"estar\" for a resulting state.",
+    "grammar_ar": "يستعمل «estar convidado» الفعل «estar» لحالة ناتجة.",
+    "alternatives": [
+      {
+        "text": "Te convido para minha festa no sábado.",
+        "note_en": "I invite you to my party on Saturday",
+        "note_ar": "أدعوك إلى حفلتي يوم السبت"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3078,
+    "text": "Corte as cebolas e refogue-as no óleo.",
+    "translation_ar": "قطّع البصل وقلّه في الزيت.",
+    "level": "A2",
+    "situation": "cooking",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 114,
+    "videoId": null,
+    "transcriptContext": "Corte as cebolas e refogue-as no óleo.",
+    "pronunciation": "كورتِ آس سِبولاس إي رِفوگِ-آس نو اوليو۔",
+    "words": [
+      {
+        "w": "cortar",
+        "m_en": "to cut",
+        "m_ar": "يقطّع"
+      },
+      {
+        "w": "refogar",
+        "m_en": "to sauté",
+        "m_ar": "يُحمِّر / يقلي"
+      }
+    ],
+    "grammar_en": "The command takes a pronoun: \"refogue-as\" = \"refogue\" + \"as\".",
+    "grammar_ar": "يلتصق الضمير بفعل الأمر: «refogue-as» = «refogue» + «as».",
+    "alternatives": [
+      {
+        "text": "Pique a cebola e frite-a.",
+        "note_en": "\"Fritar\" = to fry",
+        "note_ar": "«fritar» = يقلي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3079,
+    "text": "O trem sai daqui a vinte minutos.",
+    "translation_ar": "يغادر القطار بعد عشرين دقيقة.",
+    "level": "A2",
+    "situation": "time",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 131,
+    "videoId": null,
+    "transcriptContext": "O trem sai daqui a vinte minutos.",
+    "pronunciation": "او تِرِين سايِ داكي آ ڤينچِ مينوتوس۔",
+    "words": [
+      {
+        "w": "daqui a",
+        "m_en": "in (a period of time)",
+        "m_ar": "بعد"
+      },
+      {
+        "w": "minutos",
+        "m_en": "minutes",
+        "m_ar": "دقائق"
+      }
+    ],
+    "grammar_en": "\"Daqui a\" + time means \"in\" (future).",
+    "grammar_ar": "«daqui a» + مدّة = «بعد» (المستقبل).",
+    "alternatives": [
+      {
+        "text": "Sai em vinte minutos.",
+        "note_en": "Shorter",
+        "note_ar": "أقصر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3080,
+    "text": "Estou com tosse e dor de garganta desde ontem.",
+    "translation_ar": "لديّ سعال وألم في الحلق منذ أمس.",
+    "level": "A2",
+    "situation": "health",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 148,
+    "videoId": null,
+    "transcriptContext": "Estou com tosse e dor de garganta desde ontem.",
+    "pronunciation": "إشتو كون توسِ إي دور دِ گارگانتا دِسدِ اونتِين۔",
+    "words": [
+      {
+        "w": "tosse",
+        "m_en": "cough",
+        "m_ar": "سعال"
+      },
+      {
+        "w": "garganta",
+        "m_en": "throat",
+        "m_ar": "حلق"
+      }
+    ],
+    "grammar_en": "\"Desde\" + a point in time means \"since\".",
+    "grammar_ar": "«desde» + نقطة زمنيّة = «منذ».",
+    "alternatives": [
+      {
+        "text": "Minha garganta dói desde ontem.",
+        "note_en": "My throat has hurt since yesterday",
+        "note_ar": "حلقي يؤلمني منذ أمس"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3081,
+    "text": "Vá em frente e vire à direita na segunda rua.",
+    "translation_ar": "سِر مستقيمًا ثم انعطف يمينًا عند الشارع الثاني.",
+    "level": "A2",
+    "situation": "directions",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 165,
+    "videoId": null,
+    "transcriptContext": "Vá em frente e vire à direita na segunda rua.",
+    "pronunciation": "ڤا إين فرِنتِ إي ڤيرِ آ ديريتا نا سِگوندا روا۔",
+    "words": [
+      {
+        "w": "virar",
+        "m_en": "to turn",
+        "m_ar": "ينعطف"
+      },
+      {
+        "w": "rua",
+        "m_en": "street",
+        "m_ar": "شارع"
+      }
+    ],
+    "grammar_en": "\"Vá\" and \"vire\" are formal imperatives (você-based).",
+    "grammar_ar": "«ڤا» و«ڤيرِ» أمران رسميّان (بصيغة você).",
+    "alternatives": [
+      {
+        "text": "Siga reto e vire à direita na segunda.",
+        "note_en": "\"Seguir reto\" is a synonym of \"ir em frente\"",
+        "note_ar": "«seguir reto» مرادف لـ«ir em frente»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3082,
+    "text": "Eu gostaria de uma passagem de ida e volta para o Porto.",
+    "translation_ar": "أودّ تذكرة ذهاب وإياب إلى بورتو.",
+    "level": "A2",
+    "situation": "transport",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 182,
+    "videoId": null,
+    "transcriptContext": "Eu gostaria de uma passagem de ida e volta para o Porto.",
+    "pronunciation": "إيو گوستارِيا دِ اوما پاسّاجِين دِ إيدا إي ڤولتا پارا او پورتو۔",
+    "words": [
+      {
+        "w": "passagem",
+        "m_en": "ticket",
+        "m_ar": "تذكرة"
+      },
+      {
+        "w": "ida e volta",
+        "m_en": "round trip",
+        "m_ar": "ذهاب وإياب"
+      }
+    ],
+    "grammar_en": "\"Passagem\" is used for travel tickets (train, bus, plane).",
+    "grammar_ar": "تُستعمل «passagem» لتذاكر السفر (قطار، حافلة، طائرة).",
+    "alternatives": [
+      {
+        "text": "Quero uma passagem de ida e volta, por favor.",
+        "note_en": "I want a round-trip ticket, please",
+        "note_ar": "أريد تذكرة ذهاب وإياب من فضلك"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3083,
+    "text": "Separo o lixo para reciclar o plástico e o papel.",
+    "translation_ar": "أفرز النفايات لإعادة تدوير البلاستيك والورق.",
+    "level": "A2",
+    "situation": "environment",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 199,
+    "videoId": null,
+    "transcriptContext": "Separo o lixo para reciclar o plástico e o papel.",
+    "pronunciation": "سِپارو او ليشو پارا رِسيكلار او پلاستيكو إي او پاپِل۔",
+    "words": [
+      {
+        "w": "reciclar",
+        "m_en": "to recycle",
+        "m_ar": "يعيد التدوير"
+      },
+      {
+        "w": "lixo",
+        "m_en": "rubbish",
+        "m_ar": "نفايات"
+      }
+    ],
+    "grammar_en": "\"Para\" + infinitive expresses purpose.",
+    "grammar_ar": "«para» + المصدر تعبّر عن الغاية.",
+    "alternatives": [
+      {
+        "text": "Reciclo plástico e papel.",
+        "note_en": "I recycle plastic and paper",
+        "note_ar": "أعيد تدوير البلاستيك والورق"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3084,
+    "text": "Meus pais se conheceram na universidade.",
+    "translation_ar": "التقى والداي في الجامعة.",
+    "level": "B1",
+    "situation": "family",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 216,
+    "videoId": null,
+    "transcriptContext": "Meus pais se conheceram na universidade.",
+    "pronunciation": "مِيوس پايس سِه كونيسِرام نا أونيڤِرسيدادِ۔",
+    "words": [
+      {
+        "w": "pais",
+        "m_en": "parents",
+        "m_ar": "والدان"
+      },
+      {
+        "w": "conhecer-se",
+        "m_en": "to meet each other",
+        "m_ar": "يتعارفان"
+      }
+    ],
+    "grammar_en": "\"Se conheceram\" is reflexive/reciprocal: \"they got to know each other\".",
+    "grammar_ar": "«se conheceram» انعكاسي/متبادل: «تعارفا».",
+    "alternatives": [
+      {
+        "text": "Meus pais se conheceram na faculdade.",
+        "note_en": "\"Faculdade\" is a common synonym for \"university\"",
+        "note_ar": "«faculdade» مرادف شائع لـ«جامعة»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3085,
+    "text": "Preciso consertar a torneira da cozinha.",
+    "translation_ar": "عليّ إصلاح صنبور المطبخ.",
+    "level": "B1",
+    "situation": "home",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 233,
+    "videoId": null,
+    "transcriptContext": "Preciso consertar a torneira da cozinha.",
+    "pronunciation": "پريسيزو كونسِرتار آ تورنيرا دا كوزينيا۔",
+    "words": [
+      {
+        "w": "consertar",
+        "m_en": "to fix",
+        "m_ar": "يصلح"
+      },
+      {
+        "w": "torneira",
+        "m_en": "tap",
+        "m_ar": "صنبور"
+      }
+    ],
+    "grammar_en": "\"Precisar de\" or \"precisar\" + infinitive expresses need.",
+    "grammar_ar": "يعبّر «precisar de» أو «precisar» + المصدر عن الحاجة.",
+    "alternatives": [
+      {
+        "text": "A torneira da cozinha está com defeito.",
+        "note_en": "The kitchen tap is faulty",
+        "note_ar": "صنبور المطبخ معطّل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3086,
+    "text": "Este prato tem algum ingrediente picante?",
+    "translation_ar": "هل يحتوي هذا الطبق على مكوّن حارّ؟",
+    "level": "B1",
+    "situation": "restaurant",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 10,
+    "videoId": null,
+    "transcriptContext": "Este prato tem algum ingrediente picante?",
+    "pronunciation": "إشتِ پراتو تِين آلگون إينگريدِيّنتِ پيكانتِ؟",
+    "words": [
+      {
+        "w": "picante",
+        "m_en": "spicy",
+        "m_ar": "حارّ"
+      },
+      {
+        "w": "prato",
+        "m_en": "dish",
+        "m_ar": "طبق"
+      }
+    ],
+    "grammar_en": "\"Algum\" here means \"any\" in a question.",
+    "grammar_ar": "تعني «algum» هنا «أيّ» في السؤال.",
+    "alternatives": [
+      {
+        "text": "Este prato é muito picante?",
+        "note_en": "Is this dish very spicy?",
+        "note_ar": "هل هذا الطبق حارّ جدًّا؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3087,
+    "text": "Recebi uma proposta de trabalho interessante.",
+    "translation_ar": "تلقّيتُ عرض عمل مثيرًا للاهتمام.",
+    "level": "B1",
+    "situation": "career",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 27,
+    "videoId": null,
+    "transcriptContext": "Recebi uma proposta de trabalho interessante.",
+    "pronunciation": "رِسِبي اوما پروپوستا دِ تراباليو إينتِرِسانتِ۔",
+    "words": [
+      {
+        "w": "proposta",
+        "m_en": "offer, proposal",
+        "m_ar": "عرض"
+      },
+      {
+        "w": "interessante",
+        "m_en": "interesting",
+        "m_ar": "مثير للاهتمام"
+      }
+    ],
+    "grammar_en": "\"Receber uma proposta\" means \"to receive an offer\".",
+    "grammar_ar": "«receber uma proposta» = «تلقّي عرض».",
+    "alternatives": [
+      {
+        "text": "Me ofereceram um emprego bem interessante.",
+        "note_en": "\"Emprego\" is a synonym of \"trabalho\" for \"job\"",
+        "note_ar": "«emprego» مرادف لـ«trabalho» بمعنى «وظيفة»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3088,
+    "text": "Tem um caixa eletrônico perto daqui?",
+    "translation_ar": "هل يوجد صرّاف آلي قريب من هنا؟",
+    "level": "B1",
+    "situation": "banking",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 44,
+    "videoId": null,
+    "transcriptContext": "Tem um caixa eletrônico perto daqui?",
+    "pronunciation": "تِين أون كايشا إيلِترونيكو پِرتو داكي؟",
+    "words": [
+      {
+        "w": "caixa eletrônico",
+        "m_en": "ATM",
+        "m_ar": "صرّاف آلي"
+      },
+      {
+        "w": "perto",
+        "m_en": "nearby",
+        "m_ar": "قريب"
+      }
+    ],
+    "grammar_en": "\"Tem\" is used to ask whether something exists somewhere.",
+    "grammar_ar": "تُستعمل «tem» للسؤال عن وجود شيء في مكان ما.",
+    "alternatives": [
+      {
+        "text": "Onde posso sacar dinheiro?",
+        "note_en": "Where can I withdraw money?",
+        "note_ar": "أين يمكنني سحب المال؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3089,
+    "text": "Podemos remarcar para quinta-feira à tarde?",
+    "translation_ar": "هل يمكننا نقل الموعد إلى بعد ظهر الخميس؟",
+    "level": "B1",
+    "situation": "appointments",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 61,
+    "videoId": null,
+    "transcriptContext": "Podemos remarcar para quinta-feira à tarde?",
+    "pronunciation": "پودِموس رِماركار پارا كينتا-فِيرا آ تاردِ؟",
+    "words": [
+      {
+        "w": "remarcar",
+        "m_en": "to reschedule",
+        "m_ar": "ينقل الموعد"
+      },
+      {
+        "w": "quinta-feira",
+        "m_en": "Thursday",
+        "m_ar": "الخميس"
+      }
+    ],
+    "grammar_en": "The prefix \"re-\" adds the meaning \"again\": \"remarcar\".",
+    "grammar_ar": "تضيف البادئة «re-» معنى «مجدّدًا»: «remarcar».",
+    "alternatives": [
+      {
+        "text": "Dá para mudar a consulta para quinta?",
+        "note_en": "Can we move the appointment to Thursday?",
+        "note_ar": "هل يمكن نقل الموعد إلى الخميس؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3090,
+    "text": "Pedimos desculpas pelo transtorno causado.",
+    "translation_ar": "نأسف للإزعاج الذي سبّبناه.",
+    "level": "B1",
+    "situation": "customer-service",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 78,
+    "videoId": null,
+    "transcriptContext": "Pedimos desculpas pelo transtorno causado.",
+    "pronunciation": "پِديموس دِسكولپاس پِلو ترانستورنو كاوزادو۔",
+    "words": [
+      {
+        "w": "transtorno",
+        "m_en": "inconvenience",
+        "m_ar": "إزعاج"
+      },
+      {
+        "w": "desculpa",
+        "m_en": "apology",
+        "m_ar": "اعتذار"
+      }
+    ],
+    "grammar_en": "\"Pedir desculpas\" means \"to apologise\".",
+    "grammar_ar": "تعني «pedir desculpas» «يعتذر».",
+    "alternatives": [
+      {
+        "text": "Sentimos muito pelo inconveniente.",
+        "note_en": "We're sorry for the trouble",
+        "note_ar": "نأسف للمتاعب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3091,
+    "text": "Você já tentou reiniciar o computador?",
+    "translation_ar": "هل جرّبتَ إعادة تشغيل الحاسوب؟",
+    "level": "B1",
+    "situation": "technical-support",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 95,
+    "videoId": null,
+    "transcriptContext": "Você já tentou reiniciar o computador?",
+    "pronunciation": "ڤوسِه جا تِنتو رِينيسيار او كونپيوتادور؟",
+    "words": [
+      {
+        "w": "reiniciar",
+        "m_en": "to restart",
+        "m_ar": "يعيد التشغيل"
+      },
+      {
+        "w": "computador",
+        "m_en": "computer",
+        "m_ar": "حاسوب"
+      }
+    ],
+    "grammar_en": "\"Tentar\" + infinitive means \"to try doing\".",
+    "grammar_ar": "«tentar» + المصدر = يجرّب فعل شيء.",
+    "alternatives": [
+      {
+        "text": "Já reiniciou o aparelho?",
+        "note_en": "Have you already restarted the device?",
+        "note_ar": "هل أعدتَ تشغيل الجهاز؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 3092,
+    "text": "Primeiro vá em configurações, depois mude o idioma.",
+    "translation_ar": "اذهب أوّلًا إلى الإعدادات ثم غيّر اللغة.",
+    "level": "B1",
+    "situation": "meetings",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 112,
+    "videoId": null,
+    "transcriptContext": "Primeiro vá em configurações, depois mude o idioma.",
+    "pronunciation": "پريمِيرو ڤا إين كونفيگوراسوينس، دِپويس مودِ او إيدْيوما۔",
+    "words": [
+      {
+        "w": "configurações",
+        "m_en": "settings",
+        "m_ar": "إعدادات"
+      },
+      {
+        "w": "mudar",
+        "m_en": "to change",
+        "m_ar": "يغيّر"
+      }
+    ],
+    "grammar_en": "\"Primeiro... depois...\" means \"first... then...\".",
+    "grammar_ar": "تعني «primeiro... depois...» «أوّلًا... ثم...».",
+    "alternatives": [
+      {
+        "text": "Abra as configurações e mude o idioma.",
+        "note_en": "Open settings and change the language",
+        "note_ar": "افتح الإعدادات وغيّر اللغة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3093,
+    "text": "Primeiro vá em configurações, depois altere o idioma.",
+    "translation_ar": "اذهب أوّلًا إلى الإعدادات ثم غيّر اللغة.",
+    "level": "B1",
+    "situation": "technology",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 129,
+    "videoId": null,
+    "transcriptContext": "Primeiro vá em configurações, depois altere o idioma.",
+    "pronunciation": "پريمِيرو ڤا إين كونفيگوراسوينس، دِپويس آلتِرِ او إيدْيوما۔",
+    "words": [
+      {
+        "w": "alterar",
+        "m_en": "to change",
+        "m_ar": "يغيّر"
+      },
+      {
+        "w": "configurações",
+        "m_en": "settings",
+        "m_ar": "إعدادات"
+      }
+    ],
+    "grammar_en": "\"Alterar\" is a formal synonym of \"mudar\".",
+    "grammar_ar": "«alterar» مرادف رسمي لـ«mudar».",
+    "alternatives": [
+      {
+        "text": "Se o programa não funcionar, reinicie-o.",
+        "note_en": "If the program doesn't work, restart it",
+        "note_ar": "إذا لم يعمل البرنامج أعد تشغيله"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3094,
+    "text": "Comecei um curso de fotografia para me desenvolver.",
+    "translation_ar": "بدأتُ دورة تصوير لأتطوّر.",
+    "level": "B1",
+    "situation": "leisure",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 146,
+    "videoId": null,
+    "transcriptContext": "Comecei um curso de fotografia para me desenvolver.",
+    "pronunciation": "كومِسِي أون كورسو دِ فوتوگرافيا پارا مِه دِسِنڤولڤِر۔",
+    "words": [
+      {
+        "w": "curso",
+        "m_en": "course",
+        "m_ar": "دورة"
+      },
+      {
+        "w": "desenvolver-se",
+        "m_en": "to develop oneself",
+        "m_ar": "يتطوّر"
+      }
+    ],
+    "grammar_en": "\"Para\" + infinitive expresses purpose.",
+    "grammar_ar": "«para» + المصدر تعبّر عن الغاية.",
+    "alternatives": [
+      {
+        "text": "Estou aprendendo fotografia.",
+        "note_en": "I'm learning photography",
+        "note_ar": "أتعلّم التصوير"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3095,
+    "text": "Se chover amanhã, vamos cancelar o passeio.",
+    "translation_ar": "إذا أمطرت غدًا فسنلغي الرحلة.",
+    "level": "B1",
+    "situation": "weather",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 163,
+    "videoId": null,
+    "transcriptContext": "Se chover amanhã, vamos cancelar o passeio.",
+    "pronunciation": "سِه شوڤِر آمانيان، ڤاموس كانسِلار او پاسِيو۔",
+    "words": [
+      {
+        "w": "cancelar",
+        "m_en": "to cancel",
+        "m_ar": "يلغي"
+      },
+      {
+        "w": "passeio",
+        "m_en": "outing",
+        "m_ar": "رحلة"
+      }
+    ],
+    "grammar_en": "\"Se\" + present, then the future: a real condition.",
+    "grammar_ar": "«se» + المضارع ثم المستقبل: شرط واقعي.",
+    "alternatives": [
+      {
+        "text": "Se o tempo estiver ruim, não teremos o passeio.",
+        "note_en": "\"Se estiver\" (subjunctive)",
+        "note_ar": "«se estiver» (subjuntivo)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3096,
+    "text": "Estudo português há um ano e melhorei muito.",
+    "translation_ar": "أدرس البرتغالية منذ سنة وقد تحسّنتُ كثيرًا.",
+    "level": "B1",
+    "situation": "education",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 180,
+    "videoId": null,
+    "transcriptContext": "Estudo português há um ano e melhorei muito.",
+    "pronunciation": "إشتودو پورتوگِس آ أون آنو إي مِليورِي مويتو۔",
+    "words": [
+      {
+        "w": "estudar",
+        "m_en": "to study",
+        "m_ar": "يدرس"
+      },
+      {
+        "w": "melhorar",
+        "m_en": "to improve",
+        "m_ar": "يتحسّن"
+      }
+    ],
+    "grammar_en": "\"Há\" + duration + present tense describes an ongoing action.",
+    "grammar_ar": "«há» + مدّة + المضارع تصف فعلًا مستمرًّا.",
+    "alternatives": [
+      {
+        "text": "Faz um ano que estudo português.",
+        "note_en": "\"Faz... que\" is a synonym of \"há\"",
+        "note_ar": "«faz... que» مرادف لـ«há»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3097,
+    "text": "Alugamos um carro para conhecer a costa.",
+    "translation_ar": "استأجرنا سيّارة لنجوب الساحل.",
+    "level": "B1",
+    "situation": "travel",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 197,
+    "videoId": null,
+    "transcriptContext": "Alugamos um carro para conhecer a costa.",
+    "pronunciation": "آلوگاموس أون كارّو پارا كونيسِر آ كوستا۔",
+    "words": [
+      {
+        "w": "alugar",
+        "m_en": "to rent",
+        "m_ar": "يستأجر"
+      },
+      {
+        "w": "costa",
+        "m_en": "coast",
+        "m_ar": "ساحل"
+      }
+    ],
+    "grammar_en": "\"Conhecer\" here means \"to explore / get to know (a place)\".",
+    "grammar_ar": "تعني «conhecer» هنا «يستكشف / يتعرّف على (مكان)».",
+    "alternatives": [
+      {
+        "text": "Alugamos um carro para percorrer a costa.",
+        "note_en": "\"Percorrer\" = to travel around",
+        "note_ar": "«percorrer» = يجوب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3098,
+    "text": "A que horas devo deixar o quarto?",
+    "translation_ar": "في أيّ ساعة يجب إخلاء الغرفة؟",
+    "level": "B1",
+    "situation": "hotel",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 214,
+    "videoId": null,
+    "transcriptContext": "A que horas devo deixar o quarto?",
+    "pronunciation": "آ كِه اوراس دِڤو دِيشار او كوارتو؟",
+    "words": [
+      {
+        "w": "quarto",
+        "m_en": "room",
+        "m_ar": "غرفة"
+      },
+      {
+        "w": "dever",
+        "m_en": "must",
+        "m_ar": "يجب"
+      }
+    ],
+    "grammar_en": "\"Dever\" + infinitive expresses obligation.",
+    "grammar_ar": "يعبّر «dever» + المصدر عن الإلزام.",
+    "alternatives": [
+      {
+        "text": "Qual é o horário de check-out?",
+        "note_en": "\"Check-out\" is a common English borrowing",
+        "note_ar": "«check-out» كلمة إنجليزية مستعارة شائعة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3099,
+    "text": "Minha mala não chegou, preciso fazer uma reclamação.",
+    "translation_ar": "لم تصل حقيبتي وعليّ تقديم شكوى.",
+    "level": "B1",
+    "situation": "airport",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 231,
+    "videoId": null,
+    "transcriptContext": "Minha mala não chegou, preciso fazer uma reclamação.",
+    "pronunciation": "مينيا مالا ناون شِگو، پريسيزو فازِر اوما رِكلاماساون۔",
+    "words": [
+      {
+        "w": "mala",
+        "m_en": "suitcase",
+        "m_ar": "حقيبة سفر"
+      },
+      {
+        "w": "reclamação",
+        "m_en": "complaint",
+        "m_ar": "شكوى"
+      }
+    ],
+    "grammar_en": "\"Fazer uma reclamação\" means \"to file a claim/complaint\".",
+    "grammar_ar": "«fazer uma reclamação» = تقديم شكوى.",
+    "alternatives": [
+      {
+        "text": "Perderam a minha bagagem.",
+        "note_en": "They've lost my luggage",
+        "note_ar": "أضاعوا أمتعتي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3100,
+    "text": "O aluguel inclui as taxas de condomínio?",
+    "translation_ar": "هل يشمل الإيجار نفقات الخدمات المشتركة؟",
+    "level": "B1",
+    "situation": "real-estate",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 8,
+    "videoId": null,
+    "transcriptContext": "O aluguel inclui as taxas de condomínio?",
+    "pronunciation": "او آلوگِل إينكلوي آس تاشاس دِ كوندومينيو؟",
+    "words": [
+      {
+        "w": "incluir",
+        "m_en": "to include",
+        "m_ar": "يشمل"
+      },
+      {
+        "w": "condomínio",
+        "m_en": "building charges",
+        "m_ar": "نفقات المبنى"
+      }
+    ],
+    "grammar_en": "\"Incluir\" is a regular \"-ir\" verb.",
+    "grammar_ar": "«incluir» فعل منتظم من زمرة «-ir».",
+    "alternatives": [
+      {
+        "text": "As taxas de condomínio estão inclusas no aluguel?",
+        "note_en": "Passive-style question",
+        "note_ar": "سؤال بصيغة المبني للمجهول"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3101,
+    "text": "Os ingressos para sábado já estão esgotados.",
+    "translation_ar": "نفدت تذاكر يوم السبت بالكامل.",
+    "level": "B1",
+    "situation": "events",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 25,
+    "videoId": null,
+    "transcriptContext": "Os ingressos para sábado já estão esgotados.",
+    "pronunciation": "اوس إينگرِسوس پارا ساباذو جا إشتاون إسگوتادوس۔",
+    "words": [
+      {
+        "w": "ingresso",
+        "m_en": "ticket",
+        "m_ar": "تذكرة"
+      },
+      {
+        "w": "esgotado",
+        "m_en": "sold out",
+        "m_ar": "نافد"
+      }
+    ],
+    "grammar_en": "\"Já\" means \"already\".",
+    "grammar_ar": "تعني «já» «بالفعل».",
+    "alternatives": [
+      {
+        "text": "Não há mais ingressos para sábado.",
+        "note_en": "There are no more tickets for Saturday",
+        "note_ar": "لم تعد هناك تذاكر ليوم السبت"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 3102,
+    "text": "Tenho o hábito de dormir cedo porque acordo cedo.",
+    "translation_ar": "اعتدتُ النوم مبكرًا لأنني أستيقظ مبكرًا.",
+    "level": "B1",
+    "situation": "daily",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 42,
+    "videoId": null,
+    "transcriptContext": "Tenho o hábito de dormir cedo porque acordo cedo.",
+    "pronunciation": "تِنيو او آبيتو دِ دورمير سِدو پوركِه أكوردو سِدو۔",
+    "words": [
+      {
+        "w": "hábito",
+        "m_en": "habit",
+        "m_ar": "عادة"
+      },
+      {
+        "w": "cedo",
+        "m_en": "early",
+        "m_ar": "مبكرًا"
+      }
+    ],
+    "grammar_en": "\"Ter o hábito de\" + infinitive expresses a habit.",
+    "grammar_ar": "يعبّر «ter o hábito de» + المصدر عن عادة.",
+    "alternatives": [
+      {
+        "text": "Normalmente eu durmo cedo.",
+        "note_en": "I usually go to sleep early",
+        "note_ar": "عادةً أنام مبكرًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3103,
+    "text": "Quero devolver esta calça, ela não ficou boa em mim.",
+    "translation_ar": "أريد إرجاع هذا البنطال، فهو لا يناسبني.",
+    "level": "B1",
+    "situation": "shopping",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 59,
+    "videoId": null,
+    "transcriptContext": "Quero devolver esta calça, ela não ficou boa em mim.",
+    "pronunciation": "كِرو دِڤولڤِر إشتا كالسا، إلا ناون فيكو بوا إين مين۔",
+    "words": [
+      {
+        "w": "devolver",
+        "m_en": "to return",
+        "m_ar": "يُرجع"
+      },
+      {
+        "w": "calça",
+        "m_en": "trousers",
+        "m_ar": "بنطال"
+      }
+    ],
+    "grammar_en": "\"Ficar bem em\" means \"to fit / suit (someone)\".",
+    "grammar_ar": "تعني «ficar bem em» «يناسب (أحدًا)».",
+    "alternatives": [
+      {
+        "text": "Esta calça está grande demais para mim.",
+        "note_en": "This pair of trousers is too big for me",
+        "note_ar": "هذا البنطال واسع عليّ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3104,
+    "text": "O médico me aconselhou a descansar e beber bastante água.",
+    "translation_ar": "نصحني الطبيب بالراحة وشرب الكثير من الماء.",
+    "level": "B1",
+    "situation": "health",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 76,
+    "videoId": null,
+    "transcriptContext": "O médico me aconselhou a descansar e beber bastante água.",
+    "pronunciation": "او مِديكو مِه أكونسِليو آ دِسكانسار إي بِبِر باستانچِ آگوا۔",
+    "words": [
+      {
+        "w": "aconselhar a",
+        "m_en": "to advise to",
+        "m_ar": "ينصح بـ"
+      },
+      {
+        "w": "descansar",
+        "m_en": "to rest",
+        "m_ar": "يستريح"
+      }
+    ],
+    "grammar_en": "\"Aconselhar a\" + infinitive.",
+    "grammar_ar": "«aconselhar a» + المصدر.",
+    "alternatives": [
+      {
+        "text": "O médico me recomendou repouso.",
+        "note_en": "\"Repouso\" = rest (noun)",
+        "note_ar": "«repouso» = الراحة (اسم)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3105,
+    "text": "Você pode me enviar o relatório antes de sexta-feira?",
+    "translation_ar": "هل يمكنك أن ترسل لي التقرير قبل الجمعة؟",
+    "level": "B1",
+    "situation": "workplace",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 93,
+    "videoId": null,
+    "transcriptContext": "Você pode me enviar o relatório antes de sexta-feira?",
+    "pronunciation": "ڤوسِه پودِ مِه إينڤيار او رِلاتوريو آنتِس دِ سِشتا-فِيرا؟",
+    "words": [
+      {
+        "w": "relatório",
+        "m_en": "report",
+        "m_ar": "تقرير"
+      },
+      {
+        "w": "enviar",
+        "m_en": "to send",
+        "m_ar": "يرسل"
+      }
+    ],
+    "grammar_en": "\"Antes de\" + noun or infinitive means \"before\".",
+    "grammar_ar": "«antes de» + اسم أو مصدر = «قبل».",
+    "alternatives": [
+      {
+        "text": "Pode me mandar o relatório até sexta?",
+        "note_en": "\"Até sexta\" = by Friday",
+        "note_ar": "«até sexta» = بحلول الجمعة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3106,
+    "text": "Minha maior qualidade é a capacidade de trabalhar em equipe.",
+    "translation_ar": "أكبر ميزاتي هي قدرتي على العمل ضمن فريق.",
+    "level": "B1",
+    "situation": "job-interview",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 110,
+    "videoId": null,
+    "transcriptContext": "Minha maior qualidade é a capacidade de trabalhar em equipe.",
+    "pronunciation": "مينيا مايور كواليدادِ إه آ كاپاسيدادِ دِ تراباليار إين إكيپِ۔",
+    "words": [
+      {
+        "w": "qualidade",
+        "m_en": "quality, strength",
+        "m_ar": "ميزة"
+      },
+      {
+        "w": "equipe",
+        "m_en": "team",
+        "m_ar": "فريق"
+      }
+    ],
+    "grammar_en": "\"Minha maior\" is a superlative with \"mais\" implied in \"maior\" (the comparative of \"grande\").",
+    "grammar_ar": "«minha maior» صيغة تفضيل عليا بـ«maior» (مقارن «grande»).",
+    "alternatives": [
+      {
+        "text": "Sei trabalhar bem em equipe.",
+        "note_en": "I know how to work well in a team",
+        "note_ar": "أُجيد العمل ضمن فريق"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3107,
+    "text": "Eu te ligo mais tarde, agora estou em reunião.",
+    "translation_ar": "سأتّصل بك لاحقًا، أنا الآن في اجتماع.",
+    "level": "B1",
+    "situation": "phone-calls",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 127,
+    "videoId": null,
+    "transcriptContext": "Eu te ligo mais tarde, agora estou em reunião.",
+    "pronunciation": "إيو تِه ليگو مايس تارچِ، آگورا إشتو إين رِونياون۔",
+    "words": [
+      {
+        "w": "ligar",
+        "m_en": "to call",
+        "m_ar": "يتّصل"
+      },
+      {
+        "w": "mais tarde",
+        "m_en": "later",
+        "m_ar": "لاحقًا"
+      }
+    ],
+    "grammar_en": "The present tense can express a near-future intention.",
+    "grammar_ar": "يمكن للمضارع أن يعبّر عن نيّة قريبة في المستقبل.",
+    "alternatives": [
+      {
+        "text": "Te ligo daqui a pouco.",
+        "note_en": "\"Daqui a pouco\" = in a little while",
+        "note_ar": "«داكي آ پوكو» = بعد قليل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3108,
+    "text": "Fica a uns dez minutos a pé da praça.",
+    "translation_ar": "يبعد نحو عشر دقائق سيرًا على الأقدام عن الساحة.",
+    "level": "B1",
+    "situation": "directions",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 144,
+    "videoId": null,
+    "transcriptContext": "Fica a uns dez minutos a pé da praça.",
+    "pronunciation": "فيكا آ اونس دِز مينوتوس آ پِه دا پراسا۔",
+    "words": [
+      {
+        "w": "a pé",
+        "m_en": "on foot",
+        "m_ar": "سيرًا على الأقدام"
+      },
+      {
+        "w": "praça",
+        "m_en": "square",
+        "m_ar": "ساحة"
+      }
+    ],
+    "grammar_en": "\"A uns\" + number means \"about\".",
+    "grammar_ar": "«a uns» + عدد = «حوالي».",
+    "alternatives": [
+      {
+        "text": "Dá para chegar em dez minutos a pé.",
+        "note_en": "You can get there in ten minutes on foot",
+        "note_ar": "يمكن الوصول في عشر دقائق سيرًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3109,
+    "text": "Preciso pagar o aluguel antes do fim do mês.",
+    "translation_ar": "عليّ دفع الإيجار قبل نهاية الشهر.",
+    "level": "B1",
+    "situation": "finance",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 161,
+    "videoId": null,
+    "transcriptContext": "Preciso pagar o aluguel antes do fim do mês.",
+    "pronunciation": "پريسيزو پاگار او آلوگِل آنتِس دو فين دو مِس۔",
+    "words": [
+      {
+        "w": "aluguel",
+        "m_en": "rent",
+        "m_ar": "إيجار"
+      },
+      {
+        "w": "fim do mês",
+        "m_en": "end of the month",
+        "m_ar": "نهاية الشهر"
+      }
+    ],
+    "grammar_en": "\"Precisar\" + infinitive expresses necessity.",
+    "grammar_ar": "يعبّر «precisar» + المصدر عن الضرورة.",
+    "alternatives": [
+      {
+        "text": "O aluguel deve ser pago até o fim do mês.",
+        "note_en": "\"Deve ser pago\" = must be paid",
+        "note_ar": "«deve ser pago» = يجب أن يُدفع"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3110,
+    "text": "Preciso do cartão da biblioteca para pegar livros emprestados.",
+    "translation_ar": "أحتاج إلى بطاقة المكتبة لأستعير الكتب.",
+    "level": "B1",
+    "situation": "community",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 178,
+    "videoId": null,
+    "transcriptContext": "Preciso do cartão da biblioteca para pegar livros emprestados.",
+    "pronunciation": "پريسيزو دو كارتاون دا بيبليوتِكا پارا پِگار ليڤروس إمپرِستادوس۔",
+    "words": [
+      {
+        "w": "biblioteca",
+        "m_en": "library",
+        "m_ar": "مكتبة"
+      },
+      {
+        "w": "emprestado",
+        "m_en": "borrowed",
+        "m_ar": "معار"
+      }
+    ],
+    "grammar_en": "\"Pegar emprestado\" means \"to borrow\"; \"emprestar\" means \"to lend\".",
+    "grammar_ar": "«pegar emprestado» = يستعير؛ و«emprestar» = يعير.",
+    "alternatives": [
+      {
+        "text": "Quero pegar livros na biblioteca.",
+        "note_en": "I want to borrow books from the library",
+        "note_ar": "أريد استعارة كتب من المكتبة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3111,
+    "text": "Nosso produto se adapta às necessidades de cada cliente.",
+    "translation_ar": "يتكيّف منتجنا مع احتياجات كلّ عميل.",
+    "level": "B1",
+    "situation": "support",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 195,
+    "videoId": null,
+    "transcriptContext": "Nosso produto se adapta às necessidades de cada cliente.",
+    "pronunciation": "نوسو پرودوتو سِه آداپتا آس نِسِسيدادِس دِ كادا كليّنتِ۔",
+    "words": [
+      {
+        "w": "adaptar-se a",
+        "m_en": "to adapt to",
+        "m_ar": "يتكيّف مع"
+      },
+      {
+        "w": "necessidade",
+        "m_en": "need",
+        "m_ar": "حاجة"
+      }
+    ],
+    "grammar_en": "\"Cada\" is invariable and followed by a singular noun.",
+    "grammar_ar": "«cada» لا تتغيّر ويليها اسم مفرد.",
+    "alternatives": [
+      {
+        "text": "Nos ajustamos ao que cada cliente precisa.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3112,
+    "text": "É preciso deixar a massa descansar por uma hora.",
+    "translation_ar": "يجب ترك العجين يرتاح لمدّة ساعة.",
+    "level": "B1",
+    "situation": "cooking",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 212,
+    "videoId": null,
+    "transcriptContext": "É preciso deixar a massa descansar por uma hora.",
+    "pronunciation": "إه پرِسيزو دِيشار آ ماسا دِسكانسار پور اوما اورا۔",
+    "words": [
+      {
+        "w": "massa",
+        "m_en": "dough",
+        "m_ar": "عجين"
+      },
+      {
+        "w": "descansar",
+        "m_en": "to rest",
+        "m_ar": "يرتاح"
+      }
+    ],
+    "grammar_en": "\"Deixar\" + infinitive means \"to let something...\".",
+    "grammar_ar": "«deixar» + المصدر = «ترك الشيء ...».",
+    "alternatives": [
+      {
+        "text": "A massa deve descansar uma hora.",
+        "note_en": "\"Deve\" = must",
+        "note_ar": "«deve» = يجب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3113,
+    "text": "Deveríamos usar mais o transporte público para reduzir a poluição.",
+    "translation_ar": "ينبغي أن نستخدم المواصلات العامّة أكثر لنقلّل التلوّث.",
+    "level": "B1",
+    "situation": "environment",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 229,
+    "videoId": null,
+    "transcriptContext": "Deveríamos usar mais o transporte público para reduzir a poluição.",
+    "pronunciation": "دِڤِرياموس اوزار مايس او ترانسپورتِ پوبليكو پارا رِدوزير آ پولوياساون۔",
+    "words": [
+      {
+        "w": "deveríamos",
+        "m_en": "we should",
+        "m_ar": "ينبغي أن"
+      },
+      {
+        "w": "poluição",
+        "m_en": "pollution",
+        "m_ar": "تلوّث"
+      }
+    ],
+    "grammar_en": "\"Deveríamos\" (conditional of \"dever\") gives advice.",
+    "grammar_ar": "«deveríamos» (شرطي «dever») تفيد النصيحة.",
+    "alternatives": [
+      {
+        "text": "Seria melhor usar mais o transporte público.",
+        "note_en": "It would be better",
+        "note_ar": "سيكون من الأفضل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 3114,
+    "text": "O trem vai chegar atrasado por causa de um problema técnico.",
+    "translation_ar": "سيصل القطار متأخّرًا بسبب عطل فني.",
+    "level": "B1",
+    "situation": "transport",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 6,
+    "videoId": null,
+    "transcriptContext": "O trem vai chegar atrasado por causa de um problema técnico.",
+    "pronunciation": "او تِرِين ڤاي شِگار آتراسادو پور كاوزا دِ أون پروبلِما تِكنيكو۔",
+    "words": [
+      {
+        "w": "atrasado",
+        "m_en": "delayed",
+        "m_ar": "متأخّر"
+      },
+      {
+        "w": "por causa de",
+        "m_en": "because of",
+        "m_ar": "بسبب"
+      }
+    ],
+    "grammar_en": "\"Por causa de\" + noun means \"because of\".",
+    "grammar_ar": "«por causa de» + اسم = «بسبب».",
+    "alternatives": [
+      {
+        "text": "O trem está atrasado por um problema técnico.",
+        "note_en": "The train is delayed due to a technical fault",
+        "note_ar": "القطار متأخّر بسبب عطل فني"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 3115,
+    "text": "Não consigo entrar na minha conta, diz que a senha está incorreta.",
+    "translation_ar": "لا أستطيع تسجيل الدخول؛ يقول لي إنّ كلمة المرور غير صحيحة.",
+    "level": "B1",
+    "situation": "customer-help",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 23,
+    "videoId": null,
+    "transcriptContext": "Não consigo entrar na minha conta, diz que a senha está incorreta.",
+    "pronunciation": "ناون كونسيگو إينترار نا مينيا كونتا، ديز كِه آ سِنيا إشتا إينكورِتا۔",
+    "words": [
+      {
+        "w": "senha",
+        "m_en": "password",
+        "m_ar": "كلمة المرور"
+      },
+      {
+        "w": "entrar",
+        "m_en": "to log in, to enter",
+        "m_ar": "يسجّل الدخول"
+      }
+    ],
+    "grammar_en": "\"Não conseguir\" + infinitive means \"to not manage to\".",
+    "grammar_ar": "«não conseguir» + المصدر تعني «لا ينجح في».",
+    "alternatives": [
+      {
+        "text": "Não consigo acessar minha conta.",
+        "note_en": "I can't access my account",
+        "note_ar": "لا يمكنني الدخول إلى حسابي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 6
+  },
+  {
+    "id": 3116,
+    "text": "Cumprimos os prazos apesar das dificuldades.",
+    "translation_ar": "التزمنا بالمواعيد النهائيّة رغم الصعوبات.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 40,
+    "videoId": null,
+    "transcriptContext": "Cumprimos os prazos apesar das dificuldades.",
+    "pronunciation": "كونپريموس اوس پرازوس أپِزار داس ديفيكولداديس۔",
+    "words": [
+      {
+        "w": "prazo",
+        "m_en": "deadline",
+        "m_ar": "موعد نهائي"
+      },
+      {
+        "w": "apesar de",
+        "m_en": "despite",
+        "m_ar": "رغم"
+      }
+    ],
+    "grammar_en": "\"Apesar de\" + noun means \"despite\".",
+    "grammar_ar": "«apesar de» + اسم تعني «رغم».",
+    "alternatives": [
+      {
+        "text": "Apesar das dificuldades, cumprimos os prazos.",
+        "note_en": "Reordered",
+        "note_ar": "بترتيب آخر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3117,
+    "text": "Onde você se vê daqui a cinco anos?",
+    "translation_ar": "أين ترى نفسك بعد خمس سنوات؟",
+    "level": "B2",
+    "situation": "job-interview",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 57,
+    "videoId": null,
+    "transcriptContext": "Onde você se vê daqui a cinco anos?",
+    "pronunciation": "اوندِ ڤوسِه سِه ڤِه داكي آ سينكو آنوس؟",
+    "words": [
+      {
+        "w": "daqui a",
+        "m_en": "in (from now)",
+        "m_ar": "بعد (من الآن)"
+      },
+      {
+        "w": "ver-se",
+        "m_en": "to see oneself",
+        "m_ar": "يرى نفسه"
+      }
+    ],
+    "grammar_en": "\"Daqui a\" + time means \"in... (from now)\".",
+    "grammar_ar": "«daqui a» + مدّة = «بعد... (من الآن)».",
+    "alternatives": [
+      {
+        "text": "Quais são seus objetivos futuros?",
+        "note_en": "What are your future goals?",
+        "note_ar": "ما أهدافك المستقبليّة؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3118,
+    "text": "O time virou o jogo nos últimos minutos.",
+    "translation_ar": "قلب الفريق نتيجة المباراة في الدقائق الأخيرة.",
+    "level": "B2",
+    "situation": "sports",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 74,
+    "videoId": null,
+    "transcriptContext": "O time virou o jogo nos últimos minutos.",
+    "pronunciation": "او تيمِ ڤيرو او جوگو نوس اولتيموس مينوتوس۔",
+    "words": [
+      {
+        "w": "virar o jogo",
+        "m_en": "to turn the game around",
+        "m_ar": "يقلب نتيجة المباراة"
+      },
+      {
+        "w": "time",
+        "m_en": "team",
+        "m_ar": "فريق"
+      }
+    ],
+    "grammar_en": "\"Virar o jogo\" is a common sports idiom for a comeback.",
+    "grammar_ar": "«virar o jogo» تعبير رياضي شائع بمعنى العودة بقوّة.",
+    "alternatives": [
+      {
+        "text": "O time deu a volta por cima no final.",
+        "note_en": "\"Dar a volta por cima\" is a similar idiom",
+        "note_ar": "«dar a volta por cima» تعبير مشابه"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3119,
+    "text": "O programa exige um comprometimento constante.",
+    "translation_ar": "يتطلّب البرنامج التزامًا متواصلًا.",
+    "level": "B2",
+    "situation": "education",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 91,
+    "videoId": null,
+    "transcriptContext": "O programa exige um comprometimento constante.",
+    "pronunciation": "او پروگراما إگزيجِ أون كونپرومِتيمِنتو كونستانتِ۔",
+    "words": [
+      {
+        "w": "exigir",
+        "m_en": "to require",
+        "m_ar": "يتطلّب"
+      },
+      {
+        "w": "comprometimento",
+        "m_en": "commitment",
+        "m_ar": "التزام"
+      }
+    ],
+    "grammar_en": "\"Comprometimento\" also means \"engagement\" or \"involvement\".",
+    "grammar_ar": "يعني «comprometimento» أيضًا «انخراطًا».",
+    "alternatives": [
+      {
+        "text": "O curso demanda constância.",
+        "note_en": "\"Demandar\" is a synonym of \"exigir\"",
+        "note_ar": "«demandar» مرادف لـ«exigir»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3120,
+    "text": "É melhor reservar com antecedência, especialmente na alta temporada.",
+    "translation_ar": "يُستحسن الحجز مسبقًا، خاصّةً في الموسم المرتفع.",
+    "level": "B2",
+    "situation": "travel",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 108,
+    "videoId": null,
+    "transcriptContext": "É melhor reservar com antecedência, especialmente na alta temporada.",
+    "pronunciation": "إه مِليور رِزِرڤار كون آنتِسِدِنسيا، إسپِسيالمِنتِ نا آلتا تِمپورادا۔",
+    "words": [
+      {
+        "w": "antecedência",
+        "m_en": "advance notice",
+        "m_ar": "مسبقًا"
+      },
+      {
+        "w": "alta temporada",
+        "m_en": "high season",
+        "m_ar": "موسم مرتفع"
+      }
+    ],
+    "grammar_en": "\"É melhor\" + infinitive is an impersonal recommendation.",
+    "grammar_ar": "«é melhor» + المصدر توصية غير شخصيّة.",
+    "alternatives": [
+      {
+        "text": "Convém reservar com antecedência na alta temporada.",
+        "note_en": "\"Convém\" = it's advisable",
+        "note_ar": "«convém» = يُستحسن"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3121,
+    "text": "O embarque vai fechar vinte minutos antes da partida.",
+    "translation_ar": "سيُغلق الصعود إلى الطائرة قبل الإقلاع بعشرين دقيقة.",
+    "level": "B2",
+    "situation": "airport",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 125,
+    "videoId": null,
+    "transcriptContext": "O embarque vai fechar vinte minutos antes da partida.",
+    "pronunciation": "او إينباركِ ڤاي فِشار ڤينچِ مينوتوس آنتِس دا پارتيدا۔",
+    "words": [
+      {
+        "w": "embarque",
+        "m_en": "boarding",
+        "m_ar": "صعود إلى الطائرة"
+      },
+      {
+        "w": "partida",
+        "m_en": "departure",
+        "m_ar": "إقلاع"
+      }
+    ],
+    "grammar_en": "\"Vai fechar\" is the near-future of \"fechar\".",
+    "grammar_ar": "«vai fechar» المستقبل القريب من «fechar».",
+    "alternatives": [
+      {
+        "text": "Fecham o embarque vinte minutos antes.",
+        "note_en": "Active/impersonal voice",
+        "note_ar": "صيغة الفاعل/غير الشخصيّة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3122,
+    "text": "É recomendável destinar parte da renda à poupança.",
+    "translation_ar": "من المستحسن تخصيص جزء من الدخل للادّخار.",
+    "level": "B2",
+    "situation": "finance",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 142,
+    "videoId": null,
+    "transcriptContext": "É recomendável destinar parte da renda à poupança.",
+    "pronunciation": "إه رِكومِنداڤِل دِستينار پارتِ دا رِنّدا آ پوپانسا۔",
+    "words": [
+      {
+        "w": "poupança",
+        "m_en": "savings",
+        "m_ar": "ادّخار"
+      },
+      {
+        "w": "renda",
+        "m_en": "income",
+        "m_ar": "دخل"
+      }
+    ],
+    "grammar_en": "\"É recomendável\" + infinitive is an impersonal recommendation.",
+    "grammar_ar": "«é recomendável» + المصدر توصية غير شخصيّة.",
+    "alternatives": [
+      {
+        "text": "Vale a pena guardar parte da renda.",
+        "note_en": "\"Vale a pena\" = it's worth it",
+        "note_ar": "«vale a pena» = يستحقّ العناء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3123,
+    "text": "A prefeitura lançou uma coleta de assinaturas.",
+    "translation_ar": "أطلقت البلديّة حملة لجمع التوقيعات.",
+    "level": "B2",
+    "situation": "community",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 159,
+    "videoId": null,
+    "transcriptContext": "A prefeitura lançou uma coleta de assinaturas.",
+    "pronunciation": "آ پرِفِيتورا لانسو اوما كولِتا دِ آسينياتوراس۔",
+    "words": [
+      {
+        "w": "prefeitura",
+        "m_en": "town hall",
+        "m_ar": "بلديّة"
+      },
+      {
+        "w": "assinatura",
+        "m_en": "signature",
+        "m_ar": "توقيع"
+      }
+    ],
+    "grammar_en": "\"Lançar\" is often used for campaigns and initiatives.",
+    "grammar_ar": "يُستعمل «lançar» كثيرًا مع الحملات والمبادرات.",
+    "alternatives": [
+      {
+        "text": "A prefeitura começou uma coleta de assinaturas.",
+        "note_en": "\"Começar\" is a synonym here",
+        "note_ar": "«começar» مرادف هنا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3124,
+    "text": "Confirmamos sua consulta de quarta-feira às dez e meia.",
+    "translation_ar": "نؤكّد لكم موعدكم يوم الأربعاء في العاشرة والنصف.",
+    "level": "B2",
+    "situation": "appointments",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 176,
+    "videoId": null,
+    "transcriptContext": "Confirmamos sua consulta de quarta-feira às dez e meia.",
+    "pronunciation": "كونفيرماموس سوا كونسولتا دِ كوارتا-فِيرا آس دِز إي مِيا۔",
+    "words": [
+      {
+        "w": "confirmar",
+        "m_en": "to confirm",
+        "m_ar": "يؤكّد"
+      },
+      {
+        "w": "e meia",
+        "m_en": "half past",
+        "m_ar": "والنصف"
+      }
+    ],
+    "grammar_en": "\"E meia\" means \"half past\" with clock times.",
+    "grammar_ar": "تعني «e meia» «والنصف» مع الأوقات.",
+    "alternatives": [
+      {
+        "text": "Sua consulta está confirmada para quarta.",
+        "note_en": "\"Está confirmada\"",
+        "note_ar": "«está confirmada»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3125,
+    "text": "O erro continua mesmo depois de atualizarmos o software.",
+    "translation_ar": "يستمرّ الخطأ رغم أنّنا حدّثنا البرنامج.",
+    "level": "B2",
+    "situation": "technical-support",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 193,
+    "videoId": null,
+    "transcriptContext": "O erro continua mesmo depois de atualizarmos o software.",
+    "pronunciation": "او إيرّو كونتينوا مِزمو دِپويس دِ آتوآليزارموس او سوفتْوِيّر۔",
+    "words": [
+      {
+        "w": "continuar",
+        "m_en": "to persist",
+        "m_ar": "يستمرّ"
+      },
+      {
+        "w": "atualizar",
+        "m_en": "to update",
+        "m_ar": "يحدّث"
+      }
+    ],
+    "grammar_en": "\"Mesmo depois de\" + infinitive means \"even after doing\".",
+    "grammar_ar": "«mesmo depois de» + المصدر تعني «حتى بعد فعل».",
+    "alternatives": [
+      {
+        "text": "O erro persiste apesar da atualização.",
+        "note_en": "\"Apesar de\" = despite",
+        "note_ar": "«apesar de» = رغم"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3126,
+    "text": "Roubaram minha carteira e perdi meus documentos.",
+    "translation_ar": "سُرقت محفظتي وفقدتُ وثائقي.",
+    "level": "B2",
+    "situation": "emergency",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 210,
+    "videoId": null,
+    "transcriptContext": "Roubaram minha carteira e perdi meus documentos.",
+    "pronunciation": "روباران مينيا كارتِيرا إي پِردي مِيوس دوكومِنتوس۔",
+    "words": [
+      {
+        "w": "roubar",
+        "m_en": "to steal",
+        "m_ar": "يسرق"
+      },
+      {
+        "w": "carteira",
+        "m_en": "wallet",
+        "m_ar": "محفظة"
+      }
+    ],
+    "grammar_en": "\"Roubaram\" uses an unspecified plural subject: \"they stole\".",
+    "grammar_ar": "تستعمل «roubaram» فاعلًا جمعًا غير محدّد: «سرقوا».",
+    "alternatives": [
+      {
+        "text": "Minha carteira foi roubada.",
+        "note_en": "\"Foi roubada\" = passive voice",
+        "note_ar": "«foi roubada» = صيغة مبنية للمجهول"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3127,
+    "text": "Vamos brindar aos sucessos que conquistamos juntos.",
+    "translation_ar": "لنرفع نخب النجاحات التي حقّقناها معًا.",
+    "level": "B2",
+    "situation": "celebrations",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 227,
+    "videoId": null,
+    "transcriptContext": "Vamos brindar aos sucessos que conquistamos juntos.",
+    "pronunciation": "ڤاموس برينڈار آوس سوسِسوس كِه كونكيستاموس جونتوس۔",
+    "words": [
+      {
+        "w": "brindar",
+        "m_en": "to toast",
+        "m_ar": "يرفع نخبًا"
+      },
+      {
+        "w": "conquistar",
+        "m_en": "to achieve",
+        "m_ar": "يحقّق"
+      }
+    ],
+    "grammar_en": "\"Vamos\" + infinitive is the \"let's\" form.",
+    "grammar_ar": "«vamos» + المصدر صيغة «لنفعل».",
+    "alternatives": [
+      {
+        "text": "Vamos levantar as taças pelas nossas conquistas.",
+        "note_en": "\"Let's raise our glasses\"",
+        "note_ar": "«لنرفع الكؤوس»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3128,
+    "text": "O trabalho remoto transformou a forma como nos comunicamos.",
+    "translation_ar": "غيّر العمل عن بُعد طريقة تواصلنا.",
+    "level": "B2",
+    "situation": "society",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 4,
+    "videoId": null,
+    "transcriptContext": "O trabalho remoto transformou a forma como nos comunicamos.",
+    "pronunciation": "او تراباليو رِموتو ترانسفورمو آ فورما كومو نوس كومونيكاموس۔",
+    "words": [
+      {
+        "w": "trabalho remoto",
+        "m_en": "remote work",
+        "m_ar": "عمل عن بُعد"
+      },
+      {
+        "w": "comunicar-se",
+        "m_en": "to communicate",
+        "m_ar": "يتواصل"
+      }
+    ],
+    "grammar_en": "\"A forma como\" means \"the way in which\".",
+    "grammar_ar": "«a forma como» = «الطريقة التي».",
+    "alternatives": [
+      {
+        "text": "O home office mudou nossas relações.",
+        "note_en": "\"Home office\" is a very common English borrowing in Brazil",
+        "note_ar": "«home office» كلمة إنجليزية مستعارة شائعة جدًّا في البرازيل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  },
+  {
+    "id": 3129,
+    "text": "O quarto dá para uma rua barulhenta; seria possível trocá-lo?",
+    "translation_ar": "تطلّ الغرفة على شارع صاخب؛ هل يمكن تغييرها؟",
+    "level": "B2",
+    "situation": "hotel",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 21,
+    "videoId": null,
+    "transcriptContext": "O quarto dá para uma rua barulhenta; seria possível trocá-lo?",
+    "pronunciation": "او كوارتو دا پارا اوما روا بارولِنتا؛ سِرِيا پوسِيڤِل تروكا-لو؟",
+    "words": [
+      {
+        "w": "dar para",
+        "m_en": "to face",
+        "m_ar": "يطلّ على"
+      },
+      {
+        "w": "barulhento",
+        "m_en": "noisy",
+        "m_ar": "صاخب"
+      }
+    ],
+    "grammar_en": "\"Dar para\" means \"to look onto\".",
+    "grammar_ar": "تعني «dar para» «يطلّ على».",
+    "alternatives": [
+      {
+        "text": "Vocês poderiam nos dar um quarto mais silencioso?",
+        "note_en": "Could you give us a quieter room?",
+        "note_ar": "هل يمكن أن تمنحونا غرفة أهدأ؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3130,
+    "text": "A transferência será creditada em até vinte e quatro horas.",
+    "translation_ar": "سيُودَع التحويل خلال أربع وعشرين ساعة.",
+    "level": "B2",
+    "situation": "banking",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 38,
+    "videoId": null,
+    "transcriptContext": "A transferência será creditada em até vinte e quatro horas.",
+    "pronunciation": "آ ترانسفِرِنسيا سِرا كرِديتادا إين آتِه ڤينچِ إي كواترو اوراس۔",
+    "words": [
+      {
+        "w": "transferência",
+        "m_en": "transfer",
+        "m_ar": "تحويل"
+      },
+      {
+        "w": "creditar",
+        "m_en": "to credit",
+        "m_ar": "يُودع"
+      }
+    ],
+    "grammar_en": "\"Em até\" + time means \"within (up to)\".",
+    "grammar_ar": "«em até» + مدّة = «خلال (بحدّ أقصى)».",
+    "alternatives": [
+      {
+        "text": "Você receberá a transferência em um dia.",
+        "note_en": "Active voice",
+        "note_ar": "صيغة الفاعل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3131,
+    "text": "O depósito equivale a dois meses de aluguel e é devolvido ao fim do contrato.",
+    "translation_ar": "يعادل التأمين إيجار شهرين ويُردّ عند انتهاء العقد.",
+    "level": "B2",
+    "situation": "real-estate",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 55,
+    "videoId": null,
+    "transcriptContext": "O depósito equivale a dois meses de aluguel e é devolvido ao fim do contrato.",
+    "pronunciation": "او دِپوزيتو إكيڤالِه آ دويس مِزِس دِ آلوگِل إي إه دِڤولڤيدو آو فين دو كونتراتو۔",
+    "words": [
+      {
+        "w": "depósito",
+        "m_en": "deposit",
+        "m_ar": "تأمين / وديعة"
+      },
+      {
+        "w": "contrato",
+        "m_en": "contract",
+        "m_ar": "عقد"
+      }
+    ],
+    "grammar_en": "\"Ao fim de\" + noun means \"at the end of\".",
+    "grammar_ar": "«ao fim de» + اسم = «عند انتهاء».",
+    "alternatives": [
+      {
+        "text": "No fim do contrato, devolvem o depósito.",
+        "note_en": "Active voice",
+        "note_ar": "صيغة الفاعل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3132,
+    "text": "O evento será adiado até segunda ordem por motivos de segurança.",
+    "translation_ar": "سيؤجَّل الحدث حتى إشعار آخر لأسباب أمنيّة.",
+    "level": "B2",
+    "situation": "events",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 72,
+    "videoId": null,
+    "transcriptContext": "O evento será adiado até segunda ordem por motivos de segurança.",
+    "pronunciation": "او إيڤِنتو سِرا آدياذو آتِه سِگوندا اوردِين پور موتيڤوس دِ سِگورانسا۔",
+    "words": [
+      {
+        "w": "adiar",
+        "m_en": "to postpone",
+        "m_ar": "يؤجّل"
+      },
+      {
+        "w": "até segunda ordem",
+        "m_en": "until further notice",
+        "m_ar": "حتى إشعار آخر"
+      }
+    ],
+    "grammar_en": "\"Será adiado\" is a passive future with \"ser\".",
+    "grammar_ar": "«será adiado» مبني للمجهول في المستقبل بـ«ser».",
+    "alternatives": [
+      {
+        "text": "Adiaram o evento até segunda ordem.",
+        "note_en": "Active voice",
+        "note_ar": "صيغة الفاعل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3133,
+    "text": "Nos comprometemos a resolver seu problema em até quarenta e oito horas.",
+    "translation_ar": "نتعهّد بحلّ مشكلتكم خلال ثمانٍ وأربعين ساعة.",
+    "level": "B2",
+    "situation": "customer-service",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 89,
+    "videoId": null,
+    "transcriptContext": "Nos comprometemos a resolver seu problema em até quarenta e oito horas.",
+    "pronunciation": "نوس كونپرومِتِموس آ رِزولڤِر سِيو پروبلِما إين آتِه كوارِنتا إي ويتو اوراس۔",
+    "words": [
+      {
+        "w": "comprometer-se a",
+        "m_en": "to commit to",
+        "m_ar": "يتعهّد بـ"
+      },
+      {
+        "w": "em até",
+        "m_en": "within",
+        "m_ar": "خلال"
+      }
+    ],
+    "grammar_en": "\"Comprometer-se a\" + infinitive.",
+    "grammar_ar": "«comprometer-se a» + المصدر.",
+    "alternatives": [
+      {
+        "text": "Resolveremos seu problema em dois dias.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3134,
+    "text": "Eu agradeceria se você pudesse analisar meu pedido o quanto antes.",
+    "translation_ar": "أكون ممتنًّا لو راجعتَ طلبي في أقرب وقت ممكن.",
+    "level": "B2",
+    "situation": "customer-help",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 106,
+    "videoId": null,
+    "transcriptContext": "Eu agradeceria se você pudesse analisar meu pedido o quanto antes.",
+    "pronunciation": "إيو آگرادِسِريا سِه ڤوسِه پودِسِ آنالِيزار مِيو پِديدو او كوانتو آنتِس۔",
+    "words": [
+      {
+        "w": "agradecer",
+        "m_en": "to be grateful",
+        "m_ar": "يمتنّ"
+      },
+      {
+        "w": "o quanto antes",
+        "m_en": "as soon as possible",
+        "m_ar": "في أقرب وقت"
+      }
+    ],
+    "grammar_en": "\"Se você pudesse\" (imperfect subjunctive) is very polite.",
+    "grammar_ar": "«se você pudesse» (الناقص في subjuntivo) صيغة مهذّبة جدًّا.",
+    "alternatives": [
+      {
+        "text": "Peço que analise meu pedido o quanto antes.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3135,
+    "text": "Entendo sua preocupação com o preço, mas a qualidade justifica isso.",
+    "translation_ar": "أتفهّم قلقكم من السعر لكنّ الجودة تبرّره.",
+    "level": "B2",
+    "situation": "support",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 123,
+    "videoId": null,
+    "transcriptContext": "Entendo sua preocupação com o preço, mas a qualidade justifica isso.",
+    "pronunciation": "إينتِندو سوا پرِأوكوپاساون كون او پرِسو، ماس آ كواليدادِ جوستيفيكا إيسو۔",
+    "words": [
+      {
+        "w": "preocupação",
+        "m_en": "concern",
+        "m_ar": "قلق"
+      },
+      {
+        "w": "justificar",
+        "m_en": "to justify",
+        "m_ar": "يبرّر"
+      }
+    ],
+    "grammar_en": "\"Isso\" refers back to \"o preço\" as a general idea.",
+    "grammar_ar": "تعود «isso» إلى «o preço» كفكرة عامّة.",
+    "alternatives": [
+      {
+        "text": "Sei que o preço preocupa, mas vale a pena.",
+        "note_en": "\"Vale a pena\" = it's worth it",
+        "note_ar": "«vale a pena» = يستحقّ العناء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3136,
+    "text": "Se você não tem manteiga, pode substituí-la por azeite de oliva.",
+    "translation_ar": "إن لم يكن لديك زبدة يمكنك استبدالها بزيت الزيتون.",
+    "level": "B2",
+    "situation": "cooking",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 140,
+    "videoId": null,
+    "transcriptContext": "Se você não tem manteiga, pode substituí-la por azeite de oliva.",
+    "pronunciation": "سِه ڤوسِه ناون تِين مانتِيگا، پودِ سوبستيتوي-لا پور آزِيچِ دِ اولیڤا۔",
+    "words": [
+      {
+        "w": "substituir",
+        "m_en": "to replace",
+        "m_ar": "يستبدل"
+      },
+      {
+        "w": "manteiga",
+        "m_en": "butter",
+        "m_ar": "زبدة"
+      }
+    ],
+    "grammar_en": "\"Substituir X por Y\" means \"to replace X with Y\".",
+    "grammar_ar": "«substituir X por Y» = استبدال X بـ Y.",
+    "alternatives": [
+      {
+        "text": "Você pode trocar a manteiga por azeite.",
+        "note_en": "\"Trocar\" is a synonym",
+        "note_ar": "«trocar» مرادف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3137,
+    "text": "É indispensável reduzir as emissões para frear a mudança climática.",
+    "translation_ar": "لا غنى عن خفض الانبعاثات لكبح التغيّر المناخي.",
+    "level": "B2",
+    "situation": "environment",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 157,
+    "videoId": null,
+    "transcriptContext": "É indispensável reduzir as emissões para frear a mudança climática.",
+    "pronunciation": "إه إينديسپِنساڤِل رِدوزير آس إمیسوينس پارا فرِآر آ مودانسا كليماتيكا۔",
+    "words": [
+      {
+        "w": "indispensável",
+        "m_en": "essential",
+        "m_ar": "لا غنى عنه"
+      },
+      {
+        "w": "frear",
+        "m_en": "to curb",
+        "m_ar": "يكبح"
+      }
+    ],
+    "grammar_en": "\"É indispensável\" + infinitive expresses impersonal necessity.",
+    "grammar_ar": "«é indispensável» + المصدر = ضرورة غير شخصيّة.",
+    "alternatives": [
+      {
+        "text": "Precisamos reduzir as emissões sem demora.",
+        "note_en": "\"Sem demora\" = without delay",
+        "note_ar": "«sem demora» = دون تأخير"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3138,
+    "text": "Cada vez mais jovens vão para o exterior em busca de oportunidades.",
+    "translation_ar": "يغادر مزيد من الشباب إلى الخارج بحثًا عن فرص.",
+    "level": "B2",
+    "situation": "society",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 174,
+    "videoId": null,
+    "transcriptContext": "Cada vez mais jovens vão para o exterior em busca de oportunidades.",
+    "pronunciation": "كادا ڤِز مايس جوڤِنس ڤاون پارا او إكسترِيور إين بوسكا دِ اوپورتونيدادِس۔",
+    "words": [
+      {
+        "w": "exterior",
+        "m_en": "abroad",
+        "m_ar": "الخارج"
+      },
+      {
+        "w": "em busca de",
+        "m_en": "in search of",
+        "m_ar": "بحثًا عن"
+      }
+    ],
+    "grammar_en": "\"Cada vez mais\" + noun means \"more and more\".",
+    "grammar_ar": "«cada vez mais» + اسم = «أكثر فأكثر».",
+    "alternatives": [
+      {
+        "text": "Muitos jovens emigram buscando oportunidades.",
+        "note_en": "\"Emigrar\" = to emigrate",
+        "note_ar": "«emigrar» = يهاجر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3139,
+    "text": "A inflação reduziu consideravelmente o poder de compra das famílias.",
+    "translation_ar": "خفّض التضخّم القدرة الشرائيّة للأسر بشكل كبير.",
+    "level": "C1",
+    "situation": "finance",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 191,
+    "videoId": null,
+    "transcriptContext": "A inflação reduziu consideravelmente o poder de compra das famílias.",
+    "pronunciation": "آ إينفلاساون رِدوزيو كونسيدِراڤِلمِنتِ او پودِر دِ كونپرا داس فامِليياس۔",
+    "words": [
+      {
+        "w": "poder de compra",
+        "m_en": "purchasing power",
+        "m_ar": "القدرة الشرائيّة"
+      },
+      {
+        "w": "família",
+        "m_en": "household, family",
+        "m_ar": "أسرة"
+      }
+    ],
+    "grammar_en": "\"Reduziu\" is the preterite of \"reduzir\", a finished action.",
+    "grammar_ar": "«reduziu» الماضي البسيط من «reduzir»، فعل منتهٍ.",
+    "alternatives": [
+      {
+        "text": "A inflação diminuiu o poder de compra.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3140,
+    "text": "Agradecemos a paciência e garantimos uma resposta até sexta-feira.",
+    "translation_ar": "نشكركم على صبركم ونضمن لكم ردًّا قبل يوم الجمعة.",
+    "level": "C1",
+    "situation": "customer-service",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 208,
+    "videoId": null,
+    "transcriptContext": "Agradecemos a paciência e garantimos uma resposta até sexta-feira.",
+    "pronunciation": "آگرادِسِموس آ پاسيّنسيا إي گارانتيموس اوما رِسپوستا آتِه سِشتا-فِيرا۔",
+    "words": [
+      {
+        "w": "garantir",
+        "m_en": "to guarantee",
+        "m_ar": "يضمن"
+      },
+      {
+        "w": "resposta",
+        "m_en": "reply",
+        "m_ar": "ردّ"
+      }
+    ],
+    "grammar_en": "\"Agradecer\" takes a direct object here, without a preposition.",
+    "grammar_ar": "يأخذ «agradecer» مفعولًا مباشرًا هنا دون حرف جرّ.",
+    "alternatives": [
+      {
+        "text": "Asseguramos uma resposta até sexta-feira.",
+        "note_en": "\"Assegurar\" = to assure",
+        "note_ar": "«assegurar» = يؤكّد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3141,
+    "text": "Tudo indica que a falha vem da configuração de rede.",
+    "translation_ar": "كلّ المؤشّرات تدلّ على أنّ العطل ناتج عن إعدادات الشبكة.",
+    "level": "C1",
+    "situation": "technical-support",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 225,
+    "videoId": null,
+    "transcriptContext": "Tudo indica que a falha vem da configuração de rede.",
+    "pronunciation": "تودو إينديكا كِه آ فاليا ڤِين دا كونفيگوراساون دِ رِدِ۔",
+    "words": [
+      {
+        "w": "falha",
+        "m_en": "fault",
+        "m_ar": "عطل"
+      },
+      {
+        "w": "rede",
+        "m_en": "network",
+        "m_ar": "شبكة"
+      }
+    ],
+    "grammar_en": "\"Tudo indica que\" + indicative means \"everything suggests that\".",
+    "grammar_ar": "«tudo indica que» + الخبري = «كلّ شيء يدلّ على أنّ».",
+    "alternatives": [
+      {
+        "text": "É provável que a falha esteja na rede.",
+        "note_en": "\"É provável que\" + subjunctive",
+        "note_ar": "«é provável que» + subjuntivo"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3142,
+    "text": "A distância entre ricos e pobres não para de aumentar.",
+    "translation_ar": "لا تتوقّف الفجوة بين الأغنياء والفقراء عن الاتّساع.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 2,
+    "videoId": null,
+    "transcriptContext": "A distância entre ricos e pobres não para de aumentar.",
+    "pronunciation": "آ ديستانسيا إنترِ ريكوس إي پوبرِس ناون پارا دِ آومِنتار۔",
+    "words": [
+      {
+        "w": "distância",
+        "m_en": "gap",
+        "m_ar": "فجوة"
+      },
+      {
+        "w": "aumentar",
+        "m_en": "to grow, to widen",
+        "m_ar": "يتّسع"
+      }
+    ],
+    "grammar_en": "\"Não parar de\" + infinitive means \"to keep on doing\".",
+    "grammar_ar": "«não parar de» + المصدر = «يواصل فعل شيء».",
+    "alternatives": [
+      {
+        "text": "A desigualdade continua crescendo.",
+        "note_en": "\"Continuar\" + gerund",
+        "note_ar": "«continuar» + مصدر حالي"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3143,
+    "text": "Não podemos esquecer que o consenso se constrói com esforço.",
+    "translation_ar": "لا ينبغي أن ننسى أنّ التوافق يُبنى بالجهد.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 19,
+    "videoId": null,
+    "transcriptContext": "Não podemos esquecer que o consenso se constrói com esforço.",
+    "pronunciation": "ناون پودِموس إشكِسِر كِه او كونسِنسو سِه كونستروي كون إسفورسو۔",
+    "words": [
+      {
+        "w": "consenso",
+        "m_en": "consensus",
+        "m_ar": "توافق"
+      },
+      {
+        "w": "construir-se",
+        "m_en": "to be built",
+        "m_ar": "يُبنى"
+      }
+    ],
+    "grammar_en": "\"Não podemos\" + infinitive is \"we cannot / must not\".",
+    "grammar_ar": "«não podemos» + المصدر = «لا يمكننا / يجب ألّا».",
+    "alternatives": [
+      {
+        "text": "Lembremos que o consenso exige esforço.",
+        "note_en": "\"Lembremos\" = let's remember",
+        "note_ar": "«lembremos» = لنتذكّر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3144,
+    "text": "Longe de resolver o problema, a medida o agravou.",
+    "translation_ar": "بعيدًا عن حلّ المشكلة، فاقمها الإجراء.",
+    "level": "C1",
+    "situation": "society",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 36,
+    "videoId": null,
+    "transcriptContext": "Longe de resolver o problema, a medida o agravou.",
+    "pronunciation": "لونجِ دِ رِزولڤِر او پروبلِما، آ مِديدا او آگراڤو۔",
+    "words": [
+      {
+        "w": "longe de",
+        "m_en": "far from",
+        "m_ar": "بعيدًا عن"
+      },
+      {
+        "w": "agravar",
+        "m_en": "to worsen",
+        "m_ar": "يفاقم"
+      }
+    ],
+    "grammar_en": "\"Longe de\" + infinitive means \"far from doing\".",
+    "grammar_ar": "«longe de» + المصدر = «بعيدًا عن فعل».",
+    "alternatives": [
+      {
+        "text": "A medida não resolveu o problema; ela o piorou.",
+        "note_en": "\"Piorar\" = to worsen",
+        "note_ar": "«piorar» = يزيد سوءًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 8
+  },
+  {
+    "id": 3145,
+    "text": "Estamos dispostos a negociar as condições desde que a qualidade seja mantida.",
+    "translation_ar": "نحن مستعدّون للتفاوض على الشروط ما دامت الجودة محفوظة.",
+    "level": "C1",
+    "situation": "support",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 53,
+    "videoId": null,
+    "transcriptContext": "Estamos dispostos a negociar as condições desde que a qualidade seja mantida.",
+    "pronunciation": "إشتاموس ديسپوستوس آ نِگوسيار آس كوندیسوينس دِسدِ كِه آ كواليدادِ سِجا مانتيدا۔",
+    "words": [
+      {
+        "w": "disposto a",
+        "m_en": "willing to",
+        "m_ar": "مستعدّ لـ"
+      },
+      {
+        "w": "desde que",
+        "m_en": "provided that",
+        "m_ar": "شريطة أن"
+      }
+    ],
+    "grammar_en": "\"Desde que\" takes the subjunctive: \"seja\".",
+    "grammar_ar": "يأخذ «desde que» صيغة subjuntivo: «seja».",
+    "alternatives": [
+      {
+        "text": "Negociaremos contanto que a qualidade não caia.",
+        "note_en": "\"Contanto que\" is a synonym",
+        "note_ar": "«contanto que» مرادف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3146,
+    "text": "As geleiras estão recuando a um ritmo alarmante devido ao aquecimento global.",
+    "translation_ar": "تتراجع الأنهار الجليديّة بوتيرة مقلقة بسبب الاحتباس الحراري.",
+    "level": "C1",
+    "situation": "environment",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 70,
+    "videoId": null,
+    "transcriptContext": "As geleiras estão recuando a um ritmo alarmante devido ao aquecimento global.",
+    "pronunciation": "آس جِلِيراس إشتاون رِكوآنده آ أون ريتمو آلارمانتِ دِڤيدو آو آكِسيمِنتو گلوبال۔",
+    "words": [
+      {
+        "w": "recuar",
+        "m_en": "to retreat",
+        "m_ar": "يتراجع"
+      },
+      {
+        "w": "aquecimento global",
+        "m_en": "global warming",
+        "m_ar": "الاحتباس الحراري"
+      }
+    ],
+    "grammar_en": "\"A um ritmo alarmante\" means \"at an alarming pace\".",
+    "grammar_ar": "تعني «a um ritmo alarmante» «بوتيرة مقلقة».",
+    "alternatives": [
+      {
+        "text": "As geleiras derretem numa velocidade alarmante.",
+        "note_en": "\"Derreter\" = to melt",
+        "note_ar": "«derreter» = يذوب"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3147,
+    "text": "Ninguém está a salvo da ambiguidade que toda interpretação carrega.",
+    "translation_ar": "لا أحد بمنأى عن الغموض الذي تحمله كلّ عمليّة تأويل.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 87,
+    "videoId": null,
+    "transcriptContext": "Ninguém está a salvo da ambiguidade que toda interpretação carrega.",
+    "pronunciation": "نينگِين إشتا آ سالڤو دا آنبیگویدادِ كِه تودا إينتِرپرِتاساون كارِگا۔",
+    "words": [
+      {
+        "w": "ambiguidade",
+        "m_en": "ambiguity",
+        "m_ar": "غموض"
+      },
+      {
+        "w": "interpretação",
+        "m_en": "interpretation",
+        "m_ar": "تأويل"
+      }
+    ],
+    "grammar_en": "\"Ninguém\" takes a singular verb: \"ninguém está\".",
+    "grammar_ar": "تأخذ «ninguém» فعلًا مفردًا: «ninguém está».",
+    "alternatives": [
+      {
+        "text": "Toda interpretação carrega certa ambiguidade.",
+        "note_en": "Plain wording",
+        "note_ar": "صياغة مباشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3148,
+    "text": "Já não podemos nos permitir adiar a transição ecológica.",
+    "translation_ar": "لم يعد بإمكاننا تأجيل التحوّل البيئي.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 104,
+    "videoId": null,
+    "transcriptContext": "Já não podemos nos permitir adiar a transição ecológica.",
+    "pronunciation": "جا ناون پودِموس نوس پِرميتير آدياغر آ ترانزیساون إیكولوجیكا۔",
+    "words": [
+      {
+        "w": "permitir-se",
+        "m_en": "to afford",
+        "m_ar": "يتحمّل / يقدر على"
+      },
+      {
+        "w": "transição",
+        "m_en": "transition",
+        "m_ar": "تحوّل"
+      }
+    ],
+    "grammar_en": "\"Permitir-se\" + infinitive means \"to be able to afford to\".",
+    "grammar_ar": "«permitir-se» + المصدر = «يقدر على».",
+    "alternatives": [
+      {
+        "text": "Não há mais tempo a perder com a transição ecológica.",
+        "note_en": "\"There's no more time to lose\"",
+        "note_ar": "«لم يعد هناك وقت لنضيّعه»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 9
+  },
+  {
+    "id": 3149,
+    "text": "O silêncio, mais eloquente do que qualquer discurso, pesava sobre a assembleia.",
+    "translation_ar": "كان الصمت، وهو أبلغ من أيّ خطاب، يخيّم بثقله على الجمعيّة.",
+    "level": "C2",
+    "situation": "society",
+    "variety": "PT",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (PT)",
+    "timestamp": 121,
+    "videoId": null,
+    "transcriptContext": "O silêncio, mais eloquente do que qualquer discurso, pesava sobre a assembleia.",
+    "pronunciation": "او سيلِنسيو، مايس إيلوكوِنتِ دو كِه كوالكِر ديسكورسو، پِزاڤا سوبرِ آ آسِمبلِيا۔",
+    "words": [
+      {
+        "w": "eloquente",
+        "m_en": "eloquent",
+        "m_ar": "بليغ"
+      },
+      {
+        "w": "pesar sobre",
+        "m_en": "to weigh on",
+        "m_ar": "يثقل على"
+      }
+    ],
+    "grammar_en": "\"Mais... do que\" compares; \"pesava\" is the imperfect.",
+    "grammar_ar": "«mais... do que» للمقارنة؛ و«pesava» في الماضي الناقص.",
+    "alternatives": [
+      {
+        "text": "O silêncio dizia mais do que qualquer palavra.",
+        "note_en": "\"Said more than any word\"",
+        "note_ar": "«كان يقول أكثر من أيّ كلمة»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 10
+  }
+]
