@@ -480,6 +480,7 @@ footer .wrap{display:flex; flex-wrap:wrap; gap:10px; justify-content:space-betwe
         <option value="ur">🇵🇰 اردو</option>
         <option value="hi">🇮🇳 हिन्दी</option>
         <option value="pt">🇧🇷 Português</option>
+        <option value="fa">🇮🇷 فارسی</option>
       </select>
       </label>
       <label class="lang-field" for="langToggle">
@@ -1071,6 +1072,7 @@ let DEMO_SENTENCES_ES = [];
 let DEMO_SENTENCES_UR = [];
 let DEMO_SENTENCES_HI = [];
 let DEMO_SENTENCES_PT = [];
+let DEMO_SENTENCES_FA = [];
 async function fetchJson(url){
   try{
     const res = await fetch(url);
@@ -1090,10 +1092,11 @@ function datasetForLearnLang(lang){
   if(lang==='ur') return DEMO_SENTENCES_UR;
   if(lang==='hi') return DEMO_SENTENCES_HI;
   if(lang==='pt') return DEMO_SENTENCES_PT;
+  if(lang==='fa') return DEMO_SENTENCES_FA;
   return DEMO_SENTENCES_EN;
 }
 async function loadSentences(){
-  [DEMO_SENTENCES_EN, DEMO_SENTENCES_DE, DEMO_SENTENCES_FR, DEMO_SENTENCES_RU, DEMO_SENTENCES_IT, DEMO_SENTENCES_ES, DEMO_SENTENCES_UR, DEMO_SENTENCES_HI, DEMO_SENTENCES_PT] = await Promise.all([
+  [DEMO_SENTENCES_EN, DEMO_SENTENCES_DE, DEMO_SENTENCES_FR, DEMO_SENTENCES_RU, DEMO_SENTENCES_IT, DEMO_SENTENCES_ES, DEMO_SENTENCES_UR, DEMO_SENTENCES_HI, DEMO_SENTENCES_PT, DEMO_SENTENCES_FA] = await Promise.all([
     fetchJson('sentences.json'),
     fetchJson('sentences_de.json'),
     fetchJson('sentences_fr.json'),
@@ -1102,7 +1105,8 @@ async function loadSentences(){
     fetchJson('sentences_es.json'),
     fetchJson('sentences_ur.json'),
     fetchJson('sentences_hi.json'),
-    fetchJson('sentences_pt.json')
+    fetchJson('sentences_pt.json'),
+    fetchJson('sentences_fa.json')
   ]);
   DEMO_SENTENCES = datasetForLearnLang(State.learnLang);
 }
@@ -1126,7 +1130,7 @@ function situationQuery(item){
 /* language over once its dataset carries the same `situation` keys.        */
 /* English keeps its hand-written prompt cards (they search English text).  */
 /* ---------------------------------------------------------------------- */
-const SITUATION_FILTER_LANGS = ['it','de','fr','ru','es','ur','hi','pt'];
+const SITUATION_FILTER_LANGS = ['it','de','fr','ru','es','ur','hi','pt','fa'];
 const SITUATION_LEVELS = ['A1','A2','B1','B2','C1','C2'];
 const SITUATION_COUNT_WORD = {ar:'جملة', de:'Sätze', fr:'phrases', en:'sentences'};
 /* Situations that exist in the datasets but have no card in SITUATIONS. */
@@ -1677,6 +1681,7 @@ function targetLangCode(){
   if(State.learnLang==='ur') return 'ur-PK';
   if(State.learnLang==='hi') return 'hi-IN';
   if(State.learnLang==='pt') return 'pt-BR';
+  if(State.learnLang==='fa') return 'fa-IR';
   return 'en-US';
 }
 
@@ -1731,7 +1736,7 @@ function initYouglishWidget(){
 }
 function fetchYouglish(query){
   const noteEl = document.getElementById('youglishNote');
-  const YG_LANG = { de:'german', fr:'french', ru:'russian', it:'italian', es:'spanish', ur:'hindi', hi:'hindi', pt:'portuguese' };
+  const YG_LANG = { de:'german', fr:'french', ru:'russian', it:'italian', es:'spanish', ur:'hindi', hi:'hindi', pt:'portuguese', fa:'persian' };
   noteEl.textContent = (State.learnLang==='ur')
     ? (State.lang==='ar' ? 'اللغة الأردية غير متوفّرة على منصّة النطق، فتُعرض فيديوهات باللغة الهندية (النطق قريب جدًّا من الأردية للكلمات المشتركة).' : "Urdu isn't available on the pronunciation service, so Hindi videos are shown instead (pronunciation is very close for shared vocabulary).")
     : '';
@@ -2090,6 +2095,7 @@ function renderVarietyPills(){
     ur: [['all', t('allVarieties'),'🌍'],['UR','پاکستان','🇵🇰']],
     hi: [['all', t('allVarieties'),'🌍'],['HI','भारत','🇮🇳']],
     pt: [['all', t('allVarieties'),'🌍'],['PT','Brasil','🇧🇷']],
+    fa: [['all', t('allVarieties'),'🌍'],['FA','ایران','🇮🇷']],
     en: [['all', t('allVarieties'),'🌍'],['US', t('us'),'🇺🇸'],['GB', t('gb'),'🇬🇧'],['AU', t('au'),'🇦🇺'],['CA', t('ca'),'🇨🇦']]
   };
   const varieties = VARIETY_SETS[State.learnLang] || VARIETY_SETS.en;
@@ -2657,7 +2663,7 @@ document.getElementById('langToggle').addEventListener('change', (e)=>{
 
 /* Learning-language toggle — switches which sentence set (English or
    German) the whole app searches, quizzes and speaks. */
-const LEARN_CYCLE = ['en','de','fr','ru','it','es','ur','hi','pt'];
+const LEARN_CYCLE = ['en','de','fr','ru','it','es','ur','hi','pt','fa'];
 const LEARN_LABELS = { en: '🇬🇧 English', de: '🇩🇪 Deutsch', fr: '🇫🇷 Français', ru: '🇷🇺 Русский', it: '🇮🇹 Italiano', es: '🇪🇸 Español' };
 function otherLearnLang(l){ return LEARN_CYCLE[(LEARN_CYCLE.indexOf(l)+1)%LEARN_CYCLE.length]; }
 
