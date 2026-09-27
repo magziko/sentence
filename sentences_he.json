@@ -1,0 +1,3151 @@
+[
+  {
+    "id": 11001,
+    "text": "בוקר טוב!",
+    "translation_ar": "صباح الخير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 5,
+    "videoId": null,
+    "transcriptContext": "בוקר טוב!",
+    "pronunciation": "بوكِر توڤ!",
+    "words": [
+      {
+        "w": "בוקר",
+        "m_en": "morning",
+        "m_ar": "صباح"
+      },
+      {
+        "w": "טוב",
+        "m_en": "good",
+        "m_ar": "جيّد"
+      }
+    ],
+    "grammar_en": "\"בוקר טוב\" is used until roughly noon.",
+    "grammar_ar": "تُستعمل «بوكِر توڤ» حتى الظهر تقريبًا.",
+    "alternatives": [
+      {
+        "text": "בוקר אור!",
+        "note_en": "\"A morning of light!\" (the traditional cheerful reply)",
+        "note_ar": "«صباح النور!» (الردّ المرح المعتاد)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11002,
+    "text": "צהריים טובים!",
+    "translation_ar": "ظهيرة سعيدة!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 22,
+    "videoId": null,
+    "transcriptContext": "צהריים טובים!",
+    "pronunciation": "تسوهوراييم توڤيم!",
+    "words": [
+      {
+        "w": "צהריים",
+        "m_en": "noon",
+        "m_ar": "ظهيرة"
+      }
+    ],
+    "grammar_en": "\"טובים\" is plural to agree with \"צהריים\", which is a plural-form noun in Hebrew.",
+    "grammar_ar": "«توڤيم» بصيغة الجمع لتتطابق مع «تسوهوراييم» وهو اسم بصيغة جمع في العبرية.",
+    "alternatives": [
+      {
+        "text": "ערב טוב!",
+        "note_en": "\"Good evening!\" (used a bit later, in the evening)",
+        "note_ar": "«مساء الخير!» (تُستعمل لاحقًا، مساءً)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11003,
+    "text": "לילה טוב!",
+    "translation_ar": "تصبح على خير!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 39,
+    "videoId": null,
+    "transcriptContext": "לילה טוב!",
+    "pronunciation": "لايلا توڤ!",
+    "words": [
+      {
+        "w": "לילה",
+        "m_en": "night",
+        "m_ar": "ليل"
+      }
+    ],
+    "grammar_en": "\"לילה טוב\" is said only when parting for the night.",
+    "grammar_ar": "تُقال «لايلا توڤ» فقط عند الافتراق ليلًا.",
+    "alternatives": [
+      {
+        "text": "חלומות פז!",
+        "note_en": "\"Golden dreams!\" (a warmer, more poetic alternative)",
+        "note_ar": "«أحلامًا ذهبيّة!» (بديل أكثر شاعريّة ودفئًا)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11004,
+    "text": "תודה!",
+    "translation_ar": "شكرًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 56,
+    "videoId": null,
+    "transcriptContext": "תודה!",
+    "pronunciation": "تودا!",
+    "words": [
+      {
+        "w": "תודה",
+        "m_en": "thank you",
+        "m_ar": "شكرًا"
+      }
+    ],
+    "grammar_en": "\"תודה\" alone is a complete, polite way to say thanks.",
+    "grammar_ar": "«تودا» وحدها عبارة مهذّبة كاملة عن الشكر.",
+    "alternatives": [
+      {
+        "text": "תודה רבה!",
+        "note_en": "Thank you very much!",
+        "note_ar": "شكرًا جزيلًا!"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11005,
+    "text": "בבקשה!",
+    "translation_ar": "من فضلك! / تفضّل!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 73,
+    "videoId": null,
+    "transcriptContext": "בבקשה!",
+    "pronunciation": "بِڤاكاشا!",
+    "words": [
+      {
+        "w": "בבקשה",
+        "m_en": "please, here you go",
+        "m_ar": "من فضلك / تفضّل"
+      }
+    ],
+    "grammar_en": "\"בבקשה\" is used both to make a polite request and when handing something over.",
+    "grammar_ar": "تُستعمل «بِڤاكاشا» لطلب مهذّب وعند تقديم شيء لأحد معًا.",
+    "alternatives": [
+      {
+        "text": "תודה, בבקשה.",
+        "note_en": "\"Thanks, here you go\" (when accepting/handing something)",
+        "note_ar": "«شكرًا، تفضّل» (عند قبول شيء أو تقديمه)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11006,
+    "text": "כן, בבקשה.",
+    "translation_ar": "نعم، من فضلك.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 90,
+    "videoId": null,
+    "transcriptContext": "כן, בבקשה.",
+    "pronunciation": "كِن، بِڤاكاشا۔",
+    "words": [
+      {
+        "w": "כן",
+        "m_en": "yes",
+        "m_ar": "نعم"
+      }
+    ],
+    "grammar_en": "\"כן\" is the simple word for \"yes\".",
+    "grammar_ar": "«كِن» الكلمة البسيطة لـ«نعم».",
+    "alternatives": [
+      {
+        "text": "כן, תודה.",
+        "note_en": "Yes, thank you",
+        "note_ar": "نعم، شكرًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11007,
+    "text": "לא, תודה.",
+    "translation_ar": "لا، شكرًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 107,
+    "videoId": null,
+    "transcriptContext": "לא, תודה.",
+    "pronunciation": "لو، تودا۔",
+    "words": [
+      {
+        "w": "לא",
+        "m_en": "no",
+        "m_ar": "لا"
+      }
+    ],
+    "grammar_en": "\"לא\" comes before the verb or phrase it negates.",
+    "grammar_ar": "تأتي «لو» قبل الفعل أو العبارة التي تنفيها.",
+    "alternatives": [
+      {
+        "text": "לא תודה, אני בסדר.",
+        "note_en": "\"No thanks, I'm fine\"",
+        "note_ar": "لا، شكرًا، أنا بخير"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11008,
+    "text": "סליחה!",
+    "translation_ar": "المعذرة!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 124,
+    "videoId": null,
+    "transcriptContext": "סליחה!",
+    "pronunciation": "سليحا!",
+    "words": [
+      {
+        "w": "סליחה",
+        "m_en": "excuse me, sorry",
+        "m_ar": "المعذرة / آسف"
+      }
+    ],
+    "grammar_en": "\"סליחה\" is used both to apologise and to get someone's attention politely.",
+    "grammar_ar": "تُستعمل «سليحا» للاعتذار ولجذب انتباه أحد بأدب معًا.",
+    "alternatives": [
+      {
+        "text": "אני מצטער!",
+        "note_en": "\"I'm sorry!\" (masc., a stronger apology)",
+        "note_ar": "«أنا آسف!» (مذكّر، اعتذار أقوى)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11009,
+    "text": "להתראות!",
+    "translation_ar": "إلى اللقاء!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 141,
+    "videoId": null,
+    "transcriptContext": "להתראות!",
+    "pronunciation": "لِهيتراؤت!",
+    "words": [
+      {
+        "w": "להתראות",
+        "m_en": "goodbye, see you again",
+        "m_ar": "إلى اللقاء"
+      }
+    ],
+    "grammar_en": "\"להתראות\" literally means \"to see each other again\".",
+    "grammar_ar": "تعني «لِهيتراؤت» حرفيًّا «أن نرى بعضنا مجدّدًا».",
+    "alternatives": [
+      {
+        "text": "ביי!",
+        "note_en": "\"Bye!\" (the casual English-borrowed version)",
+        "note_ar": "«باي!» (النسخة العاميّة المستعارة من الإنجليزية)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11010,
+    "text": "נתראה מחר!",
+    "translation_ar": "أراك غدًا!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 158,
+    "videoId": null,
+    "transcriptContext": "נתראה מחר!",
+    "pronunciation": "نيتراييه ماحار!",
+    "words": [
+      {
+        "w": "מחר",
+        "m_en": "tomorrow",
+        "m_ar": "غدًا"
+      },
+      {
+        "w": "נתראה",
+        "m_en": "we'll see each other",
+        "m_ar": "سنتلاقى"
+      }
+    ],
+    "grammar_en": "\"נתראה\" is the future form used for \"see you...\".",
+    "grammar_ar": "«نيتراييه» صيغة المستقبل المستعملة لقول «أراك...».",
+    "alternatives": [
+      {
+        "text": "נתראה בקרוב!",
+        "note_en": "See you soon!",
+        "note_ar": "أراك قريبًا!"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11011,
+    "text": "מה שלומך?",
+    "translation_ar": "كيف حالك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 175,
+    "videoId": null,
+    "transcriptContext": "מה שלומך?",
+    "pronunciation": "ما شلوميخا؟ / ما شلوميخ؟",
+    "words": [
+      {
+        "w": "שלום",
+        "m_en": "peace, well-being",
+        "m_ar": "سلام / حال"
+      },
+      {
+        "w": "מה",
+        "m_en": "what",
+        "m_ar": "ماذا"
+      }
+    ],
+    "grammar_en": "This form (\"שלומך\") addresses a man; the feminine form is \"שלומך\" pronounced differently (\"shlomekh\").",
+    "grammar_ar": "تخاطب هذه الصيغة رجلًا؛ والصيغة المؤنّثة تُلفظ بشكل مختلف («شلوميخ»).",
+    "alternatives": [
+      {
+        "text": "מה נשמע?",
+        "note_en": "\"What's up?\" (a very common casual greeting)",
+        "note_ar": "«ما الأخبار؟» (تحيّة عاميّة شائعة جدًّا)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11012,
+    "text": "אני בסדר, תודה.",
+    "translation_ar": "أنا بخير، شكرًا.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 192,
+    "videoId": null,
+    "transcriptContext": "אני בסדר, תודה.",
+    "pronunciation": "أني بيسيدير، تودا۔",
+    "words": [
+      {
+        "w": "בסדר",
+        "m_en": "fine, okay",
+        "m_ar": "بخير"
+      }
+    ],
+    "grammar_en": "\"בסדר\" literally means \"in order\", used broadly for \"okay/fine\".",
+    "grammar_ar": "تعني «بيسيدير» حرفيًّا «بترتيب»، وتُستعمل عمومًا بمعنى «بخير».",
+    "alternatives": [
+      {
+        "text": "הכול טוב.",
+        "note_en": "\"Everything's good\" (a common alternative)",
+        "note_ar": "«كلّ شيء جيّد» (بديل شائع)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11013,
+    "text": "איך קוראים לך?",
+    "translation_ar": "ما اسمك؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 209,
+    "videoId": null,
+    "transcriptContext": "איך קוראים לך?",
+    "pronunciation": "إيخ كوريم ليخا؟ / إيخ كوريم لاخ؟",
+    "words": [
+      {
+        "w": "שם",
+        "m_en": "name",
+        "m_ar": "اسم"
+      },
+      {
+        "w": "קוראים",
+        "m_en": "(they) call",
+        "m_ar": "يُنادون"
+      }
+    ],
+    "grammar_en": "This literally means \"how do they call you\", the common way to ask a name.",
+    "grammar_ar": "تعني هذه العبارة حرفيًّا «كيف ينادونك»، وهي الطريقة الشائعة للسؤال عن الاسم.",
+    "alternatives": [
+      {
+        "text": "מה השם שלך?",
+        "note_en": "\"What is your name?\" (a more direct alternative)",
+        "note_ar": "«ما اسمك؟» (بديل أكثر مباشرة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11014,
+    "text": "קוראים לי שרה.",
+    "translation_ar": "اسمي سارة.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 226,
+    "videoId": null,
+    "transcriptContext": "קוראים לי שרה.",
+    "pronunciation": "كوريم لي سارا۔",
+    "words": [
+      {
+        "w": "קוראים לי",
+        "m_en": "I'm called",
+        "m_ar": "يُنادونني / اسمي"
+      }
+    ],
+    "grammar_en": "Literally \"they call me Sarah\", the standard way to introduce your name.",
+    "grammar_ar": "حرفيًّا «ينادونني سارة»، وهي الطريقة المعتادة للتعريف بالاسم.",
+    "alternatives": [
+      {
+        "text": "אני שרה.",
+        "note_en": "\"I am Sarah\" (a simpler alternative)",
+        "note_ar": "«أنا سارة» (بديل أبسط)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11015,
+    "text": "נעים מאוד!",
+    "translation_ar": "سعدتُ بلقائك!",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 3,
+    "videoId": null,
+    "transcriptContext": "נעים מאוד!",
+    "pronunciation": "ناعيم مِؤود!",
+    "words": [
+      {
+        "w": "נעים",
+        "m_en": "pleasant",
+        "m_ar": "سارّ / لطيف"
+      },
+      {
+        "w": "מאוד",
+        "m_en": "very",
+        "m_ar": "جدًّا"
+      }
+    ],
+    "grammar_en": "\"נעים מאוד\" literally means \"very pleasant\", the standard \"nice to meet you\".",
+    "grammar_ar": "تعني «ناعيم مِؤود» حرفيًّا «سارّ جدًّا»، وهي العبارة المعتادة لـ«سعدتُ بلقائك».",
+    "alternatives": [
+      {
+        "text": "נעים להכיר!",
+        "note_en": "\"Nice to get to know (you)!\" (equally common)",
+        "note_ar": "«سُررتُ بالتعرّف عليك!» (شائعة بالقدر نفسه)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11016,
+    "text": "מאיפה אתה?",
+    "translation_ar": "من أين أنت؟",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 20,
+    "videoId": null,
+    "transcriptContext": "מאיפה אתה?",
+    "pronunciation": "مِإيفو أتا؟ / مِإيفو أت؟",
+    "words": [
+      {
+        "w": "איפה",
+        "m_en": "where",
+        "m_ar": "أين"
+      },
+      {
+        "w": "מאיפה",
+        "m_en": "from where",
+        "m_ar": "من أين"
+      }
+    ],
+    "grammar_en": "This masculine form addresses a man; \"מאיפה את\" addresses a woman.",
+    "grammar_ar": "تخاطب هذه الصيغة المذكّرة رجلًا؛ و«مِإيفو أت» تخاطب امرأة.",
+    "alternatives": [
+      {
+        "text": "מה המוצא שלך?",
+        "note_en": "\"What is your origin?\" (more formal)",
+        "note_ar": "«ما أصلك؟» (أكثر رسميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11017,
+    "text": "אני ממצרים.",
+    "translation_ar": "أنا من مصر.",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 37,
+    "videoId": null,
+    "transcriptContext": "אני ממצרים.",
+    "pronunciation": "أني ميمِتسرايم۔",
+    "words": [
+      {
+        "w": "מצרים",
+        "m_en": "Egypt",
+        "m_ar": "مصر"
+      },
+      {
+        "w": "מ",
+        "m_en": "from",
+        "m_ar": "من"
+      }
+    ],
+    "grammar_en": "\"מ\" (from) attaches directly to the start of the place name.",
+    "grammar_ar": "يلتصق حرف «من» («م») مباشرة ببداية اسم المكان.",
+    "alternatives": [
+      {
+        "text": "אני מצרי.",
+        "note_en": "\"I'm Egyptian\" (masc.)",
+        "note_ar": "«أنا مصري» (مذكّر)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11018,
+    "text": "ברוך הבא!",
+    "translation_ar": "أهلًا وسهلًا! (لمخاطب ذكر)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 54,
+    "videoId": null,
+    "transcriptContext": "ברוך הבא!",
+    "pronunciation": "باروخ هابا!",
+    "words": [
+      {
+        "w": "ברוך",
+        "m_en": "blessed",
+        "m_ar": "مبارك"
+      },
+      {
+        "w": "הבא",
+        "m_en": "the one who comes",
+        "m_ar": "القادم / الآتي"
+      }
+    ],
+    "grammar_en": "\"ברוך הבא\" literally means \"blessed is the one who comes\", said to a man.",
+    "grammar_ar": "تعني «باروخ هابا» حرفيًّا «مبارك من يأتي»، وتُقال لرجل.",
+    "alternatives": [
+      {
+        "text": "ברוכה הבאה!",
+        "note_en": "Same welcome, said to a woman",
+        "note_ar": "نفس الترحيب، يُقال لامرأة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11019,
+    "text": "בבקשה, שב.",
+    "translation_ar": "تفضّل بالجلوس. (لمخاطب ذكر)",
+    "level": "A1",
+    "situation": "social",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 71,
+    "videoId": null,
+    "transcriptContext": "בבקשה, שב.",
+    "pronunciation": "بِڤاكاشا، شِڤ۔",
+    "words": [
+      {
+        "w": "לשבת",
+        "m_en": "to sit",
+        "m_ar": "يجلس"
+      }
+    ],
+    "grammar_en": "\"שב\" is the informal masculine imperative of \"לשבת\".",
+    "grammar_ar": "«شِڤ» أمر غير رسمي مذكّر من «لِشِڤِت».",
+    "alternatives": [
+      {
+        "text": "בבקשה, שבי.",
+        "note_en": "Same, addressing a woman",
+        "note_ar": "نفسها، لمخاطبة امرأة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11020,
+    "text": "הצבע הזה אדום.",
+    "translation_ar": "هذا اللون أحمر.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 88,
+    "videoId": null,
+    "transcriptContext": "הצבע הזה אדום.",
+    "pronunciation": "هاتسِڤع هازِه أدوم۔",
+    "words": [
+      {
+        "w": "אדום",
+        "m_en": "red",
+        "m_ar": "أحمر"
+      },
+      {
+        "w": "צבע",
+        "m_en": "colour",
+        "m_ar": "لون"
+      }
+    ],
+    "grammar_en": "\"הזה\" (this) follows the noun \"הצבע\" in Hebrew.",
+    "grammar_ar": "تأتي «هازِه» (هذا) بعد الاسم «هاتسِڤع» في العبرية.",
+    "alternatives": [
+      {
+        "text": "הצבע האהוב עליי הוא אדום.",
+        "note_en": "My favourite colour is red",
+        "note_ar": "لوني المفضّل هو الأحمر"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11021,
+    "text": "היום יום שני.",
+    "translation_ar": "اليوم هو الاثنين.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 105,
+    "videoId": null,
+    "transcriptContext": "היום יום שני.",
+    "pronunciation": "هايوم يوم شيني۔",
+    "words": [
+      {
+        "w": "יום שני",
+        "m_en": "Monday",
+        "m_ar": "الاثنين"
+      },
+      {
+        "w": "היום",
+        "m_en": "today",
+        "m_ar": "اليوم"
+      }
+    ],
+    "grammar_en": "Days of the week in Hebrew are literally numbered: \"יום שני\" means \"day two\".",
+    "grammar_ar": "أسماء أيّام الأسبوع بالعبرية مُرقَّمة حرفيًّا: «يوم شيني» تعني «اليوم الثاني».",
+    "alternatives": [
+      {
+        "text": "מחר יום שלישי.",
+        "note_en": "Tomorrow is Tuesday",
+        "note_ar": "غدًا الثلاثاء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11022,
+    "text": "כוס מים, בבקשה.",
+    "translation_ar": "كأس ماء من فضلك.",
+    "level": "A1",
+    "situation": "restaurant",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 122,
+    "videoId": null,
+    "transcriptContext": "כוס מים, בבקשה.",
+    "pronunciation": "كوس مايم، بِڤاكاشا۔",
+    "words": [
+      {
+        "w": "כוס",
+        "m_en": "glass",
+        "m_ar": "كأس"
+      },
+      {
+        "w": "מים",
+        "m_en": "water",
+        "m_ar": "ماء"
+      }
+    ],
+    "grammar_en": "\"מים\" (water) is always grammatically plural in Hebrew.",
+    "grammar_ar": "«مايم» (ماء) اسم بصيغة جمع دائمًا في العبرية.",
+    "alternatives": [
+      {
+        "text": "אני רוצה כוס מים.",
+        "note_en": "I'd like a glass of water",
+        "note_ar": "أودّ كأس ماء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11023,
+    "text": "כואבת לי הבטן.",
+    "translation_ar": "أشعر بألم في بطني.",
+    "level": "A1",
+    "situation": "health",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 139,
+    "videoId": null,
+    "transcriptContext": "כואבת לי הבטן.",
+    "pronunciation": "كوإڤِت لي هابِطِن۔",
+    "words": [
+      {
+        "w": "בטן",
+        "m_en": "stomach",
+        "m_ar": "بطن"
+      },
+      {
+        "w": "כואב",
+        "m_en": "hurts",
+        "m_ar": "يؤلم"
+      }
+    ],
+    "grammar_en": "With \"כואב\", the body part is the subject: \"my stomach hurts to me\".",
+    "grammar_ar": "مع «كوإڤ» يكون العضو هو الفاعل: «بطني تؤلمني».",
+    "alternatives": [
+      {
+        "text": "יש לי כאב בטן.",
+        "note_en": "I have a stomachache",
+        "note_ar": "لديّ ألم في المعدة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11024,
+    "text": "הישיבה מתחילה עכשיו.",
+    "translation_ar": "الاجتماع يبدأ الآن.",
+    "level": "A1",
+    "situation": "meetings",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 156,
+    "videoId": null,
+    "transcriptContext": "הישיבה מתחילה עכשיו.",
+    "pronunciation": "هايشيڤا ميتحيلا عاخشاڤ۔",
+    "words": [
+      {
+        "w": "ישיבה",
+        "m_en": "meeting",
+        "m_ar": "اجتماع"
+      },
+      {
+        "w": "עכשיו",
+        "m_en": "now",
+        "m_ar": "الآن"
+      }
+    ],
+    "grammar_en": "The simple present in Hebrew can describe an action happening right now.",
+    "grammar_ar": "يمكن للمضارع البسيط بالعبرية أن يصف فعلًا يحدث الآن.",
+    "alternatives": [
+      {
+        "text": "הישיבה עומדת להתחיל.",
+        "note_en": "\"The meeting is about to start\"",
+        "note_ar": "الاجتماع على وشك البدء"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11025,
+    "text": "אתה שומע אותי?",
+    "translation_ar": "هل تستطيع سماعي؟",
+    "level": "A1",
+    "situation": "meetings",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 173,
+    "videoId": null,
+    "transcriptContext": "אתה שומע אותי?",
+    "pronunciation": "أتا شومِعا أوتي؟",
+    "words": [
+      {
+        "w": "לשמוע",
+        "m_en": "to hear",
+        "m_ar": "يسمع"
+      }
+    ],
+    "grammar_en": "This masculine form addresses a man; \"את שומעת אותי\" addresses a woman.",
+    "grammar_ar": "تخاطب هذه الصيغة المذكّرة رجلًا؛ و«أت شومااعِت أوتي» تخاطب امرأة.",
+    "alternatives": [
+      {
+        "text": "השמע מגיע אליך?",
+        "note_en": "\"Is the sound reaching you?\" (more formal)",
+        "note_ar": "«هل يصل الصوت إليك؟» (أكثر رسميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11026,
+    "text": "הלו, מי מדבר?",
+    "translation_ar": "ألو، من المتحدّث؟",
+    "level": "A1",
+    "situation": "phone-calls",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 190,
+    "videoId": null,
+    "transcriptContext": "הלו, מי מדבר?",
+    "pronunciation": "هالو، مي مِدابِر؟",
+    "words": [
+      {
+        "w": "הלו",
+        "m_en": "hello (on the phone)",
+        "m_ar": "ألو"
+      },
+      {
+        "w": "לדבר",
+        "m_en": "to speak",
+        "m_ar": "يتحدّث"
+      }
+    ],
+    "grammar_en": "\"הלו\" is only used when answering the phone.",
+    "grammar_ar": "تُستعمل «هالو» فقط عند الردّ على الهاتف.",
+    "alternatives": [
+      {
+        "text": "מי זה?",
+        "note_en": "\"Who is this?\" (more casual)",
+        "note_ar": "«من هذا؟» (أكثر عفويّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11027,
+    "text": "איפה הבנק?",
+    "translation_ar": "أين البنك؟",
+    "level": "A1",
+    "situation": "directions",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 207,
+    "videoId": null,
+    "transcriptContext": "איפה הבנק?",
+    "pronunciation": "إيفو هابانك؟",
+    "words": [
+      {
+        "w": "בנק",
+        "m_en": "bank",
+        "m_ar": "بنك"
+      },
+      {
+        "w": "איפה",
+        "m_en": "where",
+        "m_ar": "أين"
+      }
+    ],
+    "grammar_en": "\"איפה\" is the standard question word for \"where\".",
+    "grammar_ar": "«إيفو» أداة السؤال المعتادة بمعنى «أين».",
+    "alternatives": [
+      {
+        "text": "לאן הולכים לבנק?",
+        "note_en": "\"Which way to the bank?\" (casual)",
+        "note_ar": "«إلى أين نذهب للبنك؟» (عاميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11028,
+    "text": "הצילו! תקראו למשטרה!",
+    "translation_ar": "النجدة! اتّصلوا بالشرطة!",
+    "level": "A1",
+    "situation": "emergency",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 224,
+    "videoId": null,
+    "transcriptContext": "הצילו! תקראו למשטרה!",
+    "pronunciation": "هاتسيلو! تِكرِؤو لِميشطارا!",
+    "words": [
+      {
+        "w": "הצילו",
+        "m_en": "help",
+        "m_ar": "النجدة"
+      },
+      {
+        "w": "משטרה",
+        "m_en": "police",
+        "m_ar": "شرطة"
+      }
+    ],
+    "grammar_en": "\"הצילו\" is the classic single-word cry for help.",
+    "grammar_ar": "«هاتسيلو» الصرخة الكلاسيكيّة الشائعة للاستغاثة.",
+    "alternatives": [
+      {
+        "text": "עזרו לי!",
+        "note_en": "\"Help me!\" (a more personal cry)",
+        "note_ar": "«ساعدوني!» (نداء أكثر شخصيّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11029,
+    "text": "יום הולדת שמח!",
+    "translation_ar": "عيد ميلاد سعيد!",
+    "level": "A1",
+    "situation": "celebrations",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 1,
+    "videoId": null,
+    "transcriptContext": "יום הולדת שמח!",
+    "pronunciation": "يوم هولِدِت سامِآح!",
+    "words": [
+      {
+        "w": "יום הולדת",
+        "m_en": "birthday",
+        "m_ar": "عيد ميلاد"
+      },
+      {
+        "w": "שמח",
+        "m_en": "happy",
+        "m_ar": "سعيد"
+      }
+    ],
+    "grammar_en": "\"שמח\" agrees with the masculine \"יום\".",
+    "grammar_ar": "تتطابق «سامِآح» مع المذكّر «يوم».",
+    "alternatives": [
+      {
+        "text": "מזל טוב!",
+        "note_en": "\"Congratulations!\" (used for birthdays too)",
+        "note_ar": "«مبروك!» (تُستعمل أيضًا لأعياد الميلاد)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 1
+  },
+  {
+    "id": 11030,
+    "text": "אני קם בשעה שבע.",
+    "translation_ar": "أستيقظ في السابعة.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 18,
+    "videoId": null,
+    "transcriptContext": "אני קם בשעה שבע.",
+    "pronunciation": "أني كام بِشاعا شِڤع۔",
+    "words": [
+      {
+        "w": "לקום",
+        "m_en": "to get up",
+        "m_ar": "ينهض / يستيقظ"
+      },
+      {
+        "w": "שבע",
+        "m_en": "seven",
+        "m_ar": "سبعة"
+      }
+    ],
+    "grammar_en": "\"קם\" is the masculine present form; a woman would say \"קמה\".",
+    "grammar_ar": "«كام» صيغة الحاضر المذكّرة؛ وتقول المرأة «كاما».",
+    "alternatives": [
+      {
+        "text": "אני מתעורר בשעה שבע.",
+        "note_en": "\"I wake up at seven\" (more precise verb)",
+        "note_ar": "«أستيقظ في السابعة» (فعل أدقّ)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11031,
+    "text": "זה אחת, זה שתיים.",
+    "translation_ar": "هذا واحد، هذا اثنان.",
+    "level": "A1",
+    "situation": "daily",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 35,
+    "videoId": null,
+    "transcriptContext": "זה אחת, זה שתיים.",
+    "pronunciation": "زِه أحات، زِه شتايم۔",
+    "words": [
+      {
+        "w": "אחת",
+        "m_en": "one",
+        "m_ar": "واحد"
+      },
+      {
+        "w": "שתיים",
+        "m_en": "two",
+        "m_ar": "اثنان"
+      }
+    ],
+    "grammar_en": "\"זה\" (this, masc.) is used for pointing at something general.",
+    "grammar_ar": "تُستعمل «زِه» (هذا، مذكّر) للإشارة إلى شيء عامّ.",
+    "alternatives": [
+      {
+        "text": "שלוש, ארבע, חמש.",
+        "note_en": "Three, four, five",
+        "note_ar": "ثلاثة، أربعة، خمسة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11032,
+    "text": "יש לי שני אחים.",
+    "translation_ar": "لديّ أخوان.",
+    "level": "A1",
+    "situation": "family",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 52,
+    "videoId": null,
+    "transcriptContext": "יש לי שני אחים.",
+    "pronunciation": "يِش لي شني أحيم۔",
+    "words": [
+      {
+        "w": "אח",
+        "m_en": "brother",
+        "m_ar": "أخ"
+      },
+      {
+        "w": "שני",
+        "m_en": "two",
+        "m_ar": "اثنان"
+      }
+    ],
+    "grammar_en": "\"אחים\" (plural) can mean \"brothers\" or \"siblings\" in general.",
+    "grammar_ar": "قد تعني «أحيم» (جمع) «إخوة ذكورًا» أو «إخوة» عمومًا.",
+    "alternatives": [
+      {
+        "text": "יש לי אח אחד ואחות אחת.",
+        "note_en": "I have one brother and one sister",
+        "note_ar": "لديّ أخ وأخت"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11033,
+    "text": "בבית יש שלושה חדרים.",
+    "translation_ar": "للمنزل ثلاث غرف.",
+    "level": "A1",
+    "situation": "home",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 69,
+    "videoId": null,
+    "transcriptContext": "בבית יש שלושה חדרים.",
+    "pronunciation": "بابايت يِش شلوشا حادريم۔",
+    "words": [
+      {
+        "w": "חדר",
+        "m_en": "room",
+        "m_ar": "غرفة"
+      },
+      {
+        "w": "שלושה",
+        "m_en": "three",
+        "m_ar": "ثلاثة"
+      }
+    ],
+    "grammar_en": "\"יש\" + noun means \"there is/are\"; the place comes first with \"ב-\" (in).",
+    "grammar_ar": "«يِش» + اسم = «يوجد»؛ ويأتي المكان أوّلًا بحرف «ב-» (في).",
+    "alternatives": [
+      {
+        "text": "לבית שלי יש שלושה חדרים.",
+        "note_en": "My house has three rooms",
+        "note_ar": "منزلي فيه ثلاث غرف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11034,
+    "text": "כמה עולה החולצה הזאת?",
+    "translation_ar": "كم سعر هذا القميص؟",
+    "level": "A1",
+    "situation": "shopping",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 86,
+    "videoId": null,
+    "transcriptContext": "כמה עולה החולצה הזאת?",
+    "pronunciation": "كاما أولا هاحولتسا هازوت؟",
+    "words": [
+      {
+        "w": "חולצה",
+        "m_en": "shirt",
+        "m_ar": "قميص"
+      },
+      {
+        "w": "עולה",
+        "m_en": "costs",
+        "m_ar": "يكلّف"
+      }
+    ],
+    "grammar_en": "\"הזאת\" (this) is feminine to agree with \"חולצה\".",
+    "grammar_ar": "«هازوت» (هذه) مؤنّثة لتتطابق مع «حولتسا».",
+    "alternatives": [
+      {
+        "text": "מה המחיר של החולצה הזאת?",
+        "note_en": "What is the price of this shirt?",
+        "note_ar": "ما ثمن هذا القميص؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11035,
+    "text": "אני לא שומע אותך.",
+    "translation_ar": "لا يصلني صوتك.",
+    "level": "A1",
+    "situation": "meetings",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 103,
+    "videoId": null,
+    "transcriptContext": "אני לא שומע אותך.",
+    "pronunciation": "أني لو شومِعا أوتخا۔",
+    "words": [
+      {
+        "w": "לא",
+        "m_en": "not",
+        "m_ar": "لا"
+      }
+    ],
+    "grammar_en": "\"לא\" is placed before the verb to negate it.",
+    "grammar_ar": "توضع «لو» قبل الفعل لنفيه.",
+    "alternatives": [
+      {
+        "text": "הקול שלך לא מגיע.",
+        "note_en": "\"Your voice isn't coming through\"",
+        "note_ar": "صوتك لا يصل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11036,
+    "text": "תשתיק את המיקרופון, בבקשה.",
+    "translation_ar": "أطفئ الميكروفون من فضلك.",
+    "level": "A1",
+    "situation": "meetings",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 120,
+    "videoId": null,
+    "transcriptContext": "תשתיק את המיקרופון, בבקשה.",
+    "pronunciation": "تِشتيك إِت هاميكروفون، بِڤاكاشا۔",
+    "words": [
+      {
+        "w": "מיקרופון",
+        "m_en": "microphone",
+        "m_ar": "ميكروفون"
+      },
+      {
+        "w": "להשתיק",
+        "m_en": "to mute, to silence",
+        "m_ar": "يكتم / يطفئ"
+      }
+    ],
+    "grammar_en": "This informal masculine command becomes \"תשתיקי\" for a woman.",
+    "grammar_ar": "يصير هذا الأمر غير الرسمي المذكّر «تِشتيكي» لمخاطبة امرأة.",
+    "alternatives": [
+      {
+        "text": "תכבה את המיקרופון.",
+        "note_en": "\"Turn off the microphone\" (a synonym)",
+        "note_ar": "«أطفئ الميكروفون» (مرادف)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11037,
+    "text": "רגע, אני משתף את המסך.",
+    "translation_ar": "لحظة، سأشارك الشاشة.",
+    "level": "A1",
+    "situation": "meetings",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 137,
+    "videoId": null,
+    "transcriptContext": "רגע, אני משתף את המסך.",
+    "pronunciation": "ريغِع، أني مِشاتِف إِت هامِسِخ۔",
+    "words": [
+      {
+        "w": "מסך",
+        "m_en": "screen",
+        "m_ar": "شاشة"
+      },
+      {
+        "w": "לשתף",
+        "m_en": "to share",
+        "m_ar": "يشارك"
+      }
+    ],
+    "grammar_en": "The present tense here also expresses the immediate near future.",
+    "grammar_ar": "يعبّر المضارع هنا أيضًا عن مستقبل قريب فوري.",
+    "alternatives": [
+      {
+        "text": "חכה, אני שם לך שיתוף מסך.",
+        "note_en": "\"Wait, I'm setting up screen share for you\" (casual)",
+        "note_ar": "«انتظر، سأشارك الشاشة» (عاميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11038,
+    "text": "תלחץ על הכפתור הזה.",
+    "translation_ar": "اضغط على هذا الزرّ.",
+    "level": "A1",
+    "situation": "technology",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 154,
+    "videoId": null,
+    "transcriptContext": "תלחץ על הכפתור הזה.",
+    "pronunciation": "تِلحاتس عال هاكفتور هازِه۔",
+    "words": [
+      {
+        "w": "כפתור",
+        "m_en": "button",
+        "m_ar": "زرّ"
+      },
+      {
+        "w": "ללחוץ",
+        "m_en": "to click, to press",
+        "m_ar": "يضغط"
+      }
+    ],
+    "grammar_en": "\"תלחץ\" is the informal masculine imperative of \"ללחוץ\".",
+    "grammar_ar": "«تِلحاتس» أمر غير رسمي مذكّر من «لِلحوتس».",
+    "alternatives": [
+      {
+        "text": "תלחץ כאן.",
+        "note_en": "Click here",
+        "note_ar": "اضغط هنا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11039,
+    "text": "תפתח את האפליקציה הזאת.",
+    "translation_ar": "افتح هذا التطبيق.",
+    "level": "A1",
+    "situation": "technology",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 171,
+    "videoId": null,
+    "transcriptContext": "תפתח את האפליקציה הזאת.",
+    "pronunciation": "تِفتاح إِت هاأپليكاتسيا هازوت۔",
+    "words": [
+      {
+        "w": "אפליקציה",
+        "m_en": "app",
+        "m_ar": "تطبيق"
+      },
+      {
+        "w": "לפתוח",
+        "m_en": "to open",
+        "m_ar": "يفتح"
+      }
+    ],
+    "grammar_en": "\"תפתח\" is the informal masculine imperative of \"לפתוח\".",
+    "grammar_ar": "«تِفتاح» أمر غير رسمي مذكّر من «لِفتوآح».",
+    "alternatives": [
+      {
+        "text": "תפתח את התוכנה.",
+        "note_en": "\"התוכנה\" is a more formal synonym for \"app/program\"",
+        "note_ar": "«هاتوخنا» مرادف رسمي لـ«التطبيق/البرنامج»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11040,
+    "text": "תשמור את הקובץ שלך.",
+    "translation_ar": "احفظ ملفّك.",
+    "level": "A1",
+    "situation": "technology",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 188,
+    "videoId": null,
+    "transcriptContext": "תשמור את הקובץ שלך.",
+    "pronunciation": "تِشمور إِت هاكوڤِتس شِلخا۔",
+    "words": [
+      {
+        "w": "קובץ",
+        "m_en": "file",
+        "m_ar": "ملف"
+      },
+      {
+        "w": "לשמור",
+        "m_en": "to save",
+        "m_ar": "يحفظ"
+      }
+    ],
+    "grammar_en": "\"תשמור\" is the informal masculine imperative of \"לשמור\".",
+    "grammar_ar": "«تِشمور» أمر غير رسمي مذكّر من «لِشمور».",
+    "alternatives": [
+      {
+        "text": "אל תשכח לשמור.",
+        "note_en": "\"Don't forget to save\"",
+        "note_ar": "لا تنسَ الحفظ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11041,
+    "text": "אני אוהב לקרוא ולשמוע מוזיקה.",
+    "translation_ar": "أحبّ القراءة والاستماع إلى الموسيقى.",
+    "level": "A1",
+    "situation": "leisure",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 205,
+    "videoId": null,
+    "transcriptContext": "אני אוהב לקרוא ולשמוע מוזיקה.",
+    "pronunciation": "أني أوهِڤ لِكرو ڤِلِشمواع موزيكا۔",
+    "words": [
+      {
+        "w": "לקרוא",
+        "m_en": "to read",
+        "m_ar": "يقرأ"
+      },
+      {
+        "w": "לשמוע",
+        "m_en": "to hear, listen",
+        "m_ar": "يستمع"
+      }
+    ],
+    "grammar_en": "\"אני אוהב\" + infinitive says what a man likes doing; \"אוהבת\" for a woman.",
+    "grammar_ar": "«أني أوهِڤ» + المصدر يعبّر عن حبّ رجل لفعل شيء؛ و«أوهِڤِت» لامرأة.",
+    "alternatives": [
+      {
+        "text": "אני מת על מוזיקה.",
+        "note_en": "\"I'm crazy about music\" (casual)",
+        "note_ar": "«أنا مجنون بالموسيقى» (عاميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11042,
+    "text": "יורד גשם חזק היום.",
+    "translation_ar": "تمطر بغزارة اليوم.",
+    "level": "A1",
+    "situation": "weather",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 222,
+    "videoId": null,
+    "transcriptContext": "יורד גשם חזק היום.",
+    "pronunciation": "يوريد غِشِم حازاك هايوم۔",
+    "words": [
+      {
+        "w": "גשם",
+        "m_en": "rain",
+        "m_ar": "مطر"
+      },
+      {
+        "w": "חזק",
+        "m_en": "strong",
+        "m_ar": "شديد / بغزارة"
+      }
+    ],
+    "grammar_en": "Weather uses \"יורד\" (falls/descends) for rain and snow.",
+    "grammar_ar": "يُستعمل «يوريد» (يهطل) للمطر والثلج في وصف الطقس.",
+    "alternatives": [
+      {
+        "text": "יש היום המון גשם.",
+        "note_en": "\"There's a lot of rain today\"",
+        "note_ar": "هناك مطر غزير اليوم"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11043,
+    "text": "באיזו שעה הרכבת יוצאת?",
+    "translation_ar": "في أيّ ساعة يغادر القطار؟",
+    "level": "A1",
+    "situation": "transport",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 239,
+    "videoId": null,
+    "transcriptContext": "באיזו שעה הרכבת יוצאת?",
+    "pronunciation": "بِإيزو شاآ هاراكِڤِت يوتسِت؟",
+    "words": [
+      {
+        "w": "רכבת",
+        "m_en": "train",
+        "m_ar": "قطار"
+      },
+      {
+        "w": "לצאת",
+        "m_en": "to leave",
+        "m_ar": "يغادر"
+      }
+    ],
+    "grammar_en": "\"באיזו שעה\" means \"at what time\".",
+    "grammar_ar": "تعني «بِإيزو شاآ» «في أيّ ساعة».",
+    "alternatives": [
+      {
+        "text": "מתי הרכבת יוצאת?",
+        "note_en": "\"When does the train leave?\" (simpler)",
+        "note_ar": "«متى يغادر القطار؟» (أبسط)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11044,
+    "text": "סבתא שלי מבשלת ממש טוב.",
+    "translation_ar": "جدّتي تطبخ طعامًا لذيذًا جدًّا.",
+    "level": "A2",
+    "situation": "family",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 16,
+    "videoId": null,
+    "transcriptContext": "סבתא שלי מבשלת ממש טוב.",
+    "pronunciation": "سافتا شِلي مِڤاشِلِت ماماش توڤ۔",
+    "words": [
+      {
+        "w": "סבתא",
+        "m_en": "grandmother",
+        "m_ar": "جدّة"
+      },
+      {
+        "w": "לבשל",
+        "m_en": "to cook",
+        "m_ar": "يطبخ"
+      }
+    ],
+    "grammar_en": "\"ממש\" means \"really / truly\" and intensifies the adjective.",
+    "grammar_ar": "تعني «ماماش» «فعلًا / حقًّا» وتفيد التوكيد.",
+    "alternatives": [
+      {
+        "text": "האוכל של סבתא שלי טעים מאוד.",
+        "note_en": "My grandmother's food is very tasty",
+        "note_ar": "طعام جدّتي لذيذ جدًّا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11045,
+    "text": "חדר האמבטיה בסוף המסדרון.",
+    "translation_ar": "الحمّام في نهاية الممرّ.",
+    "level": "A2",
+    "situation": "home",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 33,
+    "videoId": null,
+    "transcriptContext": "חדר האמבטיה בסוף המסדרון.",
+    "pronunciation": "حِيدير هاأمباتيا بيسوف هامِسدِرون۔",
+    "words": [
+      {
+        "w": "מסדרון",
+        "m_en": "corridor",
+        "m_ar": "ممرّ"
+      },
+      {
+        "w": "סוף",
+        "m_en": "end",
+        "m_ar": "نهاية"
+      }
+    ],
+    "grammar_en": "\"בסוף\" + noun means \"at the end of\".",
+    "grammar_ar": "«بيسوف» + اسم = «في نهاية».",
+    "alternatives": [
+      {
+        "text": "השירותים בקצה המסדרון.",
+        "note_en": "\"The toilet is at the end of the corridor\" (a common alternative)",
+        "note_ar": "«الحمّام في طرف الممرّ» (بديل شائع)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11046,
+    "text": "מה אתה ממליץ?",
+    "translation_ar": "ماذا تنصح؟",
+    "level": "A2",
+    "situation": "restaurant",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 50,
+    "videoId": null,
+    "transcriptContext": "מה אתה ממליץ?",
+    "pronunciation": "ما أتا ماملیتس؟",
+    "words": [
+      {
+        "w": "להמליץ",
+        "m_en": "to recommend",
+        "m_ar": "ينصح"
+      }
+    ],
+    "grammar_en": "This masculine form addresses a man; \"את ממליצה\" addresses a woman.",
+    "grammar_ar": "تخاطب هذه الصيغة المذكّرة رجلًا؛ و«أت ماملیتسا» تخاطب امرأة.",
+    "alternatives": [
+      {
+        "text": "מה טעים פה?",
+        "note_en": "\"What's good/tasty here?\" (more casual)",
+        "note_ar": "«ما اللذيذ هنا؟» (أكثر عفويّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11047,
+    "text": "אני עובד כמהנדס בחברה קטנה.",
+    "translation_ar": "أعمل مهندسًا في شركة صغيرة.",
+    "level": "A2",
+    "situation": "career",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 67,
+    "videoId": null,
+    "transcriptContext": "אני עובד כמהנדס בחברה קטנה.",
+    "pronunciation": "أني عوڤِد كِمِهاندِس بِحِڤرا كِطانا۔",
+    "words": [
+      {
+        "w": "מהנדס",
+        "m_en": "engineer",
+        "m_ar": "مهندس"
+      },
+      {
+        "w": "חברה",
+        "m_en": "company",
+        "m_ar": "شركة"
+      }
+    ],
+    "grammar_en": "\"עובד כ-\" means \"to work as\".",
+    "grammar_ar": "«عوڤِد كـ-» = يعمل بصفة.",
+    "alternatives": [
+      {
+        "text": "אני מהנדס בחברה קטנה.",
+        "note_en": "I'm an engineer at a small company",
+        "note_ar": "أنا مهندس في شركة صغيرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11048,
+    "text": "האינטרנט שלי קצת איטי, סליחה.",
+    "translation_ar": "إنترنتي بطيء نوعًا ما، آسف.",
+    "level": "A2",
+    "situation": "meetings",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 84,
+    "videoId": null,
+    "transcriptContext": "האינטרנט שלי קצת איטי, סליחה.",
+    "pronunciation": "هاأينتِرنِت شِلي كتسات إيتي، سليحا۔",
+    "words": [
+      {
+        "w": "אינטרנט",
+        "m_en": "internet",
+        "m_ar": "إنترنت"
+      },
+      {
+        "w": "איטי",
+        "m_en": "slow",
+        "m_ar": "بطيء"
+      }
+    ],
+    "grammar_en": "\"קצת\" means \"a little / somewhat\" and softens the adjective.",
+    "grammar_ar": "تعني «كتسات» «قليلًا» وتلطّف الصفة.",
+    "alternatives": [
+      {
+        "text": "החיבור שלי חלש.",
+        "note_en": "\"My connection is weak\"",
+        "note_ar": "اتّصالي ضعيف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11049,
+    "text": "בואו נעבור לנקודה הבאה.",
+    "translation_ar": "لننتقل إلى النقطة التالية.",
+    "level": "A2",
+    "situation": "meetings",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 101,
+    "videoId": null,
+    "transcriptContext": "בואו נעבור לנקודה הבאה.",
+    "pronunciation": "بوؤ نعاڤور لِنِكودا هاباآ۔",
+    "words": [
+      {
+        "w": "נקודה",
+        "m_en": "point",
+        "m_ar": "نقطة"
+      },
+      {
+        "w": "הבאה",
+        "m_en": "next",
+        "m_ar": "التالي"
+      }
+    ],
+    "grammar_en": "\"בואו נ-\" is the \"let's\" form for a group.",
+    "grammar_ar": "«بوؤ نـ-» صيغة «لنفعل» لمجموعة.",
+    "alternatives": [
+      {
+        "text": "נמשיך לנקודה הבאה.",
+        "note_en": "\"Let's continue to the next point\"",
+        "note_ar": "لنتابع إلى النقطة التالية"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11050,
+    "text": "קל מאוד להשתמש בתוכנה הזאת.",
+    "translation_ar": "استخدام هذا البرنامج سهل جدًّا.",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 118,
+    "videoId": null,
+    "transcriptContext": "קל מאוד להשתמש בתוכנה הזאת.",
+    "pronunciation": "كال مِؤود لِهيشتامِش بِتوخنا هازوت۔",
+    "words": [
+      {
+        "w": "תוכנה",
+        "m_en": "software",
+        "m_ar": "برنامج (سوفتوير)"
+      },
+      {
+        "w": "קל",
+        "m_en": "easy",
+        "m_ar": "سهل"
+      }
+    ],
+    "grammar_en": "\"קל ל-\" + infinitive means \"easy to (do)\".",
+    "grammar_ar": "«كال ل-» + المصدر تعني «سهل الفعل».",
+    "alternatives": [
+      {
+        "text": "לא קשה להשתמש בתוכנה הזאת.",
+        "note_en": "This software isn't hard to use",
+        "note_ar": "هذا البرنامج ليس صعب الاستخدام"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11051,
+    "text": "בא לך ללכת לקולנוע בשבת?",
+    "translation_ar": "هل تريد الذهاب إلى السينما يوم السبت؟",
+    "level": "A2",
+    "situation": "leisure",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 135,
+    "videoId": null,
+    "transcriptContext": "בא לך ללכת לקולנוע בשבת?",
+    "pronunciation": "با لِخا لالِخِت لِكولنوآع بِشابات؟",
+    "words": [
+      {
+        "w": "קולנוע",
+        "m_en": "cinema",
+        "m_ar": "سينما"
+      },
+      {
+        "w": "שבת",
+        "m_en": "Saturday",
+        "m_ar": "السبت"
+      }
+    ],
+    "grammar_en": "\"בא לך\" is a very common casual way to say \"do you feel like\".",
+    "grammar_ar": "«با لِخا» طريقة عاميّة شائعة جدًّا لقول «هل ترغب في».",
+    "alternatives": [
+      {
+        "text": "רוצה ללכת לסרט בשבת?",
+        "note_en": "\"Want to go see a movie on Saturday?\" (equally casual)",
+        "note_ar": "«هل تريد مشاهدة فيلم يوم السبت؟» (عاميّة بالقدر نفسه)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11052,
+    "text": "מחר יהיה קר ויהיה רוח.",
+    "translation_ar": "غدًا سيكون الجوّ باردًا وستهبّ الرياح.",
+    "level": "A2",
+    "situation": "weather",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 152,
+    "videoId": null,
+    "transcriptContext": "מחר יהיה קר ויהיה רוח.",
+    "pronunciation": "ماحار يهيه كار ڤِيهيه رواح۔",
+    "words": [
+      {
+        "w": "קר",
+        "m_en": "cold",
+        "m_ar": "بارد"
+      },
+      {
+        "w": "רוח",
+        "m_en": "wind",
+        "m_ar": "ريح"
+      }
+    ],
+    "grammar_en": "\"יהיה\" is the future of \"להיות\" (to be).",
+    "grammar_ar": "«يهيه» مستقبل «لِهيوت» (يكون).",
+    "alternatives": [
+      {
+        "text": "מחר צפוי להיות קר.",
+        "note_en": "\"Tomorrow is expected to be cold\" (more formal)",
+        "note_ar": "«من المتوقّع أن يكون الجوّ باردًا غدًا» (أكثر رسميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11053,
+    "text": "אני רוצה לבקר באיסטנבול הקיץ.",
+    "translation_ar": "أريد زيارة إسطنبول هذا الصيف.",
+    "level": "A2",
+    "situation": "travel",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 169,
+    "videoId": null,
+    "transcriptContext": "אני רוצה לבקר באיסטנבול הקיץ.",
+    "pronunciation": "أني روتسِه لِڤاكِر بِإيستانبول هاكايتس۔",
+    "words": [
+      {
+        "w": "קיץ",
+        "m_en": "summer",
+        "m_ar": "صيف"
+      },
+      {
+        "w": "לבקר",
+        "m_en": "to visit",
+        "m_ar": "يزور"
+      }
+    ],
+    "grammar_en": "\"רוצה\" + infinitive expresses a wish.",
+    "grammar_ar": "يعبّر «روتسِه» + المصدر عن رغبة.",
+    "alternatives": [
+      {
+        "text": "הייתי רוצה לבקר באיסטנבול הקיץ.",
+        "note_en": "More polite: \"I would like to\"",
+        "note_ar": "أكثر تهذيبًا: «أودّ»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11054,
+    "text": "אני רוצה לפתוח חשבון בנק.",
+    "translation_ar": "أريد فتح حساب مصرفي.",
+    "level": "A2",
+    "situation": "banking",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 186,
+    "videoId": null,
+    "transcriptContext": "אני רוצה לפתוח חשבון בנק.",
+    "pronunciation": "أني روتسِه لِفتوآح حِشبون بانك۔",
+    "words": [
+      {
+        "w": "חשבון",
+        "m_en": "account",
+        "m_ar": "حساب"
+      },
+      {
+        "w": "לפתוח",
+        "m_en": "to open",
+        "m_ar": "يفتح"
+      }
+    ],
+    "grammar_en": "\"חשבון\" also means \"bill\" in a restaurant.",
+    "grammar_ar": "تعني «حِشبون» أيضًا «الفاتورة» في المطعم.",
+    "alternatives": [
+      {
+        "text": "אני רוצה לפתוח חשבון בבנק.",
+        "note_en": "I want to open an account at the bank",
+        "note_ar": "أريد فتح حساب في البنك"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11055,
+    "text": "הייתה תאונה, אנחנו צריכים אמבולנס.",
+    "translation_ar": "وقع حادث، نحتاج إلى سيّارة إسعاف.",
+    "level": "A2",
+    "situation": "emergency",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 203,
+    "videoId": null,
+    "transcriptContext": "הייתה תאונה, אנחנו צריכים אמבולנס.",
+    "pronunciation": "هاييتا تِؤونا، أناحنو تسريخيم أمبولانس۔",
+    "words": [
+      {
+        "w": "תאונה",
+        "m_en": "accident",
+        "m_ar": "حادث"
+      },
+      {
+        "w": "אמבולנס",
+        "m_en": "ambulance",
+        "m_ar": "سيّارة إسعاف"
+      }
+    ],
+    "grammar_en": "\"הייתה\" is the feminine past of \"להיות\", agreeing with \"תאונה\".",
+    "grammar_ar": "«هاييتا» ماضٍ مؤنّث من «لِهيوت» يتّفق مع «تِؤونا».",
+    "alternatives": [
+      {
+        "text": "קרתה תאונה.",
+        "note_en": "An accident has happened",
+        "note_ar": "وقع حادث"
+      }
+    ],
+    "similar": [],
+    "difficulty": 2
+  },
+  {
+    "id": 11056,
+    "text": "אחרי העבודה אני הולך לחדר כושר.",
+    "translation_ar": "بعد العمل أذهب إلى النادي الرياضي.",
+    "level": "A2",
+    "situation": "daily",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 220,
+    "videoId": null,
+    "transcriptContext": "אחרי העבודה אני הולך לחדר כושר.",
+    "pronunciation": "أحري هاعاڤودا أني هوليخ لِحيدير كوشير۔",
+    "words": [
+      {
+        "w": "עבודה",
+        "m_en": "work",
+        "m_ar": "عمل"
+      },
+      {
+        "w": "חדר כושר",
+        "m_en": "gym",
+        "m_ar": "نادٍ رياضي"
+      }
+    ],
+    "grammar_en": "\"אחרי\" + noun means \"after\".",
+    "grammar_ar": "«أحري» + اسم = «بعد».",
+    "alternatives": [
+      {
+        "text": "אני הולך לחדר כושר כל יום.",
+        "note_en": "I go to the gym every day",
+        "note_ar": "أذهب إلى النادي كلّ يوم"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11057,
+    "text": "יש לכם את הז'קט הזה במידה אחרת?",
+    "translation_ar": "هل لديكم هذه السترة بمقاس آخر؟",
+    "level": "A2",
+    "situation": "shopping",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 237,
+    "videoId": null,
+    "transcriptContext": "יש לכם את הז'קט הזה במידה אחרת?",
+    "pronunciation": "يِش لاخِم إِت هاجاكِت هازِه بِميدا أحِرِت؟",
+    "words": [
+      {
+        "w": "מידה",
+        "m_en": "size",
+        "m_ar": "مقاس"
+      },
+      {
+        "w": "ז'קט",
+        "m_en": "jacket",
+        "m_ar": "سترة"
+      }
+    ],
+    "grammar_en": "\"אחרת\" (fem.) means \"other / another\".",
+    "grammar_ar": "«أحِرِت» (مؤنّث) تعني «آخر / غيره».",
+    "alternatives": [
+      {
+        "text": "אפשר למדוד?",
+        "note_en": "Can I try it on?",
+        "note_ar": "هل يمكنني تجربتها؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11058,
+    "text": "יש לי שיעול וכואב לי הגרון מאתמול.",
+    "translation_ar": "لديّ سعال وألم في الحلق منذ أمس.",
+    "level": "A2",
+    "situation": "health",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 14,
+    "videoId": null,
+    "transcriptContext": "יש לי שיעול וכואב לי הגרון מאתמול.",
+    "pronunciation": "يِش لي شيعول ڤِخوإڤ لي هاغارون مِإِتمول۔",
+    "words": [
+      {
+        "w": "שיעול",
+        "m_en": "cough",
+        "m_ar": "سعال"
+      },
+      {
+        "w": "גרון",
+        "m_en": "throat",
+        "m_ar": "حلق"
+      }
+    ],
+    "grammar_en": "\"מאתמול\" means \"since yesterday\".",
+    "grammar_ar": "تعني «مِإِتمول» «منذ أمس».",
+    "alternatives": [
+      {
+        "text": "הגרון שלי כואב מאתמול.",
+        "note_en": "My throat has hurt since yesterday",
+        "note_ar": "حلقي يؤلمني منذ أمس"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11059,
+    "text": "הישיבה מתחילה בעשר בחדר מספר שתיים.",
+    "translation_ar": "يبدأ الاجتماع في العاشرة في الغرفة رقم اثنين.",
+    "level": "A2",
+    "situation": "workplace",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 31,
+    "videoId": null,
+    "transcriptContext": "הישיבה מתחילה בעשר בחדר מספר שתיים.",
+    "pronunciation": "هايشيڤا ميتحيلا بِإِسِر بِحِدِر ميسپار شتايم۔",
+    "words": [
+      {
+        "w": "ישיבה",
+        "m_en": "meeting",
+        "m_ar": "اجتماع"
+      },
+      {
+        "w": "חדר",
+        "m_en": "room",
+        "m_ar": "غرفة"
+      }
+    ],
+    "grammar_en": "\"מתחילה\" is the feminine present of \"להתחיל\", agreeing with \"ישיבה\".",
+    "grammar_ar": "«ميتحيلا» صيغة الحاضر المؤنّثة من «لِهاتحيل»، وتتطابق مع «يشيڤا».",
+    "alternatives": [
+      {
+        "text": "הישיבה תתחיל בעשר.",
+        "note_en": "The meeting will start at ten",
+        "note_ar": "سيبدأ الاجتماع في العاشرة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11060,
+    "text": "אפשר לקבוע את הישיבה הבאה ליום חמישי?",
+    "translation_ar": "هل يمكننا وضع الاجتماع القادم يوم الخميس؟",
+    "level": "A2",
+    "situation": "meetings",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 48,
+    "videoId": null,
+    "transcriptContext": "אפשר לקבוע את הישיבה הבאה ליום חמישי?",
+    "pronunciation": "إفشار لِكڤواع إِت هايشيڤا هاباآ لِيوم حاميشي؟",
+    "words": [
+      {
+        "w": "לקבוע",
+        "m_en": "to schedule",
+        "m_ar": "يحدّد موعدًا"
+      },
+      {
+        "w": "יום חמישי",
+        "m_en": "Thursday",
+        "m_ar": "الخميس"
+      }
+    ],
+    "grammar_en": "\"אפשר\" + infinitive is an impersonal \"may/can one...\".",
+    "grammar_ar": "«إفشار» + المصدر صيغة غير شخصيّة: «هل يمكن...».",
+    "alternatives": [
+      {
+        "text": "בואו נשים את הישיבה הבאה ביום חמישי.",
+        "note_en": "\"Let's put the next meeting on Thursday\" (statement form)",
+        "note_ar": "«لنضع الاجتماع القادم يوم الخميس» (صيغة تقريريّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11061,
+    "text": "אני אשלח את ההקלטה של הישיבה אחר כך.",
+    "translation_ar": "سأرسل تسجيل الاجتماع لاحقًا.",
+    "level": "A2",
+    "situation": "meetings",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 65,
+    "videoId": null,
+    "transcriptContext": "אני אשלח את ההקלטה של הישיבה אחר כך.",
+    "pronunciation": "أني أِشلاح إِت هاهاكلاطا شِل هايشيڤا أحار كاخ۔",
+    "words": [
+      {
+        "w": "הקלטה",
+        "m_en": "recording",
+        "m_ar": "تسجيل"
+      },
+      {
+        "w": "לשלוח",
+        "m_en": "to send",
+        "m_ar": "يرسل"
+      }
+    ],
+    "grammar_en": "\"אני אשלח\" is the future \"I will send\".",
+    "grammar_ar": "«أني أِشلاح» مستقبل: «سأرسل».",
+    "alternatives": [
+      {
+        "text": "ההקלטה תישלח אחר כך.",
+        "note_en": "\"The recording will be sent afterwards\" (passive)",
+        "note_ar": "سيُرسل التسجيل لاحقًا (مبني للمجهول)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11062,
+    "text": "תכתוב פה את השם והאימייל שלך.",
+    "translation_ar": "اكتب هنا اسمك وبريدك الإلكتروني.",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 82,
+    "videoId": null,
+    "transcriptContext": "תכתוב פה את השם והאימייל שלך.",
+    "pronunciation": "تِختوڤ پو إِت هاشِم ڤِهايميّيل شِلخا۔",
+    "words": [
+      {
+        "w": "אימייל",
+        "m_en": "email",
+        "m_ar": "بريد إلكتروني"
+      },
+      {
+        "w": "לכתוב",
+        "m_en": "to write",
+        "m_ar": "يكتب"
+      }
+    ],
+    "grammar_en": "\"תכתוב\" is the informal masculine imperative of \"לכתוב\".",
+    "grammar_ar": "«تِختوڤ» أمر غير رسمي مذكّر من «لِختوڤ».",
+    "alternatives": [
+      {
+        "text": "מלא כאן את הפרטים שלך.",
+        "note_en": "\"Fill in your details here\" (more formal)",
+        "note_ar": "«املأ بياناتك هنا» (أكثر رسميّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11063,
+    "text": "תגלול למטה כדי לראות עוד אפשרויות.",
+    "translation_ar": "مرّر للأسفل لترى بقيّة الخيارات.",
+    "level": "A2",
+    "situation": "technology",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 99,
+    "videoId": null,
+    "transcriptContext": "תגלול למטה כדי לראות עוד אפשרויות.",
+    "pronunciation": "تِغلول لِماطا كِدي لِرأوت عود إفشارُيّوت۔",
+    "words": [
+      {
+        "w": "לגלול",
+        "m_en": "to scroll",
+        "m_ar": "يمرّر"
+      },
+      {
+        "w": "אפשרות",
+        "m_en": "option",
+        "m_ar": "خيار"
+      }
+    ],
+    "grammar_en": "\"כדי\" + infinitive means \"in order to\".",
+    "grammar_ar": "«كِدي» + المصدر تعني «لكي».",
+    "alternatives": [
+      {
+        "text": "תרד קצת למטה, יש עוד אפשרויות.",
+        "note_en": "Go down a bit, there are more options",
+        "note_ar": "انزل قليلًا، هناك خيارات أخرى"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11064,
+    "text": "הוא לא כאן, אתה רוצה להשאיר הודעה?",
+    "translation_ar": "ليس موجودًا، هل تودّ ترك رسالة؟",
+    "level": "A2",
+    "situation": "phone-calls",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 116,
+    "videoId": null,
+    "transcriptContext": "הוא לא כאן, אתה רוצה להשאיר הודעה?",
+    "pronunciation": "هو لو كان، أتا روتسِه لِهاشئير هودااآ؟",
+    "words": [
+      {
+        "w": "הודעה",
+        "m_en": "message",
+        "m_ar": "رسالة"
+      },
+      {
+        "w": "להשאיר",
+        "m_en": "to leave",
+        "m_ar": "يترك"
+      }
+    ],
+    "grammar_en": "This masculine form addresses a man; \"את רוצה\" addresses a woman.",
+    "grammar_ar": "تخاطب هذه الصيغة المذكّرة رجلًا؛ و«أت روتسا» تخاطب امرأة.",
+    "alternatives": [
+      {
+        "text": "רוצה שאעביר לו הודעה?",
+        "note_en": "\"Want me to pass him a message?\"",
+        "note_ar": "«هل تريد أن أنقل له رسالة؟»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11065,
+    "text": "תמשיך ישר ותפנה ימינה ברחוב השני.",
+    "translation_ar": "سِر مستقيمًا ثم انعطف يمينًا عند الشارع الثاني.",
+    "level": "A2",
+    "situation": "directions",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 133,
+    "videoId": null,
+    "transcriptContext": "תמשיך ישר ותפנה ימינה ברחוב השני.",
+    "pronunciation": "تِمشيخ يشار ڤِتِفنِه يمينا بِرِحوڤ هاشيني۔",
+    "words": [
+      {
+        "w": "רחוב",
+        "m_en": "street",
+        "m_ar": "شارع"
+      },
+      {
+        "w": "לפנות",
+        "m_en": "to turn",
+        "m_ar": "ينعطف"
+      }
+    ],
+    "grammar_en": "\"תמשיך\" and \"תפנה\" are informal masculine imperatives.",
+    "grammar_ar": "«تِمشيخ» و«تِفنِه» أمران غير رسميّين مذكّرين.",
+    "alternatives": [
+      {
+        "text": "לך ישר ותפנה ימינה ברחוב השני.",
+        "note_en": "Same meaning, \"לך\" instead of \"תמשיך\"",
+        "note_ar": "نفس المعنى، «لِخ» بدل «تِمشيخ»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11066,
+    "text": "אני רוצה כרטיס הלוך ושוב לחיפה.",
+    "translation_ar": "أودّ تذكرة ذهاب وإياب إلى حيفا.",
+    "level": "A2",
+    "situation": "transport",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 150,
+    "videoId": null,
+    "transcriptContext": "אני רוצה כרטיס הלוך ושוב לחיפה.",
+    "pronunciation": "أني روتسِه كارتيس هالوخ ڤاشوڤ لِحيفا۔",
+    "words": [
+      {
+        "w": "כרטיס",
+        "m_en": "ticket",
+        "m_ar": "تذكرة"
+      },
+      {
+        "w": "הלוך ושוב",
+        "m_en": "round trip",
+        "m_ar": "ذهاب وإياب"
+      }
+    ],
+    "grammar_en": "\"הלוך ושוב\" literally means \"going and returning\".",
+    "grammar_ar": "تعني «هالوخ ڤاشوڤ» حرفيًّا «ذهابًا وعودة».",
+    "alternatives": [
+      {
+        "text": "כרטיס הלוך ושוב לחיפה, בבקשה.",
+        "note_en": "\"A round-trip ticket to Haifa, please\"",
+        "note_ar": "«تذكرة ذهاب وإياب إلى حيفا من فضلك»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11067,
+    "text": "יש לי הזמנה על שם אחמד.",
+    "translation_ar": "لديّ حجز باسم أحمد.",
+    "level": "A2",
+    "situation": "hotel",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 167,
+    "videoId": null,
+    "transcriptContext": "יש לי הזמנה על שם אחמד.",
+    "pronunciation": "يِش لي هازمانا عال شِم أحمد۔",
+    "words": [
+      {
+        "w": "הזמנה",
+        "m_en": "booking",
+        "m_ar": "حجز"
+      },
+      {
+        "w": "על שם",
+        "m_en": "in the name of",
+        "m_ar": "باسم"
+      }
+    ],
+    "grammar_en": "\"על שם\" + name.",
+    "grammar_ar": "«عال شِم» + الاسم.",
+    "alternatives": [
+      {
+        "text": "הזמנתי על שם אחמד.",
+        "note_en": "I booked under the name Ahmed",
+        "note_ar": "حجزتُ باسم أحمد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11068,
+    "text": "ההורים שלי הכירו באוניברסיטה.",
+    "translation_ar": "التقى والداي في الجامعة.",
+    "level": "B1",
+    "situation": "family",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 184,
+    "videoId": null,
+    "transcriptContext": "ההורים שלי הכירו באוניברסיטה.",
+    "pronunciation": "هاهوريم شِلي هيكيرو بِأونيڤِرسيتا۔",
+    "words": [
+      {
+        "w": "הורים",
+        "m_en": "parents",
+        "m_ar": "والدان"
+      },
+      {
+        "w": "אוניברסיטה",
+        "m_en": "university",
+        "m_ar": "جامعة"
+      }
+    ],
+    "grammar_en": "\"הכירו\" (they got acquainted) is the reciprocal past of \"להכיר\".",
+    "grammar_ar": "«هيكيرو» (تعارفا) صيغة الماضي المتبادلة من «لِهاكير».",
+    "alternatives": [
+      {
+        "text": "אבא ואמא שלי נפגשו באוניברסיטה.",
+        "note_en": "\"Dad and mom met at university\" (more casual)",
+        "note_ar": "«التقى أبي وأمّي في الجامعة» (أكثر عفويّة)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11069,
+    "text": "אני צריך לתקן את הברז במטבח.",
+    "translation_ar": "عليّ إصلاح صنبور المطبخ.",
+    "level": "B1",
+    "situation": "home",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 201,
+    "videoId": null,
+    "transcriptContext": "אני צריך לתקן את הברז במטבח.",
+    "pronunciation": "أني تساريخ لِتاكِن إِت هابِرِز بامِتباح۔",
+    "words": [
+      {
+        "w": "ברז",
+        "m_en": "tap",
+        "m_ar": "صنبور"
+      },
+      {
+        "w": "מטבח",
+        "m_en": "kitchen",
+        "m_ar": "مطبخ"
+      }
+    ],
+    "grammar_en": "\"צריך\" + infinitive expresses necessity for a man; \"צריכה\" for a woman.",
+    "grammar_ar": "تعبّر «تساريخ» + المصدر عن الضرورة لمذكّر؛ و«تسريخا» لمؤنّث.",
+    "alternatives": [
+      {
+        "text": "הברז במטבח מקולקל.",
+        "note_en": "The kitchen tap is broken",
+        "note_ar": "صنبور المطبخ معطّل"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11070,
+    "text": "יש במנה הזאת משהו חריף?",
+    "translation_ar": "هل يحتوي هذا الطبق على مكوّن حارّ؟",
+    "level": "B1",
+    "situation": "restaurant",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 218,
+    "videoId": null,
+    "transcriptContext": "יש במנה הזאת משהו חריף?",
+    "pronunciation": "يِش بامانا هازوت ماشِهو حاريف؟",
+    "words": [
+      {
+        "w": "חריף",
+        "m_en": "spicy",
+        "m_ar": "حارّ"
+      },
+      {
+        "w": "מנה",
+        "m_en": "dish",
+        "m_ar": "طبق"
+      }
+    ],
+    "grammar_en": "\"משהו\" means \"something / any\" in a question.",
+    "grammar_ar": "تعني «ماشِهو» «شيئًا / أيّ» في السؤال.",
+    "alternatives": [
+      {
+        "text": "כמה חריפה המנה הזאת?",
+        "note_en": "How spicy is this dish?",
+        "note_ar": "ما مدى حرارة هذا الطبق؟"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11071,
+    "text": "קיבלתי הצעת עבודה מעניינת.",
+    "translation_ar": "تلقّيتُ عرض عمل مثيرًا للاهتمام.",
+    "level": "B1",
+    "situation": "career",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 235,
+    "videoId": null,
+    "transcriptContext": "קיבלתי הצעת עבודה מעניינת.",
+    "pronunciation": "كيبالتي هاتساأت عڤودا مِعاننِيّنِت۔",
+    "words": [
+      {
+        "w": "הצעה",
+        "m_en": "offer",
+        "m_ar": "عرض"
+      },
+      {
+        "w": "מעניין",
+        "m_en": "interesting",
+        "m_ar": "مثير للاهتمام"
+      }
+    ],
+    "grammar_en": "\"קיבלתי\" is the first-person past of \"לקבל\" (to receive).",
+    "grammar_ar": "«كيبالتي» ماضي المتكلّم من «لِكابِل» (يستلم).",
+    "alternatives": [
+      {
+        "text": "הציעו לי עבודה ממש מעניינת.",
+        "note_en": "\"They offered me a really interesting job\"",
+        "note_ar": "«عرضوا عليّ عملًا مثيرًا للاهتمام فعلًا»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11072,
+    "text": "התחלתי קורס צילום כדי להתפתח.",
+    "translation_ar": "بدأتُ دورة تصوير لأتطوّر.",
+    "level": "B1",
+    "situation": "leisure",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 12,
+    "videoId": null,
+    "transcriptContext": "התחלתי קורס צילום כדי להתפתח.",
+    "pronunciation": "هيتحالتي كورس تسيلوم كِدي لِهيتپاتِح۔",
+    "words": [
+      {
+        "w": "קורס",
+        "m_en": "course",
+        "m_ar": "دورة"
+      },
+      {
+        "w": "להתפתח",
+        "m_en": "to develop oneself",
+        "m_ar": "يتطوّر"
+      }
+    ],
+    "grammar_en": "\"כדי\" + infinitive expresses purpose.",
+    "grammar_ar": "«كِدي» + المصدر تعبّر عن الغاية.",
+    "alternatives": [
+      {
+        "text": "אני לומד צילום עכשיו.",
+        "note_en": "I'm learning photography now",
+        "note_ar": "أتعلّم التصوير الآن"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11073,
+    "text": "זה בערך עשר דקות הליכה מהכיכר.",
+    "translation_ar": "يبعد نحو عشر دقائق سيرًا على الأقدام عن الساحة.",
+    "level": "B1",
+    "situation": "directions",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 29,
+    "videoId": null,
+    "transcriptContext": "זה בערך עשר דקות הליכה מהכיכר.",
+    "pronunciation": "زِه بِعِرِخ إِسِر داكوت هاليخا مِهاكيكار۔",
+    "words": [
+      {
+        "w": "הליכה",
+        "m_en": "walk, walking",
+        "m_ar": "سير على الأقدام"
+      },
+      {
+        "w": "כיכר",
+        "m_en": "square",
+        "m_ar": "ساحة"
+      }
+    ],
+    "grammar_en": "\"בערך\" + number means \"about / approximately\".",
+    "grammar_ar": "«بِعِرِخ» + عدد = «حوالي».",
+    "alternatives": [
+      {
+        "text": "אפשר להגיע לשם ברגל בעשר דקות.",
+        "note_en": "\"You can get there on foot in ten minutes\"",
+        "note_ar": "«يمكن الوصول إلى هناك سيرًا في عشر دقائق»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11074,
+    "text": "הרכבת תגיע באיחור בגלל תקלה טכנית.",
+    "translation_ar": "سيصل القطار متأخّرًا بسبب عطل فني.",
+    "level": "B1",
+    "situation": "transport",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 46,
+    "videoId": null,
+    "transcriptContext": "הרכבת תגיע באיחור בגלל תקלה טכנית.",
+    "pronunciation": "هاراكِڤِت تاغياع بِإيحور بِغلال تِكالا طِكنيت۔",
+    "words": [
+      {
+        "w": "איחור",
+        "m_en": "delay",
+        "m_ar": "تأخير"
+      },
+      {
+        "w": "בגלל",
+        "m_en": "because of",
+        "m_ar": "بسبب"
+      }
+    ],
+    "grammar_en": "\"בגלל\" + noun means \"because of\".",
+    "grammar_ar": "«بِغلال» + اسم = «بسبب».",
+    "alternatives": [
+      {
+        "text": "יש עיכוב ברכבת בגלל תקלה.",
+        "note_en": "\"There's a delay on the train due to a fault\"",
+        "note_ar": "«هناك تأخير في القطار بسبب عطل»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11075,
+    "text": "שכרנו רכב כדי לסייר בחוף.",
+    "translation_ar": "استأجرنا سيّارة لنجوب الساحل.",
+    "level": "B1",
+    "situation": "travel",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 63,
+    "videoId": null,
+    "transcriptContext": "שכרנו רכב כדי לסייר בחוף.",
+    "pronunciation": "ساخارنو رِخِڤ كِدي لِساييِر باحوف۔",
+    "words": [
+      {
+        "w": "לשכור",
+        "m_en": "to rent",
+        "m_ar": "يستأجر"
+      },
+      {
+        "w": "חוף",
+        "m_en": "coast",
+        "m_ar": "ساحل"
+      }
+    ],
+    "grammar_en": "\"כדי\" + infinitive expresses purpose: \"in order to tour\".",
+    "grammar_ar": "«كِدي» + المصدر تعبّر عن الغاية: «لأجل الجولة».",
+    "alternatives": [
+      {
+        "text": "שכרנו מכונית לסיור בחוף.",
+        "note_en": "\"מכונית\" is a common synonym for \"רכב\"",
+        "note_ar": "«مِخونيت» مرادف شائع لـ«ركِڤ»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11076,
+    "text": "יש כספומט קרוב לפה?",
+    "translation_ar": "هل يوجد صرّاف آلي قريب من هنا؟",
+    "level": "B1",
+    "situation": "banking",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 80,
+    "videoId": null,
+    "transcriptContext": "יש כספומט קרוב לפה?",
+    "pronunciation": "يِش كاسپوماط كاروڤ لِپو؟",
+    "words": [
+      {
+        "w": "כספומט",
+        "m_en": "ATM",
+        "m_ar": "صرّاف آلي"
+      },
+      {
+        "w": "קרוב",
+        "m_en": "nearby",
+        "m_ar": "قريب"
+      }
+    ],
+    "grammar_en": "\"יש\" is used to ask whether something exists somewhere.",
+    "grammar_ar": "تُستعمل «يِش» للسؤال عن وجود شيء في مكان ما.",
+    "alternatives": [
+      {
+        "text": "איפה אפשר למשוך כסף?",
+        "note_en": "\"Where can one withdraw money?\"",
+        "note_ar": "«أين يمكن سحب المال؟»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 3
+  },
+  {
+    "id": 11077,
+    "text": "הרופא המליץ לי לנוח ולשתות הרבה מים.",
+    "translation_ar": "نصحني الطبيب بالراحة وشرب الكثير من الماء.",
+    "level": "B1",
+    "situation": "health",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 97,
+    "videoId": null,
+    "transcriptContext": "הרופא המליץ לי לנוח ולשתות הרבה מים.",
+    "pronunciation": "هاروفِه هِمليتس لي لانواح أولشتوت هاربِه مايم۔",
+    "words": [
+      {
+        "w": "לנוח",
+        "m_en": "to rest",
+        "m_ar": "يستريح"
+      },
+      {
+        "w": "המליץ",
+        "m_en": "recommended",
+        "m_ar": "نصح"
+      }
+    ],
+    "grammar_en": "\"המליץ ל-\" + infinitive means \"recommended to (someone) to do\".",
+    "grammar_ar": "«هِمليتس ل-» + المصدر تعني «نصح (أحدًا) بأن يفعل».",
+    "alternatives": [
+      {
+        "text": "הרופא אמר לי לנוח.",
+        "note_en": "The doctor told me to rest",
+        "note_ar": "قال لي الطبيب إنّني يجب أن أستريح"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 11078,
+    "text": "קודם תיכנס להגדרות, ואז תשנה את השפה.",
+    "translation_ar": "اذهب أوّلًا إلى الإعدادات ثم غيّر اللغة.",
+    "level": "B1",
+    "situation": "meetings",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 114,
+    "videoId": null,
+    "transcriptContext": "קודם תיכנס להגדרות, ואז תשנה את השפה.",
+    "pronunciation": "كودِم تيخانِس لِهاغداروت، ڤَآز تِشانِه إِت هاسافا۔",
+    "words": [
+      {
+        "w": "הגדרות",
+        "m_en": "settings",
+        "m_ar": "إعدادات"
+      },
+      {
+        "w": "לשנות",
+        "m_en": "to change",
+        "m_ar": "يغيّر"
+      }
+    ],
+    "grammar_en": "\"קודם... ואז...\" means \"first... then...\".",
+    "grammar_ar": "تعني «كودِم... ڤَآز...» «أوّلًا... ثم...».",
+    "alternatives": [
+      {
+        "text": "תפתח את ההגדרות ותשנה את השפה.",
+        "note_en": "Open settings and change the language",
+        "note_ar": "افتح الإعدادات وغيّر اللغة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 11079,
+    "text": "אם התוכנה לא עובדת, תפעיל אותה מחדש.",
+    "translation_ar": "إذا لم يعمل البرنامج أعد تشغيله.",
+    "level": "B1",
+    "situation": "technology",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 131,
+    "videoId": null,
+    "transcriptContext": "אם התוכנה לא עובדת, תפעיל אותה מחדש.",
+    "pronunciation": "إم هاتوخنا لو عوڤِدِت، تافعيل أوتا مِحادِش۔",
+    "words": [
+      {
+        "w": "מחדש",
+        "m_en": "again",
+        "m_ar": "مجدّدًا"
+      },
+      {
+        "w": "לעבוד",
+        "m_en": "to work",
+        "m_ar": "يعمل"
+      }
+    ],
+    "grammar_en": "\"אם... \" is the standard \"if...\" structure, followed by the result.",
+    "grammar_ar": "«إم...» بنية «إن...» المعتادة، يليها جواب الشرط.",
+    "alternatives": [
+      {
+        "text": "אם זה לא עובד, תפתח מחדש.",
+        "note_en": "\"If it doesn't work, restart it\"",
+        "note_ar": "«إذا لم يعمل أعد فتحه»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 11080,
+    "text": "אני אתקשר מאוחר יותר, אני עכשיו בישיבה.",
+    "translation_ar": "سأتّصل بك لاحقًا، أنا الآن في اجتماع.",
+    "level": "B1",
+    "situation": "phone-calls",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 148,
+    "videoId": null,
+    "transcriptContext": "אני אתקשר מאוחר יותר, אני עכשיו בישיבה.",
+    "pronunciation": "أني إِتكاشِر مِؤوحار يوتِر، أني عاخشاڤ بِيشيڤا۔",
+    "words": [
+      {
+        "w": "להתקשר",
+        "m_en": "to call",
+        "m_ar": "يتّصل"
+      },
+      {
+        "w": "מאוחר יותר",
+        "m_en": "later",
+        "m_ar": "لاحقًا"
+      }
+    ],
+    "grammar_en": "\"אני אתקשר\" is the future \"I will call\".",
+    "grammar_ar": "«أني إِتكاشِر» مستقبل: «سأتّصل».",
+    "alternatives": [
+      {
+        "text": "אחזור אליך עוד מעט.",
+        "note_en": "\"I'll get back to you shortly\" (common alternative)",
+        "note_ar": "«سأعاود الاتّصال بك بعد قليل» (بديل شائع)"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 11081,
+    "text": "אם ירד גשם מחר, נבטל את הטיול.",
+    "translation_ar": "إذا أمطرت غدًا فسنلغي الرحلة.",
+    "level": "B1",
+    "situation": "weather",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 165,
+    "videoId": null,
+    "transcriptContext": "אם ירד גשם מחר, נבטל את הטיול.",
+    "pronunciation": "إم يوريد غِشِم ماحار، نِڤاطِل إِت هاطيول۔",
+    "words": [
+      {
+        "w": "לבטל",
+        "m_en": "to cancel",
+        "m_ar": "يلغي"
+      },
+      {
+        "w": "טיול",
+        "m_en": "outing",
+        "m_ar": "رحلة"
+      }
+    ],
+    "grammar_en": "\"אם\" + future, then future: a real condition.",
+    "grammar_ar": "«إم» + المستقبل ثم المستقبل: شرط واقعي.",
+    "alternatives": [
+      {
+        "text": "אם מזג האוויר יהיה גרוע, לא נצא לטיול.",
+        "note_en": "\"If the weather is bad, we won't go on the outing\"",
+        "note_ar": "«إن كان الجوّ سيّئًا فلن نذهب في الرحلة»"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 11082,
+    "text": "עד איזו שעה צריך לפנות את החדר?",
+    "translation_ar": "في أيّ ساعة يجب إخلاء الغرفة؟",
+    "level": "B1",
+    "situation": "hotel",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 182,
+    "videoId": null,
+    "transcriptContext": "עד איזו שעה צריך לפנות את החדר?",
+    "pronunciation": "عاد إيزو شاآ تساريخ لِفانوت إِت هاحِدِر؟",
+    "words": [
+      {
+        "w": "חדר",
+        "m_en": "room",
+        "m_ar": "غرفة"
+      },
+      {
+        "w": "לפנות",
+        "m_en": "to vacate",
+        "m_ar": "يُخلي"
+      }
+    ],
+    "grammar_en": "\"צריך\" + infinitive expresses obligation (impersonal here).",
+    "grammar_ar": "تعبّر «تساريخ» + المصدر عن الإلزام (غير شخصيّة هنا).",
+    "alternatives": [
+      {
+        "text": "מה שעת ה-checkout?",
+        "note_en": "\"Check-out\" is a common English borrowing",
+        "note_ar": "«check-out» كلمة إنجليزية مستعارة شائعة"
+      }
+    ],
+    "similar": [],
+    "difficulty": 4
+  },
+  {
+    "id": 11083,
+    "text": "יש לי הרגל ללכת לישון מוקדם כי אני קם מוקדם.",
+    "translation_ar": "اعتدتُ النوم مبكرًا لأنني أستيقظ مبكرًا.",
+    "level": "B1",
+    "situation": "daily",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 199,
+    "videoId": null,
+    "transcriptContext": "יש לי הרגל ללכת לישון מוקדם כי אני קם מוקדם.",
+    "pronunciation": "يِش لي هِرغِل لالِخِت لِيشون موكدام كي أني كام موكدام۔",
+    "words": [
+      {
+        "w": "הרגל",
+        "m_en": "habit",
+        "m_ar": "عادة"
+      },
+      {
+        "w": "מוקדם",
+        "m_en": "early",
+        "m_ar": "مبكرًا"
+      }
+    ],
+    "grammar_en": "\"יש לי\" + noun means \"I have\" (literally \"there is to me\").",
+    "grammar_ar": "«يِش لي» + اسم = «لديّ» (حرفيًّا: «يوجد لي»).",
+    "alternatives": [
+      {
+        "text": "בדרך כלל אני הולך לישון מוקדם.",
+        "note_en": "I usually go to sleep early",
+        "note_ar": "عادةً أنام مبكرًا"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 11084,
+    "text": "אני רוצה להחזיר את המכנסיים האלה, הם לא מתאימים לי.",
+    "translation_ar": "أريد إرجاع هذا البنطال، فهو لا يناسبني.",
+    "level": "B1",
+    "situation": "shopping",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 216,
+    "videoId": null,
+    "transcriptContext": "אני רוצה להחזיר את המכנסיים האלה, הם לא מתאימים לי.",
+    "pronunciation": "أني روتسِه لِهاحزير إِت هامِخناسايم هاإلِه، هِم لو ميتئيميم لي۔",
+    "words": [
+      {
+        "w": "להחזיר",
+        "m_en": "to return",
+        "m_ar": "يُرجع"
+      },
+      {
+        "w": "מכנסיים",
+        "m_en": "trousers",
+        "m_ar": "بنطال"
+      }
+    ],
+    "grammar_en": "\"מתאים\" means \"to fit / suit\"; \"מכנסיים\" is a plural-only noun.",
+    "grammar_ar": "تعني «ميتئيم» «يناسب»؛ و«مِخناسايم» اسم جمع فقط.",
+    "alternatives": [
+      {
+        "text": "המכנסיים האלה גדולים עליי.",
+        "note_en": "These trousers are too big for me",
+        "note_ar": "هذا البنطال واسع عليّ"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 11085,
+    "text": "אתה יכול לשלוח לי את הדוח לפני יום שישי?",
+    "translation_ar": "هل يمكنك أن ترسل لي التقرير قبل الجمعة؟",
+    "level": "B1",
+    "situation": "workplace",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 233,
+    "videoId": null,
+    "transcriptContext": "אתה יכול לשלוח לי את הדוח לפני יום שישי?",
+    "pronunciation": "أتا ياخول لِشلوآح لي إِت هادوآح لِفني يوم شيشي؟",
+    "words": [
+      {
+        "w": "דוח",
+        "m_en": "report",
+        "m_ar": "تقرير"
+      },
+      {
+        "w": "לשלוח",
+        "m_en": "to send",
+        "m_ar": "يرسل"
+      }
+    ],
+    "grammar_en": "\"לפני\" + noun means \"before\".",
+    "grammar_ar": "«لِفني» + اسم = «قبل».",
+    "alternatives": [
+      {
+        "text": "תשלח לי את הדוח עד יום שישי.",
+        "note_en": "Please send the report by Friday",
+        "note_ar": "أرسل التقرير بحلول الجمعة من فضلك"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 11086,
+    "text": "כל שנה אנחנו חוגגים את ראש השנה עם השכנים.",
+    "translation_ar": "نحتفل كلّ عام برأس السنة مع الجيران.",
+    "level": "B1",
+    "situation": "celebrations",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 10,
+    "videoId": null,
+    "transcriptContext": "כל שנה אנחנו חוגגים את ראש השנה עם השכנים.",
+    "pronunciation": "كول شانا أناحنو حوغِغيم إِت روش هاشانا عيم هاشخِنيم۔",
+    "words": [
+      {
+        "w": "שכן",
+        "m_en": "neighbour",
+        "m_ar": "جار"
+      },
+      {
+        "w": "לחגוג",
+        "m_en": "to celebrate",
+        "m_ar": "يحتفل بـ"
+      }
+    ],
+    "grammar_en": "\"ראש השנה\" is the Jewish New Year, the major autumn holiday.",
+    "grammar_ar": "«روش هاشانا» رأس السنة العبريّة، وهو العيد الخريفي الكبير.",
+    "alternatives": [
+      {
+        "text": "אנחנו תמיד חוגגים את ראש השנה עם השכנים.",
+        "note_en": "Same meaning, reordered",
+        "note_ar": "نفس المعنى بترتيب مختلف"
+      }
+    ],
+    "similar": [],
+    "difficulty": 5
+  },
+  {
+    "id": 11087,
+    "text": "עמדנו בלוחות הזמנים למרות הקשיים.",
+    "translation_ar": "التزمنا بالمواعيد النهائيّة رغم الصعوبات.",
+    "level": "B2",
+    "situation": "workplace",
+    "variety": "HE",
+    "channel": "SentenceGlish Practice",
+    "speaker": "Native speaker (HE)",
+    "timestamp": 27,
+    "videoId": null,
+    "transcriptContext": "עמדנו בלוחות הזמנים למרות הקשיים.",
+    "pronunciation": "عامادنو بِلوحوت هازِمانيم لِمروت هاكشاييم۔",
+    "words": [
+      {
+        "w": "לוח זמנים",
+        "m_en": "schedule, deadline",
+        "m_ar": "جدول زمني"
+      },
+      {
+        "w": "למרות",
+        "m_en": "despite",
+        "m_ar": "رغم"
+      }
+    ],
+    "grammar_en": "\"למרות\" + noun means \"despite\".",
+    "grammar_ar": "«لِمروت» + اسم تعني «رغم».",
+    "alternatives": [
+      {
+        "text": "למרות הקשיים, עמדנו בזמנים.",
+        "note_en": "Despite the difficulties, we met the deadlines",
+        "note_ar": "رغم الصعوبات التزمنا بالمواعيد"
+      }
+    ],
+    "similar": [],
+    "difficulty": 7
+  }
+]
