@@ -781,7 +781,7 @@ const I18N = {
     demoNoVideo:"Demo mode — no licensed video for this sentence yet.",
     demoNoVideoSub:"Connect the YouTube Data API in searchYouTubeSentences() to play real clips here.",
     speechNotSupported:"Speech recognition isn't supported in this browser.",
-    noVoiceForLang:"No Urdu voice is installed on this device, so it may sound off or stay silent. You can add one in your phone/browser's text-to-speech language settings.",
+    noVoiceForLang:"No voice for this language is installed on this device, so it may sound off or stay silent. Try the pronunciation-video button below the sentence instead, or add a voice in your phone/browser's text-to-speech settings.",
     reSearch:"Search again", removeHistory:"Remove", removeFav:"Remove",
     matchLabel:"Match", secBefore:"starts 2–3s before the sentence for context",
     repeatCountLabel:"Repeat", repeatGapLabel:"Gap", timesUnit:"×", secUnit:"s", speedLabel:"Speed",
@@ -827,7 +827,7 @@ const I18N = {
     demoNoVideo:"وضع تجريبي — لا يوجد فيديو مرخّص لهذه الجملة بعد.",
     demoNoVideoSub:"اربط YouTube Data API داخل دالة searchYouTubeSentences() لتشغيل مقاطع حقيقية هنا.",
     speechNotSupported:"التعرف على الصوت غير مدعوم في هذا المتصفح.",
-    noVoiceForLang:"لا يوجد صوت أردو مثبَّت على هذا الجهاز، فقد يبدو النطق غير صحيح أو لا يصدر صوت. يمكنك إضافته من إعدادات النطق الآلي (text-to-speech) في هاتفك أو متصفّحك.",
+    noVoiceForLang:"لا يوجد صوت مثبَّت لهذه اللغة على هذا الجهاز، فقد يبدو النطق غير صحيح أو لا يصدر صوت. جرّب زرّ فيديو النطق أسفل الجملة بدلًا من ذلك، أو أضِف صوتًا من إعدادات النطق الآلي (text-to-speech) في هاتفك أو متصفّحك.",
     reSearch:"ابحث مرة أخرى", removeHistory:"حذف", removeFav:"حذف",
     matchLabel:"تطابق", secBefore:"يبدأ قبل الجملة بـ ٢-٣ ثوانٍ ليعطيك السياق",
     repeatCountLabel:"التكرار", repeatGapLabel:"الفاصل الزمني", timesUnit:"مرة", secUnit:"ث", speedLabel:"السرعة",
@@ -2101,7 +2101,7 @@ function renderVarietyPills(){
     hi: [['all', t('allVarieties'),'🌍'],['HI','भारत','🇮🇳']],
     pt: [['all', t('allVarieties'),'🌍'],['PT','Brasil','🇧🇷']],
     fa: [['all', t('allVarieties'),'🌍'],['FA','ایران','🇮🇷']],
-    he: [['all', t('allVarieties'),'🌍'],['HE','ישראל','🇮🇱']],
+    he: [['all', t('allVarieties'),'🌍']],
     en: [['all', t('allVarieties'),'🌍'],['US', t('us'),'🇺🇸'],['GB', t('gb'),'🇬🇧'],['AU', t('au'),'🇦🇺'],['CA', t('ca'),'🇨🇦']]
   };
   const varieties = VARIETY_SETS[State.learnLang] || VARIETY_SETS.en;
@@ -2468,11 +2468,13 @@ function switchMode(mode){
 /* SPEECH — TTS (listen) + Speech Recognition (practice/speaking)          */
 /* ---------------------------------------------------------------------- */
 function warnIfNoVoice(langCode){
-  if(State.learnLang !== 'ur') return; // targeted: Urdu voices are rarely preinstalled
+  const TARGETED = ['ur','fa','he']; // scripts/languages whose voices are rarely preinstalled
+  if(!TARGETED.includes(State.learnLang)) return;
   if(!window.speechSynthesis.getVoices) return;
+  const prefix = State.learnLang;
   const check = () => {
     const voices = window.speechSynthesis.getVoices();
-    if(voices.length && !voices.some(v => v.lang && v.lang.toLowerCase().startsWith('ur'))){
+    if(voices.length && !voices.some(v => v.lang && v.lang.toLowerCase().startsWith(prefix))){
       showToast(t('noVoiceForLang'));
     }
   };
