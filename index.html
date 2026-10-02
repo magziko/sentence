@@ -1796,7 +1796,7 @@ function targetLangCode(){
    language (subdomain, e.g. ar./de.) and the language being learned
    (path, e.g. /german — English lives at the root path). */
 const YG_UI_PREFIX = { en:'', ar:'ar.', de:'de.', fr:'fr.' };
-const YG_LEARN_PATH = { de:'german', fr:'french', ru:'russian', it:'italian', es:'spanish' };
+const YG_LEARN_PATH = { de:'german', fr:'french', ru:'russian', it:'italian', es:'spanish', pt:'portuguese', ur:'hindi', hi:'hindi', fa:'persian', he:'hebrew' };
 function youglishHomeUrl(){
   const prefix = YG_UI_PREFIX[State.lang] || '';
   const path = YG_LEARN_PATH[State.learnLang] || '';
@@ -2093,13 +2093,35 @@ const LEARN_PLACEHOLDERS = {
   fr: "Je voulais vous informer que nous avons un problème avec le système.",
   ru: "Я хотел сообщить вам, что у нас проблема с системой.",
   it: "Volevo informarla che abbiamo un problema con il sistema.",
-  es: "Quería informarle de que tenemos un problema con el sistema."
+  es: "Quería informarle de que tenemos un problema con el sistema.",
+  pt: "Queria avisá-lo de que temos um problema com o sistema.",
+  ur: "میں آپ کو بتانا چاہتا تھا کہ ہمارے سسٹم میں ایک مسئلہ ہے۔",
+  hi: "मैं आपको बताना चाहता था कि हमारे सिस्टम में एक समस्या है।",
+  fa: "می‌خواستم به شما بگویم که سیستم ما مشکل دارد.",
+  he: "רציתי להודיע לך שיש לנו בעיה במערכת."
 };
 
+/* Languages without a hand-written example list (PT/UR/HI/FA/HE) show a few
+   short sentences taken from their own dataset, spread across situations,
+   instead of falling back to English. */
+function derivedExamples(){
+  const pool = DEMO_SENTENCES.filter(s=>{ const n = String(s.text||'').trim().split(/\s+/).length; return n>=4 && n<=10; });
+  const step = Math.max(1, Math.floor(pool.length / 10));
+  const out = [], seen = new Set();
+  for(let i=0; i<pool.length && out.length<5; i+=step){
+    const key = pool[i].situation || '';
+    if(seen.has(key)) continue;
+    seen.add(key); out.push(pool[i].text);
+  }
+  for(let i=0; i<pool.length && out.length<5; i++){
+    if(!out.includes(pool[i].text)) out.push(pool[i].text);
+  }
+  return out;
+}
 function renderExamples(){
   const box = document.getElementById('exampleChips');
   const EX_LISTS = { en: EXAMPLES_EN, de: EXAMPLES_DE, fr: EXAMPLES_FR, ru: EXAMPLES_RU, it: EXAMPLES_IT, es: EXAMPLES_ES };
-  const list = EX_LISTS[State.learnLang] || EXAMPLES_EN;
+  const list = EX_LISTS[State.learnLang] || derivedExamples();
   box.innerHTML = list.map(ex=>`<button type="button" class="chip" data-ex="${escapeHtml(ex)}">${escapeHtml(ex)}</button>`).join('');
   box.querySelectorAll('.chip').forEach(btn=>{
     btn.addEventListener('click', ()=>{
@@ -2795,10 +2817,10 @@ function otherLearnLang(l){ return LEARN_CYCLE[(LEARN_CYCLE.indexOf(l)+1)%LEARN_
    language — used to keep the hero title and footer tag in sync with
    State.learnLang instead of always saying "English". */
 const LEARN_LANG_NAME = {
-  en: { en:'English', de:'German', fr:'French', ru:'Russian', it:'Italian', es:'Spanish' },
-  ar: { en:'الإنجليزية', de:'الألمانية', fr:'الفرنسية', ru:'الروسية', it:'الإيطالية', es:'الإسبانية' },
-  de: { en:'Englisch', de:'Deutsch', fr:'Französisch', ru:'Russisch', it:'Italienisch', es:'Spanisch' },
-  fr: { en:"l'anglais", de:"l'allemand", fr:'le français', ru:'le russe', it:"l'italien", es:"l'espagnol" }
+  en: { en:'English', de:'German', fr:'French', ru:'Russian', it:'Italian', es:'Spanish', pt:'Portuguese', ur:'Urdu', hi:'Hindi', fa:'Persian', he:'Hebrew' },
+  ar: { en:'الإنجليزية', de:'الألمانية', fr:'الفرنسية', ru:'الروسية', it:'الإيطالية', es:'الإسبانية', pt:'البرتغالية', ur:'الأردية', hi:'الهندية', fa:'الفارسية', he:'العبرية' },
+  de: { en:'Englisch', de:'Deutsch', fr:'Französisch', ru:'Russisch', it:'Italienisch', es:'Spanisch', pt:'Portugiesisch', ur:'Urdu', hi:'Hindi', fa:'Persisch', he:'Hebräisch' },
+  fr: { en:"l'anglais", de:"l'allemand", fr:'le français', ru:'le russe', it:"l'italien", es:"l'espagnol", pt:'le portugais', ur:"l'ourdou", hi:"l'hindi", fa:'le persan', he:"l'hébreu" }
 };
 function heroTitleText(){
   const learnName = (LEARN_LANG_NAME[State.lang] || LEARN_LANG_NAME.en)[State.learnLang];
