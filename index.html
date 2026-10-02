@@ -450,12 +450,119 @@ footer .wrap{display:flex; flex-wrap:wrap; gap:10px; justify-content:space-betwe
 
 .quiz-card{background:linear-gradient(135deg,var(--warm-soft),var(--surface) 68%);border:1px solid var(--border);border-radius:var(--radius-l);padding:24px 26px;box-shadow:var(--shadow)}
 .quiz-toolbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:18px}.quiz-toolbar label{font-size:.82rem;color:var(--ink-soft);font-weight:600}.quiz-select{border:1px solid var(--border);background:var(--surface);color:var(--ink);border-radius:var(--radius-s);padding:8px 11px;font:inherit;font-size:.85rem}.quiz-progress{display:flex;justify-content:space-between;gap:12px;color:var(--ink-faint);font-size:.8rem;margin-bottom:10px}.quiz-question{font-family:var(--font-display);font-size:1.25rem;line-height:1.4;margin:0 0 16px}.quiz-prompt{color:var(--ink-soft);font-size:.88rem;margin:0 0 14px}.quiz-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.quiz-option{border:1px solid var(--border);background:var(--surface);color:var(--ink);border-radius:var(--radius-s);padding:11px 13px;text-align:start;font:inherit;font-size:.88rem;line-height:1.4}.quiz-option.correct{border-color:var(--success);background:var(--success-soft);color:var(--success);font-weight:600}.quiz-option.wrong{border-color:var(--danger);background:var(--danger-soft);color:var(--danger)}.quiz-feedback{min-height:1.4em;margin-top:13px;font-size:.88rem;font-weight:600}.quiz-feedback.good{color:var(--success)}.quiz-feedback.bad{color:var(--danger)}.quiz-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}.quiz-result{text-align:center;padding:18px 8px}.quiz-result h3{margin:0 0 7px;font-size:1.35rem}.quiz-result p{color:var(--ink-soft);margin:0 0 16px}@media (max-width:640px){.quiz-options{grid-template-columns:1fr}.quiz-card{padding:20px 18px}}
+/* ============================================================
+   RESPONSIVE FIXES (mobile / small screens)
+   ============================================================ */
+
+/* -- Base fixes (all sizes) -- */
+/* .wrap's horizontal padding was being overridden by .hero, and section's
+   vertical padding was being overridden by .wrap: restore both. */
+main > section.wrap{padding-top:36px; padding-bottom:36px;}
+main > section.hero{padding:56px 20px 28px;}
+.logo{direction:ltr; unicode-bidi:isolate;} /* keep "SentenceGlish." intact in RTL */
+/* The search box clipped its own suggestions dropdown (overflow:hidden):
+   let it overflow and round the inner corners instead. */
+.search-box{overflow:visible;}
+.search-box input[type="text"]{border-start-start-radius:calc(var(--radius-m) - 1.5px); border-end-start-radius:calc(var(--radius-m) - 1.5px);}
+.search-box button.search-submit{border-start-end-radius:calc(var(--radius-m) - 1.5px); border-end-end-radius:calc(var(--radius-m) - 1.5px);}
+.hero h1{line-height:1.25;}
+html[dir="rtl"] .hero h1{line-height:1.45;}
+.section-head{flex-wrap:wrap;}
+.mode-panel .detail-block{margin-top:18px;} /* spacing between detail sections */
+.section-head h2{line-height:1.3;}
+#exampleChips{display:flex; flex-wrap:wrap; gap:8px; justify-content:center; width:100%;}
+.cards-grid{grid-template-columns:repeat(auto-fill, minmax(min(280px,100%),1fr));}
+.sotd-text{min-width:min(240px,100%);}
+.similar-row .txt, .list-row .txt{min-width:min(200px,100%); overflow-wrap:anywhere;}
+.similar-row .row-actions, .list-row .row-actions{flex-wrap:wrap;}
+.card-sentence, .transcript-box, .sotd-sentence{overflow-wrap:anywhere;}
+
 @media (max-width:640px){
-  .hero{padding:36px 0 20px;}
+  /* Header: two tidy rows instead of overflowing the screen.
+     Row 1 = logo + theme button, row 2 = the two language selectors. */
+  header.site-header{position:relative;}
+  .header-inner{
+    display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr);
+    gap:10px; padding:10px 14px; align-items:center;
+  }
+  .header-controls{display:contents;}
+  .logo{grid-row:1; grid-column:1; font-size:1.2rem; min-width:0; justify-self:start;}
+  #themeToggle{grid-row:1; grid-column:2; justify-self:end; width:42px; height:42px;}
+  .lang-field{grid-row:2; min-width:0; gap:4px;}
+  .lang-field select.lang-toggle{flex:1; min-width:0; width:100%; height:42px; font-size:16px; text-overflow:ellipsis;}
+  select.lang-toggle{padding-inline:10px 28px;}
+  [dir="rtl"] select.lang-toggle{padding-inline:10px 28px;}
+
+  /* Layout */
+  main > section.wrap{padding-top:24px; padding-bottom:24px;}
+  main > section.hero{padding:28px 16px 16px;}
+  .wrap{padding-inline:16px;}
+  .hero p.tagline{font-size:.98rem; margin-bottom:22px;}
   .search-box{flex-direction:column;}
-  .search-box button.search-submit{padding:13px; }
-  .header-controls{gap:6px;}
-  .panel-body{padding:16px;}
+  .search-box input[type="text"]{padding:14px 16px; font-size:16px; border-radius:calc(var(--radius-m) - 1.5px) calc(var(--radius-m) - 1.5px) 0 0;}
+  .search-box button.search-submit{padding:13px; border-radius:0 0 calc(var(--radius-m) - 1.5px) calc(var(--radius-m) - 1.5px);}
+  .suggestions{left:0; right:0;}
+  .section-head{gap:4px 12px;}
+  .section-head h2{font-size:1.15rem;}
+
+  /* Inputs: 16px stops iOS from zooming the page on focus */
+  .quiz-select, .listen-input, .audio-repeat-field select{font-size:16px;}
+
+  /* Comfortable tap targets */
+  .pill{padding:7px 13px; font-size:.82rem;}
+  .chip{padding:8px 14px;}
+  .btn-sm{padding:8px 12px;}
+  .situation-list button{padding:8px 0;}
+
+  /* Cards */
+  .sotd-card{padding:20px 18px; gap:16px;}
+  .sotd-sentence{font-size:1.25rem;}
+  .sotd-actions{width:100%;}
+  .situation-card{padding:16px;}
+  .card-body{padding:12px 14px 14px;}
+  .similar-row{padding:12px;}
+  .youglish-panel{padding:12px;}
+  .youglish-mount{min-height:260px;}
+
+  /* Detail panel: bottom sheet that scrolls inside itself */
+  .overlay{padding:0; align-items:flex-end; overflow:hidden;}
+  .panel{
+    max-width:none; border-radius:var(--radius-l) var(--radius-l) 0 0;
+    max-height:94vh; max-height:94dvh; display:flex; flex-direction:column;
+    animation:panelUp .22s ease;
+  }
+  @keyframes panelUp{from{transform:translateY(24px); opacity:.6;} to{transform:translateY(0); opacity:1;}}
+  .panel-header{padding:14px 16px; flex:none;}
+  .panel-close{width:40px; height:40px;}
+  .panel-body{
+    padding:16px 16px calc(20px + env(safe-area-inset-bottom, 0px)); gap:18px;
+    max-height:none; flex:1; min-height:0; overflow-y:auto; overscroll-behavior:contain;
+    -webkit-overflow-scrolling:touch;
+  }
+  .mode-tabs{gap:4px;}
+  .mode-tab{flex:1; padding:11px 4px; text-align:center;}
+  .practice-sentence{font-size:1.2rem;}
+  .panel-footer-actions .btn{flex:1 1 auto; justify-content:center;}
+  .audio-stage{padding:14px;}
+
+  /* Toast clear of the home bar and never wider than the screen */
+  .toast{
+    bottom:calc(18px + env(safe-area-inset-bottom, 0px)); max-width:calc(100vw - 32px);
+    white-space:normal; text-align:center; border-radius:16px;
+  }
+
+  footer .wrap{flex-direction:column; align-items:flex-start;}
+}
+
+/* Very small phones (≤ 360px) */
+@media (max-width:360px){
+  .logo{font-size:1.1rem;}
+  .header-inner{padding:8px 10px; gap:8px;}
+  .wrap{padding-inline:12px;}
+  main > section.hero{padding-inline:12px;}
+  .sotd-card{padding:16px 14px;}
+  .quiz-card{padding:16px 14px;}
+  .lang-cap-ico{display:none;}
 }
 @media (prefers-reduced-motion: reduce){
   *{animation-duration:.001s !important; transition-duration:.001s !important;}
