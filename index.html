@@ -11,6 +11,13 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="SentenceGlish – Learn English from Real Sentences">
 <meta name="twitter:description" content="Learn English naturally by listening to real people use complete sentences in real conversations.">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#FAF8F4">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="SentenceGlish">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%92%AC%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -450,6 +457,10 @@ footer .wrap{display:flex; flex-wrap:wrap; gap:10px; justify-content:space-betwe
 
 .quiz-card{background:linear-gradient(135deg,var(--warm-soft),var(--surface) 68%);border:1px solid var(--border);border-radius:var(--radius-l);padding:24px 26px;box-shadow:var(--shadow)}
 .quiz-toolbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:18px}.quiz-toolbar label{font-size:.82rem;color:var(--ink-soft);font-weight:600}.quiz-select{border:1px solid var(--border);background:var(--surface);color:var(--ink);border-radius:var(--radius-s);padding:8px 11px;font:inherit;font-size:.85rem}.quiz-progress{display:flex;justify-content:space-between;gap:12px;color:var(--ink-faint);font-size:.8rem;margin-bottom:10px}.quiz-question{font-family:var(--font-display);font-size:1.25rem;line-height:1.4;margin:0 0 16px}.quiz-prompt{color:var(--ink-soft);font-size:.88rem;margin:0 0 14px}.quiz-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.quiz-option{border:1px solid var(--border);background:var(--surface);color:var(--ink);border-radius:var(--radius-s);padding:11px 13px;text-align:start;font:inherit;font-size:.88rem;line-height:1.4}.quiz-option.correct{border-color:var(--success);background:var(--success-soft);color:var(--success);font-weight:600}.quiz-option.wrong{border-color:var(--danger);background:var(--danger-soft);color:var(--danger)}.quiz-feedback{min-height:1.4em;margin-top:13px;font-size:.88rem;font-weight:600}.quiz-feedback.good{color:var(--success)}.quiz-feedback.bad{color:var(--danger)}.quiz-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}.quiz-result{text-align:center;padding:18px 8px}.quiz-result h3{margin:0 0 7px;font-size:1.35rem}.quiz-result p{color:var(--ink-soft);margin:0 0 16px}@media (max-width:640px){.quiz-options{grid-template-columns:1fr}.quiz-card{padding:20px 18px}}
+/* Shown briefly while a language's sentences are being fetched */
+body.loading-lang{cursor:progress;}
+body.loading-lang main{opacity:.55; pointer-events:none; transition:opacity .2s ease .15s;}
+
 /* ============================================================
    RESPONSIVE FIXES (mobile / small screens)
    ============================================================ */
@@ -1171,55 +1182,39 @@ function makeSentence(id, text, translation_ar, level, situation, variety, meani
 const ADVANCED_SITUATION_ITEMS = {"cooking":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the recipe."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the recipe might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the recipe would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the recipe must acknowledge the wider implications involved."}],"sports":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the training schedule."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the training schedule might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the training schedule would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the training schedule must acknowledge the wider implications involved."}],"environment":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the recycling program."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the recycling program might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the recycling program would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the recycling program must acknowledge the wider implications involved."}],"social-media":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the new post."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the new post might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the new post would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the new post must acknowledge the wider implications involved."}],"job-interview":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the interview process."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the interview process might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the interview process would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the interview process must acknowledge the wider implications involved."}],"meetings":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the proposal."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the proposal might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the proposal would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the proposal must acknowledge the wider implications involved."}],"support":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the customer request."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the customer request might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the customer request would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the customer request must acknowledge the wider implications involved."}],"technical-support":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the system issue."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the system issue might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the system issue would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the system issue must acknowledge the wider implications involved."}],"customer-service":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the service response."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the service response might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the service response would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the service response must acknowledge the wider implications involved."}],"daily":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the daily routine."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the daily routine might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the daily routine would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the daily routine must acknowledge the wider implications involved."}],"travel":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the travel itinerary."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the travel itinerary might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the travel itinerary would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the travel itinerary must acknowledge the wider implications involved."}],"restaurant":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the menu options."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the menu options might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the menu options would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the menu options must acknowledge the wider implications involved."}],"health":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the reported symptoms."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the reported symptoms might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the reported symptoms would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the reported symptoms must acknowledge the wider implications involved."}],"education":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the learning objectives."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the learning objectives might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the learning objectives would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the learning objectives must acknowledge the wider implications involved."}],"home":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the maintenance work."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the maintenance work might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the maintenance work would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the maintenance work must acknowledge the wider implications involved."}],"social":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the difference of opinion."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the difference of opinion might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the difference of opinion would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the difference of opinion must acknowledge the wider implications involved."}],"shopping":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the product quality."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the product quality might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the product quality would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the product quality must acknowledge the wider implications involved."}],"banking":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the account activity."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the account activity might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the account activity would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the account activity must acknowledge the wider implications involved."}],"workplace":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the project timeline."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the project timeline might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the project timeline would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the project timeline must acknowledge the wider implications involved."}],"technology":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the software update."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the software update might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the software update would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the software update must acknowledge the wider implications involved."}],"transport":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the revised timetable."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the revised timetable might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the revised timetable would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the revised timetable must acknowledge the wider implications involved."}],"events":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the event arrangements."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the event arrangements might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the event arrangements would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the event arrangements must acknowledge the wider implications involved."}],"appointments":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the consultation time."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the consultation time might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the consultation time would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the consultation time must acknowledge the wider implications involved."}],"weather":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the weather conditions."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the weather conditions might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the weather conditions would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the weather conditions must acknowledge the wider implications involved."}],"phone-calls":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the follow-up call."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the follow-up call might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the follow-up call would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the follow-up call must acknowledge the wider implications involved."}],"family":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the family plans."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the family plans might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the family plans would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the family plans must acknowledge the wider implications involved."}],"community":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the local initiative."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the local initiative might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the local initiative would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the local initiative must acknowledge the wider implications involved."}],"leisure":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the weekend activity."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the weekend activity might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the weekend activity would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the weekend activity must acknowledge the wider implications involved."}],"emergency":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the emergency procedure."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the emergency procedure might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the emergency procedure would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the emergency procedure must acknowledge the wider implications involved."}],"customer-help":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the proposed solution."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the proposed solution might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the proposed solution would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the proposed solution must acknowledge the wider implications involved."}],"career":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the professional opportunity."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the professional opportunity might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the professional opportunity would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the professional opportunity must acknowledge the wider implications involved."}],"returns":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the replacement request."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the replacement request might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the replacement request would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the replacement request must acknowledge the wider implications involved."}],"directions":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the suggested route."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the suggested route might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the suggested route would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the suggested route must acknowledge the wider implications involved."}],"celebrations":[{"en":"B1 · Asking about a topic in a clear, polite way.","ar":"B1 · Asking about a topic in a clear, polite way.","q":"I wanted to ask about the planned celebration."},{"en":"B2 · Considering a possible effect before making a decision.","ar":"B2 · Considering a possible effect before making a decision.","q":"We should consider how the planned celebration might affect our plans."},{"en":"C1 · Suggesting a deeper review before deciding.","ar":"C1 · Suggesting a deeper review before deciding.","q":"A closer look at the planned celebration would help us make a more informed decision."},{"en":"C2 · Making a formal point about broader consequences.","ar":"C2 · Making a formal point about broader consequences.","q":"Any discussion of the planned celebration must acknowledge the wider implications involved."}]};
 
 let DEMO_SENTENCES = [];
-let DEMO_SENTENCES_EN = [];
-let DEMO_SENTENCES_DE = [];
-let DEMO_SENTENCES_FR = [];
-let DEMO_SENTENCES_RU = [];
-let DEMO_SENTENCES_IT = [];
-let DEMO_SENTENCES_ES = [];
-let DEMO_SENTENCES_UR = [];
-let DEMO_SENTENCES_HI = [];
-let DEMO_SENTENCES_PT = [];
-let DEMO_SENTENCES_FA = [];
-let DEMO_SENTENCES_HE = [];
-async function fetchJson(url){
-  try{
-    const res = await fetch(url);
-    if(!res.ok) throw new Error('HTTP ' + res.status);
-    return await res.json();
-  }catch(err){
-    console.error('Failed to load ' + url + ' — falling back to an empty list.', err);
-    return [];
+/* Sentence sets are fetched on demand (only the language being learned) and
+   cached here, instead of downloading all 11 files at startup. */
+const SENTENCE_FILES = {
+  en:'sentences.json', de:'sentences_de.json', fr:'sentences_fr.json', ru:'sentences_ru.json',
+  it:'sentences_it.json', es:'sentences_es.json', ur:'sentences_ur.json', hi:'sentences_hi.json',
+  pt:'sentences_pt.json', fa:'sentences_fa.json', he:'sentences_he.json'
+};
+const SENTENCE_CACHE = {};
+const SENTENCE_LOADING = {};
+function fetchLang(lang){
+  const key = SENTENCE_FILES[lang] ? lang : 'en';
+  if(SENTENCE_CACHE[key]) return Promise.resolve(SENTENCE_CACHE[key]);
+  if(!SENTENCE_LOADING[key]){
+    SENTENCE_LOADING[key] = fetch(SENTENCE_FILES[key])
+      .then(res=>{ if(!res.ok) throw new Error('HTTP ' + res.status); return res.json(); })
+      .then(data=>{ SENTENCE_CACHE[key] = data; return data; })
+      .finally(()=>{ delete SENTENCE_LOADING[key]; });
   }
+  return SENTENCE_LOADING[key];
+}
+/* German situation prompts are looked up through the English set (see
+   situationQuery), so English is fetched together with German. */
+function ensureLang(lang){
+  const jobs = [fetchLang(lang)];
+  if(lang==='de') jobs.push(fetchLang('en'));
+  return Promise.all(jobs);
+}
+function isLangLoaded(lang){
+  const key = SENTENCE_FILES[lang] ? lang : 'en';
+  return !!SENTENCE_CACHE[key] && (lang!=='de' || !!SENTENCE_CACHE.en);
 }
 function datasetForLearnLang(lang){
-  if(lang==='de') return DEMO_SENTENCES_DE;
-  if(lang==='fr') return DEMO_SENTENCES_FR;
-  if(lang==='ru') return DEMO_SENTENCES_RU;
-  if(lang==='it') return DEMO_SENTENCES_IT;
-  if(lang==='es') return DEMO_SENTENCES_ES;
-  if(lang==='ur') return DEMO_SENTENCES_UR;
-  if(lang==='hi') return DEMO_SENTENCES_HI;
-  if(lang==='pt') return DEMO_SENTENCES_PT;
-  if(lang==='fa') return DEMO_SENTENCES_FA;
-  if(lang==='he') return DEMO_SENTENCES_HE;
-  return DEMO_SENTENCES_EN;
-}
-async function loadSentences(){
-  [DEMO_SENTENCES_EN, DEMO_SENTENCES_DE, DEMO_SENTENCES_FR, DEMO_SENTENCES_RU, DEMO_SENTENCES_IT, DEMO_SENTENCES_ES, DEMO_SENTENCES_UR, DEMO_SENTENCES_HI, DEMO_SENTENCES_PT, DEMO_SENTENCES_FA, DEMO_SENTENCES_HE] = await Promise.all([
-    fetchJson('sentences.json'),
-    fetchJson('sentences_de.json'),
-    fetchJson('sentences_fr.json'),
-    fetchJson('sentences_ru.json'),
-    fetchJson('sentences_it.json'),
-    fetchJson('sentences_es.json'),
-    fetchJson('sentences_ur.json'),
-    fetchJson('sentences_hi.json'),
-    fetchJson('sentences_pt.json'),
-    fetchJson('sentences_fa.json'),
-    fetchJson('sentences_he.json')
-  ]);
-  DEMO_SENTENCES = datasetForLearnLang(State.learnLang);
+  return SENTENCE_CACHE[SENTENCE_FILES[lang] ? lang : 'en'] || [];
 }
 /* Looks up the German search text for a situation prompt. Falls back to the
    English prompt when this sentence hasn't been translated into the German
@@ -1227,7 +1222,7 @@ async function loadSentences(){
    sentences_de.json / sentences_fr.json). */
 function situationQuery(item){
   if(State.learnLang!=='de') return item.q;
-  const match = DEMO_SENTENCES_EN.find(s=>s.text===item.q);
+  const match = datasetForLearnLang('en').find(s=>s.text===item.q);
   return (match && match.translation_de) ? match.translation_de : item.q;
 }
 
@@ -1846,12 +1841,19 @@ function initYouglishWidget(){
     if(State.currentQuery) fetchYouglish(State.currentQuery);
   });
 }
+function offlineVideoText(){
+  if(State.lang==='ar') return 'لا يوجد اتصال بالإنترنت — فيديوهات النطق تحتاج اتصالًا. باقي التطبيق يعمل بدونه.';
+  if(State.lang==='de') return 'Keine Internetverbindung — die Videos brauchen eine Verbindung. Der Rest der App funktioniert offline.';
+  if(State.lang==='fr') return "Pas de connexion — les vidéos nécessitent Internet. Le reste de l'application fonctionne hors ligne.";
+  return 'You are offline — pronunciation videos need a connection. The rest of the app still works.';
+}
 function fetchYouglish(query){
   const noteEl = document.getElementById('youglishNote');
   const YG_LANG = { de:'german', fr:'french', ru:'russian', it:'italian', es:'spanish', ur:'hindi', hi:'hindi', pt:'portuguese', fa:'persian', he:'hebrew' };
   noteEl.textContent = (State.learnLang==='ur')
     ? (State.lang==='ar' ? 'اللغة الأردية غير متوفّرة على منصّة النطق، فتُعرض فيديوهات باللغة الهندية (النطق قريب جدًّا من الأردية للكلمات المشتركة).' : "Urdu isn't available on the pronunciation service, so Hindi videos are shown instead (pronunciation is very close for shared vocabulary).")
     : '';
+  if(!navigator.onLine){ noteEl.textContent = offlineVideoText(); return; }
   if(!ygWidget){ initYouglishWidget(); return; } // will auto-fetch once ready
   const ygLang = YG_LANG[State.learnLang] || 'english';
   const accent = State.learnLang==='en' ? VARIETY_TO_ACCENT[State.variety] : null;
@@ -2149,6 +2151,11 @@ function pickSentenceOfDay(){
 }
 function renderSotd(){
   const s = pickSentenceOfDay();
+  if(!s){ // dataset failed to load / is empty: leave the card blank instead of breaking the page
+    document.getElementById('sotdSentence').textContent = '';
+    document.getElementById('sotdMeaning').textContent = '';
+    return;
+  }
   document.getElementById('sotdSentence').textContent = s.text;
   document.getElementById('sotdMeaning').textContent = State.lang==='ar' ? s.translation_ar : State.lang==='de' ? (s.translation_de||s.translation_ar) : s.grammar_en;
   document.getElementById('sotdListen').onclick = ()=>speak(s.text);
@@ -2730,6 +2737,8 @@ document.addEventListener('keydown', (e)=>{
 function applyTheme(){
   document.documentElement.setAttribute('data-theme', State.theme);
   document.getElementById('themeToggle').textContent = State.theme==='dark' ? '☀️' : '🌙';
+  const tc = document.querySelector('meta[name="theme-color"]');
+  if(tc) tc.setAttribute('content', State.theme==='dark' ? '#14161B' : '#FAF8F4');
 }
 document.getElementById('themeToggle').addEventListener('click', ()=>{
   State.theme = State.theme==='dark' ? 'light' : 'dark';
@@ -2839,8 +2848,32 @@ function applyLearnLang(){
   renderHistory();
   if(document.getElementById('quizLevel')) startQuiz();
 }
-document.getElementById('learnToggle').addEventListener('change', (e)=>{
-  State.learnLang = e.target.value;
+function langLoadFailText(){
+  if(State.lang==='ar') return 'تعذّر تحميل اللغة، تأكد من الاتصال وحاول مرة أخرى.';
+  if(State.lang==='de') return 'Sprache konnte nicht geladen werden. Bitte Verbindung prüfen.';
+  if(State.lang==='fr') return 'Impossible de charger la langue. Vérifiez la connexion.';
+  return "Couldn't load this language. Check your connection and try again.";
+}
+document.getElementById('learnToggle').addEventListener('change', async (e)=>{
+  const select = e.target;
+  const next = select.value;
+  const prev = State.learnLang;
+  if(!isLangLoaded(next)){
+    document.body.classList.add('loading-lang');
+    select.disabled = true;
+    try{
+      await ensureLang(next);
+    }catch(err){
+      console.error('Failed to load sentences for ' + next, err);
+      select.value = prev;
+      showToast(langLoadFailText());
+      return;
+    }finally{
+      select.disabled = false;
+      document.body.classList.remove('loading-lang');
+    }
+  }
+  State.learnLang = next;
   localStorage.setItem('sg_learn', State.learnLang);
   applyLearnLang();
 });
@@ -2895,7 +2928,27 @@ function init(){
   document.getElementById('searchInput').placeholder = LEARN_PLACEHOLDERS[State.learnLang];
   applyLanguage(); // also renders examples/situations/sotd/pills/favorites/history
 }
-loadSentences().then(init);
+/* PWA: offline support (needs http(s) — service workers don't run from file://) */
+if('serviceWorker' in navigator && /^https?:$/.test(location.protocol)){
+  window.addEventListener('load', ()=>{
+    navigator.serviceWorker.register('sw.js').catch(err=>console.warn('Service worker not registered:', err));
+  });
+}
+function connectionText(online){
+  const T = {
+    ar:['تم استعادة الاتصال','أنت غير متصل — سيستمر عمل الجمل التي فتحتها سابقًا'],
+    de:['Wieder online','Du bist offline — bereits geöffnete Sprachen funktionieren weiter'],
+    fr:['De nouveau en ligne','Vous êtes hors ligne — les langues déjà ouvertes restent disponibles'],
+    en:['Back online','You are offline — languages you have already opened still work']
+  };
+  return (T[State.lang]||T.en)[online?0:1];
+}
+window.addEventListener('offline', ()=>showToast(connectionText(false)));
+window.addEventListener('online',  ()=>showToast(connectionText(true)));
+
+ensureLang(State.learnLang)
+  .catch(err=>{ console.error('Failed to load sentences — starting with an empty list.', err); })
+  .then(()=>{ DEMO_SENTENCES = datasetForLearnLang(State.learnLang); init(); });
 
 })();
 
