@@ -83,6 +83,11 @@ footer{color:var(--mut);font-size:.85rem;text-align:center;margin-top:26px}
 .chips{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0}
 .chip{padding:6px 12px;border:2px solid var(--bd);border-radius:999px;background:var(--card);color:var(--tx);font:inherit;font-size:.9rem;font-weight:700;cursor:pointer}
 .chip.on{background:var(--sun);border-color:var(--sun);color:var(--sunx)}
+.hud{display:flex;gap:10px;flex-wrap:wrap;justify-content:space-between;background:var(--card);border:2px solid var(--bd);border-radius:14px;padding:8px 12px;font-weight:700}
+.pbar{height:10px;background:var(--bd);border-radius:99px;overflow:hidden;margin:8px 0}
+.pbar i{display:block;height:100%;background:var(--sun)}
+.tabs{flex-wrap:wrap}
+.tabs button{flex:1 1 28%}
 </style>
 </head>
 <body>
@@ -126,31 +131,45 @@ mk('جسم الإنسان',[['der','Kopf','راس','🙂'],['die','Hand','إيد
 mk('طقس وطبيعة',[['die','Sonne','شمس','☀️'],['der','Regen','مطر','🌧️'],['der','Schnee','ثلج','❄️'],['der','Mond','قمر','🌙'],['der','Stern','نجمة','⭐'],['das','Wetter','الجو / الطقس','🌤️'],['der','Wind','ريح','💨'],['die','Blume','وردة','🌸'],['der','Berg','جبل','⛰️'],['das','Meer','بحر','🌊']]),
 mk('مواصلات',[['das','Auto','عربية','🚗'],['der','Bus','أتوبيس','🚌'],['der','Zug','قطار','🚆'],['das','Fahrrad','عجلة','🚲'],['das','Flugzeug','طيارة','✈️'],['das','Schiff','سفينة','🚢']]),
 mk('صفات ومشاعر',[['','glücklich','سعيد','😀'],['','traurig','حزين','😢'],['','müde','تعبان','😴'],['','hungrig','جعان','🍕'],['','durstig','عطشان','🥤'],['','schnell','سريع','🐇'],['','langsam','بطيء','🐢'],['','alt','قديم / كبير في السن','👴'],['','neu','جديد','🆕'],['','warm','دافي','🔥'],['','kalt','بارد','🥶']]));
-const T={3:'كلمات إضافية · حيوانات وأكل وملابس وجسم',0:'تمهيد · ابدأ من هنا',1:'الدرس 1 · بيت عيلة فايجل',2:'الدرس 2 · زيارة',all:'كل الكلمات'};
+D[4]=[].concat(
+mk('وجبات وأكل',[['das','Frühstück','فطار','🥣'],['das','Mittagessen','غدا','🍛'],['das','Abendessen','عشا','🍲'],['die','Suppe','شوربة','🍜'],['der','Salat','سلطة','🥗'],['das','Fleisch','لحمة','🥩'],['das','Hähnchen','فراخ','🍗'],['die','Pizza','بيتزا','🍕'],['der','Kuchen','كيكة','🍰'],['die','Schokolade','شوكولاتة','🍫'],['der','Saft','عصير','🧃'],['der','Zucker','سكر','🍬'],['das','Salz','ملح','🧂']]),
+mk('أماكن',[['die','Stadt','مدينة','🏙️'],['der','Park','حديقة عامة','🌳'],['der','Markt','سوق','🛒'],['der','Supermarkt','سوبر ماركت','🏪'],['die','Moschee','مسجد','🕌'],['das','Krankenhaus','مستشفى','🏥'],['die','Bibliothek','مكتبة','📚'],['die','Straße','شارع','🛣️'],['der','Zoo','حديقة حيوان','🦁'],['das','Kino','سينما','🎬'],['das','Restaurant','مطعم','🍽️'],['der','Flughafen','مطار','🛫']]),
+mk('أدوات الفصل',[['die','Klasse','فصل','🏫'],['die','Tafel','سبورة','📋'],['das','Lineal','مسطرة','📏'],['der','Bleistift','قلم رصاص','✏️'],['der','Radiergummi','أستيكة','🧽'],['die','Schere','مقص','✂️'],['das','Papier','ورق','📄'],['die','Pause','فسحة','🔔'],['die','Hausaufgaben','الواجب','📝']]),
+mk('ناس ومهن',[['der','Mann','راجل','👨'],['die','Frau','ست','👩'],['der','Junge','ولد','👦'],['das','Mädchen','بنت','👧'],['der','Arzt','دكتور','👨‍⚕️'],['die','Ärztin','دكتورة','👩‍⚕️'],['der','Polizist','ظابط شرطة','👮'],['der','Koch','طباخ','👨‍🍳'],['der','Fahrer','سواق','🚕'],['der','Bauer','فلاح','🧑‍🌾']]),
+mk('أفعال يومية',[['','schlafen','ينام','😴'],['','kochen','يطبخ','🍳'],['','kaufen','يشتري','🛍️'],['','fahren','يسوق / يركب','🚗'],['','laufen','يجري','🏃'],['','schwimmen','يعوم','🏊'],['','singen','يغني','🎤'],['','tanzen','يرقص','💃'],['','malen','يرسم','🎨'],['','helfen','يساعد','🤝'],['','arbeiten','يشتغل','💼']]),
+mk('عبارات يومية',[['','Gute Nacht','تصبح على خير','🌙'],['','Bis morgen','لحد بكرة','📅'],['','Bis bald','أشوفك قريب','👋'],['','Viel Glück','بالتوفيق','🍀'],['','Herzlichen Glückwunsch','مبروك','🎉'],['','Kein Problem','مفيش مشكلة','👍'],['','Gern geschehen','العفو','😊'],['','Wie spät ist es?','الساعة كام؟','🕒'],['','Wie bitte?','نعم؟ (مسمعتش)','🙉']]));
+const T={4:'يوميات · أكل وأماكن ومدرسة وناس',3:'كلمات إضافية · حيوانات وأكل وملابس وجسم',0:'تمهيد · ابدأ من هنا',1:'الدرس 1 · بيت عيلة فايجل',2:'الدرس 2 · زيارة',all:'كل الكلمات'};
 let lesson='0',kind='',Q=[],qi=0,sc=0,prog={};
 try{prog=JSON.parse(localStorage.getItem('g4')||'{}')}catch(e){}
 const app=document.getElementById('app');
-const words=()=>lesson==='all'?D[0].concat(D[1],D[2],D[3]):D[lesson];
+const words=()=>lesson==='all'?D[0].concat(D[1],D[2],D[3],D[4]):D[lesson];
 const sh=a=>a.map(x=>[Math.random(),x]).sort((p,q)=>p[0]-q[0]).map(x=>x[1]);
 const w2s=w=>(w[0]?w[0]+' ':'')+w[1];
 const dup=w=>words().filter(x=>x[2]===w[2]).length>1;
 function save(){try{localStorage.setItem('g4',JSON.stringify(prog))}catch(e){}}
-function say(t){try{const u=new SpeechSynthesisUtterance(t);u.lang='de-DE';u.rate=.8;speechSynthesis.cancel();speechSynthesis.speak(u)}catch(e){}}
-function tabs(){return '<div class="tabs">'+['0','1','2','3','all'].map(k=>`<button data-a="les" data-v="${k}" class="${lesson===k?'on':''}">${k==='all'?'الكل':k==='0'?'تمهيد':k==='3'?'إضافي':'الدرس '+k}</button>`).join('')+'</div>'}
+let VO=null;
+function pickVoice(){try{const v=speechSynthesis.getVoices().map(x=>[x,x.lang.replace('_','-')]);const f=p=>v.find(x=>p(x[1],x[0]));const r=f((l,x)=>l==='de-DE'&&x.localService)||f(l=>l==='de-DE')||f(l=>l.startsWith('de'));VO=r?r[0]:null}catch(e){}}
+try{pickVoice();speechSynthesis.addEventListener('voiceschanged',()=>{pickVoice();if(document.querySelector('.menu'))home()})}catch(e){}
+function say(t){try{t=t.replace(/…/g,'').replace(/\s+/g,' ').trim();const u=new SpeechSynthesisUtterance(t);u.lang='de-DE';if(VO)u.voice=VO;u.rate=.8;speechSynthesis.cancel();setTimeout(()=>speechSynthesis.speak(u),50)}catch(e){}}
+function tabs(){return '<div class="tabs">'+['0','1','2','3','4','all'].map(k=>`<button data-a="les" data-v="${k}" class="${lesson===k?'on':''}">${k==='all'?'الكل':k==='0'?'تمهيد':k==='3'?'إضافي':k==='4'?'يوميات':'الدرس '+k}</button>`).join('')+'</div>'}
 function home(){
   const st=m=>'⭐'.repeat(prog[lesson+':'+m]||0)||'☆☆☆';
-  app.innerHTML=tabs()+`<h2>${T[lesson]}</h2><div class="menu">${lesson==='0'?'<button data-a="abc" style="grid-column:1/-1"><span style="font-size:2rem">🔡</span>الحروف والأصوات</button>':''}
+  app.innerHTML=tabs()+hud()+`<h2>${T[lesson]}</h2><div class="menu">${lesson==='0'?'<button data-a="abc" style="grid-column:1/-1"><span style="font-size:2rem">🔡</span>الحروف والأصوات</button>':''}
   <button data-a="cards"><span style="font-size:2rem">🃏</span>كروت الكلمات</button>
   <button data-a="quiz" data-v="art"><span style="font-size:2rem">🎯</span>der / das / die<small>${st('art')}</small></button>
   <button data-a="quiz" data-v="tr"><span style="font-size:2rem">🔤</span>اختبر المعنى<small>${st('tr')}</small></button>
   <button data-a="quiz" data-v="let"><span style="font-size:2rem">✏️</span>الحرف الناقص<small>${st('let')}</small></button>
   <button data-a="quiz" data-v="srt"><span style="font-size:2rem">🧩</span>رتّب الجملة<small>${st('srt')}</small></button>
   <button data-a="quiz" data-v="odd"><span style="font-size:2rem">🕵️</span>الكلمة الغريبة<small>${st('odd')}</small></button>
+  <button data-a="quiz" data-v="mic" style="grid-column:1/-1"><span style="font-size:2rem">🎤</span>اختبار النطق بالمايك<small>${st('mic')}</small></button>
+  <button data-a="quiz" data-v="wrd" style="grid-column:1/-1"><span style="font-size:2rem">⌨️</span>اكتب الكلمة<small>${st('wrd')}</small></button>
+  <button data-a="quiz" data-v="lis" style="grid-column:1/-1"><span style="font-size:2rem">🎧</span>اسمع واختار الصورة<small>${st('lis')}</small></button>
+  <button data-a="quiz" data-v="rev" style="grid-column:1/-1"><span style="font-size:2rem">📝</span>المراجعة الشاملة<small>${st('rev')}</small></button>
   <button data-a="sent" style="grid-column:1/-1"><span style="font-size:2rem">💬</span>جمل بسيطة</button>
   ${lesson==='0'?`<button data-a="quiz" data-v="vrb" style="grid-column:1/-1"><span style="font-size:2rem">🔁</span>صرّف الفعل<small>${st('vrb')}</small></button>`:''}
   <button data-a="gram"><span style="font-size:2rem">📖</span>القواعد</button></div>
   <div class="art3"><span class="a der">der</span><span class="a das">das</span><span class="a die">die</span></div>
-  <p class="sub">الأزرق للـ der، الأخضر للـ das، الأحمر للـ die. نفس ألوان المذكرة.</p>`;
+  <p class="sub">الأزرق للـ der، الأخضر للـ das، الأحمر للـ die. نفس ألوان المذكرة.</p>${vbox()}`;
 }
 function cards(){
   app.innerHTML=`<button class="back" data-a="home">‹ رجوع</button><h2>${T[lesson]}</h2><p class="sub">اضغط على الكارت علشان يظهر المعنى، واضغط 🔊 علشان تسمع النطق.</p><div class="grid">`+
@@ -161,14 +180,16 @@ function quiz(k){
   if(k==='art')p=p.filter(w=>w[0]);
   if(k==='let')p=p.filter(w=>/^[A-Za-zÄÖÜäöüß]+$/.test(w[1])&&w[1].length>3);
   if(k==='odd')p=O.filter(s=>lesson==='all'||s[2]===lesson);
-  if(k==='srt')p=S.filter(s=>lesson==='all'||s[1]===lesson);
+  if(k==='srt')p=SS.filter(s=>lesson==='all'||s[1]===lesson);
   if(k==='vrb')p=V;
+  if(k==='mic')p=p.filter(w=>!/…/.test(w[1]));
+  if(k==='wrd')p=p.filter(w=>/^[A-Za-zÄÖÜäöüß]+$/.test(w[1])&&w[1].length>2&&w[1].length<13);
   if(k==='snt')p=SN.filter(s=>lesson==='all'||s[2]===lesson);
-  Q=sh(p).slice(0,k==='srt'?8:10);qi=0;sc=0;ask();
+  Q=sh(p).slice(0,k==='srt'?8:k==='rev'?15:10);qi=0;sc=0;miss=[];rr=false;ask();
 }
 function ask(){
   if(qi>=Q.length)return end();
-  if(kind==='let')return askLet();if(kind==='odd')return askOdd();if(kind==='srt')return askSrt();if(kind==='vrb')return askVrb();if(kind==='snt')return askSnt();
+  if(kind==='let')return askLet();if(kind==='odd')return askOdd();if(kind==='srt')return askSrt();if(kind==='vrb')return askVrb();if(kind==='snt')return askSnt();if(kind==='rev')return askRev();if(kind==='lis')return askLis();if(kind==='wrd')return askWrd();if(kind==='mic')return askMic();
   const w=Q[qi];
   let h=`<button class="back" data-a="home">‹ رجوع</button><div class="bar"><span>سؤال ${qi+1} من ${Q.length}</span><span>✅ ${sc}</span></div><div class="q">`;
   if(kind==='art'){
@@ -192,11 +213,14 @@ function ask(){
 function answer(b){
   const w=Q[qi],good=b.dataset.ok==='1';
   document.querySelectorAll('.o').forEach(o=>{o.disabled=true;if(o.dataset.ok==='1')o.classList.add('ok')});
-  if(good)sc++;else b.classList.add('no');
-  if(kind==='art'||kind==='let')say(w2s(w));if(kind==='vrb')say(w[0].replace('___',w[1]));if(kind==='snt')say(w[0]);
-  document.getElementById('fb').innerHTML=`<p class="fb">${good?'✅ أحسنت!':'❌ الإجابة الصحيحة باللون الأخضر'}${kind==='art'||kind==='let'?`<br><span class="de">${w2s(w)}</span> = ${w[2]}`:''}</p><button class="nx" data-a="next">${qi+1>=Q.length?'شوف نتيجتك':'السؤال اللي بعده'}</button>`;
+  if(good)sc++;else{b.classList.add('no');if(kind==='rev')miss.push(w)}
+  if(good){S().pts+=10;S().ok++}touch();
+  if(kind==='art'||kind==='let'||kind==='rev')say(w2s(w));if(kind==='vrb')say(w[0].replace('___',w[1]));if(kind==='snt')say(w[0]);
+  document.getElementById('fb').innerHTML=`<p class="fb">${good?'✅ أحسنت!':'❌ الإجابة الصحيحة باللون الأخضر'}${kind==='art'||kind==='let'||kind==='rev'||kind==='lis'?`<br><span class="de">${w2s(w)}</span> = ${w[2]}`:''}</p><button class="nx" data-a="next">${qi+1>=Q.length?'شوف نتيجتك':'السؤال اللي بعده'}</button>`;
 }
 function end(){
+  if(kind==='rev')return endRev();
+  setTimeout(()=>showB(fin()),0);
   const n=Q.length,s=sc>=n*.9?3:sc>=n*.7?2:sc>=n*.5?1:0,key=lesson+':'+kind;
   if(s>(prog[key]||0)){prog[key]=s;save()}
   const msg=['كمّل مذاكرة وجرّب تاني، هتبقى أحسن 💪','كويس! مفضّل شوية وتاخد نجوم أكتر','شاطر جدًا! 👏','ممتاز! درجة كاملة تقريبًا 🏆'][s];
@@ -235,13 +259,19 @@ const O=[
 [['Sonne','Regen','Mond','Zug'],'Zug','3'],
 [['Hand','Fuß','Nase','Bus'],'Bus','3'],
 [['Auto','Zug','Schiff','Blume'],'Blume','3'],
-[['Kopf','Auge','Orange','Mund'],'Orange','3']
+[['Kopf','Auge','Orange','Mund'],'Orange','3'],
+[['Frühstück','Mittagessen','Abendessen','Park'],'Park','4'],
+[['Arzt','Koch','Fahrer','Suppe'],'Suppe','4'],
+[['Moschee','Kino','Markt','Salz'],'Salz','4'],
+[['Lineal','Schere','Bleistift','Kuchen'],'Kuchen','4'],
+[['kochen','singen','tanzen','Straße'],'Straße','4']
 ];
-const S=[
+const SS=[
 ['Was ist das?','1'],['Das ist eine Lampe.','1'],['Ist der Garten groß?','1'],['Mein Zimmer ist hell.','1'],['Ist die Küche praktisch?','1'],['Nein, er ist nicht groß, sondern klein.','1'],['Das ist ein Bett.','1'],['Der Abstellraum ist nützlich.','1'],['Mein Arbeitszimmer ist nicht modern.','1'],
 ['Wie geht es Ihnen?','2'],['Mir geht es schlecht.','2'],['Wie geht es dir, Tina?','2'],['Trinkst du ein Glas Milch?','2'],['Was trinken Sie?','2'],['Mir geht es gut.','2'],['Das Kind trinkt eine Flasche Mineralwasser.','2'],['Wir trinken eine Dose Cola.','2'],['Trinken Sie eine Tasse Kaffee?','2'],
 ['Ich heiße Ali.','0'],['Wie heißt du?','0'],['Das ist mein Vater.','0'],['Das ist meine Mutter.','0'],['Ich habe eine Schwester.','0'],['Ich bin neun Jahre alt.','0'],['Der Ball ist rot.','0'],['Heute ist Montag.','0'],['Ich bin zehn Jahre alt.','0'],['Ich komme aus Ägypten.','0'],['Er wohnt in Kairo.','0'],['Wir spielen Fußball.','0'],['Sie liest ein Buch.','0'],['Ich habe eine Katze.','0'],['Wo wohnst du?','0'],['Woher kommst du?','0'],
-['Der Hund ist groß.','3'],['Die Katze ist klein.','3'],['Ich habe einen Apfel.','3'],['Das ist ein Pferd.','3'],['Es ist kalt.','3'],['Ich bin müde.','3'],['Ich esse eine Banane.','3'],['Das Auto ist schnell.','3'],['Ich habe zwei Augen.','3']
+['Der Hund ist groß.','3'],['Die Katze ist klein.','3'],['Ich habe einen Apfel.','3'],['Das ist ein Pferd.','3'],['Es ist kalt.','3'],['Ich bin müde.','3'],['Ich esse eine Banane.','3'],['Das Auto ist schnell.','3'],['Ich habe zwei Augen.','3'],
+['Das Frühstück ist gut.','4'],['Ich trinke einen Saft.','4'],['Mein Vater ist Arzt.','4'],['Die Moschee ist groß.','4'],['Ich gehe in die Schule.','4'],['Ich schlafe gern.','4'],['Der Junge spielt Fußball.','4'],['Das Mädchen ist müde.','4'],['Gute Nacht, Mama!','4']
 ];
 let pick=[],pool=[],lock=false;
 const hd=()=>`<button class="back" data-a="home">‹ رجوع</button><div class="bar"><span>سؤال ${qi+1} من ${Q.length}</span><span>✅ ${sc}</span></div>`;
@@ -264,7 +294,7 @@ function drawSrt(){
 }
 function chk(){
   const s=Q[qi][0],good=pick.map(o=>o.x).join(' ')===s;
-  lock=true;if(good)sc++;say(s);
+  lock=true;if(good){sc++;S().pts+=10;S().ok++}touch();say(s);
   document.getElementById('fb').innerHTML=`<p class="fb">${good?'✅ أحسنت!':'❌ الجملة الصح:<br><span class="de">'+s+'</span>'}</p><button class="nx" data-a="next">${qi+1>=Q.length?'شوف نتيجتك':'السؤال اللي بعده'}</button>`;
 }
 const AB=[['A','Apfel','🍎','آ'],['B','Bett','🛏️','بيه'],['C','Cola','🥤','تسيه'],['D','Dusche','🚿','ديه'],['E','Esel','🫏','إيه'],['F','Flasche','🍾','إف'],['G','Garten','🌷','جيه'],['H','Haus','🏠','هاه'],['I','Igel','🦔','إي'],['J','Junge','👦','يوت'],['K','Küche','🍳','كاه'],['L','Lampe','💡','إل'],['M','Milch','🐄','إم'],['N','Nase','👃','إن'],['O','Ohr','👂','أو'],['P','Pizza','🍕','بيه'],['Q','Qualle','🪼','كو'],['R','Regal','📚','إر'],['S','Sofa','🛋️','إس'],['T','Tisch','🍽️','تيه'],['U','Uhr','⏰','أوو'],['V','Vogel','🐦','فاو'],['W','Wasser','💧','فيه'],['X','Xylophon','🎹','إكس'],['Y','Yoga','🧘','أبسيلون'],['Z','Zimmer','🚪','تسيت'],['Ä','Bär','🐻','ä'],['Ö','Löffel','🥄','ö'],['Ü','Tür','🚪','ü'],['ß','groß','📏','إس-تسيت']];
@@ -297,7 +327,8 @@ const SN=[
 ['Hallo! Ich heiße Ali.','أهلاً! اسمي علي.','0'],['Wie heißt du?','اسمك إيه؟','0'],['Ich bin zehn Jahre alt.','أنا عندي عشر سنين.','0'],['Wie alt bist du?','عندك كام سنة؟','0'],['Ich komme aus Ägypten.','أنا من مصر.','0'],['Woher kommst du?','إنت منين؟','0'],['Ich wohne in Kairo.','أنا ساكن في القاهرة.','0'],['Wo wohnst du?','إنت ساكن فين؟','0'],['Das ist mein Vater.','ده بابا.','0'],['Das ist meine Mutter.','دي ماما.','0'],['Ich habe einen Bruder.','عندي أخ.','0'],['Ich habe eine Schwester.','عندي أخت.','0'],['Ich habe eine Katze.','عندي قطة.','0'],['Ich lerne Deutsch.','أنا باتعلم ألماني.','0'],['Ich spiele Fußball.','أنا بالعب كورة.','0'],['Ich esse ein Brot.','باكل عيش.','0'],['Ich trinke Milch.','باشرب حليب.','0'],['Der Ball ist rot.','الكورة حمرا.','0'],['Heute ist Montag.','النهارده الاتنين.','0'],['Guten Morgen! Wie geht’s?','صباح الخير! عامل إيه؟','0'],['Danke! – Bitte!','شكرًا! – عفوًا!','0'],
 ['Das ist ein Sofa.','دي كنبة.','1'],['Das ist eine Dusche.','ده دش.','1'],['Der Garten ist groß.','الحديقة كبيرة.','1'],['Das Bad ist klein.','التويليت صغير.','1'],['Die Küche ist modern.','المطبخ حديث.','1'],['Das Wohnzimmer ist gemütlich.','غرفة المعيشة مريحة.','1'],['Der Abstellraum ist nützlich.','غرفة التخزين مفيدة.','1'],['Mein Zimmer ist hell.','أوضتي منوّرة.','1'],['Das ist kein Bett, sondern ein Schrank.','ده مش سرير، ده دولاب.','1'],['Was ist das?','ده إيه؟','1'],
 ['Wie geht es Ihnen?','حضرتك عامل إيه؟','2'],['Wie geht es dir?','إنت عامل إيه؟','2'],['Mir geht es sehr gut.','أنا كويس جدًا.','2'],['Mir geht es schlecht.','أنا مش كويس.','2'],['Was trinkst du?','بتشرب إيه؟','2'],['Ich trinke eine Tasse Tee.','باشرب فنجان شاي.','2'],['Ich trinke ein Glas Wasser.','باشرب كوب مية.','2'],['Ich trinke eine Dose Cola.','باشرب علبة كولا.','2'],['Möchtest du etwas trinken?','تحب تشرب حاجة؟','2'],['Ja, gern.','أيوه، بكل سرور.','2'],['Nein, danke.','لأ، شكرًا.','2'],['Ich möchte lieber ein Glas Wasser.','أفضّل كوب مية.','2'],['Guten Abend!','مساء الخير!','2'],
-['Der Hund ist groß.','الكلب كبير.','3'],['Die Katze ist klein.','القطة صغيرة.','3'],['Ich habe einen Apfel.','عندي تفاحة.','3'],['Das ist ein Pferd.','ده حصان.','3'],['Die Sonne ist schön.','الشمس جميلة.','3'],['Es ist kalt.','الجو برد.','3'],['Heute ist das Wetter schön.','الجو النهارده حلو.','3'],['Ich bin müde.','أنا تعبان.','3'],['Ich bin glücklich.','أنا سعيد.','3'],['Ich habe Hunger.','أنا جعان.','3'],['Ich habe Durst.','أنا عطشان.','3'],['Das Auto ist schnell.','العربية سريعة.','3'],['Der Bus ist groß.','الأتوبيس كبير.','3'],['Meine Hand ist klein.','إيدي صغيرة.','3'],['Ich habe zwei Augen.','عندي عينين.','3'],['Die Blume ist schön.','الوردة جميلة.','3'],['Ich esse eine Banane.','باكل موزة.','3']
+['Der Hund ist groß.','الكلب كبير.','3'],['Die Katze ist klein.','القطة صغيرة.','3'],['Ich habe einen Apfel.','عندي تفاحة.','3'],['Das ist ein Pferd.','ده حصان.','3'],['Die Sonne ist schön.','الشمس جميلة.','3'],['Es ist kalt.','الجو برد.','3'],['Heute ist das Wetter schön.','الجو النهارده حلو.','3'],['Ich bin müde.','أنا تعبان.','3'],['Ich bin glücklich.','أنا سعيد.','3'],['Ich habe Hunger.','أنا جعان.','3'],['Ich habe Durst.','أنا عطشان.','3'],['Das Auto ist schnell.','العربية سريعة.','3'],['Der Bus ist groß.','الأتوبيس كبير.','3'],['Meine Hand ist klein.','إيدي صغيرة.','3'],['Ich habe zwei Augen.','عندي عينين.','3'],['Die Blume ist schön.','الوردة جميلة.','3'],['Ich esse eine Banane.','باكل موزة.','3'],
+['Das Frühstück ist gut.','الفطار حلو.','4'],['Ich trinke einen Saft.','باشرب عصير.','4'],['Ich esse einen Kuchen.','باكل كيكة.','4'],['Die Suppe ist warm.','الشوربة دافية.','4'],['Mein Vater ist Arzt.','بابا دكتور.','4'],['Meine Mutter ist Ärztin.','ماما دكتورة.','4'],['Das ist ein Park.','دي حديقة عامة.','4'],['Die Moschee ist groß.','المسجد كبير.','4'],['Ich gehe in die Schule.','باروح المدرسة.','4'],['Ich schlafe gern.','باحب أنام.','4'],['Wir kaufen ein Brot.','إحنا بنشتري عيش.','4'],['Ich male gern.','باحب أرسم.','4'],['Er singt gern.','هو بيحب يغني.','4'],['Gute Nacht, Mama!','تصبح على خير يا ماما.','4'],['Viel Glück!','بالتوفيق!','4'],['Herzlichen Glückwunsch!','مبروك!','4'],['Wie spät ist es?','الساعة كام؟','4'],['Das Mädchen ist müde.','البنت تعبانة.','4'],['Der Junge spielt Fußball.','الولد بيلعب كورة.','4'],['Das Kino ist neu.','السينما جديدة.','4']
 ];
 function sent(){
   const L=SN.filter(s=>lesson==='all'||s[2]===lesson),n=prog[lesson+':snt']||0;
@@ -335,6 +366,94 @@ function drawS(){
   document.getElementById('cnt').textContent=L.length+' جملة · اضغط على الجملة علشان يظهر معناها';
   document.getElementById('sl').innerHTML=L.map(l=>`<div class="box sn" data-a="flip"><div class="de"><span>${l[0]}</span><button class="sp" data-a="say" data-t="${l[0]}" aria-label="استمع">🔊</button></div><div class="m h">${l[1]}</div></div>`).join('')||'<p class="sub">مفيش نتيجة 🤷</p>';
 }
+let miss=[],rr=false;
+function askRev(){
+  const w=Q[qi];
+  kind=w[0]&&qi%2===0?'art':'tr';ask();kind='rev';
+}
+function endRev(){
+  setTimeout(()=>showB(fin()),0);
+  const n=Q.length,s=sc>=n*.9?3:sc>=n*.7?2:sc>=n*.5?1:0,key=lesson+':rev',L=miss.slice();
+  if(!rr&&s>(prog[key]||0)){prog[key]=s;save()}
+  app.innerHTML=`<div class="res"><div class="stars">${'⭐'.repeat(s)||'☆'}</div><h2>${sc} من ${n}</h2><p>${L.length?'الكلمات اللي محتاجة مراجعة:':'ممتاز! مفيش ولا غلطة 🏆'}</p></div>`+(L.length?`<div class="grid" style="margin-top:12px">`+L.map(w=>`<div class="card ${w[0]}" data-a="flip"><button class="sp" data-a="say" data-t="${w2s(w)}" aria-label="استمع">🔊</button><div class="e">${w[3]}</div><div class="w de">${w[0]?`<span class="a ${w[0]}">${w[0]}</span> `:''}${w[1]}</div><div class="m">${w[2]}</div></div>`).join('')+'</div><button class="nx" data-a="again">راجع الغلطات بس 🔁</button>':'')+'<button class="nx" data-a="quiz" data-v="rev">مراجعة جديدة</button><button class="back" data-a="home">‹ القائمة</button>';
+}
+const dstr=d=>d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate();
+const S=()=>prog._s||(prog._s={pts:0,streak:0,best:0,last:'',ok:0,q:0,perf:0,bd:{}});
+const tot=()=>Object.keys(prog).filter(k=>k!=='_s').reduce((a,k)=>a+(prog[k]||0),0);
+const BD=[['first','🥇','أول اختبار',s=>s.q>=1],['ok20','🧠','20 إجابة صح',s=>s.ok>=20],['ok100','🚀','100 إجابة صح',s=>s.ok>=100],['perf','🏆','درجة كاملة',s=>s.perf>=1],['s3','🔥','3 أيام متتالية',s=>(s.best||0)>=3],['s7','🌟','أسبوع كامل',s=>(s.best||0)>=7],['st10','🎖️','10 نجوم',s=>tot()>=10],['p500','👑','500 نقطة',s=>s.pts>=500]];
+function touch(){
+  const s=S(),t=dstr(new Date());if(s.last===t)return;
+  s.streak=s.last===dstr(new Date(Date.now()-864e5))?s.streak+1:1;s.last=t;s.best=Math.max(s.best||0,s.streak);save();
+}
+function fin(){
+  const s=S();s.q++;if(Q.length>=5&&sc===Q.length){s.perf++;s.pts+=20}
+  s.bd=s.bd||{};const r=BD.filter(b=>!s.bd[b[0]]&&b[3](s));r.forEach(b=>s.bd[b[0]]=1);save();return r;
+}
+function showB(l){
+  const r=document.querySelector('.res');if(!r)return;
+  r.insertAdjacentHTML('beforeend',`<p class="sub">⭐ ${S().pts} نقطة</p>`+(l.length?`<p><b>🎉 شارة جديدة!</b></p>`+l.map(b=>`<span class="chip on">${b[1]} ${b[2]}</span> `).join(''):''));
+}
+function hud(){
+  const s=S(),lv=Math.floor(s.pts/100)+1,nm=lv<3?'مبتدئ':lv<6?'شاطر':'محترف',ok=s.last===dstr(new Date())||s.last===dstr(new Date(Date.now()-864e5)),bd=s.bd||{};
+  return `<div class="hud"><span>🔥 <b>${ok?s.streak:0}</b> يوم</span><span>⭐ <b>${s.pts}</b> نقطة</span><span>🎓 ${nm} · مستوى ${lv}</span></div><div class="pbar" role="progressbar" aria-valuenow="${s.pts%100}" aria-valuemin="0" aria-valuemax="100"><i style="width:${s.pts%100}%"></i></div><div class="chips">${BD.map(b=>`<span class="chip" style="${bd[b[0]]?'':'opacity:.45'}">${bd[b[0]]?b[1]:'🔒'} ${b[2]}</span>`).join('')}</div>`;
+}
+function askLis(){
+  const w=Q[qi],pw=words().filter(x=>x[3]!==w[3]),sm=pw.filter(x=>x[4]&&x[4]===w[4]);
+  const op=sh([w].concat(sh(sm.length>2?sm:pw).slice(0,3)));
+  app.innerHTML=hd()+`<div class="q"><div class="big">🎧</div><button class="sp" data-a="say" data-t="${w2s(w)}" aria-label="أعد السماع" style="width:56px;height:56px;font-size:1.6rem">🔊</button><p class="sub">اسمع الكلمة واختار الصورة الصح</p></div><div class="opts let">`+op.map(x=>`<button class="o" style="font-size:2.2rem" data-a="ans" data-ok="${x===w?1:0}">${x[3]}</button>`).join('')+'</div><div id="fb"></div>';
+  say(w2s(w));
+}
+let wl=[],wp=[];
+function askWrd(){
+  const w=Q[qi];wl=sh(w[1].split('').map((x,i)=>({x,i})));wp=[];lock=false;drawW();say(w2s(w));
+}
+function drawW(){
+  const w=Q[qi],tl=(o,f)=>`<button class="tl" data-a="lt" data-f="${f}" data-i="${o.i}">${o.x}</button>`;
+  app.innerHTML=hd()+`<div class="q"><div class="big">${w[3]}</div><div style="font-size:1.4rem;font-weight:900">${w[2]}</div>${w[0]?`<span class="a ${w[0]}">${w[0]}</span> `:''}<button class="sp" data-a="say" data-t="${w2s(w)}" aria-label="استمع">🔊</button><p class="sub">اكتب الكلمة بالألماني</p><div class="ans">${wp.map(o=>tl(o,'p')).join('')||'<span class="sub">اضغط على الحروف بالترتيب</span>'}</div></div><div class="pool">${wl.map(o=>tl(o,'q')).join('')}</div><div id="fb">${wl.length?'':'<button class="nx" data-a="wchk">تأكد</button>'}</div>`;
+}
+function wchk(){
+  const w=Q[qi],good=wp.map(o=>o.x).join('')===w[1];
+  lock=true;if(good){sc++;S().pts+=10;S().ok++}touch();say(w2s(w));
+  document.getElementById('fb').innerHTML=`<p class="fb">${good?'✅ أحسنت!':'❌ الكلمة الصح:<br><span class="de">'+w2s(w)+'</span>'}</p><button class="nx" data-a="next">${qi+1>=Q.length?'شوف نتيجتك':'السؤال اللي بعده'}</button>`;
+}
+function vbox(){
+  let ok=false,n=0;try{n=speechSynthesis.getVoices().length;ok=!!VO}catch(e){}
+  const msg=ok?`✅ صوت ألماني شغال على جهازك: <span class="de">${VO.name}</span>`:n?'⚠️ مفيش صوت ألماني على جهازك، فالنطق ممكن يطلع غلط. نزّل صوت Deutsch من إعدادات الجهاز: أندرويد ← تحويل النص إلى كلام (Text-to-speech) ← Google ← تثبيت بيانات الصوت ← Deutsch. آيفون ← تسهيلات الاستخدام ← المحتوى المنطوق ← الأصوات ← Deutsch. (التسميات ممكن تختلف شوية حسب الجهاز)':'لو مفيش صوت، جرّب الزرار وتأكد إن صوت الجهاز مفتوح.';
+  return `<div class="box"><b>🔊 النطق</b><p>${msg}</p><button class="chip on" data-a="say" data-t="Guten Morgen! Wie geht’s?">🔊 جرّب النطق</button></div>`;
+}
+const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
+const NUM=['null','eins','zwei','drei','vier','fünf','sechs','sieben','acht','neun','zehn','elf','zwölf','dreizehn','vierzehn','fünfzehn','sechzehn','siebzehn','achtzehn','neunzehn','zwanzig'];
+const nz=s=>s.toLowerCase().replace(/\d+/g,m=>{const n=+m;return NUM[n]||({30:'dreißig',40:'vierzig',50:'fünfzig',100:'hundert'})[n]||m}).replace(/[^a-zäöüß ]/g,' ').replace(/\s+/g,' ').trim();
+function lev(a,b){const m=[];for(let i=0;i<=a.length;i++)m[i]=[i];for(let j=1;j<=b.length;j++)m[0][j]=j;for(let i=1;i<=a.length;i++)for(let j=1;j<=b.length;j++)m[i][j]=Math.min(m[i-1][j]+1,m[i][j-1]+1,m[i-1][j-1]+(a[i-1]===b[j-1]?0:1));return m[a.length][b.length]}
+function heardOk(alts,target){
+  const f=s=>nz(s).replace(/ß/g,'ss').replace(/ä/g,'a').replace(/ö/g,'o').replace(/ü/g,'u'),t=f(target);
+  return alts.some(a=>{const h=f(a);if(!h)return false;if(h===t||(' '+h+' ').includes(' '+t+' '))return true;const L=Math.max(h.length,t.length);return lev(h,t)<=(L>=9?2:L>=5?1:0)});
+}
+function askMic(){
+  const w=Q[qi];
+  app.innerHTML=hd()+`<div class="q"><div class="big">${w[3]}</div><div style="font-size:1.3rem;font-weight:900">${w[2]}</div><div class="big2">${w[0]?`<span class="a ${w[0]}">${w[0]}</span> `:''}${w[1]}</div><button class="sp" data-a="say" data-t="${w2s(w)}" aria-label="استمع" style="width:50px;height:50px">🔊</button><p class="sub">اسمع الكلمة، وبعدين اضغط على المايك وانطقها</p><button class="nx" id="mic" data-a="mic">🎤 اضغط وانطق</button><div id="heard" class="fb"></div>${qi===0?'<p class="sub" style="font-size:.8rem">ملحوظة: التعرّف على الصوت بيشتغل من خلال خدمة المتصفح (ممكن يبعت الصوت لشركته) ومحتاج إنترنت.</p>':''}</div><div id="fb"></div>`;
+  if(!SR)document.getElementById('heard').innerHTML='⚠️ متصفحك مش بيدعم التعرّف على الصوت. جرّب Chrome أو Edge أو Safari.';
+  if(!SR)document.getElementById('mic').disabled=true;
+  nxt(true);
+}
+function nxt(skip){
+  document.getElementById('fb').innerHTML=`<button class="nx" style="background:var(--card);border:2px solid var(--bd);color:var(--tx)" data-a="next">${skip?'تخطّى':''}${qi+1>=Q.length?(skip?' وشوف نتيجتك':'شوف نتيجتك'):(skip?'':'السؤال اللي بعده')}</button>`;
+}
+function mic(){
+  const w=Q[qi],btn=document.getElementById('mic'),hh=document.getElementById('heard');
+  try{speechSynthesis.cancel()}catch(e){}
+  const rec=new SR();rec.lang='de-DE';rec.maxAlternatives=5;rec.interimResults=false;
+  let got=false;btn.disabled=true;btn.textContent='🎧 بسمعك...';hh.textContent='';
+  const again=m=>{got=true;hh.innerHTML=m;btn.disabled=false;btn.textContent='🎤 جرّب تاني'};
+  rec.onresult=e=>{
+    const alts=[...e.results[0]].map(x=>x.transcript),ok=heardOk(alts,w[1]);got=true;
+    if(ok){sc++;S().pts+=10;S().ok++;touch();hh.innerHTML=`✅ أحسنت! سمعتك: <span class="de">${alts[0]}</span>`;btn.style.display='none';nxt(false)}
+    else again(`❌ سمعتك تقول: <span class="de">${alts[0]||'—'}</span><br>اسمع الكلمة تاني وانطقها بصوت أوضح`);
+  };
+  rec.onerror=e=>{const m={'not-allowed':'🚫 اسمح للموقع باستخدام المايك من إعدادات المتصفح','service-not-allowed':'🚫 اسمح للموقع باستخدام المايك من إعدادات المتصفح','no-speech':'😶 ما سمعتش صوت، اقرّب من المايك وجرّب تاني','network':'🌐 الاختبار محتاج إنترنت'}[e.error]||'⚠️ حصل خطأ، جرّب تاني';again(m)};
+  rec.onend=()=>{if(!got)again('😶 ما سمعتش صوت، جرّب تاني')};
+  try{rec.start()}catch(e){again('⚠️ مش قادر أشغّل المايك')}
+}
 function gram(){
   app.innerHTML=`<button class="back" data-a="home">‹ رجوع</button><h2>القواعد في سطور</h2>
   <div class="box"><h3>الضمائر مع الأسماء</h3><p><span class="a der">der</span> ← <b class="de">er</b> &nbsp; <span class="a das">das</span> ← <b class="de">es</b> &nbsp; <span class="a die">die</span> ← <b class="de">sie</b></p><p class="de" style="direction:ltr">Der Garten – Er ist groß.<br>Das Bad – Es ist klein.<br>Die Lampe – Sie ist hell.</p></div>
@@ -364,6 +483,10 @@ app.addEventListener('click',e=>{
   else if(a==='fa'){fa=b.dataset.v;drawC()}
   else if(a==='fc'){fc=b.dataset.v;drawC()}
   else if(a==='ft'){ft=b.dataset.v;drawS()}
+  else if(a==='lt'){if(lock)return;const i=+b.dataset.i;if(b.dataset.f==='q'){wp.push(wl.splice(wl.findIndex(o=>o.i===i),1)[0])}else{wl.push(wp.splice(wp.findIndex(o=>o.i===i),1)[0])}drawW()}
+  else if(a==='wchk')wchk();
+  else if(a==='mic')mic();
+  else if(a==='again'){Q=sh(miss.slice());miss=[];qi=0;sc=0;rr=true;ask()}
   else if(a==='gram')gram();
   else if(a==='quiz')quiz(b.dataset.v);
   else if(a==='ans')answer(b);
