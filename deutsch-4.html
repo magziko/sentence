@@ -166,11 +166,17 @@ mk('بلاد ولغات',[['','Ägypten','مصر','🇪🇬'],['','Deutschland',
 mk('أضداد',[['','hell','منوّر / فاتح','💡'],['','dunkel','غامق / ضلمة','🌑'],['','lang','طويل','📏'],['','kurz','قصير','✂️'],['','laut','عالي (صوت)','📢'],['','leise','هادي','🤫'],['','schwer','تقيل / صعب','🏋️'],['','leicht','خفيف / سهل','🍃'],['','richtig','صح','✅'],['','falsch','غلط','❌'],['','viel','كتير','➕'],['','wenig','قليل','➖']]),
 mk('البيت (تكملة)',[['die','Tür','باب','🚪'],['das','Fenster','شباك','🖼️'],['die','Wand','حيطة','🧱'],['der','Boden','أرضية','🟫'],['die','Treppe','سلّم','⬆️'],['der','Balkon','بلكونة','🌇'],['das','Dach','سقف / سطح','🏠']]),
 mk('أدوات المطبخ',[['der','Löffel','معلقة','🥄'],['die','Gabel','شوكة','🍴'],['das','Messer','سكينة','🔪'],['der','Teller','طبق','🍽️'],['der','Topf','حلة','🍲']]));
-const T={5:'المزيد · وقت وفصول وهوايات وبلاد',4:'يوميات · أكل وأماكن ومدرسة وناس',3:'كلمات إضافية · حيوانات وأكل وملابس وجسم',0:'تمهيد · ابدأ من هنا',1:'الدرس 1 · بيت عيلة فايجل',2:'الدرس 2 · زيارة',all:'كل الكلمات'};
+D[6]=[].concat(
+mk('الصحة',[['der','Zahn','سنة','🦷'],['das','Herz','قلب','❤️'],['der','Finger','صباع','☝️'],['der','Hals','رقبة / زور','🦒'],['das','Fieber','سخونية','🌡️'],['der','Husten','كحة','🤧'],['die','Medizin','دوا','💊'],['die','Apotheke','صيدلية','⚕️'],['','krank','عيّان','🤒'],['','gesund','سليم','💪']]),
+mk('تسوق وفلوس',[['das','Geld','فلوس','💰'],['der','Preis','سعر','🏷️'],['das','Geschäft','محل','🏬'],['die','Kasse','الكاشير','🧾'],['die','Tüte','كيس','🛍️'],['das','Obst','فاكهة','🍎'],['das','Gemüse','خضار','🥦'],['der','Euro','يورو','💶'],['','teuer','غالي','📈'],['','billig','رخيص','📉'],['','kosten','يكلّف','💲']]),
+mk('اتجاهات ومواضع',[['','links','شمال','⬅️'],['','rechts','يمين','➡️'],['','geradeaus','على طول','⬆️'],['','oben','فوق','🔼'],['','unten','تحت','🔽'],['','hier','هنا','📍'],['','dort','هناك','📌'],['','nah','قريب','🔎'],['','weit','بعيد','🔭']]),
+mk('كلمات ربط',[['','und','و','➕'],['','oder','أو','🔀'],['','aber','لكن','↔️'],['','auch','كمان','✔️'],['','sehr','قوي / جدًا','⭐'],['','mit','مع','🤝'],['','ohne','من غير','🚫'],['','für','لـ / علشان','🎁'],['','nicht','مش','⛔']]),
+mk('أفعال مفيدة',[['','können','يقدر','💪'],['','müssen','لازم','❗'],['','wollen','عايز','🙋'],['','brauchen','يحتاج','🤲'],['','nehmen','ياخد','✋'],['','geben','يدّي','🎁'],['','finden','يلاقي','🔍'],['','fragen','يسأل','❓'],['','antworten','يجاوب','💬'],['','verstehen','يفهم','💡'],['','warten','يستنى','⏳'],['','öffnen','يفتح','🔓'],['','schließen','يقفل','🔒']]));
+const T={6:'مواقف · صحة وتسوق واتجاهات وأفعال مفيدة',5:'المزيد · وقت وفصول وهوايات وبلاد',4:'يوميات · أكل وأماكن ومدرسة وناس',3:'كلمات إضافية · حيوانات وأكل وملابس وجسم',0:'تمهيد · ابدأ من هنا',1:'الدرس 1 · بيت عيلة فايجل',2:'الدرس 2 · زيارة',all:'كل الكلمات'};
 let lesson='0',kind='',Q=[],qi=0,sc=0,prog={};
 try{prog=JSON.parse(localStorage.getItem('g4')||'{}')}catch(e){}
 const app=document.getElementById('app');
-const words=()=>lesson==='all'?D[0].concat(D[1],D[2],D[3],D[4],D[5]):D[lesson];
+const words=()=>lesson==='all'?D[0].concat(D[1],D[2],D[3],D[4],D[5],D[6]):D[lesson];
 const sh=a=>a.map(x=>[Math.random(),x]).sort((p,q)=>p[0]-q[0]).map(x=>x[1]);
 const w2s=w=>(w[0]?w[0]+' ':'')+w[1];
 const dup=w=>words().filter(x=>x[2]===w[2]).length>1;
@@ -299,7 +305,13 @@ const O=[
 [['Ägypten','Deutschland','Berlin','Gitarre'],'Gitarre','5'],
 [['heute','morgen','gestern','Tür'],'Tür','5'],
 [['hell','dunkel','lang','Hobby'],'Hobby','5'],
-[['Sofa','Stuhl','Tisch','Dusche'],'Dusche','1']
+[['Sofa','Stuhl','Tisch','Dusche'],'Dusche','1'],
+[['Zahn','Herz','Finger','Preis'],'Preis','6'],
+[['krank','gesund','Fieber','links'],'links','6'],
+[['teuer','billig','Geld','Husten'],'Husten','6'],
+[['links','rechts','oben','Medizin'],'Medizin','6'],
+[['und','oder','aber','Apotheke'],'Apotheke','6'],
+[['können','müssen','wollen','Tüte'],'Tüte','6']
 ];
 const SS=[
 ['Was ist das?','1'],['Das ist eine Lampe.','1'],['Ist der Garten groß?','1'],['Mein Zimmer ist hell.','1'],['Ist die Küche praktisch?','1'],['Nein, er ist nicht groß, sondern klein.','1'],['Das ist ein Bett.','1'],['Der Abstellraum ist nützlich.','1'],['Mein Arbeitszimmer ist nicht modern.','1'],
@@ -310,7 +322,8 @@ const SS=[
 ['Ich habe einen Hund.','0'],['Mein Bruder heißt Ahmed.','0'],
 ['Das Sofa ist bequem.','1'],['Die Lampe ist modern.','1'],['Der Computer ist nützlich.','1'],
 ['Ich möchte ein Glas Milch.','2'],['Möchten Sie eine Tasse Tee?','2'],
-['Heute ist Freitag.','5'],['Der Winter ist kalt.','5'],['Ich spiele Gitarre.','5'],['Ich spreche Arabisch.','5'],['Das Fenster ist groß.','5'],['Die Tür ist neu.','5'],['Die Uhr ist neu.','5'],['Ich spiele gern Fußball.','5']
+['Heute ist Freitag.','5'],['Der Winter ist kalt.','5'],['Ich spiele Gitarre.','5'],['Ich spreche Arabisch.','5'],['Das Fenster ist groß.','5'],['Die Tür ist neu.','5'],['Die Uhr ist neu.','5'],['Ich spiele gern Fußball.','5'],
+['Ich habe Fieber.','6'],['Ich bin krank.','6'],['Wo ist die Apotheke?','6'],['Das Obst ist billig.','6'],['Wie viel kostet das?','6'],['Ich kann schwimmen.','6'],['Ich muss lernen.','6'],['Ich will spielen.','6'],['Ich verstehe das nicht.','6'],['Wo ist das Bad?','6']
 ];
 let pick=[],pool=[],lock=false;
 const hd=()=>`<button class="back" data-a="home">‹ رجوع</button><div class="bar"><span>سؤال ${qi+1} من ${Q.length}</span><span>✅ ${sc}</span></div>`;
@@ -373,7 +386,8 @@ const SN=[
 ['Ich möchte ein Glas Milch.','عايز كوب حليب.','2'],['Möchten Sie eine Tasse Tee?','تحب حضرتك فنجان شاي؟','2'],['Trinkst du eine Dose Fanta?','بتشرب علبة فانتا؟','2'],['Mir geht es nicht schlecht.','مش وحش.','2'],
 ['Die Katze trinkt Milch.','القطة بتشرب حليب.','3'],['Der Elefant ist groß.','الفيل كبير.','3'],['Die Maus ist klein.','الفأر صغير.','3'],['Meine Jacke ist neu.','الجاكت بتاعي جديد.','3'],['Der Zug ist schnell.','القطر سريع.','3'],['Die Banane ist gelb.','الموزة صفرا.','3'],
 ['Ich esse Salat.','باكل سلطة.','4'],['Der Koch kocht.','الطباخ بيطبخ.','4'],['Das Krankenhaus ist groß.','المستشفى كبير.','4'],['Der Supermarkt ist neu.','السوبر ماركت جديد.','4'],
-['Heute ist Freitag.','النهارده الجمعة.','5'],['Morgen ist Samstag.','بكرة السبت.','5'],['Der Winter ist kalt.','الشتا بارد.','5'],['Ich spiele Gitarre.','باعزف جيتار.','5'],['Ich spreche Arabisch.','باتكلم عربي.','5'],['Das Fenster ist groß.','الشباك كبير.','5'],['Die Tür ist neu.','الباب جديد.','5'],['Die Uhr ist neu.','الساعة جديدة.','5'],['Ich spiele gern Fußball.','باحب ألعب كورة.','5'],['Berlin ist groß.','برلين كبيرة.','5'],['Ägypten ist schön.','مصر حلوة.','5'],['Kairo ist groß.','القاهرة كبيرة.','5'],['Heute ist es kalt.','الجو النهارده برد.','5']
+['Heute ist Freitag.','النهارده الجمعة.','5'],['Morgen ist Samstag.','بكرة السبت.','5'],['Der Winter ist kalt.','الشتا بارد.','5'],['Ich spiele Gitarre.','باعزف جيتار.','5'],['Ich spreche Arabisch.','باتكلم عربي.','5'],['Das Fenster ist groß.','الشباك كبير.','5'],['Die Tür ist neu.','الباب جديد.','5'],['Die Uhr ist neu.','الساعة جديدة.','5'],['Ich spiele gern Fußball.','باحب ألعب كورة.','5'],['Berlin ist groß.','برلين كبيرة.','5'],['Ägypten ist schön.','مصر حلوة.','5'],['Kairo ist groß.','القاهرة كبيرة.','5'],['Heute ist es kalt.','الجو النهارده برد.','5'],
+['Ich habe Fieber.','عندي سخونية.','6'],['Ich bin krank.','أنا عيّان.','6'],['Ich bin gesund.','أنا سليم.','6'],['Ich brauche eine Medizin.','أنا محتاج دوا.','6'],['Wo ist die Apotheke?','الصيدلية فين؟','6'],['Das Obst ist billig.','الفاكهة رخيصة.','6'],['Das Gemüse ist teuer.','الخضار غالي.','6'],['Wie viel kostet das?','ده بكام؟','6'],['Ich habe kein Geld.','معنديش فلوس.','6'],['Links ist die Küche.','على الشمال المطبخ.','6'],['Rechts ist das Bad.','على اليمين التويليت.','6'],['Geradeaus ist die Schule.','على طول المدرسة.','6'],['Wo ist das Bad?','التويليت فين؟','6'],['Ich kann schwimmen.','أنا أقدر أعوم.','6'],['Ich muss lernen.','لازم أذاكر.','6'],['Ich will spielen.','أنا عايز ألعب.','6'],['Ich verstehe das nicht.','أنا مش فاهم ده.','6'],['Ich warte hier.','أنا مستني هنا.','6'],['Das Auto ist teuer.','العربية غالية.','6']
 ];
 function sent(){
   const L=SN.filter(s=>lesson==='all'||s[2]===lesson),n=prog[lesson+':snt']||0;
@@ -500,7 +514,7 @@ function mic(){
   try{rec.start()}catch(e){again('⚠️ مش قادر أشغّل المايك')}
 }
 let cur=false;
-const TI={0:['🌱','تمهيد','الحروف والأرقام والألوان والعيلة والأفعال الأساسية'],1:['🏠','الدرس 1','بيت عيلة فايجل · من المذكرة'],2:['☕','الدرس 2','زيارة (مشروبات وتحيات) · من المذكرة'],3:['🐾','إضافي','حيوانات وفواكه وملابس وجسم وطقس'],4:['🏫','يوميات','أكل وأماكن ومدرسة وناس وعبارات'],5:['⏰','المزيد','وقت وفصول وهوايات وبلاد وأضداد'],all:['⭐','كل الكلمات','مراجعة من كل الأقسام']};
+const TI={0:['🌱','تمهيد','الحروف والأرقام والألوان والعيلة والأفعال الأساسية'],1:['🏠','الدرس 1','بيت عيلة فايجل · من المذكرة'],2:['☕','الدرس 2','زيارة (مشروبات وتحيات) · من المذكرة'],3:['🐾','إضافي','حيوانات وفواكه وملابس وجسم وطقس'],4:['🏫','يوميات','أكل وأماكن ومدرسة وناس وعبارات'],5:['⏰','المزيد','وقت وفصول وهوايات وبلاد وأضداد'],6:['🧭','مواقف','صحة وتسوق واتجاهات وأفعال مفيدة'],all:['⭐','كل الكلمات','مراجعة من كل الأقسام']};
 function hud2(){
   const s=S(),lv=Math.floor(s.pts/100)+1,nm=lv<3?'مبتدئ':lv<6?'شاطر':'محترف',ok=s.last===dstr(new Date())||s.last===dstr(new Date(Date.now()-864e5)),bd=s.bd||{},n=BD.filter(b=>bd[b[0]]).length;
   return `<div class="hud"><span>🔥 <b>${ok?s.streak:0}</b> يوم</span><span>⭐ <b>${s.pts}</b> نقطة</span><span>🎓 ${nm} · مستوى ${lv}</span></div><div class="pbar" role="progressbar" aria-valuenow="${s.pts%100}" aria-valuemin="0" aria-valuemax="100"><i style="width:${s.pts%100}%"></i></div><details class="bdg"><summary>🏅 شاراتي (${n} من ${BD.length})</summary><div class="chips">${BD.map(b=>`<span class="chip" style="${bd[b[0]]?'':'opacity:.45'}">${bd[b[0]]?b[1]:'🔒'} ${b[2]}</span>`).join('')}</div></details>`;
@@ -508,7 +522,7 @@ function hud2(){
 function home(){
   cur=false;
   app.innerHTML=hud2()+`<div class="box"><b>إزاي تذاكر؟</b><br>1) افتح قسم، وشوف الكروت واسمع النطق<br>2) العب لعبتين أو تلاتة<br>3) اعمل «المراجعة الشاملة» وراجع الغلطات<br><span class="sub">الأزرق <span class="a der">der</span> · الأخضر <span class="a das">das</span> · الأحمر <span class="a die">die</span></span></div><h2>اختار القسم</h2><div class="topics">`+Object.keys(TI).map(k=>{
-    const t=TI[k],n=k==='all'?[0,1,2,3,4,5].reduce((a,i)=>a+D[i].length,0):D[k].length,z=Object.keys(prog).filter(x=>x.startsWith(k+':')).reduce((a,x)=>a+(prog[x]||0),0);
+    const t=TI[k],n=k==='all'?[0,1,2,3,4,5,6].reduce((a,i)=>a+D[i].length,0):D[k].length,z=Object.keys(prog).filter(x=>x.startsWith(k+':')).reduce((a,x)=>a+(prog[x]||0),0);
     return `<button class="tp${k==='0'?' first':''}" data-a="les" data-v="${k}"><span class="ic">${t[0]}</span><b>${t[1]}</b><small>${t[2]}</small><small>${n} كلمة${z?' · ⭐ '+z:''}</small>${k==='0'?'<span class="tag">👈 ابدأ من هنا</span>':''}</button>`}).join('')+'</div>'+vbox();
 }
 function topic(){
@@ -560,6 +574,7 @@ function gram(){
   <div class="box"><h3>الأفعال العادية: الجذر + النهاية</h3><p class="de" style="direction:ltr">-e · -st · -t · -en · -t · -en</p><div class="sc"><table><tr><td></td><td>kommen</td><td>spielen</td><td>gehen</td></tr><tr><td>ich</td><td>komme</td><td>spiele</td><td>gehe</td></tr><tr><td>du</td><td>kommst</td><td>spielst</td><td>gehst</td></tr><tr><td>er / es / sie</td><td>kommt</td><td>spielt</td><td>geht</td></tr><tr><td>wir</td><td>kommen</td><td>spielen</td><td>gehen</td></tr><tr><td>ihr</td><td>kommt</td><td>spielt</td><td>geht</td></tr><tr><td>sie / Sie</td><td>kommen</td><td>spielen</td><td>gehen</td></tr></table></div><p class="de" style="direction:ltr">Ich komme aus Ägypten. · Er wohnt in Kairo. · Wir spielen Fußball. · Du lernst Deutsch.</p></div>
   <div class="box"><h3>أفعال بتغيّر حرفها مع du و er/es/sie</h3><div class="sc"><table><tr><td></td><td>ich</td><td>du</td><td>er / es / sie</td></tr><tr><td>essen</td><td>esse</td><td>isst</td><td>isst</td></tr><tr><td>lesen</td><td>lese</td><td>liest</td><td>liest</td></tr><tr><td>sehen</td><td>sehe</td><td>siehst</td><td>sieht</td></tr><tr><td>sprechen</td><td>spreche</td><td>sprichst</td><td>spricht</td></tr></table></div><p class="de" style="direction:ltr">Er isst ein Brot. · Sie liest ein Buch. · Ich spreche Deutsch.</p></div>
   <div class="box"><h3>أسئلة مهمة</h3><p class="de" style="direction:ltr">Wer ist das? · Was ist das? · Wo wohnst du?<br>Woher kommst du? · Wie heißt du? · Wie alt bist du?</p></div>
+  <div class="box"><h3>أفعال مساعدة: können / müssen / wollen</h3><div class="sc"><table><tr><td></td><td>können</td><td>müssen</td><td>wollen</td></tr><tr><td>ich</td><td>kann</td><td>muss</td><td>will</td></tr><tr><td>du</td><td>kannst</td><td>musst</td><td>willst</td></tr><tr><td>er / es / sie</td><td>kann</td><td>muss</td><td>will</td></tr><tr><td>wir</td><td>können</td><td>müssen</td><td>wollen</td></tr><tr><td>ihr</td><td>könnt</td><td>müsst</td><td>wollt</td></tr><tr><td>sie / Sie</td><td>können</td><td>müssen</td><td>wollen</td></tr></table></div><p class="de" style="direction:ltr">Ich kann schwimmen. · Ich muss lernen. · Ich will spielen.</p></div>
   <div class="box"><h3>أيام الأسبوع والشهور</h3><p>كل أيام الأسبوع والشهور أداتها <span class="a der">der</span>: <span class="de">der Montag, der Mai</span>. وبنقول <span class="de">Heute ist Montag.</span> (النهارده الاتنين).</p></div>
   <div class="box"><h3>العلب والأكواب</h3><p class="de" style="direction:ltr">eine <b>Flasche</b> Mineralwasser · eine <b>Tasse</b> Tee · eine <b>Dose</b> Cola · ein <b>Glas</b> Milch</p></div>`;
 }
