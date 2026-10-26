@@ -107,6 +107,7 @@ footer{color:var(--mut);font-size:.85rem;text-align:center;margin-top:26px}
 .menu.g1{grid-template-columns:1fr}
 details.bdg{margin:8px 0}
 details.bdg summary{cursor:pointer;font-weight:700}
+.back{padding:8px 14px;border:2px solid var(--bd);border-radius:999px;background:var(--card);color:var(--tx);font-weight:700;margin:4px 0 8px}
 </style>
 </head>
 <body>
@@ -515,7 +516,7 @@ function topic(){
   const st=v=>'⭐'.repeat(prog[L+':'+v]||0);
   const bt=(a,v,ic,tx,sm)=>`<button data-a="${a}"${v?` data-v="${v}"`:''}><span class="ic">${ic}</span><b>${tx}</b><small>${sm}${v&&st(v)?' · '+st(v):''}</small></button>`;
   const g=(h,x)=>`<h3 class="gh">${h}</h3><div class="menu ${x.length===3?'g3':x.length===1?'g1':''}">${x.join('')}</div>`;
-  app.innerHTML=`<button class="back" data-a="top">‹ كل الأقسام</button><h2>${t[0]} ${t[1]}</h2><p class="sub">${t[2]}<br>${n} كلمة · ${m} جملة</p>`+
+  app.innerHTML=`<button class="back" data-a="top">🏠 الصفحة الرئيسية (كل الأقسام)</button><h2>${t[0]} ${t[1]}</h2><p class="sub">${t[2]}<br>${n} كلمة · ${m} جملة</p>`+
   g('📚 1) تعلّم',[bt('cards','','🃏','كروت الكلمات','شوف واسمع'),bt('sent','','💬','جمل بسيطة','جمل ومعناها'),bt('gram','','📖','القواعد','في سطور')].concat(L==='0'?[bt('abc','','🔡','الحروف والأصوات','الأبجدية')]:[]))+
   g('🎮 2) العب: اختار الإجابة',[bt('quiz','art','🎯','der / das / die','اختار الأداة'),bt('quiz','tr','🔤','المعنى','اختار المعنى'),bt('quiz','lis','🎧','اسمع واختار','اختار الصورة')])+
   g('✏️ 3) العب: اكتب ورتّب',[bt('quiz','let','🔤','الحرف الناقص','كمّل الكلمة'),bt('quiz','wrd','⌨️','اكتب الكلمة','رتّب الحروف'),bt('quiz','srt','🧩','رتّب الجملة','رتّب الكلمات')])+
@@ -523,6 +524,29 @@ function topic(){
   g('🎤 5) انطق',[bt('quiz','mic','🎤','اختبار النطق','انطق وهو يسمعك')])+
   g('📝 6) اختبر نفسك',[bt('quiz','rev','📝','المراجعة الشاملة','15 سؤال + الغلطات')]);
 }
+let lv=0,hist=false,nid=0;
+function pushLv(n,x){try{history.pushState(Object.assign({lv:n},x||{}),'');hist=true}catch(e){hist=false}lv=n;nid++}
+function down(){if(lv===1)pushLv(2,{lesson})}
+function backNav(){
+  if(lv===0)return;
+  if(hist){
+    const id=nid;
+    try{history.back();setTimeout(()=>{if(nid===id){lv--;lv?topic():home()}},400);return}catch(e){}
+  }
+  lv--;lv?topic():home();
+}
+try{history.replaceState({lv:0},'')}catch(e){}
+window.addEventListener('popstate',e=>{
+  const s=e.state||{lv:0};nid++;
+  if(!s.lv){lv=0;home()}else{if(s.lesson!==undefined)lesson=s.lesson;lv=1;topic()}
+});
+function fixBack(){
+  app.querySelectorAll('.back').forEach(b=>{
+    const t=b.dataset.a==='top'?'🏠 الصفحة الرئيسية (كل الأقسام)':'⬅️ رجوع إلى '+(TI[lesson]?TI[lesson][1]:'القسم');
+    if(b.textContent!==t)b.textContent=t;
+  });
+}
+new MutationObserver(fixBack).observe(app,{childList:true});
 function gram(){
   app.innerHTML=`<button class="back" data-a="home">‹ رجوع</button><h2>القواعد في سطور</h2>
   <div class="box"><h3>الضمائر مع الأسماء</h3><p><span class="a der">der</span> ← <b class="de">er</b> &nbsp; <span class="a das">das</span> ← <b class="de">es</b> &nbsp; <span class="a die">die</span> ← <b class="de">sie</b></p><p class="de" style="direction:ltr">Der Garten – Er ist groß.<br>Das Bad – Es ist klein.<br>Die Lampe – Sie ist hell.</p></div>
@@ -544,12 +568,12 @@ app.addEventListener('click',e=>{
   const a=b.dataset.a;
   if(a==='say'){e.stopPropagation();say(b.dataset.t)}
   else if(a==='flip'){const m=b.querySelector('.m');m.classList.toggle('h')}
-  else if(a==='les'){lesson=b.dataset.v;topic()}
-  else if(a==='home')(cur?topic():home());
-  else if(a==='top')home();
-  else if(a==='cards')cards();
-  else if(a==='abc')abc();
-  else if(a==='sent')sent();
+  else if(a==='les'){lesson=b.dataset.v;pushLv(1,{lesson});topic()}
+  else if(a==='home')backNav();
+  else if(a==='top')backNav();
+  else if(a==='cards'){down();cards()}
+  else if(a==='abc'){down();abc()}
+  else if(a==='sent'){down();sent()}
   else if(a==='fa'){fa=b.dataset.v;drawC()}
   else if(a==='fc'){fc=b.dataset.v;drawC()}
   else if(a==='ft'){ft=b.dataset.v;drawS()}
@@ -557,8 +581,8 @@ app.addEventListener('click',e=>{
   else if(a==='wchk')wchk();
   else if(a==='mic')mic();
   else if(a==='again'){Q=sh(miss.slice());miss=[];qi=0;sc=0;rr=true;ask()}
-  else if(a==='gram')gram();
-  else if(a==='quiz')quiz(b.dataset.v);
+  else if(a==='gram'){down();gram()}
+  else if(a==='quiz'){down();quiz(b.dataset.v)}
   else if(a==='ans')answer(b);
   else if(a==='next'){qi++;ask()}
   else if(a==='tile'){if(lock)return;const i=+b.dataset.i;if(b.dataset.f==='q'){pick.push(pool.splice(pool.findIndex(o=>o.i===i),1)[0])}else{pool.push(pick.splice(pick.findIndex(o=>o.i===i),1)[0])}drawSrt()}
