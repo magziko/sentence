@@ -108,6 +108,8 @@ footer{color:var(--mut);font-size:.85rem;text-align:center;margin-top:26px}
 details.bdg{margin:8px 0}
 details.bdg summary{cursor:pointer;font-weight:700}
 .back{padding:8px 14px;border:2px solid var(--bd);border-radius:999px;background:var(--card);color:var(--tx);font-weight:700;margin:4px 0 8px}
+.rs p{margin:6px 0;text-align:right;font-weight:600}
+.rs .chips{justify-content:flex-start}
 </style>
 </head>
 <body>
@@ -535,7 +537,7 @@ function topic(){
   g('🎮 2) العب: اختار الإجابة',[bt('quiz','art','🎯','der / das / die','اختار الأداة'),bt('quiz','tr','🔤','المعنى','اختار المعنى'),bt('quiz','lis','🎧','اسمع واختار','اختار الصورة')])+
   g('✏️ 3) العب: اكتب ورتّب',[bt('quiz','let','🔤','الحرف الناقص','كمّل الكلمة'),bt('quiz','wrd','⌨️','اكتب الكلمة','رتّب الحروف'),bt('quiz','srt','🧩','رتّب الجملة','رتّب الكلمات')])+
   g('🧠 4) العب: فكّر',[bt('quiz','odd','🕵️','الكلمة الغريبة','لاقي المختلف')].concat(L==='0'?[bt('quiz','vrb','🔁','صرّف الفعل','اختار شكل الفعل')]:[]))+
-  g('🎤 5) انطق',[bt('quiz','mic','🎤','اختبار النطق','انطق وهو يسمعك')])+
+  g('🎤 5) انطق',[bt('quiz','mic','🎤','اختبار النطق','انطق الكلمة المطلوبة'),bt('free','','🎙️','قول أي كلمة','اكتبلي كلامي وقيّمه')])+
   g('📝 6) اختبر نفسك',[bt('quiz','rev','📝','المراجعة الشاملة','15 سؤال + الغلطات')]);
 }
 let lv=0,hist=false,nid=0;
@@ -561,6 +563,77 @@ function fixBack(){
   });
 }
 new MutationObserver(fixBack).observe(app,{childList:true});
+const ALLW=()=>[0,1,2,3,4,5,6].flatMap(i=>D[i]);
+const fold=s=>nz(s).replace(/ß/g,'ss').replace(/ä/g,'a').replace(/ö/g,'o').replace(/ü/g,'u');
+const EXW={der:'الـ',die:'الـ',das:'الـ',ein:'واحد',eine:'واحد',ist:'يكون',bin:'يكون',bist:'يكون',sind:'يكون',habe:'عنده',hat:'عنده',hast:'عنده'};
+const ERR={'not-allowed':'🚫 اسمح للموقع باستخدام المايك من إعدادات المتصفح','service-not-allowed':'🚫 اسمح للموقع باستخدام المايك من إعدادات المتصفح','no-speech':'😶 ما سمعتش صوت، اقرّب من المايك وجرّب تاني','network':'🌐 الاختبار محتاج إنترنت'};
+function trans(s){
+  const n=fold(s);if(!n)return null;
+  const sn=SN.find(x=>fold(x[0])===n);if(sn)return sn[1];
+  const all=ALLW(),w=all.find(x=>fold(x[1])===n||fold(w2s(x))===n);if(w)return w[2];
+  const p=n.split(' ').map(t=>{const x=all.find(y=>fold(y[1])===t);return x?x[2]:(EXW[t]||null)});
+  return p.some(Boolean)?p.map(x=>x||'؟').join(' '):null;
+}
+function similar(t,k){
+  const ft=fold(t),seen=new Set();
+  return ALLW().filter(w=>/^[A-Za-zÄÖÜäöüß]+$/.test(w[1])&&w[1].length>2&&(ft.length<5||w[1].length>=4)&&fold(w[1])!==ft&&!seen.has(w[1])&&seen.add(w[1]))
+   .map(w=>{const f=fold(w[1]);return [lev(f,ft)-(f[0]===ft[0]?.5:0)-(f.slice(-2)===ft.slice(-2)?.5:0),w]})
+   .sort((a,b)=>a[0]-b[0]).slice(0,k).map(x=>x[1]);
+}
+let _kw;const kw=()=>_kw||(_kw=new Set(ALLW().map(x=>fold(x[1]))));
+function judge(alts,target){
+  const t=fold(target);let b=null;
+  alts.forEach(a=>{const h=fold(a.t);if(!h)return;const L=Math.max(h.length,t.length),d=lev(h,t),inc=(' '+h+' ').includes(' '+t+' '),sim=inc?1:Math.max(0,1-d/L),ok=inc||(d<=(L>=9?2:L>=5?1:0)&&!kw().has(h));if(!b||sim>b.sim)b={t:a.t,c:a.c||0,sim,ok}});
+  if(!b)return {t:'',sim:0,ok:false,score:0};
+  const cf=b.c>0?Math.min(1,b.c):b.sim;
+  b.score=Math.round(100*(0.65*b.sim+0.35*cf));
+  if(b.ok&&b.score<60)b.score=60;
+  if(!b.ok&&b.score>59)b.score=59;
+  return b;
+}
+const stars=sc=>sc>=90?'⭐⭐⭐':sc>=75?'⭐⭐':sc>=60?'⭐':'☆';
+const lab=sc=>sc>=90?'ممتاز':sc>=75?'كويس جدًا':sc>=60?'كويس، محتاج تدريب':'حاول تاني';
+function sug(t){
+  const sm=similar(t,4);
+  return sm.length?`<p class="sub">جرّب تنطق كلمات شبهها:</p><div class="chips">`+sm.map(x=>`<button class="chip" data-a="pr" data-i="${ALLW().indexOf(x)}">🔊 ${w2s(x)} · ${x[2]}</button>`).join('')+'</div>':'';
+}
+function resHTML(r,w){
+  const ar=trans(r.t);
+  return `<div class="rs"><p>🗣️ سمعتك بتقول: <b class="de">${r.t||'—'}</b></p><p>🇪🇬 بالعربي: <b>${ar||'مش لاقي ترجمتها في قاموس الموقع'}</b></p><p>${r.ok?'✅ أحسنت! نطقك صح':'❌ نطقك لسه مش صح'} — المطلوب: <b class="de">${w2s(w)}</b> (${w[2]})</p><div class="pbar"><i style="width:${r.score}%"></i></div><p>🎯 تقييم النطق: <b>${r.score}%</b> ${stars(r.score)} <b>${lab(r.score)}</b></p><p class="sub" style="font-size:.8rem">التقييم تقدير من المتصفح لوضوح صوتك، مش حكم مدرس.</p>${sug(w[1])}</div>`;
+}
+function listen(btn,done,fail){
+  if(!SR){fail('⚠️ متصفحك مش بيدعم التعرّف على الصوت. جرّب Chrome أو Edge أو Safari.');return}
+  const rec=new SR();rec.lang='de-DE';rec.maxAlternatives=5;rec.interimResults=false;
+  let got=false;btn.disabled=true;btn.textContent='🎧 بسمعك...';
+  const reset=()=>{btn.disabled=false;btn.textContent='🎤 جرّب تاني'};
+  rec.onresult=e=>{got=true;reset();done([...e.results[0]].map(x=>({t:x.transcript,c:x.confidence})))};
+  rec.onerror=e=>{got=true;reset();fail(ERR[e.error]||'⚠️ حصل خطأ، جرّب تاني')};
+  rec.onend=()=>{if(!got){reset();fail(ERR['no-speech'])}};
+  try{rec.start()}catch(e){reset();fail('⚠️ مش قادر أشغّل المايك')}
+}
+function mic(){
+  const w=Q[qi],btn=document.getElementById('mic'),hh=document.getElementById('heard');
+  try{speechSynthesis.cancel()}catch(e){}
+  listen(btn,alts=>{
+    const r=judge(alts,w[1]);hh.innerHTML=resHTML(r,w);
+    if(!document.getElementById('prac'))hh.insertAdjacentHTML('afterend','<div id="prac"></div>');
+    if(r.ok&&!btn.dataset.done){btn.dataset.done=1;sc++;S().pts+=10;S().ok++;touch();btn.style.display='none';nxt(false)}
+  },m=>{hh.innerHTML=m});
+}
+function pracCard(w){
+  const h=document.getElementById('prac');if(!h||!w)return;
+  h.innerHTML=`<div class="box"><div class="big" style="font-size:2.4rem">${w[3]}</div><div class="big2">${w[0]?`<span class="a ${w[0]}">${w[0]}</span> `:''}${w[1]}</div><div>${w[2]}</div><button class="sp" data-a="say" data-t="${w2s(w)}" aria-label="استمع">🔊</button> <button class="nx" data-a="pm" data-i="${ALLW().indexOf(w)}" style="display:inline-block;margin:8px 4px">🎤 انطقها</button><div id="pres"></div></div>`;
+  say(w2s(w));
+}
+function judgeFree(alts){const a=alts[0]||{t:'',c:0};return {t:a.t,score:a.t?(a.c>0?Math.round(a.c*100):(trans(a.t)?80:60)):0}}
+function freeHTML(r){
+  const ar=trans(r.t),sc2=r.score,tok=(r.t||'').split(' ').sort((a,b)=>b.length-a.length)[0]||'';
+  const v=!r.t?'😶 ما سمعتش كلام واضح':ar?(sc2>=75?'✅ نطقك واضح، والكلام ده موجود في قاموس الموقع':'⚠️ مفهوم، بس محتاج وضوح أكتر'):'ℹ️ الموقع كتب كلامك، لكنه مش في قاموسه فمش هقدر أقول صح أو غلط';
+  return `<div class="rs"><p>🗣️ سمعتك بتقول: <b class="de">${r.t||'—'}</b></p><p>🇪🇬 بالعربي: <b>${ar||'مش لاقي ترجمتها في قاموس الموقع'}</b></p><p>${v}</p><div class="pbar"><i style="width:${sc2}%"></i></div><p>🎯 وضوح النطق: <b>${sc2}%</b> ${stars(sc2)} <b>${lab(sc2)}</b></p><p class="sub" style="font-size:.8rem">التقييم تقدير من المتصفح لوضوح صوتك، مش حكم مدرس. والترجمة من قاموس الموقع بس.</p>${tok?sug(tok):''}</div>`;
+}
+function freeMode(){
+  app.innerHTML=`<button class="back" data-a="home">‹ رجوع</button><h2>🎙️ قول أي كلمة أو جملة</h2><p class="sub">اضغط على المايك وقول أي كلمة أو جملة بالألماني. الموقع هيكتبها، ويترجمها للعربي لو موجودة في قاموسه، ويقيّم وضوح نطقك، ويقترح كلمات شبهها تجرّبها.</p><div class="q"><button class="nx" id="fm" data-a="fm">🎤 اضغط وقول</button><div id="fres"></div><div id="prac"></div></div>`;
+}
 function gram(){
   app.innerHTML=`<button class="back" data-a="home">‹ رجوع</button><h2>القواعد في سطور</h2>
   <div class="box"><h3>الضمائر مع الأسماء</h3><p><span class="a der">der</span> ← <b class="de">er</b> &nbsp; <span class="a das">das</span> ← <b class="de">es</b> &nbsp; <span class="a die">die</span> ← <b class="de">sie</b></p><p class="de" style="direction:ltr">Der Garten – Er ist groß.<br>Das Bad – Es ist klein.<br>Die Lampe – Sie ist hell.</p></div>
@@ -595,6 +668,10 @@ app.addEventListener('click',e=>{
   else if(a==='lt'){if(lock)return;const i=+b.dataset.i;if(b.dataset.f==='q'){wp.push(wl.splice(wl.findIndex(o=>o.i===i),1)[0])}else{wl.push(wp.splice(wp.findIndex(o=>o.i===i),1)[0])}drawW()}
   else if(a==='wchk')wchk();
   else if(a==='mic')mic();
+  else if(a==='pr')pracCard(ALLW()[+b.dataset.i]);
+  else if(a==='pm'){const w=ALLW()[+b.dataset.i];listen(b,alts=>{document.getElementById('pres').innerHTML=resHTML(judge(alts,w[1]),w)},m=>{document.getElementById('pres').innerHTML=m})}
+  else if(a==='free'){down();freeMode()}
+  else if(a==='fm'){listen(b,alts=>{document.getElementById('fres').innerHTML=freeHTML(judgeFree(alts))},m=>{document.getElementById('fres').innerHTML=m})}
   else if(a==='again'){Q=sh(miss.slice());miss=[];qi=0;sc=0;rr=true;ask()}
   else if(a==='gram'){down();gram()}
   else if(a==='quiz'){down();quiz(b.dataset.v)}
